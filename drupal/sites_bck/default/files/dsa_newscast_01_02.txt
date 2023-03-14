@@ -1,0 +1,187 @@
+============================================================
+
+                      THE DSA NEWSCAST
+                   http://www.dozenal.org
+
+============================================================
+The Dozenal Society of America                Vol. 1, Iss. 2
+Official Newsletter                               2 Apr 11E9
+============================================================
+
+--------------------------CONTENTS--------------------------
+
+1.  Annual Meeting
+2.  Dues Notice
+3.  Dozenal News
+4.  Society Business
+5.  Poetical Diversion
+6.  Backmatter
+
+-----------------------ANNUAL MEETING-----------------------
+
+The  DSA's  Annual Meeting  for  11E9  will be  in  Atlanta,
+Georgia, on  19 June  (decimal 21 June).  We hope  that many
+members will be able to join  us on our first annual meeting
+held outside New York City in many years.
+
+Additional information will be  sent out regarding venue and
+precise times as soon as possible.
+
+On 1X  June, the DSA  will be  presenting a workshop  at the
+2013. Annual  ASEE K-12  Workshop on  Engineering Education.
+See  "Dozenal News"  for more  information about  this great
+education opportunity.
+
+------------------------DUES NOTICE-------------------------
+
+Members! Please  remember that  dues are  payable as  of the
+first of January each year.  (Dozenal) 16 dollars for normal
+members, 30  dollars for  supporting members, 3  dollars for
+student members. You can pay  online, too; just apply for an
+account at the website!
+    http://www.dozenal.org/drupal/user/login
+
+Otherwise, you can pay  our worthy Treasurer, Jay Schiffman,
+by check:
+    Jay Schiffman
+    604-36 South Washington Square, #815
+    Philadelphia, PA  19106-4115
+
+------------------------DOZENAL NEWS------------------------
+
+The Society has published two newly remastered dozenal works
+in the last month.
+
+    -"Boxes &  Cans: Some Points  on Packaging," by  Troy of
+    the DSGB.  This brilliant  article makes a  usually dull
+    subject  absolutely fascinating,  and clearly  shows the
+    advantages of  dozenal in packaging. In  fact, it proves
+    mathematically  that  it's  actually  cheaper  to  build
+    packages for twelve and pack only ten, leaving two empty
+    spaces, than to  build packages for ten!  Well worth the
+    read.
+        http://www.dozenal.org/drupal/content/boxes-and-cans-some-points-packaging
+
+    -_Dozens  versus  Tens_   by  Thomas  Leech.  Originally
+    published in  10E6 (1866.),  this is quite  probably the
+    first serious  full-length exposition of  the advantages
+    of the  dozenal base  ever written.  At over  100 (144.)
+    years  old, this  well predates  even Sir  Isaac Pitman.
+    Explains  the  advantages of  dozenal  in  money and  in
+    weights and measures.
+        http://www.dozenal.org/drupal/content/dozens-vs-tens
+
+The DozensOnline  forum has  been hosting  several extremely
+interesting   discussions   about  dozenalism   and   music,
+including  several   different  types  of  tuning   (as  in,
+different from the normal equal temperament).
+    http://z13.invisionfree.com/DozensOnline/index.php?showforum=5
+
+The DSA  has also published  a new work by  Treisaran, which
+simply and clearly sets out the major divisibility tests for
+low integers in dozenal:
+    http://www.dozenal.org/drupal/content/dozenal-divisibility-tests-quick-guide
+"Dozenal Divisibility  Tests Quick Guide" provides  a simple
+and easy  fact sheet  for these  important tools  for mental
+calculation.
+
+The DSA celebrated Dozenal Pi  Day rather quietly this year,
+with a special page on the web site:
+    http://www.dozenal.org/drupal/content/dozenal-pi-day-11e9-2013
+The  page  received  just  over  two  dozen  views.  Members
+with  suggestions  for  better   observing  this  and  other
+mathematicals "holidays"  are asked to write  in and suggest
+them, either  to the _Newscast_, the  DozensOnline forum, or
+to individual members.
+
+Finally, and  perhaps most important, thanks  to the efforts
+of our able secretary, Jen  Seron, the DSA has been selected
+from  among many  applicants to  present a  workshop at  the
+2013. Annual  ASEE (Association for Science  and Engineering
+Education)  Workshop on  Engineering  Education.  This is  a
+great educational opportunity, for  dozenals and for all the
+individuals  involved.  Many thanks  to  Jen  for making  it
+possible.
+
+The   workshop,   entitled   "Alternate-Base   Systems   for
+Cross-Curricular  Fun  and Engineering  Applications,"  will
+focus  on  using  alternate  bases,  including  dozenal,  in
+measurement and engineering. Your officers and board members
+who are  involved in the  workshop will of course  report in
+future _Newscasts_ and the _Bulletin_ what will be done, and
+how it went, in more detail.
+
+----------------------SOCIETY BUSINESS----------------------
+
+The  new  website has  been  a  big success,  maintaining  a
+hit  count mostly  consistent with  the old  site. That  is,
+switching  websites barely  affected our  Web visibility  at
+all. All the  old links to the website still  work, as well,
+but  are no  longer tracked,  so  the current  hit count  is
+likely lower than reality.
+
+All numbers in dozenal.
+
+In March, we have regularly received above 100 hits per day,
+and rarely fallen  below 80. Our busiest day  this month saw
+1X2 hits  (E March). We saw  2579 page views in  878 visits,
+viewing E1 unique pages.
+
+Our  most  popular  individual   page  was  Jay  Schiffman's
+"Fundamental Operations in the Duodecimal System," which saw
+1E7  page views;  followed closely  by Gene  Zirkel's "Brief
+Introduction  to  Dozenal  Counting," which  saw  196.  Also
+popular were "Multiplication in Base Twelve," James Malone's
+"Eggsactly  a  Dozen," "Decimal-Dozenal  Conversion  Rules,"
+one  of  our new  articles,  "Boxes  & Cans,"  and  "Dozenal
+Divisibility  Rules,"  along with  our  reprint  of the  TGM
+system of metrology.
+
+Visitors tend  to come to us  by searching for a  variety of
+terms involving "dozenal" or "duodecimal," of course. We are
+working  hard to  expand the  material on  our site  so that
+users can  find us by  searching for other things;  music or
+metrology, for example. If you have material that might help
+with that, please let us know!
+
+As discussed above,  the annual meeting for 11E9  will be in
+Atlanta, GA on 19 June. We hope you will be able to join us.
+
+---------------------POETICAL DIVERSION---------------------
+
+A DOZENALIST, TO THE NUMBER TEN
+
+O tyrant Ten, thou beast of age untold,
+thou worr'some number, of divisors short;
+too long hast thou to man thy weakness sold,
+the change to better numbers to abort!
+
+Too long hast thou, with meager five and two,
+attempted to suppress the dozen's claim;
+thou, though thou know'st him better by times two,
+hast robbed him of his rightful place and fame!
+
+So rise up, valiant foll'wers of the right!
+Rise up and bear the Dozen's flag 'thout shame!
+Throw down the tyrant Ten, let in the light,
+the light of Dozen's glory, of the flame;
+
+the flame of two and three and four and six,
+that can the sorrows of Arithmos fix.
+
+(With apologies to William Shakespeare.)
+
+============================================================
+=                       BACKMATTER                         =
+============================================================
+
+_The DSA Newscast_ is a production of the Dozenal Society of
+America.  If you  have received  this publication  in error,
+or  otherwise do  not  wish to  receive  it anymore,  please
+unsubscribe  by  mailing  a message  containing  the  string
+"UNSUBSCRIBE DSA  NEWSCAST", exactly as typed,  in its body,
+to the Reply-To address of this message.
+
+For questions, comments, submissions, or other communication
+with the _Newscast_, please write to:
+    newscast@dozenal.org

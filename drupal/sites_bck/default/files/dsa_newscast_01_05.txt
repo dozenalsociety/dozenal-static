@@ -1,0 +1,472 @@
+============================================================
+
+                      THE DSA NEWSCAST
+                   http://www.dozenal.org
+
+============================================================
+The Dozenal Society of America                Vol. 1, Iss. 5
+Official Newsletter                              1 July 11E9
+============================================================
+
+============================================================
+=                         CONTENTS                         =
+============================================================
+
+1.  Dues Notice
+2.  Dozenal News
+    -Website Improvements
+    -Anki Deck for Basic Dozenal Facts
+    -ASEE Conference
+3.  Society Business
+    -Welcome, New Member
+    -Annual Meeting
+    -Annual Award to Jen Seron
+    -Tax-Exempt Status
+    -Bulletin Publication
+4.  Poetical Diversion
+5.  Dozenal Thoght of the Month
+6.  Backmatter
+
+============================================================
+=                       DUES NOTICE                        =
+============================================================
+
+Members! Important news  from the annual meeting  of 11E9 as
+regards dues. The Board of Directors has determined that, in
+the  interests of  making  the DSA  more  accessible to  the
+public, and to remove any  remaining stumbling blocks to the
+recruitment of new members, dues  will no longer be required
+for membership in the DSA as of 1 January 11EX (2014.).
+
+A fee  of $10; ($12.) will  procure Subscription membership,
+and entitles the payer to receive both a digital and a paper
+copy  of the  _Bulletin_  if requested.  Other members  will
+receive  only  a  digital  copy. Members  who  have  already
+paid  their dues  this  year  will be  entitled  to a  paper
+subscription if  requested; if you  have done so,  and would
+like  to  invoke  this,  please notify  the  Editor  of  the
+Bulletin, Mike deVlieger, at
+
+    mdevlieger@dozenal.org
+
+Although we no longer require  dues, please remember that we
+are  a volunteer  organization  which pays  no salaries.  As
+such,  the  generosity of  our  membership  is necessary  to
+continue pursuing  our mission. Donations of  any amount are
+therefore necessary and appreciated.
+
+So please consider  donating online. In the  left sidebar of
+the new  website, you will  find a "Support the  DSA" block,
+with a  link to our  donation page.  This will allow  you to
+donate via Paypal.
+
+It may be worth considering  a monthly donation; say, $3, or
+$6, or whatever seems reasonable to  you. This can be set up
+quite easily with Paypal.
+
+Of course,  if you prefer to  donate by check, you  may send
+them to our worthy Treasurer,  Jay Schiffman, payable to the
+Dozenal Society of America, at:
+
+    Jay Schiffman
+    604-36 South Washington Square, #815
+    Philadelphia, PA  19106-4115
+
+As  noted above,  we pay  no  salaries, so  every penny  you
+donate  goes  entirely  to  the  furtherance  of  the  DSA's
+mission.
+
+----------------------Member Benefits-----------------------
+
+Chief  among  the benefits  of  membership,  aside from  the
+knowledge  of supporting  the DSA's  mission, is  receipt of
+_The  Duodecimal Bulletin_.  In  addition, however,  members
+also receive (digitally) a  membership card containing their
+vital  member  information  and   a  monthly  calendar  with
+dozenal numbers, containing suitable and educational dozenal
+quotations and graphics, laid out for wall display.
+
+To  receive  these, please  notify  us  that you'd  like  to
+receive them:
+
+    Contact@dozenal.org
+
+============================================================
+=                       DOZENAL NEWS                       =
+============================================================
+
+--------------------Website Improvements--------------------
+
+We've been  able to implement the  member-site feature which
+will  give  a  user his  member  information---member  type,
+membership number, name, and so  forth---when he goes to the
+members-only section.
+
+Of course, this is only  available for members who create an
+account at the website, a quick process which can be started
+here:
+
+    http://www.dozenal.org/drupal/user/login
+
+We're planning further improvements as time goes on.  Please
+consider taking advantage of this service for members!
+
+Further improvements  include the  final mothballing  of our
+original, blue-themed website. A website visitor pointed out
+that this  original site, which our  last president, Michael
+deVlieger,  replaced several  years  ago, was  still up  and
+functioning, though  throwing some  PHP errors.  These pages
+are now  redirected to their appropriate  equivalents on our
+new site.
+
+As a result  of this, we noticed that we  had not provided a
+new  version of  our mascot,  the panda,  webpage; so  we've
+posted a  brief page about that  mascot on our new  site, as
+well:
+
+    http://www.dozenal.org/drupal/content/our-mascot-panda
+
+Charismatic megafauna are always great publicity!
+
+-------------Anki Deck for Basic Dozenal Facts--------------
+
+If you're having trouble remembering basic dozenal facts, or
+just  haven't  had the  time  or  energy to  finally  commit
+those multiplication  tables to  memory, there's  a resource
+available to help:
+
+    http://www.dozenal.org/drupal/content/dozenal-basics-anki-deck-flash-cards
+
+Anki is a free program  for your desktop or smartphone which
+manages decks  of flash  cards for you.  This deck  for Anki
+allows  you to  review your  dozenal  facts for  just a  few
+minutes each day,  at your own pace, and  review those facts
+which are  harder for  you more often  than those  which are
+easier  for you.  It's surprising  how quickly  you'll learn
+what you want to know.
+
+Once you know  these basic dozenal facts  (the times tables;
+basic dozenal  fractions, such  as 5  / 14  = 0;39;  and the
+basic  divisibility  tests), you'll  be  able  to take  much
+better  advantage of  the superior  dozenal system.  You may
+even find yourself dreading having to use decimal.
+
+----------------------ASEE Conference-----------------------
+
+As noted, the DSA was privileged  to be able to to present a
+workshop at  the annual  conference of the  American Society
+for Engineering Education (ASEE)  in Atlanta, GA, this June.
+This  was a  lengthy  and difficult  process which  involved
+developing  a  program  proposal  for  the  ASEE  conference
+maintainers; and, when the proposal was accepted, developing
+the program and  the materials necessary to  present it. The
+vast bulk of this work was done by our own Jen Seron, which,
+along  with  her other  many  good  deeds for  the  Society,
+rightfully earned her the recognition recounted below.
+
+Even after the program was accepted, we were faced with many
+challenges,  not least  of which  was that  the ASEE  put us
+across from a program  presented by Dassault Systemes, which
+was  giving away  some  rather expensive  software to  those
+attending their workshop.
+
+Despite  this, our  workshop attracted  a small  but engaged
+group of lower-elementary teachers  (mostly K-6). This group
+learned  the basics  of alternate  bases; some  of the  more
+prominent  uses  of  alternate  bases  (binary,  octal,  and
+hexadecimal primarily); and, of course, they learned about a
+proposed base for human use, dozenal. Board member Dan Simon
+also  spoke  about  the  Mayan base-twenty  system  and  the
+Babylonian base-sixty system which  gave us a goodly portion
+of our system of temporal and angular measurement.
+
+After thus  covering the basics,  we were able to  treat the
+participants  as  if  they  themselves were  members  of  an
+elementary  classroom. They  designed  symbols  for ten  and
+eleven,  with some  interesting results,  and discussed  the
+design  principles  which  could lead  to  various  symbolic
+forms.  They  asked  questions  about  good  strategies  for
+teaching bases  to students, particularly  younger students,
+and suggested  some good  strategies of  their own.  We were
+also able  to discuss  the challenges  of teaching  bases to
+anyone, particularly the young.
+
+The materials  were prepared  primarily by board  member Dan
+Simon and Secretary Jen Seron,  and are all available on our
+website:
+
+    http://www.dozenal.org/drupal/content/educational-materials
+
+If you happen  to be speaking to an educator,  or anyone who
+works  with  students  or  children, who  is  wondering  how
+to  make  math  interesting,  be  sure  to  suggest  working
+with  alternative   bases,  and  to  refer   them  to  these
+educational materials. They include material tailored to all
+pre-collegiate math levels, and will surely be helpful.
+
+All  in all,  the  workshop was  an unquestionable  success.
+Though small, we were able to hand out a significant body of
+literature and contact  information to non-participants, and
+made many people aware of  the subject of alternate bases in
+general,  and dozenal  in  particular,  who would  otherwise
+likely never  have heard of  it. We made some  good contacts
+and produced some  good publicity. Many thanks  to Jen Seron
+for making it possible.
+
+============================================================
+=                     SOCIETY BUSINESS                     =
+============================================================
+
+--------------------Welcome, New Member---------------------
+
+Welcome to our newest member,  #3X9, Jose Reyes of Penuelas,
+Puerto Rico! Mr. Reyes is a  student in Puerto Rico, and his
+primary interests are developing suitable dozenal linguistic
+constructs for  his native  language, Spanish. Feel  free to
+contact him if you're interested in helping; he can be found
+on the DozensOnline forum.
+
+-----------------------Annual Meeting-----------------------
+
+The Dozenal Society  of America held its  annual meeting for
+11E9 at the Couryard by  Marriott in downtown Atlanta on 19;
+June  11E9.  Present were  board  members  Gene Zirkel;  Jay
+Schiffman; John  Impagliazzo; Jen Seron, Dan  Simon; and Don
+Goodman. They were later joined by member Patricia Zirkel.
+
+The meeting was extremely  productive; indeed, the board was
+hard-pressed  to  finish it  within  a  reasonable time.  As
+always, official minutes will be available to members of the
+Society at the members-only section of this site. In lieu of
+their preparation,  however, a summary of  the highlights of
+the meeting will be presented here.
+
+The  Society's   membership  system  has   been  extensively
+revamped. Until recently, dues were  payable as of the first
+of January  each year.  However, having had  some membership
+applications stymied  by an inability  to pay dues,  and the
+difficulty  and expense  of collecting  dues each  year, the
+Board determined that the requirement of dues was doing more
+harm than good,  and did away with it. As  of 1 January 11EX
+(2014),  dues will  no  longer be  required for  membership.
+Members will continue  to be entitled to  the usual benefits
+of membership; however, delivery  of The Duodecimal Bulletin
+will be  digital only. Those  members desiring a  paper copy
+can receive one upon payment of $10; ($12.) and notification
+of the  Editor. Those members  who have paid their  dues for
+11E9 (2013.)  are also entitled  to a paper copy  this year,
+upon notification of the Editor, whose email can be found on
+our officers page.
+
+Secretary Jen Seron, of the Oureach and Education Committee,
+had  some great  ideas  for furthering  our formal  outreach
+programs.  Board member  Gene  Zirkel, for  dozens of  years
+a  mathematics  educator,  will  be  probing  some  contacts
+in  an attempt  to  get  further programs,  or  even a  full
+tract,  at  a  few  mathematics conference  next  year.  Jen
+will be  researching the  possibility of  preparing physical
+exhibits  regarding  dozenal  and other  alternative  bases,
+including traveling math displays  as are often displayed at
+universities and  museums, and the possibility  of acquiring
+grants for their preparation  and production. There is great
+potential here.
+
+The year 1200; (2016.) is  approaching; this also happens to
+be the 60th (72.nd) anniversary  of the incorporation of the
+Dozenal Society  of America. Naturally,  this is a  big year
+for us  in more ways than  one.
+
+In  honor  of  this  event,  the DSA  is  calling  for  bids
+for  the production  of  an anniversary  volume, which  will
+include  selected  articles  from  our six  dozen  years  of
+operation.  This  will also  include  a  great deal  of  the
+"fillers"---the  Arithmetrix, the  mathematical cryptograms,
+and  similar puzzles---which  have  always  given a  certain
+character to the Bulletin. All with the necessary talent are
+encouraged to submit a bid; if you know anyone who does this
+sort of work, please encourage them to do so.
+
+    http://www.dozenal.org/drupal/content/book-designer-needed-call-bids
+
+Both the Editor of the  Bulletin, Michael deVlieger, and the
+Vice-President of the Society, Graham Steele, were unable to
+attend  our annual  meeting  this year,  largely because  of
+distance.  This sad  circumstance led  to the  determination
+that more  regular means of digital  participation should be
+explored. Board  member John  Impagliazzo will  be exploring
+some options for this, so that more members and officers can
+participate  in our  meetings, and  possibly to  enable more
+frequent  meetings  in  the  future.  At  least  an  interim
+solution will be available in the coming months.
+
+Our  worthy  Treasurer  and  Chairman of  the  Board,  Prof.
+Jay  Schiffman  of  Rowan University,  gave  a  presentation
+on  dozenal integer  sequences,  which  was interesting  and
+well-received by  all. Noting  that the  Online Encyclopedia
+of  Integer  Sequences has  developed  into  an immense  and
+extremely  useful resource,  Prof. Schiffman  suggested that
+dozenalists  could  produce  a   similar  database  of  such
+sequences  in   our  own   preferred  base,   and  presented
+substantial progress in that  regard. Board member Dan Simon
+was able to correct a  few minor errors in Prof. Schiffman's
+figures off the cuff, which impressed all present.
+
+President  Don Goodman  gave  a  presentation on  Systematic
+Dozenal  Nomenclature, a  coherent system  for referring  to
+dozenal numbers developed on the DozensOnline forum and fast
+becoming, if  it has  not already become,  a sort  of lingua
+franca there.  The system  was well thought  of by  all, and
+should be published in detail  in the Bulletin, WN X1. Those
+wishing  more  information now  can  look  on the  forum  or
+explore  a set  of Don  Goodman's private  SDN pages  on the
+subject:
+
+    http://gorpub.freeshell.org/dozenal/blosxom.cgi/dozapp.html#sdn
+
+All in  all, the Society  made great progress at  the Annual
+Meeting of  11E9, and the  future holds great  potential for
+us, the study  of number bases in general,  and the progress
+of dozenal in  particular. Thanks to all  our membership for
+your  support  throughout  the  year,  and  we  hope  you'll
+continue  to support  us  as  we further  the  goals of  the
+Society in the coming year.
+
+------------------------Annual Award------------------------
+
+The Ralph Beard Memorial Award for 11E9 was presented to our
+worthy Secretary, Jen Seron, for her efforts in securing and
+managing our  workshop presentation at the  American Society
+for Engineering  Education conference in Atlanta  this year,
+and for  her other contributions.  For this effort,  and for
+her other efforts,  Jen is most deserving of  the Award, and
+we are all grateful for her contributions.
+
+Such formal  educational outreach has  not been done  by the
+Society  for some  time,  and Jen  deserves  a dozen  Annual
+Awards for making it happen. Congratulations, Jen, and thank
+you.
+
+---------------------Tax-Exempt Status----------------------
+
+As many of you know, due  to a change in IRS regulations the
+DSA lost  its tax-exempt status.  This was largely  an issue
+with a small  part of our Articles of  Incorporation. In the
+process of fixing this issue, we were able to do a good deal
+of housecleaning of our Articles  and our paperwork with the
+IRS; for  example, the DSA  actually had not one,  but *two*
+equally valid IRS identification numbers!
+
+The  problem with  our  Articles is  resolved,  and we  have
+submitted all the necessary paperwork and fees for restoring
+our  tax-exempt  status. While  we  are  not yet  officially
+tax-exempt again, we are well on our way, and will hopefully
+have this issue behind us before the end of the year.
+
+--------------------Bulletin Publication--------------------
+
+Many  of  you have  undoubtedly  noticed  that our  Bulletin
+has  not  been  published  since 11E6  (2010.).  After  some
+conversation with  our Editor, we  have decided that  we are
+able to  resume publication very shortly.  Expect two issues
+this year, and at least two next year. We apologize for this
+delay.
+
+============================================================
+=                    POETICAL DIVERSION                    =
+============================================================
+
+Thus  far our  Poetical Diversions  have mostly  been larks,
+ham-fisted,  tongue-in-cheek  redoes  of  famous  poems  and
+structures. For example, we've  seen a dozenal Shakespearean
+sonnet   (Newscast  01:02),   a   dozenal   version  of   Le
+Marseillaise  (Newscast 01:03),  and  a  dozenal version  of
+Walt  Whitman's elegy  for Abraham  Lincoln, "O  Captain! My
+Captain!"  (Newscast 01:04).  These are  diverting at  best,
+little use beyond entertainment.
+
+However, it seems useful to reform some of our current poems
+and rhymes  dealing with  decimal numbers  to be  useful for
+dozenal, or even  to compose new ones; we've  done that with
+one  simple  rhyme this  month.  Readers  are encouraged  to
+provide us with  more; or, indeed, anything  they would like
+fellow DSA members to see.
+
+This is  intended to  be useful for  elementary-age children
+learning  the basics  of arithmetic.  They won't  understand
+everything about it (the cubes  and squares, likely), but it
+will serve them well in remembering the traits of the single
+digits, and will be useful to them as they advance.
+
+Of course, adults may find it helpful, as well.
+
+           THE NUMBER RHYME
+
+One is the first; it's a single straight line;
+Two is a couple, the sole even prime;
+Three is a few, and a quarter of twelve;
+Four is a third, and twice two if you delve;
+Five is the fifth, 'tween a third and a half;
+Six's a half-dozen!  We're well on our path!
+Seven's just less than two-thirds, through the door;
+Eight is two-thirds and two cubed and twice four;
+Nine is three-quarters, three threes, and three squared; 
+Ten is twice five; nearly through have we dared!
+Eleven is prime, and it's one less than done;
+Then twelve, unqua, dozen, as bright as as the sun!
+    Twice six, three fours, four threes, and six twos,
+    A dozen has factors that we all can use;
+    The lowest abundant, the dozen's so grand,
+    Let everyone learn it, throughout all the land!
+
+This rhyme is available as a typeset pdf on our website:
+
+    http://www.dozenal.org/drupal/content/number-rhyme
+
+============================================================
+=               DOZENAL THOUGHT OF THE MONTH               =
+============================================================
+
+When discussing  the purpose  of our  Society at  our annual
+meeting,  it  was brought  up  that  studying number  bases,
+including dozenal, isn't  just for the nerdy  pleasure of it
+all (though  there's plenty  of that),  nor for  the dozenal
+evangelism (though  there's good  room for that,  too). It's
+also immensely  helpful for just understanding  *what number
+is* and *how number works*.
+
+Too  often,  we  learn   about  writing  numbers  and  doing
+arithmetic on  them as a  set of magical incantations  to be
+cast  at scrawls  of smudged  pencil on  college-ruled paper
+torn out  of spiral notebooks---or  as simply buttons  to be
+pressed on the  inscrutable black boxes that do  most of our
+number-crunching  these  days.  But  why  our  numbers  mean
+what they  do, why  our arithmetical algorithms  produce the
+right  answers;  these  are  questions that  deserve  to  be
+answered, and  that should  be well  understood in  a really
+numerate society. They are also questions that only studying
+alternate bases can effectively answer.
+
+So the next  time someone asks you why  you're so interested
+in such a geeky subject, if  you're like many of us, you can
+tell them  the truth:  you didn't really  understand numbers
+until you learned about other  bases. And when you did learn
+about other  bases, and you  did start to  really understand
+numbers, math  was no longer  a boring topic. It  might help
+others to understand.
+
+                    EACH ONE, TEACH ONE
+
+============================================================
+=                       BACKMATTER                         =
+============================================================
+
+_The DSA Newscast_ is a production of the Dozenal Society of
+America.  If you  have received  this publication  in error,
+or  otherwise do  not  wish to  receive  it anymore,  please
+unsubscribe  by  mailing  a message  containing  the  string
+"UNSUBSCRIBE DSA  NEWSCAST", exactly as typed,  in its body,
+to the Reply-To address of this message.
+
+For questions, comments, submissions, or other communication
+with the _Newscast_, please write to:
+    newscast@dozenal.org

@@ -1,0 +1,234 @@
+============================================================
+
+                      THE DSA NEWSCAST
+                   http://www.dozenal.org
+
+============================================================
+The Dozenal Society of America                Vol. 2, Iss. 5
+Official Newsletter                               1 May 11EX
+============================================================
+
+============================================================
+=                         CONTENTS                         =
+============================================================
+
+1.  Donations
+2.  For Sale
+3.  Living Dozens:  Shapes
+4.  Dozenal News
+5.  Society Business
+6.  Poetical Diversion
+7.  Backmatter
+
+============================================================
+=                        DONATIONS                         =
+============================================================
+
+Members,  please  remember that  while  dues  are no  longer
+required for membership, we still  rely on the generosity of
+members  to keep  the DSA  going. Donations  of any  amount,
+large or small, are welcome and needed.
+
+A  donation   of  $10;  ($12.)  will   procure  Subscription
+membership, and entitles the payer to receive both a digital
+and  a paper  copy  of the  _Bulletin_  if requested.  Other
+members will  receive only  a digital  copy. To  invoke this
+privilege, please  notify the  Editor of the  Bulletin, Mike
+deVlieger, at
+
+    mdevlieger@dozenal.org
+
+As members know, we are  a volunteer organization which pays
+no salaries.  As such,  every penny  you donate  goes toward
+furthering the DSA's goals.
+
+It may be worth considering  a monthly donation; say, $3, or
+$6, or whatever seems reasonable to  you. This can be set up
+quite  easily  with  Paypal  or WePay,  both  of  which  are
+available at our web site.
+
+Of course,  if you prefer to  donate by check, you  may send
+them to our worthy Treasurer,  Jay Schiffman, payable to the
+Dozenal Society of America, at:
+
+    Jay Schiffman
+    604-36 South Washington Square, #815
+    Philadelphia, PA  19106-4115
+
+----------------------Member Benefits-----------------------
+
+Chief  among  the benefits  of  membership,  aside from  the
+knowledge  of supporting  the DSA's  mission, is  receipt of
+_The  Duodecimal Bulletin_.  In  addition, however,  members
+also receive (digitally) a  membership card containing their
+vital  member  information  and   a  monthly  calendar  with
+dozenal numbers, containing suitable and educational dozenal
+quotations and graphics, laid out for wall display.
+
+To  receive  these, please  notify  us  that you'd  like  to
+receive them:
+
+    Contact@dozenal.org
+
+============================================================
+=                         FOR SALE                         =
+============================================================
+
+The DSA  is pleased to  offer the following for  sale. These
+are all either at cost, or the proceeds go to the Society.
+
+    Wall Calendar for 11EX (stapled binding)      $11.60
+    Wall Calendar for 11EX, coiled binding        $16.70
+    Weekly Planner for 11EX                       $11.29
+    TGM:  A Coherent Dozenal Metrology             $8.00
+
+Prices are,  unfortunately but by necessity,  in decimal. To
+find these works, simply go to:
+
+    http://www.lulu.com/shop/shop.ep
+
+and enter the appropriate  terms. E.g., searching for "11EX"
+will turn up these calendars  and the planner; searching for
+"TGM dozenal" will turn up the TGM book.
+
+We hope  to offer  other titles, and  even some  other items
+(such as dozenal clocks and the like), in the near future.
+
+============================================================
+=                  LIVING DOZENS:  SHAPES                  =
+============================================================
+
+Ten  is such  a  divisor-poor number  that  it obscures  the
+relationship between  shapes and numbers. However,  with the
+dozen, the most  important simple polygons have  a number of
+sides  which  are factors  of  our  base, which  makes  that
+relationship more clear.
+
+For example,  we can take  a triangle  and bend each  of its
+three sides  in the middle; this  will give us six  sides, a
+hexagon, also a factor of twelve. Do the same thing with the
+hexagon---bend  each side  in  the middle---and  you have  a
+dodecagon (in  SDN, an unquagon  or unniligon), which  is of
+course our base itself.
+
+Take a square and bend each  of its four sides in the middle
+this will  give eight sides,  an octagon. While this  is not
+precisely a factor of twelve, it  goes into twelve one and a
+half times (that is, three  eights are two twelves), so it's
+still in a very simple relationship with the base.
+
+The  same sort  of  thing works  in  three dimensions,  too,
+though  it's  not  so  transparent.  Consider  instead  some
+simple  facts.  There  are   nine  regular  polyhedra,  five
+convex  and four  stellated: the  tetrahedron (four  faces),
+the  cube (six  faces);  the octahedron  (eight faces);  the
+dodecahedron  (twelve faces);  the icosahedron  (18; faces);
+the  small   stellated  dodecahedron  (twelve   faces);  the
+great  dodecahedron  (twelve  faces);  the  great  stellated
+dodecahedron  (twelve  faces);  and  the  great  icosahedron
+(twenty faces).
+
+Notice how  frequently our  favorite number and  its factors
+appear here!  For four  of the  nine regular  polyhedra, the
+number twelve  is the defining characteristic  of the shape.
+Of the remaining  five, the factors of twelve  are two more,
+so  we have  six  of  the nine  (two  thirds, 0;8)  already.
+Even  considering  the  octahedron, icosahedron,  and  great
+icosahedron,  we  don't  lose  much. The  number  eight,  as
+already noted, fits in quite well with dozenal (three eights
+are two twelves); and twenty is just a dozen and eight.
+
+So when  you observe shapes, consider  their relationship to
+number.  Look  at  number  of  sides,  number  of  vertices,
+frequeny of various shapes. I  think you'll find that shapes
+based on  the dozen and  its factors are much  more frequent
+than any others; and there is, no doubt, a reason for that.
+
+============================================================
+=                       DOZENAL NEWS                       =
+============================================================
+
+The DSA  is pleased to  announce the publication  of another
+historical dozenal work: "A Rational Solution to the Problem
+of Weights and Measures" by  Sidney A. Reeve of the American
+Society of Mechanical Engineers:
+
+    http://www.dozenal.org/drupal/content/rational-solution-problem-weights-and-measures
+
+Published  originally  in  1127   (1903.),  this  paper  was
+originally given as  a talk at the New York  meeting of that
+society in September 1126. Explaining the dozenal system and
+putting forth  a semi-completed  metric system based  on the
+yard, the  paper is  an interesting example  of a  brief but
+sincere attempt to  urge the adoption of dozenal  by a major
+organization.
+
+============================================================
+=                     SOCIETY BUSINESS                     =
+============================================================
+
+Last  month  we were  excited  to  announce that  the  DSA's
+program on  alternative bases  in education was  accepted to
+the mid-Atlantic regional conference of the National Council
+of Teachers of Mathematics in Richmond, VA this November.
+
+We  recently   received  some  more  good   news:  the  same
+program was  also accepted, independently, for  the regional
+conference in Indianapolis, IN in October!
+
+Professor Jay Schiffman (#2X8) has graciously volunteered to
+give this presentation in Indianapolis. This is a great coup
+for  dozens,  and  will  get the  Society  some  more  great
+publicity.
+
+============================================================
+=                    POETICAL DIVERSION                    =
+============================================================
+
+                  From Doz'nalism in Glory
+
+Let great Arithmos come to me,
+and join with me each jovial blade;
+come drink and sing and lend your aid,
+and help me with the chorus.
+    Instead of ten we'll use great twelve;
+    the depths of number we will delve;
+    the dec'mal base we'll surely shelve,
+    from doz'nalism is glory.
+
+Two factors simply isn't enough,
+and missing thirds is awfully tough;
+such bases simply aren't up to snuff;
+a dozen is something better.
+    Instead of ten we'll use great twelve;
+    the depths of number we will delve;
+    the dec'mal base we'll surely shelve,
+    from doz'nalism is glory.
+
+For six, for four, for three, and for two,
+I choose the dozen, and urge it to you;
+no other number so greatly can do;
+so help me with the chorus.
+    Instead of ten we'll use great twelve;
+    the depths of number we will delve;
+    the dec'mal base we'll surely shelve,
+    from doz'nalism is glory.
+
+To the tune of "Garryowen."
+
+============================================================
+=                       BACKMATTER                         =
+============================================================
+
+_The DSA Newscast_ is a production of the Dozenal Society of
+America.  If you  have received  this publication  in error,
+or  otherwise do  not  wish to  receive  it anymore,  please
+unsubscribe  by  mailing  a message  containing  the  string
+"UNSUBSCRIBE NEWSCAST",  exactly as  typed, in its  body, to
+the Reply-To address of this message.
+
+For questions, comments, submissions, or other communication
+with the _Newscast_, please write to:
+    newscast@dozenal.org
+                    
+                    EACH ONE, TEACH ONE

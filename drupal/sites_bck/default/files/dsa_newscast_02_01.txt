@@ -1,0 +1,414 @@
+============================================================
+
+                      THE DSA NEWSCAST
+                   http://www.dozenal.org
+
+============================================================
+The Dozenal Society of America                Vol. 2, Iss. 1
+Official Newsletter                           1 January 11EX
+============================================================
+
+============================================================
+=                         CONTENTS                         =
+============================================================
+
+1.  Goals for our Second Volume
+2.  Donations
+3.  For sale:  Dozenal Calendars
+4.  Erratum:  Mathematical Abbreviations
+5.  Mathematical Abbreviations, by Imre Ipolyi (#411)
+6.  Dozenal, Paper, and TGM
+7.  Dozenal News
+8.  Society Business
+9.  Poetical Diversion
+X.  Backmatter
+
+============================================================
+=               Goals for our Second Volume                =
+============================================================
+
+As we plunge out into  our second volume of this newsletter,
+it  seems  appropriate  to  outline  a  few  of  our  goals.
+Beginning in this first issue of 11EX, we hope to accomplish
+two things:
+
+    1.)  Encourage  the  participation of  more  of  our
+    membership with  the Newscast. For example,  we have
+    an Erratum  published below  that resulted  from the
+    input of a member on  the article published in Issue
+    01:0X; this  corrects a real problem  with the ASCII
+    version of  one of the  notations we spelled  out in
+    that article.  But more participation would  be even
+    greater.
+
+    2.)   Assist  our   membership   in  the   practical
+    application of dozenals in  our daily lives. Dozenal
+    is an interesting abstract  pursuit, to be sure; but
+    it  is  also a  way  to  make the  real  application
+    of  mathematics and  arithmetic easier.  We hope  to
+    publish articles this year which will help, in small
+    and daily ways, encourage  us to really use dozenals
+    in our daily lives.
+
+We are  very excited  about these goals,  and hope  that our
+membership will  find this both  useful and worthy  of their
+assistance.
+
+============================================================
+=                        DONATIONS                         =
+============================================================
+
+Members,  please  remember that  while  dues  are no  longer
+required for membership, we still  rely on the generosity of
+members  to keep  the DSA  going. Donations  of any  amount,
+large or small, are welcome and needed.
+
+A  donation   of  $10;  ($12.)  will   procure  Subscription
+membership, and entitles the payer to receive both a digital
+and  a paper  copy  of the  _Bulletin_  if requested.  Other
+members will  receive only  a digital  copy. To  invoke this
+privilege, please  notify the  Editor of the  Bulletin, Mike
+deVlieger, at
+
+    mdevlieger@dozenal.org
+
+As members know, we are  a volunteer organization which pays
+no salaries.  As such,  every penny  you donate  goes toward
+furthering the DSA's goals.
+
+It may be worth considering  a monthly donation; say, $3, or
+$6, or whatever seems reasonable to  you. This can be set up
+quite  easily  with  Paypal  or WePay,  both  of  which  are
+available at our web site.
+
+Of course,  if you prefer to  donate by check, you  may send
+them to our worthy Treasurer,  Jay Schiffman, payable to the
+Dozenal Society of America, at:
+
+    Jay Schiffman
+    604-36 South Washington Square, #815
+    Philadelphia, PA  19106-4115
+
+----------------------Member Benefits-----------------------
+
+Chief  among  the benefits  of  membership,  aside from  the
+knowledge  of supporting  the DSA's  mission, is  receipt of
+_The  Duodecimal Bulletin_.  In  addition, however,  members
+also receive (digitally) a  membership card containing their
+vital  member  information  and   a  monthly  calendar  with
+dozenal numbers, containing suitable and educational dozenal
+quotations and graphics, laid out for wall display.
+
+To  receive  these, please  notify  us  that you'd  like  to
+receive them:
+
+    Contact@dozenal.org
+
+============================================================
+=               FOR SALE:  DOZENAL CALENDARS               =
+============================================================
+
+It  has  often been  difficult  for  those attached  to  the
+dozenal base to actually use that base in their daily lives.
+Now, we can buy dozenal calendars  to help begin, in a small
+way, to change that. These  items are all presented entirely
+in dozenal:
+
+    Wall Calendar for 11EX, stapled binding ($11.60):
+        http://www.lulu.com/shop/donald-goodman/dsa-wall-calendar-11ex-stapled/paperback/product-21221299.html
+    Wall Calendar for 11EX, coiled binding ($16.70):
+        http://www.lulu.com/shop/donald-goodman/dsa-wall-calendar-11ex-coiled/paperback/product-21223106.html
+
+These are "wall calendars," intended for hanging open on the
+wall or laying  out on a desk; facing each  calendar page is
+some dozenal-related  image with some salutary  dozenal fact
+or quotation  accompanying it. An ideal  conversation piece,
+if nothing else; hang them on the office wall and respond to
+comments. Also,  of course, useful for  keeping appointments
+and dates.  These are in full color; hence the price.
+
+There is also a weekly planner available:
+
+    Weekly Calendar for 11EX ($11.29):
+        http://www.lulu.com/shop/donald-goodman/weekly-calendar-11ex/paperback/product-21242155.html
+
+This  calendar  has  yearly, monthly,  and  weekly  planning
+sections;  the  weekly  sections  are  broken  up  by  hour,
+allowing appointments, dates, and scheduling.
+
+All of these items are sold  at cost, in the hopes that they
+will  assist in  the DSA's  mission.  They can  all also  be
+previewed on  their respective  pages, so you  can determine
+whether they would be useful to you.
+
+So, to sum up:
+
+    Monthly Calendar (stapled)      $11.60
+    Monthly Calendar (coiled)       $16.70
+    Weekly Planning Calendar        $11.29
+
+Dozenal is  meant to be  *used*, not just  considered; these
+items will hopefully help that become a reality.
+
+============================================================
+=           ERRATUM:  MATHEMATICAL ABBREVIATIONS           =
+============================================================
+
+Our last issue proposed  an abbreviation for lengthy numbers
+that consisted  of superscripting the order  of magnitude in
+front of the relevant number; e.g.:
+
+    3^3;6 = 3600
+
+One of our  members pointed out, though,  that this notation
+is ambiguous: it could just as  easily mean three to the 3;6
+power as 3;6 to the third order of magnitude. Unfortunately,
+we  ran across  the limits  of  ASCII text  here; while  the
+typeset  notation  is  *not*  ambiguous  (the  three  should
+be  superscripted,  the 3;6  inline),  it  is impossible  to
+represent  this in  ASCII ("plain  text") in  an unambiguous
+way.
+
+In  ASCII,  perhaps  we  should stick  to  the  alphabetical
+abbreviations, rather than the numerical ones:
+
+    t^3;6 = ^t3;6 = 3600
+
+Which, as long  as we are not using "t"  as a variable name,
+should be reasonably clear.
+
+============================================================
+=    MATHEMATICAL ABBREVIATIONS, BY IMRE IPOLYI (#411)     =
+============================================================
+
+As for  my contribution, I  think I  should write it  to the
+newscast address.
+
+It's about the notation of subscript and superscript when no
+graphical  text representation  is  possible  by raising  or
+lowering  the characters.  Computer  code  is always  simple
+text,  so 2^3  only can  mean  8 not  300, and  we also  use
+variables, so a  variable name "a" with an  index "b", which
+is noted "a_b", should not be confused with 0;0b.
+
+I know, is  would be highly unusual to use  a number for "a"
+in a  name for a variable.  Nevertheless, there has to  be a
+clearly  different notation  for raised  and lowered  prefix
+than for raised  and lowered suffix, to  avoid confusions in
+program  codes  and  messages  that  don't  allow  spa[t]ial
+positioning of  the characters  (sms, simple  email editors,
+social media).
+
+Example for the raised suf[f]ix:
+
+2^'3 or '^2'3 or (^2)3 or (2^)3 or 2^!32
+
+and lowered suffix:
+
+2_'3 or '_2'3 or (_2)3 or (2_)3 or 2_!3
+
+Probably the best of these 5  options would be the last with
+!, maybe with some other easily accessible character instead
+of !. Maybe not the ' sign as in the first example. That may
+be  used to  mark  'bulks  of texts'  at  beginning and  end
+similarly to (xyz) or "xyz".
+
+I would suggest 2^!3 and 2_!3.
+
+============================================================
+=                 DOZENAL, PAPER, AND TGM                  =
+============================================================
+
+Paper is  such a mundane  topic that we rarely  consider it,
+but it's  worth a little thought  on occasion. Specifically,
+paper  by necessity  has  a *shape*;  and  given that  paper
+is  practically  two-dimensional,  it  by  necessity  has  a
+*polygonal* shape.  We occasionally  see sheets of  paper in
+all sorts  of interesting  shapes; but  most commonly  it is
+quadrangular,  and  then  most  commonly  rectangular.  This
+brings into question the ratio  of the shorter to the longer
+sides.
+
+By  tradition,  the  "perfect"  shape  for  paper  has  been
+the  Golden Ratio,  1;74EE6772... However,  rather close  to
+the  Golden Ratio  is  1:sqrt(2), which  has the  additional
+benefit that, when  folded in half, it produces  a new sheet
+with  sides of  the same  ratio. This  is a  useful property
+which  makes 1:sqrt(2)  the  ideal ratio  for this  purpose;
+particularly  considering that  it's  at least  in the  same
+ballpark as the Golden Ratio.
+
+Traditional  paper sizes  came in  all sorts  of interesting
+ratios, which  we mostly know  by their common  names. Still
+familiar  to  Americans  are  (all sizes  in  the  customary
+decimal)  "letter," 8.5x11  inches; "legal,"  8.5x14 inches;
+and "ledger,"  11x17 inches. All  sorts of other  sizes have
+formerly been common, here  and abroad, such as "executive,"
+"foolscap," and so on, but most have fallen into disuse.
+
+Metric paper  sizes are (unusually for  metric) considerably
+more rational.  They are divided  into two series,  the much
+more common A-series and the  B-series. Both of these series
+have a  ratio of 1:sqrt(2)  from their short to  long sides.
+The A-series is *area-based*; it starts with the A0, a sheet
+of paper with an area of  one square meter with the required
+ratio to  its sides.  This gets  folded in  half repeatedly,
+with each halving incrementing its  number, until we get the
+A4,  which  is reasonably  close  to  American letter.  This
+continues  at  least  to  A-X (decimal  A10),  only  26;x37;
+millimeters, for which  it is hard to  imagine any practical
+use.
+
+The  B-series is  *length-based*,  starting with  the B0,  a
+sheet of  paper one meter  long on  the short side  with the
+required ratio to its long side. This continued on until B-X
+(decimal B10), only 31;x44;  millimeters, again difficult to
+imagine actually using.
+
+TGM,  a  consistently  dozenal and  coherent  metric  system
+developed originally  by Tom  Pendlebury, wisely  adopts the
+same  ratio for  its  paper sizes  as  metric did  (rounding
+sqrt(2) to 1;5, which is  extremely close to the true value,
+and which  makes these calculations *much*  easier). It also
+wisely introduces two series: a Grafut series (length-based,
+the Grafut  being TGM's  unit of length)  and a  Surf series
+(area-based, the  Surf being  a square Grafut).  These sizes
+are abbreviated with the  standard TGM abbreviations, Gf and
+Sf, with the number of folds suffixed to it. So if we want a
+very large sheet of paper, we  might take the Sf+3, which is
+a page the area of one Surf (the Sf+0) doubled in size three
+times, each  time preserving the  1:sqrt(2) ratio. Or  if we
+want a rather small sheet, we  might take the Gf-5, which is
+the initial page the width  of one Grafut (Gf+0) halved five
+times, each time preserving the 1:sqrt(2) ratio.
+
+Remarkably, this system produces paper sizes extremely close
+to the current  standard metric sizes; in fact,  as it turns
+out,  an A4  sheet on  the long  side is  a remarkably  good
+Grafut ruler. The Grafut-series  corresponds very closely to
+the A-series, while the Surf-series corresponds very closely
+to the B-series.  The standard "normal" sheet  of paper over
+much of the  world, A4, comes within less  than a millimeter
+and  a  half of  the  Gf-1;  and even  the  A0  is only  4x6
+millimeters  larger than  the Gf+3.  The Surf  series has  a
+similarly close correspondence to the B-series.
+
+This system of numbering makes  more logical sense, as well.
+It allows for the possibility  of larger and larger sizes of
+paper (it's  not at  all clear  how a  sheet larger  than A0
+would  be named  in  metric;  in TGM,  it's  just Gf+4).  It
+further follows the intuitive rule that smaller numbers mean
+smaller paper, while larger numbers  mean larger, with the 0
+as  the basic  size; in  metric's naming  scheme, increasing
+numbers  mean decreasing  size.  Finally,  each number  *up*
+indicates  a  doubling in  size,  while  each number  *down*
+indicates a halving, which makes more sense than having each
+number *up* mean a halving.
+
+These sizes are  so close that, in a world  in which TGM has
+taken over from  metric, the differences between  the A- and
+B-series and the  Gf and Sf series can simply  be classed as
+manufacturing error, without any  change to the equipment at
+all.
+
+For more on TGM, see:
+
+    http://www.dozenal.org/drupal/content/tgm-coherent-dozenal-metrology
+
+============================================================
+=                       DOZENAL NEWS                       =
+============================================================
+
+We noted  in our  last issue the  interest generated  by the
+fascinating shape of the stellated dodecahedron. Now, we can
+easily  make  many  of  these shapes  by  printing  out  and
+assembling simple patterns:
+
+    http://www.korthalsaltes.com/model.php?name_en=small stellated dodecahedron
+
+While I was quite taken by the small stellated dodecahedron,
+a  great variety  of  other polyhedra  are available  there,
+including a dodecahedron, a  great stellated dodecahedron, a
+great  dodecahedron, and  others.  Thanks  to Gils  Korthals
+Altes for making these available.
+
+Incidentally, in SDN  we can refer to  the "dodecahedron" as
+an "unquahedron" or a "unnilihedron," and the "dodecagon" as
+an "unquagon" or "unniligon."
+
+Dr.  Andy  Kass,  a  geophysicist for  the  U.S.  Geological
+Survey, gave us  an explanation and defense  of dozenalism a
+little over a year ago:
+
+    http://faradaysheadache.wordpress.com/2012/12/13/the-dozenal-system/
+
+By way  of explaining that  dozenalism will never  catch on,
+Dr.  Kass states,  "We can't  even go  metric in  the United
+States." What a  failure to adopt a  poorly designed decimal
+metric  system  has  to  do with  adopting  a  well-designed
+dozenal mathematical base, I'm not  sure; but the article is
+worth perusing all the same.
+
+Our own  Dr. Paul  Rapoport (#230)  was interviewed  back in
+January  of last  year on  the CBC's  "As it  Happens", with
+Carol Off and Jeff Douglas. You can listen here:
+
+    http://www.cbc.ca/asithappens/features/2013/01/07/dozenal-society-man/
+
+Dr. Rapoport  focused pretty strongly  on his clock,  but he
+also  discusses  the  ease  of converting  to  dozenal,  his
+membership  in the  DSA,  and other  matters.  It's a  short
+interview, but quite interesting, and with a receptive host.
+
+============================================================
+=                     SOCIETY BUSINESS                     =
+============================================================
+
+--------------------Bulletin Publication--------------------
+
+As  you all  heard yesterday,  our esteemed  Editor, Michael
+de  Vlieger,  has produced  another  issue  of our  flagship
+publication, _The Duodecimal Bulletin_.  This issue, Vol. 51
+Iss.  1  (WN  X1),  focuses  on  dozenal  nomenclature,  and
+presents a full-length exposition  of the Systematic Dozenal
+Nomenclature that we've reviewed over several months in this
+Newscast.  We  hope the  issue  proves  as enlightening  and
+enjoyable to our members as it was for us.
+
+Our next issue will be published in March of 11EX; this will
+have us  caught up  to the current  year, and  future issues
+published in  11EX (after WN X2)  will be for the  year 11EX
+(2014.).
+
+============================================================
+=                    POETICAL DIVERSION                    =
+============================================================
+
+A short  one this month,  which I  hope is suitable  for the
+change of year.  As we think about time, we  can think about
+the way  we measure  it; and  so the  old "Thirty  days hath
+September" rhyme could use some updating to be dozenal.
+
+    Dozen-six hath September,
+    April, June, and November;
+    The others count the same again,
+    but one more day, a dozen-se'en;
+    But February's dozen-four,
+    in leap years count just one day more.
+
+============================================================
+=                       BACKMATTER                         =
+============================================================
+
+_The DSA Newscast_ is a production of the Dozenal Society of
+America.  If you  have received  this publication  in error,
+or  otherwise do  not  wish to  receive  it anymore,  please
+unsubscribe  by  mailing  a message  containing  the  string
+"UNSUBSCRIBE DSA  NEWSCAST", exactly as typed,  in its body,
+to the Reply-To address of this message.
+
+For questions, comments, submissions, or other communication
+with the _Newscast_, please write to:
+    newscast@dozenal.org
+                    
+                    EACH ONE, TEACH ONE

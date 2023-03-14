@@ -1,0 +1,358 @@
+============================================================
+
+                      THE DSA NEWSCAST
+                   http://www.dozenal.org
+
+============================================================
+The Dozenal Society of America                Vol. 2, Iss. 3
+Official Newsletter                             1 March 11EX
+============================================================
+
+============================================================
+=                         CONTENTS                         =
+============================================================
+
+1.  Donations
+2.  For Sale
+3.  Timothy Travis on the Raenbo Calendar
+4.  Living Dozens:  Telling the Time
+5.  Dozenal News
+6.  Society Business
+    -Updated Bulletin Issue 51:1 (WN X1)
+    -NCTM Conference in Richmond, VA
+    -Annual Meeting for 11EX
+7.  Poetical Diversion
+8.  Backmatter
+
+============================================================
+=                        DONATIONS                         =
+============================================================
+
+Members,  please  remember that  while  dues  are no  longer
+required for membership, we still  rely on the generosity of
+members  to keep  the DSA  going. Donations  of any  amount,
+large or small, are welcome and needed.
+
+A  donation   of  $10;  ($12.)  will   procure  Subscription
+membership, and entitles the payer to receive both a digital
+and  a paper  copy  of the  _Bulletin_  if requested.  Other
+members will  receive only  a digital  copy. To  invoke this
+privilege, please  notify the  Editor of the  Bulletin, Mike
+deVlieger, at
+
+    mdevlieger@dozenal.org
+
+As members know, we are  a volunteer organization which pays
+no salaries.  As such,  every penny  you donate  goes toward
+furthering the DSA's goals.
+
+It may be worth considering  a monthly donation; say, $3, or
+$6, or whatever seems reasonable to  you. This can be set up
+quite  easily  with  Paypal  or WePay,  both  of  which  are
+available at our web site.
+
+Of course,  if you prefer to  donate by check, you  may send
+them to our worthy Treasurer,  Jay Schiffman, payable to the
+Dozenal Society of America, at:
+
+    Jay Schiffman
+    604-36 South Washington Square, #815
+    Philadelphia, PA  19106-4115
+
+----------------------Member Benefits-----------------------
+
+Chief  among  the benefits  of  membership,  aside from  the
+knowledge  of supporting  the DSA's  mission, is  receipt of
+_The  Duodecimal Bulletin_.  In  addition, however,  members
+also receive (digitally) a  membership card containing their
+vital  member  information  and   a  monthly  calendar  with
+dozenal numbers, containing suitable and educational dozenal
+quotations and graphics, laid out for wall display.
+
+To  receive  these, please  notify  us  that you'd  like  to
+receive them:
+
+    Contact@dozenal.org
+
+============================================================
+=                         FOR SALE                         =
+============================================================
+
+The DSA  is pleased to  offer the following for  sale. These
+are all either at cost, or the proceeds go to the Society.
+
+    Wall Calendar for 11EX (stapled binding)      $11.60
+    Wall Calendar for 11EX, coiled binding        $16.70
+    Weekly Planner for 11EX                       $11.29
+    TGM:  A Coherent Dozenal Metrology             $8.00
+
+Prices are,  unfortunately but by necessity,  in decimal. To
+find these works, simply go to:
+
+    http://www.lulu.com/shop/shop.ep
+
+and enter the appropriate  terms. E.g., searching for "11EX"
+will turn up these calendars  and the planner; searching for
+"TGM dozenal" will turn up the TGM book.
+
+We hope  to offer  other titles, and  even some  other items
+(such as dozenal clocks and the like), in the near future.
+
+============================================================
+=          TIMOTHY TRAVIS ON THE RAENBO CALENDAR           =
+============================================================
+
+Timothy Travis (#342) wanted to explain a bit more about his
+dozenal  calendar proposal.  Readers may  remember that  his
+Raenbo system was  published some time ago; it  has now been
+updated to include that calendar:
+
+    http://www.dozenal.org/drupal/content/raenbo-dozenals
+
+Mr. Travis says:
+
+    The Raenbo Calendar  has 12 months of  30 days each.
+    The  5  extra  days  in  the  year  become  solstice
+    and  equinox  holidays  falling  between  the  four,
+    three-month, seasons. So that  every month looks the
+    same  (and every  year),  it is  necessary for  each
+    month to have 5 *weeks of 6 days* each. Once this is
+    done,  the  calendar  just  magically  tumbles  into
+    place, as  if this were  the way it was  supposed to
+    have been all along.
+
+    Please note that the celestial year is not precisely
+    divided into  four equal  segments by  the solstices
+    and  equinoxes.  So,  on the  Raenbo  Calendar,  the
+    solstice and equinox holidays  are not always on the
+    actual  days on  which the  solstices and  equinoxes
+    occur. But  they are  close enough causing  no great
+    confusion or inconvenience.
+
+    [For  further information],  [y]ou can  also contact
+    me, sendttmail@gmail.com.
+
+============================================================
+=             LIVING DOZENS:  TELLING THE TIME             =
+============================================================
+
+Time is a measurement system that we use more often than any
+other. Constantly  throughout the  day we are  giving times;
+five  minutes  until  this,  ten minutes  until  that,  only
+fifteen minutes  before five, and  so on. And yet  though we
+dozenalists often  point to  our current  clock as  a superb
+example of dozens  in action, how often do we  really use it
+as such?
+
+Regardless of whether we support keeping our current hour or
+replacing it with the duor, the fact remains that the entire
+world, even in metric countries,  uses a system of time that
+is based  fundamentally on the dozen;  it is one of  the few
+times that  we can  use dozens consistently  without looking
+crazy. In other words, it is  a great tool, even if we would
+like to  eventually replace  the hour. Let's  look at  a few
+ways how to use it.
+
+The twelfth  of the hour, of  course, is simply a  period of
+five minutes. This period is very  often the one that we use
+generically to  mean "a  short time"  or "pretty  soon." How
+often, when  we say,  "I'll be  there in  five," do  we mean
+literally "I'll  be there  in five  minutes"? More  often we
+mean simply "I'm almost there, and will be there soon." It's
+used this way  so often that we frequently it's  made into a
+unit by itself, where we use "five" by itself.
+
+So  why  not  formalize  this?   Call  it  a  "five,"  or  a
+"block"  (this  latter  term  has gained  some  use  on  the
+DozensOnline forum,  and has even been  used occasionally by
+non-dozenalists); and remember that there are twelve of them
+in an  hour. On a  particularly busy day, perhaps  a meeting
+room could be reserved in blocks. Someone who needs a longer
+period might reserve two or three blocks.
+
+Requiring no additional terms  is using dozenal fractions in
+the hour.  We already use  terms like "quarter to  five" and
+the like; why not extend this? Since there are twelve blocks
+in  an  hour,  we  have  the  full  flexibility  of  dozenal
+fractions to  work with.  Halves, thirds,  quarters, sixths,
+and twelfths are all immediately  present, with the big hand
+pointing straight at the uncial digit.
+
+"I'll be  done in a  third of an hour."  Non-dozenalists may
+have to  think about this for  a moment, as they  would with
+the slightly unusual  expression "I'll be done  in a quarter
+of an hour," but it's not  hard to understand. A sixth of an
+hour or a twelfth of an hour will take more thought for most
+people; but again, it'll come to  them, and it may also give
+an opportunity to talk about dozenals if they're curious.
+
+Our  clocks, unfortunately,  are mostly  hard-wired to  have
+inferior,  double-digit representations  of ten  and eleven.
+For  digital  clocks,  there's  really no  remedy  for  this
+problem (though  the DSA "Resources"  page has an  option or
+two). Analog clocks, however, are different.
+
+Consider covering the "10," "11," and "12" on your clock and
+replacing them with your preferred symbols for X, E, and 10.
+Most clocks have face-covers  which are easily removable and
+replaceable, so that the clock can be set to the right time,
+so doing this is pretty trivial.  If you want the symbols to
+match 1-9 exactly, or if you want a separate identity symbol
+set, cover them all, or even  the whole face, with your own.
+Drawing the appropriate symbols on small pieces of paper and
+taping  or gluing  them  on  will suffice;  it  needs to  be
+clearly legible, not artistically beautiful (unless you want
+it to be). Replace the face cover, if there is one, and hang
+it up on  your wall. You now have a  dozenal clock! Not only
+will this help  you personally use dozenals  more often, but
+it's a great conversation starter.
+
+Make use  of our dozenal time;  it will be a  great help for
+yourself and for others.
+
+============================================================
+=                       DOZENAL NEWS                       =
+============================================================
+
+The New  York Times has  published a brief explanation  of a
+long-standing  proof  that  an infinite  series  of  integer
+additions is equal to -0;1.
+
+    http://www.nytimes.com/2014/02/04/science/in-the-end-it-all-adds-up-to.html
+
+This counterintuitive result is  a great illustration of the
+way that our favorite number is woven into the fabric of the
+universe.
+
+One of the two major mathematical publications by one of our
+founders, F.  Emerson Andrews,  was originally  published in
+1175 (1961.).  Because its  copyright was not  renewed, this
+means  that _Numbers,  Please_  has fallen  into the  public
+domain!
+
+    http://babel.hathitrust.org/cgi/pt?id=mdp.39015027385338
+
+The  full text  is  available at  this  link, including  the
+lovely illustrations  done by  Aldren A. Watson.  Sadly, his
+other and  more important work, _New  Numbers_, was properly
+renewed,  causing it  to  be  a pretty  rare  work. But  the
+chapter  on  dozens  in  _Numbers, Please_  is  still  quite
+interesting.
+
+The Society has published another "early" dozenal work, this
+time from William  B. Smith, writing a  short but compelling
+defense of the dozenal system in the _Educational Review_ of
+1117 (1891):
+
+    http://www.dozenal.org/drupal/content/twelve-vs-ten
+
+This article, which evidently inspired another article which
+the DSA has republished by  Rev. Thomas Freeman (a much more
+light-hearted and  entertaining work), gives  an interesting
+account  of  dozenalism,  including even  a  (very)  briefly
+sketched-out metric system based on the hour and the yard.
+
+============================================================
+=                     SOCIETY BUSINESS                     =
+============================================================
+
+------------Updated Bulletin Issue 51:1 (WN X1)-------------
+
+The DSA has  released an updated version  of _The Duodecimal
+Bulletin_ Issue 51:1 (WN X1):
+
+    http://www.dozenal.org/DuodecimalBulletinIssue511a.pdf
+
+The content of this splendid issue has not been altered; the
+revised version merely fixes  a few typographical errors and
+the like. It can accessed at  the above address or from your
+members page on the website.
+
+--------------NCTM Conference in Richmond, VA---------------
+
+Thanks to the  efforts of our Treasurer  and Board Chairman,
+Jay Schiffman; and our Secretary, Jen Seron, the Society has
+managed  to  secure  another great  opportunity  to  further
+the  Society's   mission  of  educating  the   public  about
+alternative bases. Our proposal to present a workshop at the
+regional conference  of the National Council  of Teachers of
+Mathematics has been accepted!
+
+The program  is similar  to, but  still different  from, the
+program we  presented at  the ASEE  conference last  year in
+Atlanta.  The conference  is from  10;-12; November  11EX in
+Richmond, VA; we do not yet know which date our program will
+be on.
+
+Our program  in Atlanta  was attended by  a small  number of
+people, but produced great results and a lot of interest. It
+also resulted in a lot  of great educational material, which
+can be  found on our website  under "Educational Materials."
+These materials are now among  the most popular items on our
+website.
+
+We'll post further details  regarding the NCTM conference as
+they become available. Thanks again, Jay and Jen!
+
+------------------Annual Meeting for 11EX-------------------
+
+Due to the NCTM conference, the DSA's annual meeting will be
+later than normal this year, likely on 13; November 11EX, in
+Richmond, VA. Further  details will be posted  when they are
+available.  We hope you'll be able to join us!
+
+============================================================
+=                    POETICAL DIVERSION                    =
+============================================================
+
+Originally  published  in our  _Bulletin_,  WN  70, this  is
+another gem from the same great figure of dozenal history.
+
+            Edgar Allan Poe's Eldorado Revisited
+
+        Gaily bedight,
+        A gallant knight,
+   In sunshine and in shadin',
+        Had journeyed long,
+        Singing a song,
+   In search of el do dozen.
+
+        But he grew old---
+        This knight so bold---
+   And o'er his heart a shadin',
+        Fell as he found
+        No spot of ground
+   That looked like el do dozen.
+
+        And, as his strength,
+        Failed him at length,
+   He met a pilgrim shadin',
+        "Shading", said he,
+        "Where can it be---
+   This land of el do dozen?"
+
+        "Over the Countin'
+        Out by tens,
+   Down the Valley of the Weighin',
+        Ride, boldly ride,"
+        The shade replied,---
+   "If you seek for el do dozen!"
+
+With thanks to H. C. Churchman.
+
+============================================================
+=                       BACKMATTER                         =
+============================================================
+
+_The DSA Newscast_ is a production of the Dozenal Society of
+America.  If you  have received  this publication  in error,
+or  otherwise do  not  wish to  receive  it anymore,  please
+unsubscribe  by  mailing  a message  containing  the  string
+"UNSUBSCRIBE NEWSCAST",  exactly as  typed, in its  body, to
+the Reply-To address of this message.
+
+For questions, comments, submissions, or other communication
+with the _Newscast_, please write to:
+    newscast@dozenal.org
+                    
+                    EACH ONE, TEACH ONE

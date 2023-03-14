@@ -1,0 +1,464 @@
+============================================================
+
+                      THE DSA NEWSCAST
+                   http://www.dozenal.org
+
+============================================================
+The Dozenal Society of America                Vol. 1, Iss. 6
+Official Newsletter                            1 August 11E9
+============================================================
+
+============================================================
+=                         CONTENTS                         =
+============================================================
+
+1.  Donations
+2.  Article:  Systematic Dozenal Nomenclature, in Brief
+3.  Dozenal News
+    -Livin' la Vida Dozenal!, by James Hobbs
+    -60:  Behind Every Second, Millenniums of History, by 
+     Roni Jacobson
+    -RAENBO Dozenals, by Timothy Travis
+4.  Society Business
+    -Bulletin Publication
+    -Potential Presentation at NCTM
+5.  Poetical Diversion
+6.  Dozenal Thoght of the Month
+7.  Backmatter
+
+============================================================
+=                        DONATIONS                         =
+============================================================
+
+Members,  please  remember that  while  dues  are no  longer
+required for membership, we still  rely on the generosity of
+members  to keep  the DSA  going. Donations  of any  amount,
+large or small, are welcome and needed.
+
+A  donation   of  $10;  ($12.)  will   procure  Subscription
+membership, and entitles the payer to receive both a digital
+and  a paper  copy  of the  _Bulletin_  if requested.  Other
+members will  receive only  a digital  copy. To  invoke this
+privilege, please  notify the  Editor of the  Bulletin, Mike
+deVlieger, at
+
+    mdevlieger@dozenal.org
+
+As members know, we are  a volunteer organization which pays
+no salaries.  As such,  every penny  you donate  goes toward
+furthering the DSA's goals.
+
+It may be worth considering  a monthly donation; say, $3, or
+$6, or whatever seems reasonable to  you. This can be set up
+quite easily with Paypal.
+
+Of course,  if you prefer to  donate by check, you  may send
+them to our worthy Treasurer,  Jay Schiffman, payable to the
+Dozenal Society of America, at:
+
+    Jay Schiffman
+    604-36 South Washington Square, #815
+    Philadelphia, PA  19106-4115
+
+----------------------Member Benefits-----------------------
+
+Chief  among  the benefits  of  membership,  aside from  the
+knowledge  of supporting  the DSA's  mission, is  receipt of
+_The  Duodecimal Bulletin_.  In  addition, however,  members
+also receive (digitally) a  membership card containing their
+vital  member  information  and   a  monthly  calendar  with
+dozenal numbers, containing suitable and educational dozenal
+quotations and graphics, laid out for wall display.
+
+To  receive  these, please  notify  us  that you'd  like  to
+receive them:
+
+    Contact@dozenal.org
+
+============================================================
+=        SYSTEMATIC DOZENAL NOMENCLATURE, IN BRIEF         =
+============================================================
+
+(Note that this article  contains tables which are formatted
+for plain text. These tables will not not appear properly if
+you are not using a monospaced font. If you're not sure what
+this  means,  try opening  this  newsletter  in Notepad,  or
+setting your email  to "Text only" or "Plain  text," and see
+if  that  helps. Also,  this  newsletter  is posted  in  the
+members section of the DSA website, and will appear properly
+there.)
+
+Dozenalists have long  argued about the proper  way to speak
+when using dozenals.  Is it "ten" or "dek?"  Is it "eleven,"
+"el," "elv,"  "elf," or something  else entirely? Do  we say
+"twelve," "dozen," or what? And just what do we call a dozen
+gross, anyway?
+
+Traditional English has a system for talking about dozenals,
+simple enough, which goes like this:
+
+    Number (doz.)   Word
+    -------------   -----------
+    10              dozen
+    100             gross
+    1000            great gross
+
+And we  can extrapolate from  these three; for  example, the
+number  "743 2X9"  is "seven  gross four  dozen three  great
+gross, two gross  ten dozen nine." This works,  in the sense
+that it is functional; and this is usually the very best way
+to  inroduce dozenals  to  someone who's  not familiar  with
+them. However,  it is  clunky, verbose,  and (worst  of all)
+ugly. Something better is needed  if we are to make dozenals
+mainstream.
+
+For many  years, the DSA used  the "do-gro-mo" nomenclature,
+which  is  essentially  a  shorthand for  the  above  "plain
+English" system. "Dozen" became  "do," "gross" became "gro,"
+and "great gross" became  "mo," forming the following system
+well-known to anyone who has perused the older issues of our
+_Bulletin_:
+
+    10          Do          0.1         Edo
+    100         Gro         0.01        Egro
+    1000        Mo          0.001       Emo
+    1 0000      Do-mo       0.0001      Edo-mo
+    10 0000     Gro-mo      0.0000 1    Egro-mo
+    100 0000    Bi-mo       0.0000 01   Ebi-mo
+    1000 0000   Tri-mo      0.0000 001  Etri-mo
+
+And so forth, just as far as one cares to take it. This is a
+much more robust system that the "plain English" method, and
+served us  well for many years.  Some of us continue  to use
+it.
+
+However, even this  system has a flaw:  it's too provincial.
+That is,  it fits  in pretty well  with English  (though the
+fractional  names do  sound a  bit  funny), but  it fits  in
+poorly or not at all in other languages. Dozenal isn't meant
+to  be  limited to  the  Anglosphere,  and never  was;  it's
+*mathematically*, not *culturally*, the superior base. So as
+well as  this system has  worked, something better  is still
+needed.
+
+Enter  Systematic   Dozenal  Nomenclature  (SDN).   A  group
+of  dozenalists  on  the  DozensOnline forum,  ably  led  by
+John  Kodegadulo,  has  put   together  a  system  which  is
+comprehensive;  systematic; simple;  and international.  The
+system  manages all  these traits  at once  by adopting  our
+elder,  Ralph Beard's,  Principle of  Least Change:  it uses
+things  which are  familiar to  all of  us, changes  them as
+little as  possible to accomplish  our goals, and  then runs
+with them.
+
+The familiar basis for SDN is the set of numerical particles
+used  by  the  International  Union  for  Pure  and  Applied
+Chemistry (IUPAC). IUPAC takes very familiar Latin and Greek
+roots,  most of  which we  already know,  to form  the names
+of  new chemical  elements  until they  can  be given  their
+"official" names;  SDN adds  two new  particles for  ten and
+eleven,  and then  applies  them in  preditable, easy  ways.
+These particles, 0-9 already international standards, are:
+
+    Num.        Part.
+    -----       ------
+    0           Nil
+    1           Un
+    2           Bi
+    3           Tri
+    4           Quad
+    5           Pent
+    6           Hex
+    7           Sept
+    8           Oct
+    9           Enn
+    X           Dec
+    E           Lev
+
+Further  particles   can  be   formed  using   the  familiar
+principles of place notation; e.g., "25" is simply "bipent,"
+the number particles  being put together just  as the number
+digits are.
+
+There's one more thing to add, though. To really press these
+convenient little  particles into  dozenal service,  we need
+something to indicate exponentiation. So we add to these the
+suffix  "qua" if  the power  is positive,  and "cia"  if the
+power is negative, like so:
+
+    Num.    Part.       Pos. Power      Neg. Power
+    -----   ------      -----------     ------------
+    0       Nil         Nilqua          Nilcia
+    1       Un          Unqua           Uncia
+    2       Bi          Biqua           Bicia
+    3       Tri         Triqua          Tricia
+    4       Quad        Quadqua         Quadcia
+    5       Pent        Pentqua         Pentcia
+    6       Hex         Hexqua          Hexcia
+    7       Sept        Septqua         Septcia
+    8       Oct         Octqua          Octcia
+    9       Enn         Ennqua          Enncia
+    X       Dec         Decqua          Deccia
+    E       Lev         Levqua          Levcia
+
+So "10" is  now "unqua" (10^1); 100 is  "biqua" (10^2); 1000
+is "triqua" (10^3);  1 0000 is "quadqua" (10^4);  and so on.
+We literally  simply count the  digits after the  first, use
+the corresponding word, and call it a day.
+
+For example:
+
+    7 82E4 XE45
+
+In  the "plain  English" system,  this number  is borderline
+impossible to speak; that is, it could probably be done, but
+the  result would  be  so unwieldy  that  speaking it  would
+communicate practically nothing to the listener.  In the "do
+gro mo" system, we get the rather manageable:
+
+    Seven gro bi-mo eight two el four dek el four five
+
+But to speak this, we must recall that "bi-mo" means "10^6,"
+we must  count out the  digits, we  must see that  we've got
+seven gro of  bi-mo, and then voice  the number accordingly.
+Doable, certainly;  but excessively  complex as well  as too
+provincial in its roots.
+
+In SDN, we simply count  the digits after the first (eight),
+select  the   corresponding  and  very   familiar  numerical
+particle (oct), add "qua" to  it (since it's clearly a large
+number rather than a small one), and we've got the answer:
+
+    Seven octqua eight two el four ten elv four five
+
+SDN  is  at  once  simpler,  more  comprehensive,  and  more
+international than other systems.
+
+Expect a full exposition of SDN in an upcoming _Bulletin_;
+until then, you can learn more at the DozensOnline forum,
+and at
+
+    http://gorpub.freeshell.org/dozenal/blosxom.cgi/dozapp.html#sdn
+
+============================================================
+=                       DOZENAL NEWS                       =
+============================================================
+
+------------------Livin' la Vida Dozenal!-------------------
+
+James Hobbs, an engineering graduate student studying carbon
+fiber  and other  composite materials  at the  University of
+Utah,  has  written  an  excellent  little  article  on  our
+favorite number base, "Livin' la Vida Dozenal!"
+
+    http://mathematicianscientistengineer.blogspot.com/2013/04/livin-la-vida-dozenal.html
+
+Mr. Hobbs not only knows and prefers dozenal, but uses it in
+his  daily life,  as  does  his family.  He  uses TGM's  Tim
+for his  time (essentially,  dozenalized hours  with dozenal
+divisions rather  than sexagesimal) and  notes the use  of a
+dozenal ruler, though  he doesn't say what units  are on it.
+Describes very briefly the TGM  system and notes a couple of
+its benefits. Definitely worth a read.
+
+------60:  Behind Every Second, Millenniums of History------
+
+This month, the DSA got a mention in none other than the New
+York Times!  The Gray Lady  published a brief note  with the
+above title  by Roni  Jacobson on 8  July 11E9,  which notes
+that  ten "is  actually an  inefficient number  on which  to
+build  a  numeral  system."  The  article,  which  primarily
+discusses base  five dozen (sixty), mentions  the DSA toward
+the end.
+
+    http://www.nytimes.com/2013/07/09/science/60-behind-every-second-millenniums-of-history.html
+
+The article  was originally  published on  page D2  with the
+headline "Take  a Number." Not  exactly above the  fold, but
+still a little bit of good publicity.
+
+Thanks to Professor Gene  Zirkel, former president and long-
+time stalwart of the Society, for pointing out this piece.
+
+----------------------Raenbo Dozenals-----------------------
+
+Timothy Travis (#342), Society board member, has contributed
+an article  with some  lovely graphics and  very interesting
+thoughts  on a  dozenal system,  which he  terms the  Raenbo
+system:
+
+    http://www.dozenal.org/drupal/content/raenbo-dozenals
+
+In addition  to having  some beautiful graphics,  Mr. Travis
+presents a few interesting thoughts, some new symbols, and a
+truly beautiful  geometric design  for the backs  of playing
+cards.
+
+Which demands the inquiry: playing cards are a fundamentally
+numerical pursuit.  Any ideas for dozen-centric  games? Send
+them in!
+
+============================================================
+=                     SOCIETY BUSINESS                     =
+============================================================
+
+--------------------Bulletin Publication--------------------
+
+Many  of  you have  undoubtedly  noticed  that our  Bulletin
+has  not  been  published  since 11E6  (2010.).  After  some
+conversation with our esteemed Editor, Michael deVlieger, we
+have established a publication schedule for the near future.
+
+Sep 16: _The Duodecimal Bulletin_ WN X0, for 11E7 (2011.)
+Dec 10: _The Duodecimal Bulletin_ WN X1, for 11E8 (2012.)
+Mar 01: _The Duodecimal Bulletin_ WN X2, for 11E9 (2013.)
+
+This will have us caught up  to the current year, and future
+issues published in 11EX (after WN X2) will be for that year
+(11EX, or 2014.).
+
+---------------Potential Presentation at NCTM---------------
+
+At  our   annual  meeting,   due  to  the   successful  ASEE
+presentation discussed in our  last issue, the DSA suggested
+research  into a  similar practice  next year.  That is,  we
+wished  to  investigate  the possibilities  of  setting  our
+annual meeting close in time to some mathematical conference
+and submit a presentation  on dozenals and alternative bases
+to that presentation.
+
+This  year,  we  are  considering  setting  the  meeting  to
+coincide  with  the  National   Conference  of  Teachers  of
+Mathematics. There are two  regional conferences of the NCTM
+next year, in October and  November, in Indianapolis, IN and
+Richmond, VA.
+
+We are in  need of people to help with  such a presentation.
+If you  are interested  in doing so  in any  capacity, plese
+write us at:
+
+    Contact@dozenal.org
+
+This could be  great publicity for dozenal  and the Society,
+so please, write if you're able to help.
+
+============================================================
+=                    POETICAL DIVERSION                    =
+============================================================
+
+We noted last issue (Newscast 01:05) that the English tongue
+has a great variety of rhymes, songs, and games suitable for
+(and  actually used  for) teaching  numbers and  counting to
+small children.  We presented  one, which included  not only
+counting  but  also some  more  advanced  concepts, in  that
+issue, as well.
+
+This issue, we intend to  adapt many of our current counting
+songs for dozenal, so that they can be used for teaching our
+favorite number base. Most of these are quite well-known, or
+at least  exist in quite  well-known variations, so  we will
+only be  presenting the  new verses.  This policy  saves the
+reader's  patience, as  well as  limits the  length of  this
+newsletter.
+
+Some of these, such as "One, Two; Buckle My Shoe," go beyond
+the  decimal base;  they  are also  modified  to conform  to
+dozenal. In such cases, however,  every effort has been made
+to ensure  they conformity with  the original spirit  of the
+rhymes, as far as possible.
+
+It is certain that these are not the best that can be done;
+please, send in your ideas for improvements!
+
+ONE, TWO; BUCKLE MY SHOE
+------------------------
+Eleven, twelve; dig and delve.
+Twelve-one, twelve-two; court the maids do;
+Twelve-three, twelve-four; maids at the store;
+Twelve-five, twelve-six; whip up the mix;
+Twelve-se'en, twelve-eight; maids now must wait;
+Twelve-nine, twelve-ten; plates empty again;
+Twelve-eleven, twelve-twelve; go to the shelf.
+
+OVER IN THE MEADOW
+------------------
+Over in the meadow, snuggled up in their den,
+lived an old mother fox and her foxes 'leven.
+"Bark!" said the mother; "We bark!" said the 'leven;
+and they barked and they snuggled in their cozy small den.
+
+Over in the meadow, huddled deep in her delve,
+lived an old mother gophers and her little gophers twelve.
+"Dig!" said the mother; "We dig!" said the twelve;
+and they dug and they played in their mother's deep delve.
+
+THE ANTS GO MARCHING ONE BY ONE
+-------------------------------
+The ants go marching ten by ten, hurrah!  hurrah!
+The ants go marching ten by ten, hurrah!  hurrah!
+    The ants go marching ten by ten,
+    The little one says it's not the end,
+And they all go marching down, to the ground, to get out of
+    the rain!
+
+The ants go marching 'le'en by 'le'en, hurrah!  hurrah!
+The ants go marching 'le'en by 'le'en, hurrah!  hurrah!
+    The ants go marching 'le'en by 'le'en,
+    The little one stops to grab his pen,
+And they all go marching down, to the ground, to get out of
+    the rain!
+
+The ants go marching twelve by twelve, hurrah!  hurrah!
+The ants go marching twelve by twelve, hurrah!  hurrah!
+    The ants go marching twelve by twelve,
+    The little one stops to start to delve,
+And they all go marching down, to the ground, to get out of
+    the rain!
+
+TWELVE LITTLE AEROPLANES
+------------------------
+(Modified from the traditional "Ten Little Indians," due to
+the latter often being offensive.)
+
+One little, two little, three little aeroplanes;
+four little, five little, six little aeroplanes;
+seven little, eight little, nine little aeroplanes;
+ten, eleven, twelve flying high!
+
+Twelve little, eleven little, ten little aeroplanes;
+nine little, eight little, seven little aeroplanes;
+six little, five little, four little aeroplanes;
+three, two, one flying high!
+
+CONCLUSION
+----------
+
+Other songs can be easily  modified simply by adding verses.
+E.g., "Five green  and speckled frogs" and can  be made into
+"Six green and speckled frogs";  "There were ten in the bed"
+and "Ten  silly monkeys" can  be made into twelve  each. But
+having  any of  these,  either simply  extended or  actually
+changed, in  our repertoire  may prove useful  in explaining
+dozens to others, particularly to the young.
+
+============================================================
+=               DOZENAL THOUGHT OF THE MONTH               =
+============================================================
+
+
+                    EACH ONE, TEACH ONE
+
+============================================================
+=                       BACKMATTER                         =
+============================================================
+
+_The DSA Newscast_ is a production of the Dozenal Society of
+America.  If you  have received  this publication  in error,
+or  otherwise do  not  wish to  receive  it anymore,  please
+unsubscribe  by  mailing  a message  containing  the  string
+"UNSUBSCRIBE DSA  NEWSCAST", exactly as typed,  in its body,
+to the Reply-To address of this message.
+
+For questions, comments, submissions, or other communication
+with the _Newscast_, please write to:
+    newscast@dozenal.org

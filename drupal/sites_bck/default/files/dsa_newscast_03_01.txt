@@ -1,0 +1,219 @@
+============================================================
+
+                      THE DSA NEWSCAST
+                   http://www.dozenal.org
+
+============================================================
+The Dozenal Society of America                Vol. 3, Iss. 1
+Official Newsletter                           1 January 11EE
+============================================================
+
+============================================================
+=                         CONTENTS                         =
+============================================================
+
+1.  Donations
+2.  For Sale
+    -Calendars for 11EE now available!
+3.  Dozenal News
+    -General News
+    -Dozenal Android Apps Expected Soon
+    -Assistance Needed for iOS Apps
+4.  Society Business
+    -501(c)(3) status restored!
+5.  Poetical Diversion
+6.  Backmatter
+
+============================================================
+=                        DONATIONS                         =
+============================================================
+
+Members,  please  remember that  while  dues  are no  longer
+required for membership, we still  rely on the generosity of
+members  to keep  the DSA  going. Donations  of any  amount,
+large or small, are welcome and needed.
+
+A  donation   of  $10;  ($12.)  will   procure  Subscription
+membership, and entitles the payer to receive both a digital
+and  a paper  copy  of the  _Bulletin_  if requested.  Other
+members will  receive only  a digital  copy. To  invoke this
+privilege, please  notify the  Editor of the  Bulletin, Mike
+deVlieger, at
+
+    mdevlieger@dozenal.org
+
+As members know, we are  a volunteer organization which pays
+no salaries.  As such,  every penny  you donate  goes toward
+furthering the DSA's goals.
+
+It may be worth considering  a monthly donation; say, $3, or
+$6, or whatever seems reasonable to  you. This can be set up
+quite  easily  with  Paypal  or WePay,  both  of  which  are
+available at our web site.
+
+Of course,  if you prefer to  donate by check, you  may send
+them to our worthy Treasurer,  Jay Schiffman, payable to the
+Dozenal Society of America, at:
+
+    Jay Schiffman
+    604-36 South Washington Square, #815
+    Philadelphia, PA  19106-4115
+
+----------------------Member Benefits-----------------------
+
+Chief  among  the benefits  of  membership,  aside from  the
+knowledge  of supporting  the DSA's  mission, is  receipt of
+_The  Duodecimal Bulletin_.  In  addition, however,  members
+also receive (digitally) a  membership card containing their
+vital  member  information  and   a  monthly  calendar  with
+dozenal numbers, containing suitable and educational dozenal
+quotations and graphics, laid out for wall display.
+
+To  receive  these, please  notify  us  that you'd  like  to
+receive them:
+
+    Contact@dozenal.org
+
+============================================================
+=                         FOR SALE                         =
+============================================================
+
+We are excited to announce the availability of calendars for
+next year, 11EE!
+
+The DSA  is pleased to  offer the following for  sale. These
+are all either at cost, or the proceeds go to the Society.
+
+    Wall Calendar for 11EE, coiled binding        $10.05
+    Weekly Planner for 11EE                        $8.29
+    TGM:  A Coherent Dozenal Metrology             $8.00
+
+Prices are,  unfortunately but by necessity,  in decimal. To
+find these works, simply go to:
+
+    http://www.lulu.com/shop/shop.ep
+
+and enter the appropriate  terms. E.g., searching for "11EE"
+will turn up these calendars  and the planner; searching for
+"TGM dozenal" will turn up the TGM book.
+
+We hope  to offer  other titles, and  even some  other items
+(such as dozenal clocks and the like), in the near future.
+
+============================================================
+=                       DOZENAL NEWS                       =
+============================================================
+
+------------------------General News------------------------
+
+A little write-up of dozenal  arithmetic, "How to Learn / Do
+Duodecimal / Dozenal / Base 12 Number System - A Math Lesson
+and Examples : 0-9 A B"  was noticed this last month; toward
+the end it mentions and links to the DSA:
+
+    http://paradigmsearch.hubpages.com/hub/duodecimal-base-12-dozenal
+
+This last September, the blog of Math 3010 at the University
+of Utah published an explanation and defense of dozenal back
+in September last year:
+
+    http://3010tangents.wordpress.com/2014/09/22/we-need-more-fingers-2/
+
+Paul  Battisson  gives  us  an  interesting  explanation  of
+dozenal with a separate-identity symbology and nomenclature:
+
+    http://paulbattisson.com/the-nooka-counting-systems/
+
+Sadashiv  Pradhan gives  us a  basic article  about dozenal,
+with a  pessimistic outlook on  the prospects of  a societal
+switch to it:
+
+    http://sadashivpradhan.blogspot.com/2013/06/what-if-we-had-6-fingers.html
+
+Zyvra  gives us  a  defense  of dozenal  and  some links  to
+programs which can deal with base twelve:
+
+    http://www.zyvra.org/lafarr/math/dozenal.htm
+
+Finally,  we  ran into  some  links  on dozenal  clocks  and
+calculators designed  specifically for Windows 8,  which may
+be interesting to our members who use that operating system:
+
+    http://www.myfavoritegadgets.info/other/DozenalClock/DozenalClock.html
+    http://apps.microsoft.com/windows/en-us/app/simple-dozenal-calculator/5d79152e-4c5a-445e-b0a5-ab9b81cc4c1a
+
+-------------Dozenal Android Apps Expected Soon-------------
+
+Readers  may  recall  from  our  last  issue  that  the  DSA
+discussed,  at  our  annual   meeting,  the  possibility  of
+producing dozenal smartphone apps. We're pleased to announce
+that some basic dozenal  smartphone apps for Android systems
+should be available within the month. These will include:
+
+    -A dozenal  clock, which provides a  dozenalized version
+    of our current time, each hour divided into 100; units.
+
+    -A  dozenal  calculator,  capable   of  the  usual  four
+    functions, roots, powers,  grouping via parentheses, and
+    rudimentary memory functions.
+
+    -A metric  converter, working entirely in  dozenal; this
+    converts  from SI,  English/customary,  and the  dozenal
+    system known as TGM.
+
+Also forthcoming is a dozenal  calendar app, which will keep
+appointments by date  and time in dozenal. This  is still in
+alpha stages and will probably be released at a later time.
+
+---------------Assistance Needed for iOS Apps---------------
+
+If you are  able to program or learn to  program for the iOS
+operating  system  used  on Apple  mobile  products,  please
+contact us  if you'd  be willing to  create apps  similar to
+those above,  or additional apps  which might be  useful and
+interesting to members of the DSA, for iOS.
+
+============================================================
+=                     SOCIETY BUSINESS                     =
+============================================================
+
+The  DSA  is   pleased  to  announce  that   we  have  again
+been   granted  our   501(c)(3)  status   by  the   American
+Internal  Revenue Service.  This  means  that, according  to
+applicable law,  your donations  to the  DSA are  once again
+tax-deductible.
+
+The  effective date  of this  exemption is  the date  of our
+application;  namely,  May  21,  11E9  (May  25,  2013).  So
+donations made after that date are tax-deductible.
+
+============================================================
+=                    POETICAL DIVERSION                    =
+============================================================
+
+May auld decimal be forgot,
+and never brought to mind!
+May auld decimal be forgot,
+and dozenal come rise!
+
+    For dozenal should rise, my jo,
+    for dozenal should rise!
+    We'll see the fall of dec'mal yet,
+    and dozenal shall rise!
+
+============================================================
+=                       BACKMATTER                         =
+============================================================
+
+_The DSA Newscast_ is a production of the Dozenal Society of
+America.  If you  have received  this publication  in error,
+or  otherwise do  not  wish to  receive  it anymore,  please
+unsubscribe  by  mailing  a message  containing  the  string
+"UNSUBSCRIBE NEWSCAST",  exactly as  typed, in its  body, to
+the Reply-To address of this message.
+
+For questions, comments, submissions, or other communication
+with the _Newscast_, please write to:
+    newscast@dozenal.org
+                    
+                    EACH ONE, TEACH ONE

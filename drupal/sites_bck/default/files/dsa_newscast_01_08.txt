@@ -1,0 +1,497 @@
+============================================================
+
+                      THE DSA NEWSCAST
+                   http://www.dozenal.org
+
+============================================================
+The Dozenal Society of America                Vol. 1, Iss. 8
+Official Newsletter                           1 October 11E9
+============================================================
+
+============================================================
+=                         CONTENTS                         =
+============================================================
+
+1.  Donations
+    -Now taking donations via WePay---no login necessary
+2.  Article:  SDN for Word Construction
+3.  Dozenal News
+    -"Summer Reading:  'New Numbers'" by Charles Petzold
+    -"The case for base-twelve" by Eric L. Dion
+    -"Leclerc sur Douzainisme" by Georges-Louis Leclerc   
+4.  Society Business
+    -Bulletin Publication
+    -Potential Presentation at NCTM
+5.  Poetical Diversion
+7.  Backmatter
+
+============================================================
+=                        DONATIONS                         =
+============================================================
+
+Members,  please  remember that  while  dues  are no  longer
+required for membership, we still  rely on the generosity of
+members  to keep  the DSA  going. Donations  of any  amount,
+large or small, are welcome and needed.
+
+A  donation   of  $10;  ($12.)  will   procure  Subscription
+membership, and entitles the payer to receive both a digital
+and  a paper  copy  of the  _Bulletin_  if requested.  Other
+members will  receive only  a digital  copy. To  invoke this
+privilege, please  notify the  Editor of the  Bulletin, Mike
+deVlieger, at
+
+    mdevlieger@dozenal.org
+
+As members know, we are  a volunteer organization which pays
+no salaries.  As such,  every penny  you donate  goes toward
+furthering the DSA's goals.
+
+It may be worth considering  a monthly donation; say, $3, or
+$6, or whatever seems reasonable to  you. This can be set up
+quite easily with Paypal or WePay.
+
+Of course,  if you prefer to  donate by check, you  may send
+them to our worthy Treasurer,  Jay Schiffman, payable to the
+Dozenal Society of America, at:
+
+    Jay Schiffman
+    604-36 South Washington Square, #815
+    Philadelphia, PA  19106-4115
+
+----------------------Member Benefits-----------------------
+
+Chief  among  the benefits  of  membership,  aside from  the
+knowledge  of supporting  the DSA's  mission, is  receipt of
+_The  Duodecimal Bulletin_.  In  addition, however,  members
+also receive (digitally) a  membership card containing their
+vital  member  information  and   a  monthly  calendar  with
+dozenal numbers, containing suitable and educational dozenal
+quotations and graphics, laid out for wall display.
+
+To  receive  these, please  notify  us  that you'd  like  to
+receive them:
+
+    Contact@dozenal.org
+
+---------------------------WePay----------------------------
+
+We have accepted donations through PayPal for some time; now
+we can also accept them via WePay, which allows donations to
+be made  without having an  account. We hope that  this will
+make it easier to support the Society.
+
+============================================================
+=                SDN for Word Construction                 =
+============================================================
+
+We saw, in Issues 01:06  and 01:07, the basics of Systematic
+Dozenal Nomenclature  (SDN). To recap very  briefly, here is
+the chart of SDN words:
+
+    Num.    Part.       Pos. Power      Neg. Power
+    -----   ------      -----------     ------------
+    0       Nil         Nilqua          Nilcia
+    1       Un          Unqua           Uncia
+    2       Bi          Biqua           Bicia
+    3       Tri         Triqua          Tricia
+    4       Quad        Quadqua         Quadcia
+    5       Pent        Pentqua         Pentcia
+    6       Hex         Hexqua          Hexcia
+    7       Sept        Septqua         Septcia
+    8       Oct         Octqua          Octcia
+    9       Enn         Ennqua          Enncia
+    X       Dec         Decqua          Deccia
+    E       Lev         Levqua          Levcia
+
+We also saw that the simplest way  to use SDN is to name the
+highest power in the number, and  then to list the digits in
+order. For  example, the  current year is  11E9; in  SDN, we
+could pronounce this as:
+
+    11E9 = "one triqua one elv nine"
+
+However, while  SDN makes  talking about dozenal  numbers as
+easy  (easier!) than  talking  about decimal  ones, it  also
+makes  it possible  to  dozenalize all  of our  nomenclature
+without invalidating many  of the common words  we use every
+day. For  example, consider the  words for various  types of
+vehicle, based on the number of wheels they have:
+
+    Wheels       Name
+    ---------------------------------------------
+    1            Unicycle
+    2            Bicycle
+    3            Tricycle
+    4            Four-wheeler
+    16;          Eighteen-wheeler
+
+We  can see  that  our common  system  of cobbling  together
+anglicized Greek roots breaks down  after three; but it will
+please us  to note  that the first  three are  all perfectly
+regular,  orthodox SDN!  They're not  irregular, just  magic
+syllables which we must memorize to be correct; but they are
+still the same words that we've grown up using.
+
+However, SDN is easily able to  go up the chain here, making
+words  for all  sorts of  vehicle which  are clumsy  or even
+impossible in our current systemless system:
+
+    No. of Wheels       Name
+    ---------------------------------------------
+    1                   Unicycle
+    2                   Bicycle
+    3                   Tricycle
+    4                   Quadcycle
+    5                   Pentcycle
+    6                   Hexcycle
+    ...
+    16                  Unhexcycle
+
+Our  famous "eighteen  wheeler," what  I grew  up calling  a
+"semi" and what is  regularly called a "tractor-trailer," is
+trival to name concisely and simply according to SDN. And we
+can extend this even further.
+
+Consider  our names  for polygons;  that is,  enclosed, two-
+dimensional shapes. While these  follow a system, the system
+is not normal for our language, nor is it well understood by
+many.  Particularly  in the  simpler  shapes,  we have  many
+irregular words; some polygons are named by number of sides,
+some by number of angles; and when we get into higher ranks,
+they start  becoming quite unfamiliar.  Below is a  chart of
+our traditional  polygon names to demonstrate  the confusion
+and difficulty.
+
+    Polygon     Name                Number Word
+    ----------------------------------------------
+    3           Triangle            Tri
+    4           Rectangle;          Quad
+                    Quadrilateral
+    5           Pentagon            Pent
+    6           Hexagon             Hex
+    7           Septagon            Sept
+    8           Octagon             Oct
+    9           Nonagon             Enn
+    X           Decagon             Dec
+    E           Hendecagon          Undec
+    10          Dodecagon           Dodec
+    11          Triskaidecagon,     Tridec
+                    tridecagon
+    12          Tetrakaidecagon,    Unquad
+                    tetradecagon
+    ...
+    18          Icosagon            Vigi, Icosa
+    ...
+    20          Icosatetragon       ?
+
+There  is a  system here,  but it's  opaque and  unfamiliar;
+indeed, geometers  typically start referring to  polygons as
+"n-gons" (e.g.,  "twelve-gon" or "thirty-four-gon")  just to
+avoid this whole mess.
+
+However, SDN makes these all quite simple:
+
+    Polygon     Name                Number Word
+    ----------------------------------------------
+    3           Triangle, trigon    Tri
+    4           Quadragon;          Quad
+                    Quadrilateral
+    5           Pentagon            Pent
+    6           Hexagon             Hex
+    7           Septagon            Sept
+    8           Octagon             Oct
+    9           Ennagon             Enn
+    X           Decagon             Dec
+    E           Levagon             Lev
+    10          Unquagon;           Unqua; unnil
+                    Unniligon
+    11          Ununigon            Unun
+    12          Unbigon             Unbi
+    ...
+    18          Unoctagon           Unoct
+    ...
+    20          Binaunquagon;       Binaunqua; binil
+                    biniligon
+
+We see here that the names of the polygons *exactly matches*
+the SDN number root, making it easy to tell at a glance what
+shape goes with what name and vice-versa.
+
+We  see a  few  interesting  things here.  One  is that  SDN
+sometimes provides more than one  possible name for a thing.
+For example, the 10-gon is either "unquagon" or "unniligon";
+both of these are  correct and regular, easily constructible
+according to a short and simple set of rules.
+
+"Unquagon" is  formed from  the the root  for 1,  "un," plus
+the  positive power  suffix, "qua";  this forms  our regular
+root  for  10^1, "unqua."  "Unniligon"  is  the more  direct
+formulation; it  is simply  "un" for 1  and "nil"  for zero,
+forming "10" in  words rather than digits, plus  "i" to make
+it flow better and "gon" to show that we mean a polygon.
+
+The same  thing goes for  "binaunquagon," which can  also be
+called a  "biniligon." The  latter is easy:  "bi" for  2 and
+"nil" for  zero, writing "20"  in words rather  than digits.
+The  former is  likewise simple,  though a  bit less  so. We
+start  with "unquagon";  but this  time, we  want "unquagon"
+multiplied by 2. So we use  our root for 2, "bi," and attach
+it. However, "biunquagon" would look like 10^21, much larger
+than  our intended  meaning  of  "2 x  10^1";  so to  ensure
+clarity of meaning, we add "na" to separate the two.
+
+This provides a  good segue into the full power  of SDN. The
+table given  above is E0  perbiqua (SDN for "per  gross") of
+what any user of SDN needs.  However, there is more for when
+we need it. Specifically, there are the *multiplier forms*:
+
+    Part.   Mult.      Pos. Power      Neg. Power
+    ------  ------     -----------     ------------
+    Nil     Nili       Nilqua          Nilcia
+    Un      Uni        Unqua           Uncia
+    Bi      Bina       Biqua           Bicia
+    Tri     Trina      Triqua          Tricia
+    Quad    Quadra     Quadqua         Quadcia
+    Pent    Penta      Pentqua         Pentcia
+    Hex     Hexa       Hexqua          Hexcia
+    Sept    Septa      Septqua         Septcia
+    Oct     Octa       Octqua          Octcia
+    Enn     Enna       Ennqua          Enncia
+    Dec     Deca       Decqua          Deccia
+    Lev     Leva       Levqua          Levcia
+
+These multiplier forms,  as can be seen,  are typically just
+the  root  particular  plus  a vowel,  either  "a"  or  "i".
+However, when the  root particle ends in a vowel,  an "n" is
+added,  as well;  this avoids  such ugliness  as "biaunqua."
+Further, "quad" becomes "quadra,"  in accordance with normal
+usage.
+
+These  multiplier forms  are  used  for disambiguation.  The
+example above of binaunquagon  (2 x 10^1-gon) and biunquagon
+(10^21-gon) is an obvious  example. Another example might be
+a 200th anniversary (for  more on anniversaries, see below).
+A  town  celebrating  its  200th anniversary  (in  SDN,  its
+"two  biqua  anniversary")  might  want to  put  up  banners
+proclaiming  this  fact,  as   they  often  do  to  proclaim
+sesquiduplicentennials  and  other decimal  silliness.  This
+is  a  "binabiquennium,"  taking  care to  use  "bina,"  the
+multiplier form. To  leave it out and  have a "bibiquennium"
+would be  to proclaim a  10^22 anniversary, which  is likely
+quite  a  bit longer  than  this  particular town  has  been
+around.
+
+(Of  course,  one can  avoid  this  whole issue  and  simply
+proclaim   a  "binilnilennium,"   writing  "200"   in  words
+(bi-nil-nil)  rather than  digits. But  the other  forms are
+there when we want them.)
+
+Two  more   prominent  examples   of  SDN   simplifying  and
+dozenalizing   our   nomenclature   are   base   names   and
+anniversaries.
+
+Base  names, of  course,  are  dear to  the  heart of  every
+DSA  member.  However,  they   are  clumsy  in  our  current
+nomenclature. Let's line  them up with SDN and  see how much
+simpler we  can make  them. Throughout, in  SDN, I  will use
+"-ary" as a suffix; however,  "-al" could be interchanged in
+every or any case.
+
+    Base    Traditional     SDN
+    ----    ------------    ----------
+    2       Binary          Binary
+    3       Ternary         Trinary
+    4       Quadral,        Quadrary
+                quaternary
+    5       Quinary         Pentary
+    6       Senary          Hexary
+    7       Septal          Septary
+    8       Octal           Octary
+    9       Nonary          Ennary
+    X       Decimal         Decimal, decary
+    E       Undecimal       Levary
+    10      Duodecimal,     Unnilary, unquary
+                dozenal
+    ...
+    14      Hexadecimal     Unquadrary
+    ...
+    18      Vigesimal       Unoctary
+    ...
+    50      Sexagesimal     Pentnilary, pentanunquary
+
+Notice that many of these words are the same (e.g., binary,
+octal), but that the system in SDN tracks the words we use
+for successive powers of a dozen *exactly*.  Furthermore, we
+can easily predict words for bases even if we don't actually
+know them.
+
+For  example,  without  either previous  knowledge  of  base
+mathematics (or of the  Latin language), hearing "vigesimal"
+carries no meaning whatsoever. However, with SDN, "unoctary"
+or "unoctal" *immediately*  and *unambiguously* presents the
+same meaning,  base 18;, to  anyone who knows how  to count;
+that is, to practically everybody.
+
+Anniversaries  are  another  common and  greatly  simplified
+area  of  application  for  SDN. We  in  America  celebrated
+our   bicentennial  only   a  few   dozen  years   ago;  and
+"bicentennial" is an easy word  to figure out. However, many
+localities celebrate  150.-year anniversaries,  or 350.-year
+anniversaries; and  determining what to call  such things is
+not  only  difficult,  but  also  productive  of  ridiculous
+results ("sesquiduplicentennial" and such monstrosities).
+
+The dozenal  analogs of these anniversaries,  of course, are
+160 or 260;  but even the exact dozenal  duplicates of these
+hard-to-name anniversaries, such as 106 for 150., or 18X for
+250., are  just as  simple. The table  below contains  a few
+major anniversaries  in both  dozenal and decimal,  with the
+SDN name listed.
+
+    Decimal     Dozenal     SDN
+    --------    --------    ---------------
+    5           5           Pentennial
+    6           6           Hexennial
+    10          X           Decennial
+    12          10          Unquennial; Unnilennial
+    15          13          Untriennial
+    18          16          Unhexennial
+    20          18          Unoctennial
+    24          20          Binaunquennial; Binilennial
+    25          21          Biunennial
+    30          26          Bihexennial
+    35          2E          Bilevennial
+    36          30          Trinaunquennial; trinilennial
+    40          34          Triquadrennial
+    45          39          Triennennial
+    48          40          Quadrunquennial; Quadnilennial
+    50          42          Quadbiennial
+    100         84          Octquadrennial
+    125         X5          Decpentennial
+    144         100         Biquennial; unnilnilennial
+    150         106         Unnilhexennial
+    175         127         Unbiseptennial
+    180         130         Untrinilennial
+    192         140         Unquadnilennial
+    200         148         Unquadoctennial
+    216         160         Unhexnilennial
+    240         180         Unoctnilennial
+    250         18X         Unoctdecennial
+    252         190         Unennnilennial
+    275         1XE         Undeclevennial
+    288         200         Binabiquennial; binilnilennial
+    360         260         Bihexnilennial
+
+We can  see here  that it is  trivial to  name anniversaries
+that  are  difficult  or   even  impossible  in  traditional
+decimal-based  English  nomenclature.  The  ability  extends
+well  beyond the  anniversaries  of  city-foundings and  the
+like;  even wedding  anniversaries can  benefit. A  couple's
+quadrunquennial (or  quadnilennial, if you will)  is truly a
+great  accomplishment; but  what would  you call  it without
+using SDN?
+
+Next month:  SDN for *fractional* words!
+
+============================================================
+=                       DOZENAL NEWS                       =
+============================================================
+
+----"Summer Reading:  'New Numbers'" by Charles Petzold-----
+
+Charles  Petzold, a  mathematician  and computer  scientist,
+some years ago  discovered the work of one  of our founders,
+F. Emerson Andrews, _New Numbers_.
+
+    http://www.charlespetzold.com/blog/2006/08/250954.html
+
+He seems quite  taken by the text, and  has some interesting
+comments  which  may  be   worth  perusing.  Thanks  to  DSA
+Secretary Jen Seron (#3X2) for pointing out this text.
+
+---------"The case for base twelve" by Eric L. Dion---------
+
+Eric L. Dion, back in June, wrote a delightful two-part blog
+post on  why we should  switch to dozenal. Oddly,  the posts
+give no indication that Mr. Dion has ever heard of the DSA:
+
+    http://dissentofman.blogspot.com/2013/06/the-case-for-base-twelve-part-1.html
+
+Using lowercase Greek letters gamma and psi for X and E, Mr.
+Dion explains  the nature of place  notation; the advantages
+of base twelve; and proposes a system of nomenclature. Worth
+the read.
+
+----"Leclerc sur Douzainisme", by Georges-Louis Leclerc-----
+
+In  keeping with  our  last few  articles  delving into  the
+historic roots of  dozenalism, we are proud  to announce the
+publication of  an excerpt  from Georges-Louis  Leclerc, the
+Count of Buffon, on dozenalism:
+
+    http://www.dozenal.org/drupal/content/leclerc-sur-douzainisme
+
+It is  offered here in  its original language, along  with a
+facing English translation.
+
+============================================================
+=                     SOCIETY BUSINESS                     =
+============================================================
+
+--------------------Bulletin Publication--------------------
+
+We're proud  to repeat  our announcement earlier  this month
+that _The  Duodecimal Bulletin_  WN X0  was published  on 15
+September, a day ahead of our previously announced schedule.
+Our editor  put together an excellent  and intriguing issue,
+and we hope that the membership was able to enjoy it.
+
+The _Bulletin_ schedule for the immediate future remains the
+same:
+
+Dec 10: _The Duodecimal Bulletin_ WN X1, for 11E8 (2012.)
+Mar 01: _The Duodecimal Bulletin_ WN X2, for 11E9 (2013.)
+
+This will have us caught up  to the current year, and future
+issues published in 11EX (after WN X2) will be for that year
+(11EX, or 2014.).
+
+============================================================
+=                    POETICAL DIVERSION                    =
+============================================================
+
+The below was inspired by William Lauritzen's article in the
+recent _Bulletin_ on versatile numbers.
+
+For generations past, the primes have reigned,
+    the scholars plumbing through their fertile depths,
+all students drilling them with interest feigned,
+    til later, scholars, they retraced these steps.
+But primes, so still and dull, so sterile too,
+    with but themselves and one to hold them up,
+may scholars draw, but practice fail to woo,
+    for practice with variety would sup.
+But versatiles!  what joy you bring the soul!
+    each with more factors than all less than you!
+O infinite, like primes, no rule can poll!
+    All are twelve's multiples or factors, too!
+The source of usefulness in numbers all,
+    without you senseful number systems fall!
+
+============================================================
+=                       BACKMATTER                         =
+============================================================
+
+_The DSA Newscast_ is a production of the Dozenal Society of
+America.  If you  have received  this publication  in error,
+or  otherwise do  not  wish to  receive  it anymore,  please
+unsubscribe  by  mailing  a message  containing  the  string
+"UNSUBSCRIBE DSA  NEWSCAST", exactly as typed,  in its body,
+to the Reply-To address of this message.
+
+For questions, comments, submissions, or other communication
+with the _Newscast_, please write to:
+    newscast@dozenal.org
+                    
+                    EACH ONE, TEACH ONE

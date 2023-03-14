@@ -1,0 +1,262 @@
+<html><pre>
+============================================================
+ '|.   '|'              The DSA                         .  
+  |'|   |   .... ... ... ... ....   ....  ....   .... .||. 
+  | '|. | .|...|| ||  ||  | ||. ' .|   '''' .|| ||. '  ||  
+  |   ||| ||       ||| |||  . '|..||     .|' || . '|.. ||  
+ .|.   '|  '|...'   |   |   |'..|' '|...''|..'|'|'..|' '|.'
+============================================================
+The Dozenal Society of America                Vol. 1, Iss. 1
+Official Newsletter                               7 Mar 11E9
+============================================================
+=                  http://www.dozenal.org                  =
+============================================================
+
+==========================CONTENTS==========================
+
+1.  The DSA Newscast
+2.  Dozenal News
+    December 11E8
+    January 11E9
+    February 11E9
+3.  Backmatter
+
+============================================================
+=                     The DSA Newscast                     =
+============================================================
+
+This  is  the first  issue  of  the  DSA Newscast,  the  new
+(hopefully) monthly  publication of  the Dozenal  Society of
+America. There  are two  things which  need to  be explained
+here: our name, and our purpose.
+
+The  name, the  DSA Newscast,  is a  nod to  the publication
+of  our   British  brethren   at  the  Dozenal   Society  of
+Great  Britain, who  published their  flagship journal  _The
+Duodecimal  Newscast_ from  1173  (1959.)  to 117X  (1966.),
+before they began publishing a more formal journal.
+
+Our purpose is  similarly simple: to provide  a more regular
+and  more   down-to-earth  publication  for  the   world  of
+dozenals than is currently  available. The Newscast is *not*
+intended as a substitute  or replacement for _The Duodecimal
+Bulletin_; the  purposes of  the two publications  are quite
+different.  As explained  in our  namesake's first  issue by
+Brian Bishop:
+
+    Until we can  start a regular magazine  I shall keep
+    members  informed  of  activities in  the  world  of
+    duodecimals  by means  of such  circular letters  as
+    this. I  should also like  members to use it  to air
+    their views.
+
+This  little  newsletter is  for  minor  things, things  too
+small or  brief or  inconsequential for the  _Bulletin_; or,
+conversely, things too time-sensitive  or urgent to wait for
+the next _Bulletin_. It's perfectly suited for:
+
+    - An announcement of  a dozenal-related gathering; e.g.,
+    a meetup in a given city at a certain time;
+
+    - You've found an opportunity  to speak on dozenals at a
+    conference,  school, or  other  venue, and  you want  to
+    invite dozenalists to show support;
+
+    - You've  seen a  dozenal article somewhere  (or written
+    one) and  want to draw fellow  dozenalists' attention to
+    it;
+
+    -   There's  a   discussion   on  dozenalism   occurring
+    somewhere, and you want to  enlist the aid and wisdom of
+    other dozenalists in it;
+
+    - You've seen some curious use of dozenalism not worth a
+    real academic  article but  still interesting  enough to
+    tell others about;
+
+    - Anything else of this nature.
+
+Please, make liberal use of  this newsletter for these types
+of  purposes; our  goal is  to  ensure it  becomes a  useful
+resource, and with this purpose, it can only be useful if it
+is actually used.
+
+============================================================
+=                           NEWS                           =
+============================================================
+
+DECEMBER 11E8
+
+December was a landmark month for dozenals; because although
+it was merely  the year 11E8, an  number unremarkable except
+for its closeness to 1200, in decimal it was the year 2012.,
+which  caused  December to  contain  the  date (in  decimal)
+12/12/12.  Although this  date  was  really unremarkable  in
+dozenal, it caused  a watershed of interest  in dozenal, and
+we had the publicity to match.
+
+    - "Dozenalists of  the world unite! Rise  up against the
+    tyranny of ten!" Alex Bellos, author of the popular math
+    book  _Here's Looking  at  Euclid_  (an excellent  read,
+    by  the way),  had already  interviewed your  _Bulletin_
+    editor  and  past  president, Mike  deVlieger,  at  some
+    length; for this  occasion, he wrote an  article for the
+    _Guardian_  blog with  the above  title. He  interviewed
+    your  president  and  Mr.  deVlieger  again,  eventually
+    producing a wonderful article on dozens. You can read it
+    at:
+      http://www.guardian.co.uk/science/alexs-adventures-in-numberland/2012/dec/12/dozenalists-world-unite-tyranny-ten
+
+    -  The  above article  was  translated  many times  into
+    many  languages,  most  interestingly into  Hebrew,  at:
+    http://www.haaretz.co.il/news/science/1.1885049
+
+    - Janice Lloyd wrote briefly about us in _USA Today_:
+      http://www.usatoday.com/story/news/nation/2012/12/11/121212-twelve-weddings-bruce-magic/1761127
+
+    - The Danbury _News-Times_, originally on the front page
+    but later moved to "Weird News" (!):
+      http://newstimes.com/news/us/article/Americans-finding-dozens-of-ways-tomark-12-12-12-4109223.php
+
+    - James Grime, the  Internet's "Numberphile," produced a
+    very enthusiastic 9-minute introductory video on dozenal
+    on Youtube:
+      http://www.youtube.com/watch?v=3DU6xJfP7-HCc&list=3DUUoxcjq-8xIDTYp3uz647V5A
+
+    -  Mike  deVlieger  was  interviewed  by  ABC  Australia
+    Pacific Radio.
+
+As Mr.  deVlieger wrote in  his summary of the  publicity to
+the officers of the DSA:
+
+    The  Society's Founder  F.  Emerson Andrews  reached
+    many through  the Atlantic Monthly, and  touched off
+    the Society.  In the  1970s, ABC showed  the "Little
+    Twelvetoes"  animated  short  on  Saturday  mornings
+    throughout the 70s and  80s. Gene was interviewed on
+    NPR in 1994. This event  stands alongside these as a
+    significant publicity event. We  can be sure that we
+    all  participated  in  furthering  the  aim  of  our
+    Society to educate the public on the benefits of the
+    twelve  system!  We  do  hope  Mr.  Emerson,  Beard,
+    Churchman,  and the  many others  that followed  and
+    contributed do  smile upon this  day as the  day the
+    world marveled at twelve.
+
+Further comment hardly seems necessary.
+
+Dr. Paul  Rapoport (#230) of McMaster  University, Hamilton,
+ON, CA, who many years ago produced physical dozenal digital
+clocks,  has  produced  a  set of  dozenal  analog  computer
+clocks, which  an be customized  in a variety of  ways. Find
+them at:
+
+    http://dozenal.ae-web.ca
+
+This adds  to the  existing set  of dozenal  analog computer
+clocks:
+
+    http://www.gingerbill.org/dozenal/demo.html
+    http://www.sourceforge.net/projects/uncialclock/
+    http://gorpub.freeshell.org/dozenal/blosxom.cgi/clock.html
+
+Thanks to Dr. Rapoport for sponsoring this project, which is
+discussed at the DozensOnline forum.
+
+JANUARY 11E9
+
+Treisaran,  on  the  DozensOnline  forum,  has  developed  a
+difficult but  still usable test for  divisibility by seven;
+it works with modifications in both decimal and dozenal.
+
+    http://z13.invisionfree.com/DozensOnline/index.php?showtopic=840
+
+He calls it the Abbreviated  Power-alpha Test; it is related
+to, though  more complicated than, his  SPD (Split, Promote,
+Discard) test for divisibility by five:
+
+    http://treisaran.deviantart.com/art/SPD-Test-Guide-large-font-fast-version-310345329
+
+Both of these are well worth  a read; and SPD in particular,
+as it fills a rare lacuna in dozenal divisibility tests.
+
+The Internet  website io9,  which bills  itself as  "a daily
+publication that  covers science,  science fiction,  and the
+future," has published an article on dozenal:
+
+    http://io9.com/5977095/why-we-should-switch-to-a-base+12-counting-system
+
+It's an  excellent article, which plainly  borrows from some
+earlier articles (right down  to cribbing some graphics from
+them  wholesale), but  which is  nevertheless worth  a read.
+George Dvorsky,  the author, has written  a wonderful little
+piece for explaining  "why we should have  adopted a base-12
+counting system --- and how we could still make it work."
+
+FEBRUARY 11E9
+
+Your officers  and board have  begun the job of  cleaning up
+the formalities  of the  Society, and have  made significant
+progress this month. For example,  we have begun the process
+of restoring our tax-exempt status with the Internal Revenue
+Service (lost several years ago  due to some rather esoteric
+regulation  changes).  We  will   keep  members  updated  on
+this  matter  in the  _Newscast_  (and,  of course,  in  the
+_Bulletin_).
+
+This  month,  the  DSA  launched its  newly  engineered  and
+improved web  site, still  at the same  domain, dozenal.org.
+The new website includes:
+
+    - A complete set of digital copies of past _Bulletins_.
+
+    -  A  list of  resources  for  using dozenal,  including
+    calculators, measurement converters, and fonts.
+
+    - The same set of digital articles, plus a few additions
+    and improvements.
+        -  Remastered version  of the  Aspirant's Tests  and
+        answers, with links between them.
+        -  Remastered   version  of  F.   Emerson  Andrews's
+        landmark "An Excursion in Numbers."
+         - Remastered version of A. C. Aitken's "Twelves and
+        Tens."
+        - Remastered version  of Ralph Beard's Esperanto
+        disposition   on   dozenalism,   "Antipatio   al
+        Aritmetiko."
+        -   A   completely   updated   exposition   of   Tom
+        Pendlebury's landmark TGM dozenal metric system.
+    -  Social networking  links,  both for  sharing and  for
+    tapping into the DSA's network.
+    -  New  digital  membership forms,  both  web-based  and
+    fillable pdf.
+    - A complete search fuction.
+    - The ability to pay dues entirely online, available for
+    any registered member.
+
+Go ahead  and explore!  You're sure to  find the  same great
+resources you've  always known  from dozenal.org,  plus some
+helpful new additions, as well.
+
+Please, apply  for a user account  if you are a  DSA member;
+this is  an easy process,  and will  enable you to  pay your
+dues online (no more sending in checks, unless you wish), as
+well as access some member-only materials we have available.
+Click on  "Login" at  the new  website, then  on "I  want to
+create an account," and you'll be on your way.
+
+============================================================
+=                       BACKMATTER                         =
+============================================================
+
+_The DSA Newscast_ is a production of the Dozenal Society of
+America. If you have received  this publication in error, or
+otherwise do not wish to receive it anymore, please unscribe
+by mailing a message  containing the string "UNSUBSCRIBE DSA
+NEWSCAST", exactly  as typed, in  its body, to  the Reply-To
+address of this message.
+
+For questions, comments, submissions, or other communication
+with the _Newscast_, please write to:
+    newscast@dozenal.org
+</pre></html>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- +AMDG  This document was begun on 29 February 2008, the
+Feast of a saint I can't remember, and it is humbly
+dedicated to him and to the Immaculate Heart of Mary for
+their prayers, and to the Sacred Heart of Jesus for His
+mercy. -->
+
+<rss version="2.0">
+
+<channel>
+<title>Dozenal Society of America</title>
+<description>
+</description>
+<link>http://www.dozenal.org</link>
+<language>en</language>
+<image>
+<title>Dozenal Society of America</title>
+<url>DSA_seal_favicon.png</url>
+<link>http://www.dozenal.org</link>
+</image>
+
+<item>
+	<title>Chord Dialer</title>
+	<pubDate>20200522</pubDate>
+	<language>en</language>
+	<description>
+		A printable, craftable chord-dialer, which uses the
+		properties of the dozen to identify major and minor
+		chords by both dozenal number and by traditional music
+		notes (A, B, etc.).
+	</description>
+	<guid>1</guid>
+	<link>http://www.dozenal.org/drupal/content/chord_dialer.html</link>
+</item>
+
+<item>
+	<title>Updated Newscast Page</title>
+	<pubDate>20200522</pubDate>
+	<language>en</language>
+	<description>
+		Issues 08:01 and 08:02 of the Newscast are now online.
+	</description>
+	<guid>2</guid>
+	<link>http://www.dozenal.org/drupal/content/dsa_newscast.html</link>
+</item>
+
+<item>
+	<title>Trigons to Triads:  A Play on Chords</title>
+	<pubDate>20200522</pubDate>
+	<language>en</language>
+	<description>
+		We're proud to publish this piece by Donald Hammond,
+		which explains triangles, Pythagorean triples, and the
+		relationship of these to musical notes, such that they
+		can create a chord-dialer to select appropriate notes
+		for major and minor chords.
+	</description>
+	<guid>3</guid>
+	<link>http://www.dozenal.org/drupal/content/troy_trigons.html</link>
+</item>
+
+
+</channel>
+
+</rss>

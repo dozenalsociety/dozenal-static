@@ -1,0 +1,377 @@
+============================================================
+
+                      THE DSA NEWSCAST
+                   http://www.dozenal.org
+
+============================================================
+The Dozenal Society of America                Vol. 1, Iss. X
+Official Newsletter                          1 December 11E9
+============================================================
+
+============================================================
+=                         CONTENTS                         =
+============================================================
+
+1.  Reflections on Our First Year
+2.  Donations
+3.  Article:  Numerical Abbreviations for Fun and Profit
+4.  Dozenal News
+5.  Society Business
+    -Bulletin Publication
+6.  Poetical Diversion
+7.  Backmatter
+
+============================================================
+=              REFLECTIONS ON OUR FIRST YEAR               =
+============================================================
+
+Here  we are  at  the end  of  our first  year  of _The  DSA
+Newscast_. We had only X issues this year, because our first
+was in March, but overall  the idea of a monthly newsletter,
+to provide our members with more frequent information on the
+progress  and  work  of  the DSA  than  our  _Bulletin_  can
+provide, seems to have been a great success.
+
+We have had some feedback, and  all of it has been positive.
+The goals of the Newscast when we started out were modest:
+
+    Our purpose  is similarly simple: to  provide a more
+    regular and  more down-to-earth publication  for the
+    world  of  dozenals  than  is  currently  available.
+    The  Newscast  is  *not* intended  as  a  substitute
+    or  replacement   for  _The   Duodecimal  Bulletin_;
+    the  purposes  of  the two  publications  are  quite
+    different.
+    ...
+    This   little  newsletter   is  for   minor  things,
+    things  too   small  or  brief   or  inconsequential
+    for  the  _Bulletin_;  or,  conversely,  things  too
+    time-sensitive  or  urgent  to  wait  for  the  next
+    _Bulletin_.
+
+And so it has been.
+
+For the new year, we urge our membership to make further use
+of the Newscast. Have a  little thought about dozenals you'd
+like  to  share,  but  don't  want  to  write  up  a  formal
+article?  Read an  article  relevant to  dozenals? Write  to
+newscast@dozenal.org and share it;  if it interested you, it
+would likely interest other members, as well.
+
+In closing, thanks for making the Newscast a success; have a
+wonderful year's end, and we will meet again next month.
+
+============================================================
+=                        DONATIONS                         =
+============================================================
+
+Members,  please  remember that  while  dues  are no  longer
+required for membership, we still  rely on the generosity of
+members  to keep  the DSA  going. Donations  of any  amount,
+large or small, are welcome and needed.
+
+A  donation   of  $10;  ($12.)  will   procure  Subscription
+membership, and entitles the payer to receive both a digital
+and  a paper  copy  of the  _Bulletin_  if requested.  Other
+members will  receive only  a digital  copy. To  invoke this
+privilege, please  notify the  Editor of the  Bulletin, Mike
+deVlieger, at
+
+    mdevlieger@dozenal.org
+
+As members know, we are  a volunteer organization which pays
+no salaries.  As such,  every penny  you donate  goes toward
+furthering the DSA's goals.
+
+It may be worth considering  a monthly donation; say, $3, or
+$6, or whatever seems reasonable to  you. This can be set up
+quite  easily  with  Paypal  or WePay,  both  of  which  are
+available at our web site.
+
+Of course,  if you prefer to  donate by check, you  may send
+them to our worthy Treasurer,  Jay Schiffman, payable to the
+Dozenal Society of America, at:
+
+    Jay Schiffman
+    604-36 South Washington Square, #815
+    Philadelphia, PA  19106-4115
+
+----------------------Member Benefits-----------------------
+
+Chief  among  the benefits  of  membership,  aside from  the
+knowledge  of supporting  the DSA's  mission, is  receipt of
+_The  Duodecimal Bulletin_.  In  addition, however,  members
+also receive (digitally) a  membership card containing their
+vital  member  information  and   a  monthly  calendar  with
+dozenal numbers, containing suitable and educational dozenal
+quotations and graphics, laid out for wall display.
+
+To  receive  these, please  notify  us  that you'd  like  to
+receive them:
+
+    Contact@dozenal.org
+
+============================================================
+=        NUMERICAL ABBREVIATIONS FOR FUN AND PROFIT        =
+============================================================
+
+According  to the  common  understanding of  the term,  this
+little article's title has a bit of false advertising to it,
+I'm afraid;  there'll be precious little  monetary profit to
+any  of what  we're  preparing to  discuss. Of  mathematical
+profit, though, there will be plenty; so in a more expansive
+sense of the term, we will  see a great deal of remuneration
+for our brief time together  today. So, without further ado,
+let us proceed to the topic of abbreviating numbers.
+
+In current  mathematics, we typically abbreviate  numbers by
+using  what  is  often  euphemistically  called  "scientific
+notation," and which is  more accurately called "exponential
+notation." Suppressing our repugnance and working in decimal
+for  the moment  (that is,  where "10"  equals "ten"),  this
+notation  takes advantage  of  the ease  of multiplying  and
+dividing by the  base of the system to  shorten long strings
+of digits while  retaining ease in the  perception of scale.
+For example:
+
+    3.6 x 10^6
+
+Printed above  we have a relatively  innocuous little number
+(innocuous, that  is, other than its  unfortunate expression
+in an  inferior base)  which, when written  out in  full, is
+simply:
+
+    3,600,000
+
+We  expand the  number  by multiplying  by  the exponent  of
+the  base attached  to  it;  here, by  10^6.  Since this  is
+multiplication by the base  itself, the operation is nothing
+more than  moving the  decimal point.  This method  is quite
+frequently  used, especially  in physics,  where significant
+figures of the answer often  limit the number of digits that
+one can reasonably list out anyway, making this an excellent
+way to write only the  significant figures and avoid writing
+out a long string of meaningless digits.
+
+Because this notation consists  simply of multiplying by the
+base,  it  works just  as  well  in  dozenal as  in  decimal
+(or,  indeed, in  any  other base),  and  sometimes it  will
+doubtless be the most  convenient method to employ. However,
+it's still  rather bulky,  filled with characters  which are
+already understood  (namely, " x 10^"),  thus requiring more
+characters  than  are  really necessary.  Inspired  by  that
+divine species of sloth which fosters so much improvement in
+our  methods, let  us consider  whether there  might not  be
+better ways to accomplish this task.
+
+We've  noted that  there are  unnecessary characters  in the
+notation we  reviewed above;  we not try  a system  where we
+simply get rid  of them, retaining only  the characters that
+we really need? That is, the exponents?
+
+    3;6^3
+
+Ah, because this is ambiguous; do  we mean 3;6^3 (3;6 to the
+third power, or 36;X6), or do we mean 3;6 x 10^3? Well, what
+if we simply  reverse the order; put the power  of twelve in
+the front, to avoid the confusion?
+
+    3^3;6
+
+This can mean only one thing; it is at once more concise and
+yet equally  clear as the exponential  notation we discussed
+above. We  can list negative  powers either by  putting them
+superscripted in the  negative, as we would  an exponent, or
+by putting them subscripted in the positive, like so:
+
+    3_3;6
+
+Because this system was  originally pioneered by DSGB member
+Tom Pendlebury, it is often called Pendlebury notation.
+
+This  system  combines quite  well  with  SDN, because  each
+prefix  of SDN  corresponds quite  directly with  an integer
+exponential value. For example, in SDN we refer to the third
+power of twelve as *triqua*:
+
+    3^3;6 = "three dit six triqua"
+
+Or, of course, in the negative, replacing "qua" with "cia":
+
+    3_3;6 = "three dit six tricia"
+
+And the system really begins to shine with the unit names of
+metric systems.  As an example,  we will take TGM's  Tim. In
+TGM, all units have a standard abbreviation; for the Tim, it
+is "Tm".  We can easily  combine SDN  with the Tim  (and any
+other units  in any metric  system, really) by  referring to
+unciaTim (one Tim multiplied  by the negative-first power of
+10) or quadquaTim (one Tim multiplied by the fourth power of
+10).  We  can  further  abbreviate in  writing,  though,  by
+combining SDN with Pendlebury notation, like so:
+
+    biquaTim    =   2^Tm    =   Tim x 10^2
+    pentciaTim  =   5_Tm    =   Tim x 10^-5
+    hexquaTim   =   6^Tm    =   Tim x 10^6
+
+The concision and clarity of expression here is remarkable.
+
+SDN also offers a few other options, though, similar to this
+Pendlebury  notation. The  astute reader  will have  noticed
+that each of  SDN's roots begins with a  different letter of
+the alphabet. We  can easily, then, use  simply that initial
+letter  as an  abbreviation,  without needing  a number.  We
+can  do this  by either  superscripting or  subscripting the
+letter,  as we  did  with  the numbers  above;  or by  using
+capital letters for positive and lowercase for negative. For
+example:
+
+    biquaTim    =   2^Tm    =   BTm     =   b^Tm
+    biciaTim    =   2_Tm    =   bTm     =   b_Tm
+    pentquaTim  =   5^Tm    =   PTm     =   p^Tm
+    pentciaTim  =   5_Tm    =   pTm     =   p_Tm
+    hexquaTim   =   6^Tm    =   HTm     =   h^Tm
+    hexciaTim   =   6_Tm    =   hTm     =   h_Tm
+
+Typically,  though,  when  applying  powers  to  unit  names
+the  simple  number  is  preferable, it  being  more  easily
+distinguished from the  text of the unit  name. Letters tend
+to be more useful when applying to digits:
+
+    6^3;6   =   h^3;6   =   H3;6
+    6_3;6   =   h_3;6   =   h3;6
+
+So  we  have  a  great  variety  of  options  for  concisely
+and  clearly abbreviating  our numbers  while simultaneously
+improving  our  ability to  quickly  perceive  the order  of
+magnitude of  those numbers. We  also have the  same ability
+with units of measurement systems, which makes these methods
+particularly powerful.
+
+============================================================
+=                       DOZENAL NEWS                       =
+============================================================
+
+Back in February, Steve Lovelace  published a very short and
+rather pessimistic exposition concerning dozenals, "An Intro
+to Dozenal Numerals":
+
+    http://www.steve-lovelace.com/an-intro-to-dozenal-numerals
+
+Mr.  Lovelace identifies  the more  critical failing  of the
+decimal system --- its dearth  of even factors --- and links
+to the  Society's website. While he  doesn't believe dozenal
+numerals would catch  on --- the cost, he says,  is too high
+--- he clearly recognizes their superiority.
+
+Robert Lindner at the Journal of Unsolved Questions, back in
+March, briefly addressed why we  use the decimal rather than
+the duodecimal system, coming up  with no good answer beyond
+finger-counting:
+
+    http://junq.info?p=1686
+
+An unsigned  article (that  is, signed  only by  an Internet
+pseudonym,  "paradigmsearch")  gives  a little  tutorial  on
+dozenalism, worth a read for the curious:
+
+    http://paradigmsearch.hubpages.com/hub/duodecimal-base-12-dozenal
+
+Ethan D.  Bolker, of the  Dep't of Mathematics  and Computer
+Science at  the University  of Massachusetts at  Boston, has
+transcribed  an  apparent  classroom  session  developing  a
+dozenal number system:
+
+    http://www.cs.umb.edu/~eb/sam/duodecimal/ssegm.pdf
+
+Professor  Bolker also  has an  interesting site  containing
+some images of that  great perfect polyhedron, the stellated
+dodecahedron:
+
+    http://www.cs.umb.edu/~eb/stellateddodecahedron/
+
+Templates for building your own are promised, so that we can
+all build our own and  "wish upon a stellated dodecahedron".
+Professor Bolker's  image displaying  pi in dozenal  is also
+worth a look:
+
+    http://www.cs.umb.edu/~eb/stellateddodecahedron/images/48pt.png
+
+============================================================
+=                     SOCIETY BUSINESS                     =
+============================================================
+
+--------------------Bulletin Publication--------------------
+
+The _Bulletin_ schedule for the  next few months is slightly
+changed. Rather  than having  deadlines on a  specific date,
+you  can  expect  publication   of  the  _Bulletin_  in  the
+following months:
+
+December:  _The Duodecimal Bulletin_ WN X1, for 11E8 (2012.)
+March:     _The Duodecimal Bulletin_ WN X2, for 11E9 (2013.)
+
+This will have us caught up  to the current year, and future
+issues published in 11EX (after WN X2) will be for that year
+(11EX, or 2014.).
+
+============================================================
+=                    POETICAL DIVERSION                    =
+============================================================
+
+     Ode of a Young Decimalist on Discovering the Dozen
+
+But soft! what light through yonder window breaks?
+It is the east; the dozen is the sun.
+Arise, fair sun, and kill the envious ten,
+Who is already sick and pale with grief,
+That thou, ignored by many, lost to none,
+art so much her superior and lord.
+Her vestal livery, adorned so poor,
+with two green moons and five pathetic stars,
+is worn by none but fools; I cast it off
+for thee, the dozen, lord of bases all!
+Your robes adorned with two bright suns of gold,
+with three bright moons, with four more glor'ous stars,
+and with six comets, bright to top them all,
+with tow'ring crown upon your brow so fair,
+thou leav'st all lesser numbers in the dust!
+
+So much men talk of ten; yet, like the moon,
+she hath no light but what the sun doth lend;
+so thou, O mighty twelve, giv'st what dim light
+the night of ten might cast upon the earth
+while saving still illumination great
+for when thou shin'st directly on us all,
+to teach what number is, what numbers are,
+the personalities of smaller primes,
+geometry and physics; mighty twelve,
+without thee math might just as well be Greek,
+but with thee we can understand and love
+now recognizing in the light of day
+what once was dim and weak in ten's sad light,
+what little it reflected of thine own,
+a long, dark night; but now filled with thy light!
+
+O mighty twelve, cease not to shed thy light,
+thou queen of numbers, giving flight to night.
+
+(With many apologies,  even more profuse than  usual, to Act
+II Scene II of the great Bard's romance.)
+
+============================================================
+=                       BACKMATTER                         =
+============================================================
+
+_The DSA Newscast_ is a production of the Dozenal Society of
+America.  If you  have received  this publication  in error,
+or  otherwise do  not  wish to  receive  it anymore,  please
+unsubscribe  by  mailing  a message  containing  the  string
+"UNSUBSCRIBE DSA  NEWSCAST", exactly as typed,  in its body,
+to the Reply-To address of this message.
+
+For questions, comments, submissions, or other communication
+with the _Newscast_, please write to:
+    newscast@dozenal.org
+                    
+                    EACH ONE, TEACH ONE

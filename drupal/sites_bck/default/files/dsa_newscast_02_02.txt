@@ -1,0 +1,498 @@
+============================================================
+
+                      THE DSA NEWSCAST
+                   http://www.dozenal.org
+
+============================================================
+The Dozenal Society of America                Vol. 2, Iss. 2
+Official Newsletter                          1 February 11EX
+============================================================
+
+============================================================
+=                         CONTENTS                         =
+============================================================
+
+1.  Donations
+2.  For Sale
+3.  Comment on Mathematical Abbreviations
+4.  Cooking with Dozens
+5.  Dozenal News
+6.  Society Business
+7.  Poetical Diversion
+8.  Backmatter
+
+============================================================
+=                        DONATIONS                         =
+============================================================
+
+Members,  please  remember that  while  dues  are no  longer
+required for membership, we still  rely on the generosity of
+members  to keep  the DSA  going. Donations  of any  amount,
+large or small, are welcome and needed.
+
+A  donation   of  $10;  ($12.)  will   procure  Subscription
+membership, and entitles the payer to receive both a digital
+and  a paper  copy  of the  _Bulletin_  if requested.  Other
+members will  receive only  a digital  copy. To  invoke this
+privilege, please  notify the  Editor of the  Bulletin, Mike
+deVlieger, at
+
+    mdevlieger@dozenal.org
+
+As members know, we are  a volunteer organization which pays
+no salaries.  As such,  every penny  you donate  goes toward
+furthering the DSA's goals.
+
+It may be worth considering  a monthly donation; say, $3, or
+$6, or whatever seems reasonable to  you. This can be set up
+quite  easily  with  Paypal  or WePay,  both  of  which  are
+available at our web site.
+
+Of course,  if you prefer to  donate by check, you  may send
+them to our worthy Treasurer,  Jay Schiffman, payable to the
+Dozenal Society of America, at:
+
+    Jay Schiffman
+    604-36 South Washington Square, #815
+    Philadelphia, PA  19106-4115
+
+----------------------Member Benefits-----------------------
+
+Chief  among  the benefits  of  membership,  aside from  the
+knowledge  of supporting  the DSA's  mission, is  receipt of
+_The  Duodecimal Bulletin_.  In  addition, however,  members
+also receive (digitally) a  membership card containing their
+vital  member  information  and   a  monthly  calendar  with
+dozenal numbers, containing suitable and educational dozenal
+quotations and graphics, laid out for wall display.
+
+To  receive  these, please  notify  us  that you'd  like  to
+receive them:
+
+    Contact@dozenal.org
+
+============================================================
+=                         FOR SALE                         =
+============================================================
+
+The DSA  is pleased to  offer the following for  sale. These
+are all either at cost, or the proceeds go to the Society.
+
+    Wall Calendar for 11EX (stapled binding)      $11.60
+    Wall Calendar for 11EX, coiled binding        $16.70
+    Weekly Planner for 11EX                       $11.29
+    TGM:  A Coherent Dozenal Metrology             $8.00
+
+Prices are,  unfortunately but by necessity,  in decimal. To
+find these works, simply go to:
+
+    http://www.lulu.com/shop/shop.ep
+
+and enter the appropriate  terms. E.g., searching for "11EX"
+will turn up these calendars  and the planner; searching for
+"TGM dozenal" will turn up the TGM book.
+
+We hope  to offer  other titles, and  even some  other items
+(such as dozenal clocks and the like), in the near future.
+
+============================================================
+=          COMMENT ON MATHEMATICAL ABBREVIATIONS           =
+============================================================
+
+Gene Zirkel  (#67) says regarding our  recent discussions on
+this topic:
+
+    "In t^3;6, I was  confused by the 'abbreviation', t.
+    What was it an abbreviation for 2? 3? ????"
+
+Here, "t" was  an abbreviation of "triqua", from  SDN; so in
+this case, it is equivalent to "3;6x10^3".
+
+    "And Imre's contributions seem much more complicated
+    than 3x10^12."
+
+Perhaps. The limitations of ASCII text are often tyrannical.
+When limited in this way, it  is likely better to simply use
+the  letter abbreviations,  as long  as they  don't conflict
+with  variable  names.  If   they  do,  ordinary  scientific
+notation seems a better choice.
+
+With proper  mathematical typesetting,  all these  issues go
+away,  and we  can use  whatever  format that  we find  most
+clear.
+
+============================================================
+=                   COOKING WITH DOZENS                    =
+============================================================
+
+As part of  our agenda in this volume of  *using* as well as
+simply  *knowing* dozenals,  let's examine  one of  the most
+mundane  and universal  of  human tasks  in  light of  them:
+preparing the food that we eat.
+
+In  the  United States,  at  least,  we still  commonly  use
+customary measures  for cooking. These consist  of a variety
+of almost  whimsically-named units, primarily  the teaspoon,
+the tablespoon,  and the  cup. It  goes without  saying that
+teaspoons are not used for tea, and tablespoons almost never
+see  a table;  these are  traditional names,  eyeball values
+applied haphazardly to precise units.
+
+Most of us are at least  dimly aware of the relationships of
+these  units to  one  another; nevertheless,  a review  will
+probably be helpful, particularly for  those of us who don't
+cook terribly often:
+
+    Unit        Abbrev.     Quantity    Metric
+    ------      ---------   ----------  --------
+    Teaspoon    tsp         1/3 dram    ~5 mL
+    Tablespoon  tbs         3 tsp       ~13 mL
+    Cup         cp          14 tbs      ~180 mL
+    Pint        pt          2 cp        ~340 mL
+    Quart       qt          2 pt        ~680 mL (~1 L)
+    Gallon      gal         4 qt        ~2280 mL (~3;95 L)
+
+Drams are  seldom used today,  and it is listed  here merely
+for informative  purposes. Importantly,  we can note  that a
+tablespoon is  almost exactly  13 mL  (fifteen milliliters),
+allowing  easy conversion  to  metric volumes,  as well.  We
+should note,  though, that  by the  time we  get to  the cup
+level, the  milliliter conversions listed here  are becoming
+increasingly inaccurate, and a liter  is in fact more than 5
+centiliters larger than a  quart. Still, for practical work,
+these conversions are normally sufficient.
+
+The thing  to notice about  these conversions are  that they
+involve  both 2  and  3, numbers  that  (of course)  dozenal
+handles much better than  decimal. The other factor involved
+is  14, which  is also  handled  better by  dozenal than  by
+decimal (all  fractions of 14  can be expressed in  only two
+dozenal digits, as opposed to *four* for decimal). So as one
+would expect,  these units provide significant  playing room
+for dozenals; let's see how we can leverage that.
+
+First,  this gives  a  great means  of  practicing with  the
+unqua-fourths.  In  decimal,   sixteenths  are  lengthy  and
+difficult, so most people  don't bother learning them; there
+is  no  reason  to  so  ignore  them  in  dozenal.  1/14  is
+simply 0;09; the  remainder of the unqua-fourths  are just 9
+multiplied by the numerator. So, for example:
+
+    3/16    9 * 3 = 23      0;23
+    4/16    9 * 4 = 30      0;30
+    5/16    9 * 5 = 39      0;39
+
+And so forth. So when counting up tablespoons, why not count
+up fractions of cups? "Zero dit zero nine cups; zero dit one
+six cups;  zero dit  two three cups;  zero dit  three cups."
+This  is an  easy  way to  work on  learning  a very  useful
+(because  a binary)  fraction  while  doing something  you'd
+likely be doing anyway.
+
+Of course, a teaspoon is 0;4 tablespoons, since a tablespoon
+is three teaspoons; so another  useful habit might be to add
+in  many  teaspoons rather  than  few  tablespoons, to  work
+on  your  thirds.  This  is particularly  helpful  when  the
+recipe calls  for, say, half  a tablespoon, because  this is
+1;6  teaspoons. When  your  recipe demands  two  and a  half
+tablespoons of salt, for example,  it could be helpful to do
+the following:
+
+    2;6 tablespoons     6 tsp + 1;6 tsp     7;6 tsp
+
+Of course, these are  merely mathematical exercises, helpful
+for learning and retaining dozenal arithmetic but not really
+helpful for your actual cooking. How can dozenal help?
+
+In  one  dozenal  metric  system, TGM,  we  find  some  very
+interesting  correspondences  in  this field.  For  example,
+your normal  kitchen teaspoon  quite accurately  dispenses 4
+quadciaVolm ("Volm" is the TGM unit of volume, "quadcia" the
+SDN prefix indicating  10^-4) (and also quite  nearly 5 mL).
+That means, naturally, that your tablespoon quite accurately
+dispenses one triciaVolm (4 * 3  = 10). Let's see this lined
+up a little more orderly:
+
+    TGM         Trad.           SI Metric
+    -----       -------         -----------
+    4 qVm       1.0117 tsp      4.9865 mL
+    1 tVm       1.0117 tbp      14.9597 mL
+    14 tVm      1.0117 cp       239.3551 mL
+    28 tVm      1.0117 pt       0.4787 L
+    54 tVm      1.0117 qt       0.9574 L
+    19;4 bVm    1.0117 gal      3.8297 L
+
+("Vm"  is  the  TGM  abbreviation for  "Volm";  "q"  is  for
+"quadcia" or 10^-4, "t" is for "tricia" or 10^-3, and "b" is
+for "bicia" or 10^-2.)
+
+What does this  mean, other than that you don't  need to buy
+new measuring spoons  and cups? It means that  you can quite
+easily convert your recipes  into dozenal, and cook directly
+in dozenal. The arithmetic will be  a bit tricky if you cook
+in gallons---you may want to  write the dozenal amounts down
+in that case---but otherwise it is quite straightforward.
+
+There is  no need to  pencil these amounts into  your recipe
+books or onto  your recipe cards, unless you'd  like to; the
+conversions are so straightforward that you can easily do it
+in your  head, until dozenal  has gained enough  ground that
+cookbooks are printed with it.
+
+So happy  cooking; and  perhaps this routine,  even mundane,
+task will improve  our arithmetic and help  put dozenal into
+real practice.
+
+============================================================
+=                       DOZENAL NEWS                       =
+============================================================
+
+--------------Systematic Dozenal Nomenclature---------------
+
+The article  on Systematic Dozenal Nomenclature  in our last
+issue of _The  Duodecimal Bulletin_ has been a  big hit. Due
+to this,  we are pleased  to be  able to offer  a standalone
+version of  the article for  download. While the  content of
+this article  is the same,  its formatting and  some wording
+has  been updated  by the  author,  and it  offered in  that
+updated form here.
+
+    http://www.dozenal.org/drupal/content/systematic-dozenal-nomenclature
+
+Many in  the dozenal community  are very excited  about SDN,
+and we are  hopeful that our membership finds  the system as
+interesting and useful as we do.
+
+-------------------New Calendar Proposals-------------------
+
+Those  interested in  non-Gregorian  calendars  have had  an
+interesting  few months.  Dr. Paul  Rapoport (#230)  and DSA
+board  member  Timothy  Travis (#342)  have  both  published
+dozenal calendar.
+
+Dr. Rapoport says about his calendar:
+
+    Rather  than  simply  converting  what  we  know  to
+    dozenal  (10  months  per  year, 7  days  per  week,
+    irregular number  of weeks and days  per month, year
+    11EX  about  to  start  on January  1,  etc.),  this
+    calendar starts only with  the assumption that there
+    are  265/266 days  per year,  questioning all  other
+    principles,  but  wishing to  maintain  astronomical
+    sense, e.g. not having any years misaligned with the
+    solstices.
+
+    The  calendar  starts  every   year  on  the  winter
+    solstice, with notable  consequences for leap years,
+    which I realize many people  won't like. Each of the
+    10  months  has  26  days, giving  a  total  of  260
+    (nothing new there). What happens to the remaining 5
+    or  6  days is,  I  think,  rather interesting.  The
+    unique solution  here keeps both the  winter and the
+    summer solstice in the same location in every year's
+    calendar. There's  even a separate solution  for the
+    southern hemisphere.
+
+    The  calendar  uses a  6-day  week.  I'm well  aware
+    of  the problem  with  that. As  for  adoption of  a
+    calendar,  imagining  more  than a  few  dozenalists
+    using a new  one is for me a  non-starter, because a
+    calendar  reflects the  civilization  that uses  it.
+    Likewise, common questions such  as trying to figure
+    out  what a  work week  or  set of  holidays in  the
+    Western  world may  look like  only lead  to keeping
+    pretty  much  what we  have  now,  with its  notable
+    peculiarities (charms or flaws?).
+
+    Even  ignoring   practical  matters,   obviously  no
+    calendar  can  be  completely  regular,  unless  one
+    doesn't care  about the  earth's orbit.  Even though
+    agreement over a  calendar is as likely  as one over
+    symbols, I think the  fun comes from the discussions
+    and disagreements.
+
+    There  are five  years  of  this calendar  uploaded,
+    with a  short explanation  of how  it works  and the
+    rationale behind its construction:
+
+        www.dozenal.ae-web.ca
+
+    which is where my dozenal clock has been running for
+    about a year now.
+
+    Comments  are welcome.  I'm  curious whether  anyone
+    else has  actually *used*  a new calendar,  one that
+    doesn't merely  take the current calendar  and count
+    its years and days in dozens.
+
+Mr. Travis's says about his proposal:
+
+    For  the  Raenbo  Calendar   I  have  taken  another
+    approach.  To  get  a consistent,  regular  calendar
+    every   year,  my   compromise   was   to  put   the
+    celebrations of the  equinoxes and solstices between
+    three month  segments, making them the  start of the
+    next season.
+
+    On  the Raenbo  Calendar, the  solstice and  equinox
+    holidays  are  preceded  by  the  last  day  of  the
+    preceding  month, which  is  always  a Saturday  and
+    followed by the first day of the next month which is
+    always a Sunday.  So, these two extra  days make for
+    long solstice and equinox holiday weekends.
+
+    On the Raenbo Calendar  the Winter Solstice Holidays
+    are celebrated on  the Old Calendar dates  of 21 and
+    22 December.  On Old Calendar Leap  Years, they fall
+    on 22 and 23 December. In both cases, we have a four
+    day holiday weekend, starting the winter season.
+
+    The Spring Equinox is celebrated on the Old Calendar
+    date of  21 March and  starts the spring  season. Of
+    course, the  actual Spring Equinox usually  falls on
+    the  20th  of  March. Whenever  the  actual  equinox
+    occurs, it would  be noted and when  it occurred the
+    day before, on a Saturday,  it would still be during
+    the holiday weekend.
+
+    The  Summer  Solstice  is   celebrated  on  the  Old
+    Calendar date of 22 June and when it is a Leap Year,
+    the Leap Year Holiday is added and celebrated on the
+    23rd. So during  a regular year we have  a three day
+    holiday weekend,  when its a  Leap Year, a  four day
+    holiday weekend. -Starting the summer season.
+
+    The Autumn Equinox Holiday falls on the Old Calendar
+    date of  21 September  (22 September  if its  a Leap
+    Year),  a  three  day  weekend,  starting  the  Fall
+    season.
+
+============================================================
+=                     SOCIETY BUSINESS                     =
+============================================================
+
+----------------------Website Numbers-----------------------
+
+Given that  our new website is  nearly a year old,  it seems
+appropriate to review its progress.
+
+Our average visit  time seems to be  going up significantly,
+being over  four minutes  at this  point. Our  "bounce rate"
+(those who  hit the site, figure  out what it is,  and leave
+immediately)  is  still high,  but  less  than half  of  all
+visitors bounce off. For a site of such rarefied interest as
+our own, this doesn't seem unreasonable.
+
+Looking  over the  year, from  1 Mar  11E9 until  1E January
+11EX, we've seen a lot of fluctuation in our exposure. There
+have been huge spikes in  interest at certain periods, where
+our  visitorship doubled  (early April)  or even  tripled (9
+July); mostly, however, we have remained steady, with a very
+slight trend upward over time.
+
+People seem  to be finding us  in mostly the same  ways; the
+majority of  our visitors  find our  sites through  links on
+other sites, with slightly fewer typing in the URL directly.
+More and more, however, are  finding our site through search
+engines (nearly  one in five),  which is a  big improvement.
+The top keyword  in search engines that brings  users to our
+site  are, predictably,  "dozenal"  (paired with  "society",
+"system", and so forth).  Historically, we've been oddly low
+in  the results  for  "duodecimal", "base  12", and  similar
+searches,  and  we've  endeavored  to fix  that,  with  some
+success. "duodecimal"  is now the  number 6 search  term for
+our website, with  "base 12" being number 7.  Of course, the
+search engine most users come to  us from, by far, is Google
+in  its various  national incarnations.  We're also,  hower,
+ranking respectably with Bing and Yahoo.
+
+The most popular of our pages,  aside from our main page and
+our "articles  and books"  page, are the  general mainstays.
+First is "Fundamental Operations  in the Duodecimal System",
+along with  "A Brief Introduction to  Dozenal Counting" and,
+of course, our _Bulletin_ archive. The educational materials
+prepared by secretary Jen Seron  for our presentation at the
+ASEE  conference last  year  are also  quite popular,  being
+viewed 1112 times. "Eggsactly  a Dozen" remains popular, and
+our  new  multiplication  practice utility  is  also  seeing
+increasing traffic.
+
+All in all, the website remains a great success.
+
+--------------------Bulletin Publication--------------------
+
+The heroic  efforts of  our Editor, Michael  deVlieger, have
+given us  two splendid  issues of _The  Duodecimal Bulletin_
+in  the span  of  only  three months.  Since  taking up  the
+editorship,  he's  provided  us  with  visually  spectacular
+full-color issues  densely packed with  informative content,
+graphics, and artwork,  and we are very  appreciative of his
+exertion in this regard.
+
+However, this exertion has not come without its toll, and is
+after all entirely voluntary in  nature. For this reason, we
+have  decided  to alter  the  schedule  for the  release  of
+subsequent issues of the _Bulletin_.  To allow our Editor to
+apply  himself  to these  tasks  when  he  is most  free  to
+dedicate  his  attention to  them,  there  will be  no  date
+certain on which  to expect an issue's  release. Instead, we
+have simply committed  to at least two issues  this year, to
+be  released when  the  Editor's schedule  permits. In  this
+way  we  can  assure  ourselves  of  continuing  to  receive
+high-quality releases of the  _Bulletin_ without abusing the
+volunteer labor of our Editor.
+
+============================================================
+=                    POETICAL DIVERSION                    =
+============================================================
+
+Originally  published in  our  _Bulletin_, WN  58, this  was
+penned by one of the great patriarchs of the dozenal system.
+
+Where does Cinderella go,
+    Everytime the clock strikes Do?
+Count the chimes in groups of three,
+    Listen to the One-Two-Three;
+Four-Five-Six; oh, what a fix,
+    For someone near is timing;
+Seven-Eight-Nine; will she be mine?
+    Then Dek-El-Do is chiming.
+But---
+
+Where does Cinderella go,
+    Every time the clock strikes Do?
+What the heck when it strikes Dek,
+    That is nothing round her neck;
+Still the belle, let it strike El,
+    While dancing through the music;
+As you know, then midnight Do,
+    Finds Cinderella homesick.
+But---
+
+Where does Cinderella go,
+    Everytime the clock strikes Do?
+Listen and I'll tell you now,
+    Tell you why, exactly how
+When the clock strikes midnight Do,
+    Cinderella has to go
+To another dancing spot,
+    Food, Champagne, and music hot.
+
+With thanks to H. C. Churchman.
+
+============================================================
+=                       BACKMATTER                         =
+============================================================
+
+_The DSA Newscast_ is a production of the Dozenal Society of
+America.  If you  have received  this publication  in error,
+or  otherwise do  not  wish to  receive  it anymore,  please
+unsubscribe  by  mailing  a message  containing  the  string
+"UNSUBSCRIBE DSA  NEWSCAST", exactly as typed,  in its body,
+to the Reply-To address of this message.
+
+For questions, comments, submissions, or other communication
+with the _Newscast_, please write to:
+    newscast@dozenal.org
+                    
+                    EACH ONE, TEACH ONE

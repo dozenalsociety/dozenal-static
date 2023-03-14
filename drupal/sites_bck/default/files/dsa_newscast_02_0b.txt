@@ -1,0 +1,201 @@
+============================================================
+
+                      THE DSA NEWSCAST
+                   http://www.dozenal.org
+
+============================================================
+The Dozenal Society of America                Vol. 2, Iss. E
+Official Newsletter                          1 November 11EX
+============================================================
+
+============================================================
+=                         CONTENTS                         =
+============================================================
+
+1.  Donations
+2.  For Sale
+    -Calendars for 11EE now available!
+3.  Dozenal News
+    -Dozenal library for Haskell programming
+    -Debate on Dozenal Feasibility
+    -Proofwiki:  An online encyclopedia of proofs
+    -Video Proof:  The Sum of All Positive Integers
+4.  Society Business
+    -Annual Meeting
+5.  Poetical Diversion
+6.  Backmatter
+
+============================================================
+=                        DONATIONS                         =
+============================================================
+
+Members,  please  remember that  while  dues  are no  longer
+required for membership, we still  rely on the generosity of
+members  to keep  the DSA  going. Donations  of any  amount,
+large or small, are welcome and needed.
+
+A  donation   of  $10;  ($12.)  will   procure  Subscription
+membership, and entitles the payer to receive both a digital
+and  a paper  copy  of the  _Bulletin_  if requested.  Other
+members will  receive only  a digital  copy. To  invoke this
+privilege, please  notify the  Editor of the  Bulletin, Mike
+deVlieger, at
+
+    mdevlieger@dozenal.org
+
+As members know, we are  a volunteer organization which pays
+no salaries.  As such,  every penny  you donate  goes toward
+furthering the DSA's goals.
+
+It may be worth considering  a monthly donation; say, $3, or
+$6, or whatever seems reasonable to  you. This can be set up
+quite  easily  with  Paypal  or WePay,  both  of  which  are
+available at our web site.
+
+Of course,  if you prefer to  donate by check, you  may send
+them to our worthy Treasurer,  Jay Schiffman, payable to the
+Dozenal Society of America, at:
+
+    Jay Schiffman
+    604-36 South Washington Square, #815
+    Philadelphia, PA  19106-4115
+
+----------------------Member Benefits-----------------------
+
+Chief  among  the benefits  of  membership,  aside from  the
+knowledge  of supporting  the DSA's  mission, is  receipt of
+_The  Duodecimal Bulletin_.  In  addition, however,  members
+also receive (digitally) a  membership card containing their
+vital  member  information  and   a  monthly  calendar  with
+dozenal numbers, containing suitable and educational dozenal
+quotations and graphics, laid out for wall display.
+
+To  receive  these, please  notify  us  that you'd  like  to
+receive them:
+
+    Contact@dozenal.org
+
+============================================================
+=                         FOR SALE                         =
+============================================================
+
+We are excited to announce the availability of calendars for
+next year, 11EE!
+
+The DSA  is pleased to  offer the following for  sale. These
+are all either at cost, or the proceeds go to the Society.
+
+    Wall Calendar for 11EE, coiled binding        $10.05
+    Weekly Planner for 11EE                        $8.29
+    TGM:  A Coherent Dozenal Metrology             $8.00
+
+Prices are,  unfortunately but by necessity,  in decimal. To
+find these works, simply go to:
+
+    http://www.lulu.com/shop/shop.ep
+
+and enter the appropriate  terms. E.g., searching for "11EE"
+will turn up these calendars  and the planner; searching for
+"TGM dozenal" will turn up the TGM book.
+
+We hope  to offer  other titles, and  even some  other items
+(such as dozenal clocks and the like), in the near future.
+
+============================================================
+=                       DOZENAL NEWS                       =
+============================================================
+
+The world  of programming with dozenal  is steadily becoming
+more  powerful! Member  Donald Goodman  (#398) published  as
+free software  (specifically, GNU GPL  v3) back in  11E6, as
+part of the dozenal suite:
+
+    http://dozenal.sourceforge.net/
+
+Now there is also a library for using dozenal in Haskell:
+
+    https://github.com/siddhanathan/dozenal
+
+This gives dozenal programmers yet another option; thanks to
+its author, Siddhanathan Shanmugam of Philadelphia.
+
+Though it attracted no votes, there is an interesting debate
+on the feasibility of introducing dozenals to society:
+
+    http://www.debate.org/debates/Dozenal-Can-Be-Phased-Into-Society/1/
+
+An  interesting  presentation  on  the  relative  merits  of
+dozenal as opposed to decimal is available:
+
+    http://www.prezi.com/lpblbyeun9x0/dozenal-system-vs-decimal-system/
+
+Some browsing  alerted your  editor to  the existence  of an
+online encyclopedia of mathematical proofs:
+
+    https://proofwiki.org/
+
+We've  previously  delivered  encomiums on  the  virtues  of
+the  Online Encyclopedia  of Integer  Sequences, and  we are
+delighted  to have  this site  to add  to our  repertoire of
+mathematical resources.
+
+Finally, we mentioned in a previous issue the amazing result
+of the sum of all positive integers:  -0;1.  A compelling
+video proof of this theorem is available:
+
+    http://www.youtube.com/watch?v=w-I6XTVZXww
+
+============================================================
+=                     SOCIETY BUSINESS                     =
+============================================================
+
+-----------------------Annual Meeting-----------------------
+
+To remind our membership: We will be making our presentation
+at  the regional  conference of  the National  Conference of
+Teachers of  Mathematics in Richmond, Virginia  on Thursday,
+11;  (13.) November,  from 1:30  p.m.  to 2:45  p.m. in  the
+Capital Ballroom of the Richmond Downtown Marriott.
+
+Our  annual  meeting  will  be at  the  same  location,  the
+Richmond Downtown  Marriott, on Friday, 12;  (14.) November,
+(roughly)  from 9:00  a.m. to  5:00 p.m.  Attendees will  be
+responsible for reserving their own lodging.
+
+It promises  to be  an interesting meeting;  to top  it off,
+Gene  Zirkel (#67)  will  be giving  a  presentation on  the
+founders and other early heroes  of the dozenal movement. We
+hope you will be able to join us!
+
+============================================================
+=                    POETICAL DIVERSION                    =
+============================================================
+
+Dozenal, dozenal,
+Every number bows to thee;
+Perfection, abundance,
+meet with sublimity!
+
+Best of all bases, you beat them all,
+beat them, one to 'leven!
+Dozenal, dozenal,
+you're numerical heaven!
+
+(With thanks to Rogers and Hammerstein.)
+
+============================================================
+=                       BACKMATTER                         =
+============================================================
+
+_The DSA Newscast_ is a production of the Dozenal Society of
+America.  If you  have received  this publication  in error,
+or  otherwise do  not  wish to  receive  it anymore,  please
+unsubscribe  by  mailing  a message  containing  the  string
+"UNSUBSCRIBE NEWSCAST",  exactly as  typed, in its  body, to
+the Reply-To address of this message.
+
+For questions, comments, submissions, or other communication
+with the _Newscast_, please write to:
+    newscast@dozenal.org
+                    
+                    EACH ONE, TEACH ONE

@@ -1,0 +1,225 @@
+============================================================
+
+                      THE DSA NEWSCAST
+                   http://www.dozenal.org
+
+============================================================
+The Dozenal Society of America                Vol. 2, Iss. 9
+Official Newsletter                         1 September 11EX
+============================================================
+
+============================================================
+=                         CONTENTS                         =
+============================================================
+
+1.  Donations
+2.  For Sale
+3.  Dozenal News
+4.  Society Business
+    -Annual Meeting
+5.  Poetical Diversion
+6.  Backmatter
+
+============================================================
+=                        DONATIONS                         =
+============================================================
+
+Members,  please  remember that  while  dues  are no  longer
+required for membership, we still  rely on the generosity of
+members  to keep  the DSA  going. Donations  of any  amount,
+large or small, are welcome and needed.
+
+A  donation   of  $10;  ($12.)  will   procure  Subscription
+membership, and entitles the payer to receive both a digital
+and  a paper  copy  of the  _Bulletin_  if requested.  Other
+members will  receive only  a digital  copy. To  invoke this
+privilege, please  notify the  Editor of the  Bulletin, Mike
+deVlieger, at
+
+    mdevlieger@dozenal.org
+
+As members know, we are  a volunteer organization which pays
+no salaries.  As such,  every penny  you donate  goes toward
+furthering the DSA's goals.
+
+It may be worth considering  a monthly donation; say, $3, or
+$6, or whatever seems reasonable to  you. This can be set up
+quite  easily  with  Paypal  or WePay,  both  of  which  are
+available at our web site.
+
+Of course,  if you prefer to  donate by check, you  may send
+them to our worthy Treasurer,  Jay Schiffman, payable to the
+Dozenal Society of America, at:
+
+    Jay Schiffman
+    604-36 South Washington Square, #815
+    Philadelphia, PA  19106-4115
+
+----------------------Member Benefits-----------------------
+
+Chief  among  the benefits  of  membership,  aside from  the
+knowledge  of supporting  the DSA's  mission, is  receipt of
+_The  Duodecimal Bulletin_.  In  addition, however,  members
+also receive (digitally) a  membership card containing their
+vital  member  information  and   a  monthly  calendar  with
+dozenal numbers, containing suitable and educational dozenal
+quotations and graphics, laid out for wall display.
+
+To  receive  these, please  notify  us  that you'd  like  to
+receive them:
+
+    Contact@dozenal.org
+
+============================================================
+=                         FOR SALE                         =
+============================================================
+
+The DSA  is pleased to  offer the following for  sale. These
+are all either at cost, or the proceeds go to the Society.
+
+    Wall Calendar for 11EX (stapled binding)      $11.60
+    Wall Calendar for 11EX, coiled binding        $16.70
+    Weekly Planner for 11EX                       $11.29
+    TGM:  A Coherent Dozenal Metrology             $8.00
+
+Prices are,  unfortunately but by necessity,  in decimal. To
+find these works, simply go to:
+
+    http://www.lulu.com/shop/shop.ep
+
+and enter the appropriate  terms. E.g., searching for "11EX"
+will turn up these calendars  and the planner; searching for
+"TGM dozenal" will turn up the TGM book.
+
+We hope  to offer  other titles, and  even some  other items
+(such as dozenal clocks and the like), in the near future.
+
+============================================================
+=                       DOZENAL NEWS                       =
+============================================================
+
+Our  esteemed Editor,  Michael  deVlieger  (#37E), has  been
+extremely  active  in  the Online  Encyclopedia  of  Integer
+Sequences, vastly  expanding a  great deal of  sequences and
+adding a few new ones, as well. Many of these are of general
+mathematical  interest, and  have  little or  nothing to  do
+with dozenal;  but some  are quite  interesting in  terms of
+alternate bases. E.g.:
+
+    A016051:  Primes that are palindromic in base 2.
+    A068437:  Expansion of Pi in base 10;.
+    A136698:  Final nonzero digit of n! in base 10;.
+    A136762:  Leading digit of n! in base 10;.
+    A201918:  Automorphic numbers:  n^2 ends with n in base
+        10;.
+    A027606:  e in duodecimal.
+
+His  credits  span ten  pages  of  search results;  do  some
+exploration  to  see  a  little  of what  one  of  our  most
+prominent members  has accomplished.  This kind  of activity
+does  worlds  to give  credit  to  our  members and  to  our
+Society, and  we are grateful to  and proud of Mike  for the
+time and energy he's put into this.
+
+Other OEIS sequences that will likely be of interest to
+dozenalists include, but are not limited to:
+
+    A088154:  Value of nth digit in duodecimal n^n.
+    A113016:  Digits strings which are prime in both decimal
+        and dozenal.
+    A113017:  Digit strings that are prime in decimal but
+        composite in dozenal.
+    A006687:  Dozenal primes.
+    A140764:  Dozenal numbers equal to the sum of their
+        squares.
+
+To help dozeners take advantage of the OEIS, a young British
+gentlemen  from  the  DozensOnline forum,  James  Wood,  has
+written two scripts,  which can be used  with either Firefox
+or Chrome  web browsers,  to dozenize the  OEIS in  a mostly
+transparent way:
+
+    http://www.webextender.net/scripts/show/103812.html
+    http://www.webextender.net/scripts/show/175429.html
+
+The first  of these adds  the sequence in dozenal  after the
+decimal sequence, retaining both so  that we can compare and
+use  both;  the  second  allow  searching  for  the  dozenal
+versions of sequences. These scripts are greatly useful, and
+their use is encouraged.
+
+If  any  other  members  have  been  participating  in  this
+incredible mathematical resource, please let us know.
+
+============================================================
+=                     SOCIETY BUSINESS                     =
+============================================================
+
+-----------------------Annual Meeting-----------------------
+
+At long  last, we  can announce the  location of  our annual
+meeting! We will be making  our presentation at the regional
+conference  of  the  National   Conference  of  Teachers  of
+Mathematics  in Richmond,  Virginia on  Thursday, 11;  (13.)
+November,  from  1:30  p.m.  to 2:45  p.m.  in  the  Capital
+Ballroom of the Richmond Downtown Marriott.
+
+Our  annual  meeting  will  be at  the  same  location,  the
+Richmond Downtown  Marriott, on Friday, 12;  (14.) November,
+(roughly)  from 9:00  a.m. to  5:00 p.m.  Attendees will  be
+responsible for reserving their own lodging.
+
+Due  to a  late notice  of our  program's time  at the  NCTM
+conference, we  were unable to  set up our  meeting earlier,
+for which we apologize. We hope that it will not be too late
+for members to attend.
+
+It promises to be an interesting meeting; look for an agenda
+in the next _Newscast_.
+
+============================================================
+=                    POETICAL DIVERSION                    =
+============================================================
+
+Two roots diverged in a yellow wood,
+and sorry I could not use the two
+and be one figurer, long I stood
+and studied ten as far as I could
+still wishing for virtues both old and new.
+
+Then checked the other, the twelve, so fair,
+and found it no doubt had the better claim,
+because of its factors, perfection---o, care!
+Why leave great twelve, once arriv'd there!
+No other so small, yet with virtues the same!
+
+And both that morning equally lay
+before me; but one stood so tall!
+I left the ten in the dust; that way
+would ne'er again tempt me to say
+that twelve has any less than virtues all!
+
+Man shall be telling this with a sigh
+somewhere ages and ages hence;
+two roots diverged in a wood, and we---
+we took the one with an even three,
+and that has made all the difference.
+
+(With thanks to Robert Frost.)
+
+============================================================
+=                       BACKMATTER                         =
+============================================================
+
+_The DSA Newscast_ is a production of the Dozenal Society of
+America.  If you  have received  this publication  in error,
+or  otherwise do  not  wish to  receive  it anymore,  please
+unsubscribe  by  mailing  a message  containing  the  string
+"UNSUBSCRIBE NEWSCAST",  exactly as  typed, in its  body, to
+the Reply-To address of this message.
+
+For questions, comments, submissions, or other communication
+with the _Newscast_, please write to:
+    newscast@dozenal.org
+                    
+                    EACH ONE, TEACH ONE

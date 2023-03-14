@@ -1,0 +1,481 @@
+/* +AMDG */
+
+body {
+	padding:  0px;
+	margin:  0px;
+}
+.titlebar {
+	background-color:  #bf070c;
+	color:  white;
+	font:  serif;
+	padding:  0px;
+	padding-top:  24px;
+	padding-bottom:  0px;
+	border-radius:  12px 12px 0px 0px;
+	margin:  0px;
+}
+.titlebar-img {
+	float:  left;
+	padding-right:  12px;
+	padding-left:  12px;
+}
+.titlebar-text {
+	padding-bottom:  12px;
+}
+.website-title {
+	font-size:  300%;
+	font-weight:  bolder;
+	font-variant:  small-caps;
+}
+.website-tagline {
+	font-size:  150%;
+	font-weight:  bolder;
+	font-style:  italic;
+}
+.joinus {
+	float:  right;
+	padding:  6px;
+	margin:  12px;
+	background-color:  #ffc0cb;
+	border-width:  2px;
+	border-color:  black;
+	border-style:  solid;
+	border-radius:  20px;
+}
+.joinus a {
+	text-decoration:  none;
+	font-weight:  bolder;
+	color:  #bf070c;
+}
+.joinus a:hover {
+	text-decoration:  underline;
+}
+.navbar {
+	clear:  both;
+	color:  white;
+	font:  serif;
+	padding-top:  12pt;
+	padding:  0pt;
+	line-height:  3em;
+	width:  100%;
+}
+.navbar ul {
+	border-top:  black;
+	border-bottom:  black;
+	border-top-width:  2px;
+	border-bottom-width:  2px;
+	border-top-style:  solid;
+	border-bottom-style:  solid;
+	padding-top:  12px;
+	padding-bottom:  12px;
+	text-align:  center;
+}
+.navbar li {
+	display:  inline;
+	background-color:  #ffc0cb;
+	list-style-type:  none;
+	border-width:  2px;
+	border-style:  solid;
+	border-radius:  6px;
+	border-color:  black;
+	padding:  6px;
+	white-space:  nowrap;
+}
+.navbar li a {
+	color:  black;
+	text-decoration:  none;
+}
+.navbar li:hover {
+	background-color:  #EEEEEE;
+}
+.navbar li:hover a {
+	color:  #bf070c;
+}
+.leftbar {
+	float:  left;
+	width:  20%;
+}
+.mainpart {
+	padding-left:  12px;
+	overflow:  hidden;
+}
+.mainpart:after {
+	content="";
+	display:  table;
+	clear:  both;
+}
+.dispbox {
+	background-color:  #CCCCCC;
+	border-radius:  3px;
+	margin:  3px;
+	margin-bottom:  12px;
+	padding:  3px;
+}
+.disp-title {
+	font-variant:  small-caps;
+	font-weight:  bolder;
+	font-size:  125%;
+	border-bottom:  1px;
+	border-bottom-color:  black;
+	border-bottom-style:  solid;
+}
+.disp-text {
+	font-weight:  normal;
+	font-style:  italic;
+	font-size:  100%;
+	padding-top:  6px;
+}
+.page-title {
+	font-size:  200%;
+	font-variant:  small-caps;
+	font-weight:  bolder;
+	margin-bottom:  12px;
+}
+.footer {
+	clear:  both;
+	background-color:  #333333;
+	color:  #CCCCCC;
+	font:  serif;
+	padding:  12px;
+	padding-bottom:  0px;
+	border-radius:  0px 0px 12px 12px;
+	text-align:  center;
+	padding:  12px;
+}
+.footer a {
+	color:  #CCCCCC;
+}
+.nicetab {
+	background-color:  #AAAAAA;
+	margin:  6px;
+	width:  98%;
+	border-radius:  10px;
+	padding:  6px;
+}
+.nicetab td {
+	text-align:  justify;
+	padding-left:  12px;
+	padding-right:  12px;
+}
+.nicetab tr {
+	padding:  12px;
+}
+.artclass {
+	word-wrap:  normal!important;
+	background-color:  #eeeeee;
+	padding:  1em;
+	margin-bottom:  0.5em;
+	border-radius:  12px;
+}
+.artclass h1 {
+	font-size:  1em;
+}
+.artclass h2 {
+	font-size:  0.5em;
+}
+.arttitle, .artauth, .artsubj, .artyear, .artlink {
+	display:  block;
+	font-size:  100%!important;
+	padding:  0pt;
+	margin:  0pt;
+	padding-left:  0px;
+	margin-left:  20%;
+	font-weight:  normal;
+}
+.artauth {
+}
+.artsubj {
+}
+.artyear {
+}
+.artlink {
+}
+.arttitle::before {
+	font-weight:  bolder;
+	content:  "Title:  ";
+}
+.artauth::before {
+	font-weight:  bolder;
+	content:  "Author:  ";
+}
+.artsubj::before {
+	font-weight:  bolder;
+	content:  "Subject:  ";
+}
+.artyear::before {
+	font-weight:  bolder;
+	content:  "Year:  ";
+}
+.artlink::before {
+	font-weight:  bolder;
+	content:  "Download:  ";
+}
+.artcover {
+	float:  left;
+	width:  auto;
+	padding-left:  6px;
+	padding-right:  6px;
+	padding-top:  6px;
+	padding-bottom:  6px;
+	background-color:  #dddddd;
+}
+.artcover img {
+}
+.bullclass {
+	display:  inline-block;
+	background-color:  #eeeeee;
+	padding:  12px;
+	text-align:  center;
+	overflow:  hidden;
+	max-width:  180px;
+	height:  100%:
+}
+.bullclass h2 {
+	font-size:  0.5em;
+	text-align:  left;
+}
+.bulltitle, .bullauth, .bullsubj, .bullyear, .bulllink,
+.picsyntitle, .picsynyear {
+	font-size:  75%!important;
+}
+.bullauth {
+}
+.bullsubj {
+}
+.bullyear {
+}
+.bulllink {
+}
+.bulltitle::before, .bullauth::before,
+.bullsubj::before, .bullyear::before,
+.bulllink::before, .picsyntitle::before,
+.picsynyear::before {
+	display:  inline-block;
+	font-weight:  bold;
+	font-style:  italic;
+	width:  10%;
+	min-width:  5em;
+	text-align:  left;
+}
+.bulltitle::before {
+	content:  "Issue:  ";
+}
+.bullauth::before {
+	content:  "Author:  ";
+}
+.bullsubj::before {
+	content:  "Subject:  ";
+}
+.bullyear::before {
+	content:  "Year:  ";
+}
+.bulllink::before {
+}
+.bullcover {
+}
+.bullcover img {
+}
+.picsyntitle::before {
+	content:  "Issues:  ";
+}
+.picsynyear::before {
+	content:  "Years:  ";
+}
+.resclass {
+	word-wrap:  normal!important;
+	background-color:  #eeeeee;
+	padding:  1em;
+	margin-bottom:  0.5em;
+	border-radius:  12px;
+}
+.resclass h2 {
+	font-size:  0.5em;
+}
+.restitle, .resauth, .ressubj, .resyear, .reslink, 
+.resname, .restype, .resvers, .resnature, .resloc {
+	display:  block;
+	font-size:  100%!important;
+	padding:  0pt;
+	margin:  0pt;
+	padding-left:  0px;
+	margin-left:  20%;
+	font-weight:  normal;
+}
+.restitle {
+	font-weight:  bold;
+	font-size:  125%!important;
+	border-bottom:  1px;
+	border-bottom-style:  solid;
+	border-bottom-color:  black;
+}
+.resauth {
+}
+.ressubj {
+}
+.resyear {
+}
+.reslink {
+}
+.resauth::before, .ressubj::before, .resyear::before,
+.reslink::before, .resname::before, .restype::before, .resvers::before,
+.resnature::before, .resloc::before {
+	display:  inline-block;
+	font-weight:  bold;
+	font-style:  italic;
+	width:  15%;
+	min-width:  6.5em;
+}
+.resname::before {
+	content:  "Name:";
+}
+.resauth::before {
+	content:  "Author:";
+}
+.ressubj::before {
+	content:  "Summary:";
+}
+.restype::before {
+	content:  "Type:";
+}
+.resvers::before {
+	content:  "Version:";
+}
+.reslink::before {
+	content:  "Download:";
+}
+.resnature::before {
+	content:  "Nature:";
+}
+.resloc::before {
+	content:  "Location:";
+}
+.rescover {
+	float:  left;
+	padding-left:  2%;
+	padding-right:  2%;
+	padding-top:  1%;
+	padding-bottom:  1%;
+	background-color:  #dddddd;
+	text-align:  center;
+	width:  15%;
+	overflow:  hidden;
+}
+.rescover img {
+}
+.newscasttitle {
+	font-size:  1.5em !important;
+	padding:  0pt;
+	margin:  0pt;
+}
+.newscastlink {
+	font-size:  1em;
+}
+.newscastdate {
+	font-size:  1em;
+	font-weight:  bold;
+	font-style:  italic;
+	padding:  0pt;
+}
+.newsvol {
+	font-variant:  small-caps;
+	font-weight:  bold;
+	font-size:  2.5em !important;
+	margin:  0pt;
+	padding:  0pt;
+}
+table {
+	border-collapse:  collapse;
+}
+.divtest tr {
+	border-bottom:  1px;
+	border-bottom-style:  solid;
+	border-bottom-color:  black;
+}
+.divtest td {
+	vertical-align:  top;
+}
+.animgif {
+	max-width:  100%;
+}
+@media (max-width:  640px) {
+	.titlebar {
+		clear:  both;
+		text-align:  center;
+		width:  100%;
+	}
+	.titlebar h1 {
+		clear:  both;
+		display:  block;
+		text-align:  center;
+	}
+	.titlebar-img {
+		clear:  both;
+		display:  block;
+		text-align:  center;
+		padding-top:  0.5em;
+		width:  100%;
+	}
+	.titlebar-text {
+		clear:  both;
+		display:  block;
+		text-align:  center;
+		padding-top:  0.5em;
+		width:  100%;
+	}
+	.joinus {
+		clear:  both;
+		text-align:  center;
+		font-size:  75%;
+	}
+	.website-title {
+		clear:  both;
+		font-size:  200%;
+	}
+	.website-tagline {
+		clear:  both;
+		font-size:  100%;
+		display:  none;
+	}
+	.navbar {
+		line-height:  2.0em;
+	}
+	.navbar li {
+		padding:  2px;
+	}
+	.leftbar {
+		float:  none;
+		width:  100%;
+	}
+	.disp-title {
+		font-size:  85%;
+	}
+	#followus {
+		float:  right;
+		width:  45%;
+	}
+	#donatebox {
+		float:  left;
+		width:  45%;
+	}
+	#sharebox {
+		display:  none;
+	}
+	#descbox {
+		display:  none;
+	}
+	.mainpart {
+		width:  100%;
+		padding-left:  6px;
+		padding-right:  0px;
+	}
+	.artcover {
+		display:  none;
+	}
+	.rescover {
+		display:  none;
+	}
+	.nicetab {
+		padding:  0px;
+		margin:  0px;
+	}
+}

@@ -1,0 +1,200 @@
+============================================================
+
+                      THE DSA NEWSCAST
+                   http://www.dozenal.org
+
+============================================================
+The Dozenal Society of America                Vol. 2, Iss. 7
+Official Newsletter                              3 July 11EX
+============================================================
+
+============================================================
+=                         CONTENTS                         =
+============================================================
+
+1.  Donations
+2.  For Sale
+3.  Dozenal News
+4.  Society Business
+5.  Poetical Diversion
+6.  Backmatter
+
+============================================================
+=                        DONATIONS                         =
+============================================================
+
+Members,  please  remember that  while  dues  are no  longer
+required for membership, we still  rely on the generosity of
+members  to keep  the DSA  going. Donations  of any  amount,
+large or small, are welcome and needed.
+
+A  donation   of  $10;  ($12.)  will   procure  Subscription
+membership, and entitles the payer to receive both a digital
+and  a paper  copy  of the  _Bulletin_  if requested.  Other
+members will  receive only  a digital  copy. To  invoke this
+privilege, please  notify the  Editor of the  Bulletin, Mike
+deVlieger, at
+
+    mdevlieger@dozenal.org
+
+As members know, we are  a volunteer organization which pays
+no salaries.  As such,  every penny  you donate  goes toward
+furthering the DSA's goals.
+
+It may be worth considering  a monthly donation; say, $3, or
+$6, or whatever seems reasonable to  you. This can be set up
+quite  easily  with  Paypal  or WePay,  both  of  which  are
+available at our web site.
+
+Of course,  if you prefer to  donate by check, you  may send
+them to our worthy Treasurer,  Jay Schiffman, payable to the
+Dozenal Society of America, at:
+
+    Jay Schiffman
+    604-36 South Washington Square, #815
+    Philadelphia, PA  19106-4115
+
+----------------------Member Benefits-----------------------
+
+Chief  among  the benefits  of  membership,  aside from  the
+knowledge  of supporting  the DSA's  mission, is  receipt of
+_The  Duodecimal Bulletin_.  In  addition, however,  members
+also receive (digitally) a  membership card containing their
+vital  member  information  and   a  monthly  calendar  with
+dozenal numbers, containing suitable and educational dozenal
+quotations and graphics, laid out for wall display.
+
+To  receive  these, please  notify  us  that you'd  like  to
+receive them:
+
+    Contact@dozenal.org
+
+============================================================
+=                         FOR SALE                         =
+============================================================
+
+The DSA  is pleased to  offer the following for  sale. These
+are all either at cost, or the proceeds go to the Society.
+
+    Wall Calendar for 11EX (stapled binding)      $11.60
+    Wall Calendar for 11EX, coiled binding        $16.70
+    Weekly Planner for 11EX                       $11.29
+    TGM:  A Coherent Dozenal Metrology             $8.00
+
+Prices are,  unfortunately but by necessity,  in decimal. To
+find these works, simply go to:
+
+    http://www.lulu.com/shop/shop.ep
+
+and enter the appropriate  terms. E.g., searching for "11EX"
+will turn up these calendars  and the planner; searching for
+"TGM dozenal" will turn up the TGM book.
+
+We hope  to offer  other titles, and  even some  other items
+(such as dozenal clocks and the like), in the near future.
+
+============================================================
+=                       DOZENAL NEWS                       =
+============================================================
+
+Our  esteemed   editor,  Michael  De  Vlieger   (#37E),  has
+submitted three new sequences  to the Online Encyclopedia of
+Integer Sequences (OEIS), and  greatly extended another. The
+following is Mike's own words on these contributions.
+
+Two new OEIS sequences associated  with the neutral digits m
+of base n.  A neutral digit m  < n neither divides  n nor is
+coprime to n.  These are counted by  a pre-existing sequence
+A045763, which Mike has extended to 10,000 values from 1000.
+
+Sequence  A243822 lists  the smallest  10,000 values  of the
+semidivisor counting  function. A  semidivisor is  a regular
+digit m  < n that  does not divide  base n. A  regular digit
+(counted by pre-existing A010846) is one, all of whose prime
+divisors  p also  divide  the  base n.  Dozenal  {8, 9}  are
+semidivisors, while {1,  2, 3, 4, 6, 8, 9,  10;} are dozenal
+regular.  Thus  A010846  -  A000005  (the  divisor  counting
+function) = A243822.
+
+Sequence  A243823 lists  the smallest  10,000 values  of the
+semitotative counting function. A  semitotative is a product
+of at least one prime divisor p of n and one prime q coprime
+to n. Thus A045763 = A243822 + A243823. Dozenal digit ten is
+a semitotative; in  base ten, 6 is  semitotative. During the
+consideration  of these  neutral digit  functions, Mike  has
+extended the  sequences A010846  and A105110.  The sequences
+were generated by Mathematica scripts.
+
+The two types of neutral digit derive from a 2011 proof Mike
+wrote.  There  are  four  digit  types,  divisor,  totative,
+semidivisor, and semitotative; with  these it is possible to
+understand  a  number  base  more  clearly,  simply  by  the
+behavior of its digits.
+
+Further  sequences  under review  have  to  do with  regular
+digits. These regular digits m of base n have unit fractions
+that terminate in base n. An example is decimal 4 or dozenal
+9:  decimal 1/4  =  .25  and dozenal  1/9  is .14.  Proposed
+sequence A244052 lists bases m  which set a record number of
+regular digits. (It is the record transform of A010846). The
+function is similar to the highly composite numbers A002182.
+These bases  have more regular digits  (whose unit fractions
+have a terminating expansion in that base) than the previous
+base: {2, 4, 6,  10, 12, 18, 24, 30, 42,  60, ...}. Mike has
+generated  53  terms (up  to  base  53130)  at the  time  of
+writing.  Finally, the  values associated  with these  bases
+constitute proposed sequence A244053.
+
+    http://www.oeis.org/A243822
+    http://www.oeis.org/A243823
+    http://www.oeis.org/A244053
+
+Thanks, Mike, for sharing this.
+
+============================================================
+=                     SOCIETY BUSINESS                     =
+============================================================
+
+Unfortunately,  we've   still  received  no   more  definite
+information for  when in  the Richmond conference  the DSA's
+program  will  be   set,  so  we're  unable   to  give  more
+definite information about  the date and time  of our annual
+conference.  We will  share  more details  as  soon as  they
+become available.
+
+============================================================
+=                    POETICAL DIVERSION                    =
+============================================================
+
+Why hot dogs buns still come in tens,
+    but hot dogs come in only eight
+will ever be a mystery to me;
+
+And why does sausage come in fives,
+    and cats possess a full nine lives,
+but golf balls come in tins of only three?
+
+And why's a sibling one degree,
+    A parent's sibling's son full three,
+but mother's sister's daughter's still my cousin?
+
+So many numbers!  But don't fret;
+    If we need more, then more we'll get;
+But everything's still cheaper by the dozen!
+
+============================================================
+=                       BACKMATTER                         =
+============================================================
+
+_The DSA Newscast_ is a production of the Dozenal Society of
+America.  If you  have received  this publication  in error,
+or  otherwise do  not  wish to  receive  it anymore,  please
+unsubscribe  by  mailing  a message  containing  the  string
+"UNSUBSCRIBE NEWSCAST",  exactly as  typed, in its  body, to
+the Reply-To address of this message.
+
+For questions, comments, submissions, or other communication
+with the _Newscast_, please write to:
+    newscast@dozenal.org
+                    
+                    EACH ONE, TEACH ONE

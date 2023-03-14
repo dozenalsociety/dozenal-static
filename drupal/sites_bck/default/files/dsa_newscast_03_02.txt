@@ -1,0 +1,293 @@
+============================================================
+
+                      THE DSA NEWSCAST
+                   http://www.dozenal.org
+
+============================================================
+The Dozenal Society of America                Vol. 3, Iss. 2
+Official Newsletter                          3 February 11EE
+============================================================
+
+============================================================
+=                         CONTENTS                         =
+============================================================
+
+1.  Donations
+2.  For Sale
+3.  Dozenal News
+    -Dozenal Android Apps Now Available
+    -Assistance Needed for iOS Apps
+    -Spanish-language Dozenal Materials
+4.  Society Business
+    -Proposed Numeral Change
+5.  Poetical Diversion
+6.  Backmatter
+
+============================================================
+=                        DONATIONS                         =
+============================================================
+
+Members,  please  remember that  while  dues  are no  longer
+required for membership, we still  rely on the generosity of
+members  to keep  the DSA  going. Donations  of any  amount,
+large or small, are welcome and needed.
+
+A  donation   of  $10;  ($12.)  will   procure  Subscription
+membership, and entitles the payer to receive both a digital
+and  a paper  copy  of the  _Bulletin_  if requested.  Other
+members will  receive only  a digital  copy. To  invoke this
+privilege, please  notify the  Editor of the  Bulletin, Mike
+deVlieger, at
+
+    mdevlieger@dozenal.org
+
+As members know, we are  a volunteer organization which pays
+no salaries.  As such,  every penny  you donate  goes toward
+furthering the DSA's goals.
+
+It may be worth considering  a monthly donation; say, $3, or
+$6, or whatever seems reasonable to  you. This can be set up
+quite  easily  with  Paypal  or WePay,  both  of  which  are
+available at our web site.
+
+Of course,  if you prefer to  donate by check, you  may send
+them to our worthy Treasurer,  Jay Schiffman, payable to the
+Dozenal Society of America, at:
+
+    Jay Schiffman
+    604-36 South Washington Square, #815
+    Philadelphia, PA  19106-4115
+
+Remember, too, that as of last month, the DSA is a 501(c)(3)
+tax-exempt organization,  so your  contributions may  be tax
+deductible under applicable law.
+
+----------------------Member Benefits-----------------------
+
+Chief  among  the benefits  of  membership,  aside from  the
+knowledge  of supporting  the DSA's  mission, is  receipt of
+_The  Duodecimal Bulletin_.  In  addition, however,  members
+also receive (digitally) a  membership card containing their
+vital  member  information  and   a  monthly  calendar  with
+dozenal numbers, containing suitable and educational dozenal
+quotations and graphics, laid out for wall display.
+
+To  receive  these, please  notify  us  that you'd  like  to
+receive them:
+
+    Contact@dozenal.org
+
+============================================================
+=                         FOR SALE                         =
+============================================================
+
+The DSA  is pleased to  offer the following for  sale. These
+are all either at cost, or the proceeds go to the Society.
+
+    Wall Calendar for 11EE, coiled binding        $10.05
+    Weekly Planner for 11EE                        $8.29
+    TGM:  A Coherent Dozenal Metrology             $8.00
+
+Prices are,  unfortunately but by necessity,  in decimal. To
+find these works, simply go to:
+
+    http://www.lulu.com/shop/shop.ep
+
+and enter the appropriate  terms. E.g., searching for "11EE"
+will turn up these calendars  and the planner; searching for
+"TGM dozenal" will turn up the TGM book.
+
+We hope  to offer  other titles, and  even some  other items
+(such as dozenal clocks and the like), in the near future.
+
+============================================================
+=                       DOZENAL NEWS                       =
+============================================================
+
+------------Dozenal Android Apps Now Available--------------
+
+As announced last month, the DSA has released three apps for
+the Android mobile operating system. These apps make it even
+easier to work  with dozenal on a daily  basis. The released
+apps are:
+
+    -DozclockWidget:  A  dozenal  clock,  which  provides  a
+    dozenalized  version  of  our current  time,  each  hour
+    divided into 100; units. This app also shows the date in
+    dozenal.  Best of  all, it  can be  used as  a *widget*,
+    meaning that it can reside comfortably on your screen at
+    all times,  so that you  never have  to open it  and can
+    have the  dozenal time  at your fingertips  whenever you
+    want it.
+
+    -dozbc: A dozenal calculator,  capable of the usual four
+    functions, roots, powers,  grouping via parentheses, and
+    rudimentary memory functions.
+
+    -TGMDroid:  A  metric  converter,  working  entirely  in
+    dozenal; this  converts from SI,  English/customary, and
+    the dozenal system known as TGM.
+
+Also forthcoming is a dozenal  calendar app, which will keep
+appointments by date  and time in dozenal. This  is still in
+alpha stages and will be released at a later time.
+
+---------------Assistance Needed for iOS Apps---------------
+
+If you are  able to program or learn to  program for the iOS
+operating  system  used  on Apple  mobile  products,  please
+contact us  if you'd  be willing to  create apps  similar to
+those above,  or additional apps  which might be  useful and
+interesting to members of the DSA, for iOS.
+
+-------------Spanish-Language Dozenal Materials-------------
+
+The  DSA is  pleased to  announce the  availability of  some
+Spanish-language dozenal material on its website; and what's
+more, that material is even historical. Originally published
+in 1098; (1844.), D. Vincente  Pujals de la Bastida provided
+a lengthy and convincing defense of the dozen as a system of
+numeration in his book, Filosofia de la Numeracion:
+
+    http://www.dozenal.org/drupal/content/filosofia-de-la-numeracion
+
+Completely  retypeset, with  a  large  number of  compelling
+tables  and   two  figures,  this  book   provides  a  great
+introduction   to  number   systems  and   dozenal.  Because
+translating such a work is beyond the abilities of anyone in
+the Society currently volunteering,  it is offered here only
+in  its  original  language,  Spanish.  We  have  also  made
+available  an excerpt  explaining why  we should  prefer the
+dozen over other bases:
+
+    http://www.dozenal.org/drupal/content/de-la-numeracion-que-debe-preferirse
+
+We now  have materials on  our website in  English, Spanish,
+French, and Esperanto; this work will help spread dozenal to
+new audiences throughout the world.
+
+============================================================
+=                     SOCIETY BUSINESS                     =
+============================================================
+
+For  many years,  the DSA  has been  employing the  Dwiggins
+numerals (a stylized X and E) for the numbers ten and eleven
+in our publications. We have never *endorsed* any particular
+set of numerals, but we have used these as a standard in our
+own works.
+
+At the Annual  Meeting in 11EX, the Editor  of the Bulletin,
+Michael deVlieger, made  a proposal that we  cease using the
+Dwiggins numerals  and begin  using the Pitman  numerals (an
+inverted 2 and  3). Before making such  a decision, however,
+your  board wanted  to  inquire into  the  positions of  our
+membership.
+
+The  argument against  switching to  the Pitman  numerals is
+essentially one  of consistency.  We have used  the Dwiggins
+numerals for  most of our 6  dozen years (for around  two to
+three dozen  we used  the asterisk  and octothorpe,  or Bell
+numerals), and consistency with that tradition is important.
+
+The  argument  for  switching  to  the  Pitman  numerals  is
+twofold:
+
+    1.) Uniformity with the  practice of the Dozenal Society
+    of Great Britain.
+
+    2.)  To take  advantage of  the addition  of the  Pitman
+    numerals to the worldwide standard known as Unicode.
+
+The  Pitman  numerals,  described   as  "turned  digit  two"
+and  "turned  digit  three",   have  been  accepted  by  the
+International Unicode Consortium and will be included in the
+standard sometime next year (the year 1200). This would mean
+that, for the  first time in our  history, dozenalists would
+not  have to  constantly devise  their own  symbols for  the
+transdecimal digits. These two symbols, recognized as digits
+and  not  as letters,  would  be  part of  an  international
+standard; font designers would likely begin including glyphs
+for  these symbols  in  their fonts;  word processors,  text
+editors, and the like  could begin including recognition for
+these characters; and so forth.
+
+Are these arguments sufficient to justify departing from the
+DSA's long  tradition? Please  let us  know your  opinion by
+writing to:
+
+    newscast@dozenal.org
+
+In a  few days, we'll  be putting a  poll on the  website to
+allow our membership to make  an vote on symbols and provide
+some comments to explain their opinions.
+
+Please  note, however,  that  the DSA  is *not*  considering
+endorsing  any  particular set  of  symbols;  we are  simply
+deciding on whether to retain our current consensus numerals
+for purposes of our publications, or to change to the Pitman
+numerals.  We  are  not  holding a  referendum  on  favorite
+symbols, only trying  to determine which of  two sets should
+be the default in our publications.
+
+Thank you in advance for your input.
+
+============================================================
+=                    POETICAL DIVERSION                    =
+============================================================
+
+May auld decimal be forgot,
+and never brought to mind!
+May auld decimal be forgot,
+and dozenal come rise!
+
+    For dozenal should rise, my jo,
+    for dozenal should rise!
+    We'll see the fall of dec'mal yet,
+    and dozenal shall rise!
+
+And surely you'll buy your pint-cup,
+and surely I'll buy mine!
+In packs of six and twelve we'll drink,
+to dozenal's near rise!
+
+    For dozenal should rise, my jo,
+    for dozenal should rise!
+    We'll see the fall of dec'mal yet,
+    and dozenal shall rise!
+
+And there's a hand, my trusty friend,
+and give a hand o' thine!
+Five fingers, but twelve joints are there,
+for auld lang syne!
+    
+    For dozenal should rise, my jo,
+    for dozenal should rise!
+    We'll see the fall of dec'mal yet,
+    and dozenal shall rise!
+
+O decimal must fall soon or late,
+as weak must fall to strong!
+For twelve is favored by ol' Fate,
+and it shall rise ere long!
+
+    For dozenal should rise, my jo,
+    for dozenal should rise!
+    We'll see the fall of dec'mal yet,
+    and dozenal shall rise!
+
+============================================================
+=                       BACKMATTER                         =
+============================================================
+
+_The DSA Newscast_ is a production of the Dozenal Society of
+America.  If you  have received  this publication  in error,
+or  otherwise do  not  wish to  receive  it anymore,  please
+unsubscribe  by  mailing  a message  containing  the  string
+"UNSUBSCRIBE NEWSCAST",  exactly as  typed, in its  body, to
+the Reply-To address of this message.
+
+For questions, comments, submissions, or other communication
+with the _Newscast_, please write to:
+    newscast@dozenal.org
+                    
+                    EACH ONE, TEACH ONE

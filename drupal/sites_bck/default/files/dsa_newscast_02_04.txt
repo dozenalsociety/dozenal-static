@@ -1,0 +1,278 @@
+============================================================
+
+                      THE DSA NEWSCAST
+                   http://www.dozenal.org
+
+============================================================
+The Dozenal Society of America                Vol. 2, Iss. 4
+Official Newsletter                             3 April 11EX
+============================================================
+
+============================================================
+=                         CONTENTS                         =
+============================================================
+
+1.  Donations
+2.  For Sale
+4.  Living Dozens:  Ages
+5.  Dozenal News
+6.  Society Business
+    -Annual Meeting
+    -NCTM Conference
+    -New Newscast Delivery Mechanism
+7.  Poetical Diversion
+8.  Backmatter
+
+============================================================
+=                        DONATIONS                         =
+============================================================
+
+Members,  please  remember that  while  dues  are no  longer
+required for membership, we still  rely on the generosity of
+members  to keep  the DSA  going. Donations  of any  amount,
+large or small, are welcome and needed.
+
+A  donation   of  $10;  ($12.)  will   procure  Subscription
+membership, and entitles the payer to receive both a digital
+and  a paper  copy  of the  _Bulletin_  if requested.  Other
+members will  receive only  a digital  copy. To  invoke this
+privilege, please  notify the  Editor of the  Bulletin, Mike
+deVlieger, at
+
+    mdevlieger@dozenal.org
+
+As members know, we are  a volunteer organization which pays
+no salaries.  As such,  every penny  you donate  goes toward
+furthering the DSA's goals.
+
+It may be worth considering  a monthly donation; say, $3, or
+$6, or whatever seems reasonable to  you. This can be set up
+quite  easily  with  Paypal  or WePay,  both  of  which  are
+available at our web site.
+
+Of course,  if you prefer to  donate by check, you  may send
+them to our worthy Treasurer,  Jay Schiffman, payable to the
+Dozenal Society of America, at:
+
+    Jay Schiffman
+    604-36 South Washington Square, #815
+    Philadelphia, PA  19106-4115
+
+----------------------Member Benefits-----------------------
+
+Chief  among  the benefits  of  membership,  aside from  the
+knowledge  of supporting  the DSA's  mission, is  receipt of
+_The  Duodecimal Bulletin_.  In  addition, however,  members
+also receive (digitally) a  membership card containing their
+vital  member  information  and   a  monthly  calendar  with
+dozenal numbers, containing suitable and educational dozenal
+quotations and graphics, laid out for wall display.
+
+To  receive  these, please  notify  us  that you'd  like  to
+receive them:
+
+    Contact@dozenal.org
+
+============================================================
+=                         FOR SALE                         =
+============================================================
+
+The DSA  is pleased to  offer the following for  sale. These
+are all either at cost, or the proceeds go to the Society.
+
+    Wall Calendar for 11EX (stapled binding)      $11.60
+    Wall Calendar for 11EX, coiled binding        $16.70
+    Weekly Planner for 11EX                       $11.29
+    TGM:  A Coherent Dozenal Metrology             $8.00
+
+Prices are,  unfortunately but by necessity,  in decimal. To
+find these works, simply go to:
+
+    http://www.lulu.com/shop/shop.ep
+
+and enter the appropriate  terms. E.g., searching for "11EX"
+will turn up these calendars  and the planner; searching for
+"TGM dozenal" will turn up the TGM book.
+
+We hope  to offer  other titles, and  even some  other items
+(such as dozenal clocks and the like), in the near future.
+
+============================================================
+=                   LIVING DOZENS:  AGES                   =
+============================================================
+
+We all have  ages, and these are always numbers;  so why not
+think about our ages in dozens?
+
+If  you've just  turned thirty,  you're 26;  if you've  just
+turned forty,  you're 34. You're  legally an adult at  16 (a
+much nicer number  in base twelve than in base  ten, an even
+dozen and  a half).  You can legally  consume alcohol  at 19
+(just  as clumsy  in  dozenal as  in  decimal, I'm  afraid).
+You're a senior citizen at only 55 (perhaps, in keeping with
+our current trends,  make this 56 so it's even);  and if you
+manage to live to 100, you're setting some real records.
+
+We  refer  to  people  who  are  still  in  their  twenties,
+thirties,  etc., and  of course  such sayings  will have  to
+be  altered. However,  these  sayings make  more sense  when
+in  dozens,  anyway.  Do  we  not  regularly  refer  to  the
+"eighteen  to thirty"  demographic? Does  this not  work out
+much more nicely in dozenal,  with a "16 to 26" demographic?
+Fortunately, thirty and 26 work pretty well in both systems,
+since that's the  age at which we stop  being "young adults"
+and become simply "adults."
+
+For infants,  of course,  this is  nothing less  than common
+sense. We  already speak of  infants' ages in  months, after
+all, of which  there are twelve in a year.  It's easy to say
+that an  infant is 16 months  old, knowing that he's  a year
+and a  half. And  this month  system comes  in handy  at all
+ages, too; it's  easy to tell when we are  halfway through a
+year, or a quarter, or a third, or a sixth, while in decimal
+this can require much more thought.
+
+This is a small thing; but it helps to get us used to really
+*thinking* in dozens, as well as gives us some practice with
+dozenal numbers.
+
+============================================================
+=                       DOZENAL NEWS                       =
+============================================================
+
+Brian  Hetrick  (#426)  has  authored  a  dozenal  clock  in
+.NET  2.0 compatible  with Windows  computers and  GNU/Linux
+computers with the Mono environment installed:
+
+    http://www.brianhetrick.com/gplsw/index.html
+
+The program  is free software (AGPL  licensed) and available
+for download at the above link.  It displays the time in our
+decimal/sexagesimal system as well  as in dozenal, in duors,
+"dinits," and "deconds."
+
+Jim  Zamerski (#42E)  sends us  a composition  based on  the
+dozen digits  of pi, which  is by some margin  the loveliest
+your editor has ever heard:
+
+    http://www.youtube.com/watch?v=ZuNO--JD8NM
+
+These musical representations of transcendental numbers have
+gotten pretty  common; indeed,  the On-Line  Encyclopedia of
+Integer Sequences (http://www.oeis.org) can turn any integer
+sequence  into  music.  But  this rendition  really  has  an
+uncommonly  beautiful result---at  least,  in your  editor's
+opinion. Another video includes melodies for Euler's number,
+2pi, and  raw notes for  the Golden Ratio (phi),  along with
+sheet music for pi:
+
+    http://www.youtube.com/watch?v=ava5mXZ3ofg
+
+Speaking on the OEIS, Jay  Schiffman (our Board Chairman and
+Treasurer, #2X8)  spoke on dozenal integer  sequences at our
+last annual meeting, and noted  that a dozenal version would
+be useful. Thanks to James  Wood, a neighbor across the pond
+in Yorkshire,  England, anyone  running a Firefox  or Chrome
+browser has one!
+
+    http://www.userscripts.org/scripts/show/103812
+    http://www.userscripts.org/scripts/show/175429
+
+This scripts can be easily  loaded into the above or similar
+browsers and cause the OEIS to produce its integer sequences
+in  dozenal  as well  as  decimal;  the second  even  allows
+*searching* the  database for  dozenal sequences. This  is a
+great tool for dozenal research.
+
+============================================================
+=                     SOCIETY BUSINESS                     =
+============================================================
+
+This issue  was delayed due  to your Board having  a meeting
+scheduled  for  2  April   11EX,  which  would  decide  some
+significant matters. Fortunately, this meeting occurred, and
+a great deal of useful progress was made.
+
+-----------------------Annual Meeting-----------------------
+
+Our annual meeting  will be held on 13;  (15.) November 11EX
+in Richmond,  Virginia. Further details (such  as the hotel,
+exact  times,  and agenda)  will  be  provided as  they  are
+finalized.
+
+----------------------NCTM Conference-----------------------
+
+As noted before,  our proposal to present a  workshop at the
+regional  meeting of  the  National Council  of Teachers  of
+Mathematics  in  Richmond,  Virginia  was  accepted.  Thanks
+again to  our Secretary, Jen  Seron, and our  Treasurer, Jay
+Schiffman, for a  great deal of hard work  in preparing that
+proposal and paving the way for its acceptance.
+
+That conference takes place 11-12; (13-14.) November, so our
+annual meeting will immediately follow the conference. We've
+not  yet been  told which  of  those two  days will  contain
+our  workshop; this  information will  be included  in later
+Newscasts as it becomes available.
+
+--------------New Newscast Delivery Mechanism---------------
+
+Our burgeoning membership has taxed our formerly slap-dashed
+means of  delivering _The  DSA Newscast_ to  our membership;
+this Google  group is  an attempt  to resolve  that problem.
+Transitioning to this method may involve some growing pains,
+for which we apologize and ask for your kind patience.
+
+============================================================
+=                    POETICAL DIVERSION                    =
+============================================================
+
+                     Twelve's My Number
+
+I try to do up my sums;
+I'm multiplying some nums;
+but still I'm only thumbs,
+'cause ten is in my way;
+
+I'd trade this ten for an ace, 
+a better number as base,
+some fleeter feet for this race;
+ten is just in my way!
+
+But twelve's my winner;
+clean thirds, quarters thinner;
+fifths tough; but five's a sinner;
+abundant factors to save the day!
+
+(chorus)
+
+Hey, when I met you,
+I went crazy!
+'Cause twelve's my number;
+I don't mean maybe!
+
+So many factors,
+I need no more!
+So twelve's my number;
+I don't mean maybe!
+
+(To be  sung to  the tune  of "Call Me  Maybe" by  Carly Rae
+Jepsen, if you can stomach  it, with tongue placed firmly in
+cheek.)
+
+============================================================
+=                       BACKMATTER                         =
+============================================================
+
+_The DSA Newscast_ is a production of the Dozenal Society of
+America.  If you  have received  this publication  in error,
+or  otherwise do  not  wish to  receive  it anymore,  please
+unsubscribe  by  mailing  a message  containing  the  string
+"UNSUBSCRIBE NEWSCAST",  exactly as  typed, in its  body, to
+the Reply-To address of this message.
+
+For questions, comments, submissions, or other communication
+with the _Newscast_, please write to:
+    newscast@dozenal.org
+                    
+                    EACH ONE, TEACH ONE

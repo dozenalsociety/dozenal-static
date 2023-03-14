@@ -1,0 +1,128 @@
+============================================================
+
+                      THE DSA NEWSCAST
+                   http://www.dozenal.org
+
+============================================================
+The Dozenal Society of America                Vol. 1, Iss. 3
+Official Newsletter                               1 May 11E9
+============================================================
+
+--------------------------CONTENTS--------------------------
+
+1.  Annual Meeting
+2.  Dues Notice
+3.  Dozenal News
+4.  Society Business
+5.  Poetical Diversion
+6.  Backmatter
+
+-----------------------ANNUAL MEETING-----------------------
+
+The  DSA's  Annual Meeting  for  11E9  will be  in  Atlanta,
+Georgia, on  19 June  (decimal 21 June).  We hope  that many
+members will be able to join  us on our first annual meeting
+held outside New York City in many years.
+
+The meeting  will be at  the Courtyard by Marriott  hotel in
+downtown Atlanta; specifically, at
+	Courtyard by Marriott
+	133 Carnegie Way
+	Atlanta, GA  30303
+	(404) 222-2416
+
+We will convene at 11;00 (1:00 p.m.).  Please join us!
+
+On 1X  June, the DSA  will be  presenting a workshop  at the
+2013. Annual  ASEE K-12  Workshop on  Engineering Education.
+See our last issue (Newscast 01:02) for more information
+
+------------------------DUES NOTICE-------------------------
+
+Members! Please  remember that  dues are  payable as  of the
+first of January each year.  (Dozenal) 16 dollars for normal
+members, 30  dollars for  supporting members, 3  dollars for
+student members. You can pay  online, too; just apply for an
+account at the website!
+    http://www.dozenal.org/drupal/user/login
+
+Otherwise, you can pay  our worthy Treasurer, Jay Schiffman,
+by check:
+    Jay Schiffman
+    604-36 South Washington Square, #815
+    Philadelphia, PA  19106-4115
+
+------------------------DOZENAL NEWS------------------------
+
+We missed it at the time, but back in January D'Arcy Flynn's
+blog posted a lovely little piece on dozenals:
+	http://www.darcyflynn.com/decimal-vs-duodecimal/
+A   citizen   of  the   Dominion   of   Canada,  Mr.   Flynn
+understandably  conflates  the   American  system  with  the
+imperial one; as a  basic run-down of dozenal's superiority,
+though, it's a good read.
+
+The Society  has published another newly  remastered dozenal
+work in the  last month. _Systems of Numeration:  A Plea for
+the Duodecimal_,  by Rev.  Thomas J.  A. Freeman,  S.J., was
+originally published in 1119 (1893.) in the United States.
+	http://www.dozenal.org/drupal/content/systems-numeration-plea-duodecimal
+It  is   a  wonderfully   complete  and   yet  light-hearted
+exposition of the advantages of the dozenal base. Well worth
+the time to read.
+
+The Society has also released a new utility available at our
+Resources page.  This tool is a desktop or toolbar clock for
+KDE desktops, primarily run on GNU/Linux or BSD systems.  It
+gives the time (in hours), with dozenal subdivisions of
+hours, like a normal dozenal number; e.g., "03;X0" for our
+customary "3:50."  On mouseover, it gives the Gregorian date
+in dozenal.
+	http://www.dozenal.org/drupal/content/kde-desktop-dozenal-clock
+KDE users should find this a great dozenal tool.
+
+----------------------SOCIETY BUSINESS----------------------
+
+No new  business this month,  other than to  again encourage
+members to try  to make plans to attend  the Annual Meeting.
+If you would like to come  but can't make it, please contact
+us:
+	Contact@dozenal.org
+It may be possible to arrange a local meet-up of members and
+other interested persons.
+
+---------------------POETICAL DIVERSION---------------------
+
+TO DOZENAL PATRIOTS, AN ANTHEM
+
+Rise, you children of the dozen,
+the day of glory has arrived!
+'gainst the hateful dec'mal's tyranny
+The dozen's standard has been raised,
+the dozen's standard has been raised!
+The roar of these ferocious soldiers?
+They come to take your simple thirds,
+to take your quarters and your sixths!
+
+To arms, doz'nalists!
+Divide up in four ways!
+March on, march on!
+An impure base
+will fall to dozen's strength!
+
+(With thanks to the good people of Marseilles.)
+
+============================================================
+=                       BACKMATTER                         =
+============================================================
+
+_The DSA Newscast_ is a production of the Dozenal Society of
+America.  If you  have received  this publication  in error,
+or  otherwise do  not  wish to  receive  it anymore,  please
+unsubscribe  by  mailing  a message  containing  the  string
+"UNSUBSCRIBE DSA  NEWSCAST", exactly as typed,  in its body,
+to the Reply-To address of this message.
+
+For questions, comments, submissions, or other communication
+with the _Newscast_, please write to:
+    newscast@dozenal.org

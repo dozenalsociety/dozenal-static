@@ -1,0 +1,338 @@
+============================================================
+
+                      THE DSA NEWSCAST
+                   http://www.dozenal.org
+
+============================================================
+The Dozenal Society of America                Vol. 1, Iss. 9
+Official Newsletter                          1 November 11E9
+============================================================
+
+============================================================
+=                         CONTENTS                         =
+============================================================
+
+1.  Donations
+2.  Article:  SDN and Fractions
+3.  Dozenal News
+    -New Article:  "Playfair on Dozenalism"
+4.  Society Business
+    -Bulletin Publication
+5.  Poetical Diversion
+6.  Backmatter
+
+============================================================
+=                        DONATIONS                         =
+============================================================
+
+Members,  please  remember that  while  dues  are no  longer
+required for membership, we still  rely on the generosity of
+members  to keep  the DSA  going. Donations  of any  amount,
+large or small, are welcome and needed.
+
+A  donation   of  $10;  ($12.)  will   procure  Subscription
+membership, and entitles the payer to receive both a digital
+and  a paper  copy  of the  _Bulletin_  if requested.  Other
+members will  receive only  a digital  copy. To  invoke this
+privilege, please  notify the  Editor of the  Bulletin, Mike
+deVlieger, at
+
+    mdevlieger@dozenal.org
+
+As members know, we are  a volunteer organization which pays
+no salaries.  As such,  every penny  you donate  goes toward
+furthering the DSA's goals.
+
+It may be worth considering  a monthly donation; say, $3, or
+$6, or whatever seems reasonable to  you. This can be set up
+quite easily with Paypal or WePay.
+
+Of course,  if you prefer to  donate by check, you  may send
+them to our worthy Treasurer,  Jay Schiffman, payable to the
+Dozenal Society of America, at:
+
+    Jay Schiffman
+    604-36 South Washington Square, #815
+    Philadelphia, PA  19106-4115
+
+----------------------Member Benefits-----------------------
+
+Chief  among  the benefits  of  membership,  aside from  the
+knowledge  of supporting  the DSA's  mission, is  receipt of
+_The  Duodecimal Bulletin_.  In  addition, however,  members
+also receive (digitally) a  membership card containing their
+vital  member  information  and   a  monthly  calendar  with
+dozenal numbers, containing suitable and educational dozenal
+quotations and graphics, laid out for wall display.
+
+To  receive  these, please  notify  us  that you'd  like  to
+receive them:
+
+    Contact@dozenal.org
+
+---------------------------WePay----------------------------
+
+We have accepted donations through PayPal for some time; now
+we can also accept them via WePay, which allows donations to
+be made  without having an  account. We hope that  this will
+make it easier to support the Society.
+
+============================================================
+=                    SDN and Fractions                     =
+============================================================
+
+Continuing this month with  our series on Systematic Dozenal
+Nomenclature  (or SDN),  let's begin  with some  review: the
+basic SDN chart:
+
+    Num.    Part.       Pos. Power      Neg. Power
+    -----   ------      -----------     ------------
+    0       Nil         Nilqua          Nilcia
+    1       Un          Unqua           Uncia
+    2       Bi          Biqua           Bicia
+    3       Tri         Triqua          Tricia
+    4       Quad        Quadqua         Quadcia
+    5       Pent        Pentqua         Pentcia
+    6       Hex         Hexqua          Hexcia
+    7       Sept        Septqua         Septcia
+    8       Oct         Octqua          Octcia
+    9       Enn         Ennqua          Enncia
+    X       Dec         Decqua          Deccia
+    E       Lev         Levqua          Levcia
+
+The simplest way to use SDN  is to name the highest power in
+the  number, and  then  to  list the  digits  in order.  For
+example,  the  current  year  is  11E9;  in  SDN,  we  could
+pronounce this as:
+
+    11E9 = "one triqua one elv nine"
+
+We  also   saw  the   use  of   SDN  to   form  consistently
+dozenal  words; for  example, "unhexnilennial"  for a  160th
+anniversary, and quadrunquennial for a 40th anniversary.
+
+We don't  always form our  number words focusing  on integer
+ranking, however;  sometimes we  focus them  on *frequency*.
+This  sort   of  wordsmithing  requires   constructions  for
+fractional  parts;  for  this   purpose,  SDN  provides  the
+following two particles: "dit" and "per." More on "per" in a
+moment; for now, let's consider "dit."
+
+"Dit"  is  well  familiar to  many  dozenalists;  initially,
+many  dozen years  ago,  this was  an  acronym for  "dozenal
+identification tag," and was used to pronounce the semicolon
+by which  dozenal numbers  were differentiated  from decimal
+ones.  Many of  us still  use "dit"  this way,  as a  way of
+voicing the dozenal or Humphrey point. E.g.:
+
+    4;5 --- "four dit five"
+
+In  SDN,  it is  used  in  almost  precisely the  same  way.
+Consider,  for  example,  a publication  which  is  produced
+twice a  week. In our  current systemless system,  it's very
+difficult to  determine what word to  use here, particularly
+since, in  the last few  dozen years, the options  have been
+confused  so  much  that  they have  nearly  merged.  It  is
+"biweekly"?  "Semiweekly"? This  is a  hard enough  question
+that most people simply  say "twice a week." (Traditionally,
+the answer  is "semiweekly"; but  because so many  have been
+so  often confused  by  this, "biweekly"  has become  nearly
+synonymous, though technically it means "every two weeks".)
+
+In SDN, though, we form  our number words precisely the same
+way we  form our  numbers with digits;  we simply  use words
+instead. What  we're really  talking about, when  we publish
+twice a  week, is  that we published  once every  half week.
+Half, in dozenal, is 0;6,  voiced "zero dit six." Therefore,
+in SDN:
+
+    twice weekly
+     0   ;   6  weekly
+    nil dit hex weekly
+
+And for short, one may simply say "dithexweekly."
+
+What  about one  every  two weeks,  the  literal meaning  of
+"biweekly"? Well, that depends; if  we mean "twice a month,"
+as we  commonly do, we do  exactly as we did  above, forming
+"nildixhexmonthly."  If  we  really mean  biweekly,  without
+regard to when the months fall, we say "biweekly," precisely
+as we do already  (though "binaweekly", using the multiplier
+form, would be more strictly correct).
+
+We can do  this with many common  divisions; "quarterly" can
+simply  remain  quarterly, of  course,  but  if we  need  to
+emphasize  that it  is  a  quarter of  a  *year* that  we're
+talking  about, we  can say  "nildittriyearly." We  can also
+start easily using and talking  about divisions into a third
+of  a  year,  every  four months,  either  "quadmonthly"  or
+"nilditquadyearly."  Something  that  comes  due  every  two
+months can be "bimonthly" or "nilditbiyearly." And so forth.
+
+While the  mighty dozen  has more  and more  useful divisors
+than any  other number in  its scale (as we  dozenalists all
+know), it still doesn't have *all* of them, and occasionally
+we do  have to use  some numbers  that don't have  short, or
+even terminating,  periods. What if something  happens seven
+times a year, for example?
+
+(Seven  times a  year? Why  on earth...?  Take your  choice;
+historical or symbolic reasons, perhaps.)
+
+Seven times  a week, of  course, we call "daily,"  but seven
+times a  *year* is  a bit  trickier. Nor  can we  simply use
+"dit,"  for a  seventh  is a  very  clumsy digital  fraction
+(0;186X35 repeating;  a six-digit  period, pessimal  for the
+dozenal base). "Nilditunocthexdectripentennially" will work;
+but  it's certainly  quite  a mouthful,  and  it's also  not
+strictly  accurate, as  it only  lists one  period. This  is
+where "per" steps in.
+
+With "per", we can name  vulgar fractions exactly as we name
+digital  fractions or  integers.  Here,  for example,  we're
+talking about a seventh of a year. We write this as "1 / 7".
+We can make this into simple, orthodox SDN by naming it like
+this:
+
+     1   /   7      yearly
+    Un  per sept    yearly
+
+Unperseptyearly;  seven  times  a  year. Since  "per"  is  a
+reciprocal operator,  we can even  assume the "un,"  and say
+"perseptyearly."
+
+So  now  we  can  count  to  any  number,  large  or  small,
+and  form a  number  word for  any  quantity, fractional  or
+integral,  using  a  consistent, international,  and  purely
+dozenal system. This is the power of SDN.
+
+============================================================
+=                       DOZENAL NEWS                       =
+============================================================
+
+-----------New Article:  "Playfair on Dozenalism"-----------
+
+We are  pleased to  announce the  publication of  an excerpt
+from  an historical  piece  by John  Playfair,  in which  he
+defends the superiority of the dozenal system:
+
+    http://www.dozenal.org/drupal/content/playfair-dozenalism
+
+Among the  earliest defenses  of base twelve,  Playfair here
+regrets  that  the  French  Revolutionaries,  despite  being
+willing to cast off almost  everything, were still too timid
+to cast off the shackles of the decimal base. Short and well
+worth the read.
+
+============================================================
+=                     SOCIETY BUSINESS                     =
+============================================================
+
+--------------------Bulletin Publication--------------------
+
+The _Bulletin_ schedule for the immediate future remains the
+same:
+
+Dec 10: _The Duodecimal Bulletin_ WN X1, for 11E8 (2012.)
+Mar 01: _The Duodecimal Bulletin_ WN X2, for 11E9 (2013.)
+
+This will have us caught up  to the current year, and future
+issues published in 11EX (after WN X2) will be for that year
+(11EX, or 2014.).
+
+============================================================
+=                    POETICAL DIVERSION                    =
+============================================================
+
+While best known for "The  Rime of the Ancient Mariner," the
+famed British  poet Samuel Taylor Coleridge  (1038-108X) was
+also keenly interested in geometry,  and was so taken by the
+simplicity and elegance of Euclid's first proposition of the
+first book that  he write a poem about it.  It is reproduced
+here:
+
+A Mathematical Problem
+----------------------
+This is now---this was erst,
+Proposition the first---and Problem the first.
+
+On a given finite Line
+which must no way incline;
+To describe an equi---
+---lateral Tri---
+---A, N, G, L, E.
+Now let A B.
+Be the given line
+Which must no way incline;
+The great Mathematician
+Makes this Requisition,
+That we describe an Equi---
+---lateral Tri---
+angle on it:
+Aid us, Reason---aid us, Wit!
+
+From the center A, at the distance A. B.
+Describe the circle B.C.D.
+At the distance B. A. from B. the centre
+The round A.C.E. to describe boldly venture.
+(Third Postulate see.)
+And from the point C,
+In which the circles makes a pother
+Cutting and slashing one another,
+Bid the straight lines a journeying go,
+C, A, C, B, those lines will show.
+To the points, which by A. B. are reckon'd,
+And postulate the second
+For Authority ye know.
+A.B.C.
+Triumphant shall be
+An Equilateral Triangle,
+Not Peter Pindar carp, not Zoilus can wrangle.
+
+I think we can probably  all agree that Coleridge's poetical
+talents were  better spent  on other topics.  However, Jacob
+Bernoulli, normally no poet, proved himself capable of quite
+elegant verse in the following poem:
+
+Treatise on an Infinite Series
+------------------------------
+Even as the finite encloses an infinite series
+    And in the unlimited limits appear,
+So the soul of immensity dwells in minutia
+    And in narrowest limits no limits inhere.
+What joy to discern the minute in infinity!
+    The vast to perceive in the small, what divinity!
+
+And, in the original Latin:
+
+Ut non-finita Seriem finita coercet,
+    Summula, & in nullo limite limes adest;
+Sic modico immensi vestigia Numinis haerent,
+    Corpore, & angusto limite limes abest.
+Cernere in immenso parvum, dic, quanta voluptas!
+    In parvo immensum cernere, quanta, Deum!
+
+(Both texts are taken from  "The Verses of Jacques Bernoulli
+on Infinite  Series", by  Helen Walker of  Teachers College,
+Columbia  University,  in  David  Eugene  Smith,  _A  Source
+Book   in  Mathematics_,   published  1149   by  McGraw-Hill
+and  republished  1173  by  Dover.)  While  not  a  *strict*
+translation, the English is quite lovely; and I think anyone
+knowledgeable in Latin will enjoy the original, as well.
+
+============================================================
+=                       BACKMATTER                         =
+============================================================
+
+_The DSA Newscast_ is a production of the Dozenal Society of
+America.  If you  have received  this publication  in error,
+or  otherwise do  not  wish to  receive  it anymore,  please
+unsubscribe  by  mailing  a message  containing  the  string
+"UNSUBSCRIBE DSA  NEWSCAST", exactly as typed,  in its body,
+to the Reply-To address of this message.
+
+For questions, comments, submissions, or other communication
+with the _Newscast_, please write to:
+    newscast@dozenal.org
+                    
+                    EACH ONE, TEACH ONE

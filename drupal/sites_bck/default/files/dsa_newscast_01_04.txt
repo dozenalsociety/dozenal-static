@@ -1,0 +1,210 @@
+============================================================
+
+                      THE DSA NEWSCAST
+                   http://www.dozenal.org
+
+============================================================
+The Dozenal Society of America                Vol. 1, Iss. 4
+Official Newsletter                              1 June 11E9
+============================================================
+
+============================================================
+=                         CONTENTS                         =
+============================================================
+
+1.  Annual Meeting
+2.  Dues Notice
+3.  Dozenal News
+    -Website accounts
+    -"Dozenal System" by Andrew Craucamp
+    -Discussion of number bases on StackExchange
+4.  Society Business
+5.  Poetical Diversion
+6.  Backmatter
+
+============================================================
+=                      ANNUAL MEETING                      =
+============================================================
+
+The  DSA's  Annual Meeting  for  11E9  will be  in  Atlanta,
+Georgia, on  19 June  (decimal 21 June).  We hope  that many
+members will be able to join  us on our first annual meeting
+held outside New York City in many years.
+
+The meeting  will be at  the Courtyard by Marriott  hotel in
+downtown Atlanta; specifically, at
+    Courtyard by Marriott
+    133 Carnegie Way
+    Atlanta, GA  30303
+    (404) 222-2416
+Even more specifically, this will be at the Ernest Hemingway
+Room at the hotel.
+
+We will  officially convene  at 11;00 (1:00  p.m.); however,
+beginning at 08;00 (8:00 a.m.),  there will be an unofficial
+brainstorming session  concerning options for the  future of
+the DSA. Please join us for either or both!
+
+On 1X  June, the DSA  will be  presenting a workshop  at the
+2013. Annual  ASEE K-12  Workshop on  Engineering Education.
+See Newscast 01:02 for more information
+ 
+============================================================
+=                       DUES NOTICE                        =
+============================================================
+
+Members! Please  remember that  dues are  payable as  of the
+first of January each year.  (Dozenal) 16 dollars for normal
+members, 30  dollars for  supporting members, 3  dollars for
+student members. You can pay  online, too; just apply for an
+account at the website!
+    http://www.dozenal.org/drupal/user/login
+
+Otherwise, you can pay  our worthy Treasurer, Jay Schiffman,
+by check:
+    Jay Schiffman
+    604-36 South Washington Square, #815
+    Philadelphia, PA  19106-4115
+
+============================================================
+=                       DOZENAL NEWS                       =
+============================================================
+
+----------------------WEBSITE ACCOUNTS----------------------
+
+All  members are  entitled  to  a user  account  at the  DSA
+website. This  account offers  some benefits, which  will be
+expanded as the new website comes into its own.
+
+Presently, members  can view the minutes  of annual meetings
+as well as  pay their dues through  the members-only section
+of the site.
+
+This month,  we also added access  to all the issues  of the
+DSA  Newscast to  the  members-only section,  which will  be
+uploaded as soon as they are published.
+
+We also hope to add further functionality in the future. For
+example,  one member  has suggested  to  us that  we post  a
+"to-do" list for members to  peruse. This list would contain
+important  tasks  that are  needed  for  the advancement  of
+dozenalism,  for the  assistance  of the  Society, or  other
+tasks. We  also hope to permit  accessing member information
+based on login  at the members-only page;  upon login, you'd
+be able to get your member ID number, how long you have been
+a member, your dues status, and similar information.
+
+Undoubtedly, there are many other  ideas that you have which
+could improve  the functionality of this  and other sections
+of our  site. Please get your  account and let us  know what
+you'd like to see there!
+
+------------"DOZENAL SYSTEM" by Andrew Craucamp-------------
+
+Andrew Craucamp has written a very interesting exposition on
+dozenal, with  some beautiful graphics,  a separate-identity
+numeral  set, and  even a  simple computer  calculator using
+these symbols available for download:
+    http://theopentangent.blogspot.com/p/dozenal-numeric-system.html
+The numerals  he chose,  Devanagari, are not  fabricated but
+are significantly different  from our accustomed Westernized
+Indo-Arabic numerals. Worth a look!
+
+--------DISCUSSION OF NUMBER BASES ON STACKEXCHANGE---------
+
+There  was  a  brief   but  very  involved  and  interesting
+discussion  on  math.stackexchange.com regarding  bases  and
+which could be better than decimal:
+    http://math.stackexchange.com/questions/382774/what-could-be-better-than-base-10
+Among  some  interesting  suggestions were  factorial  bases
+(from  user  "marty cohen")  to  "long  hundred" (from  user
+wendy.krieger). Our beloved dozen  made a very good showing,
+as well, from user "Dan".
+
+Consider participating!
+
+============================================================
+=                     SOCIETY BUSINESS                     =
+============================================================
+
+We've had many members over the  years, but it's been a long
+time since we've gotten updates  from many of you. We'd like
+to ensure that  our contact information is  current, so that
+we can stay in touch with all our members.
+
+So we're asking the membership for help.
+
+    -If  you've  moved,  changed phone  numbers,  don't  use
+    this  email address  much anymore,  or anything  of that
+    nature,  please  let  us  know  a  better  way  to  keep
+    in  touch  with you.  You  can  email us  by  responding
+    to  this  email  (newscast@dozenal.org), or  by  writing
+    Contact@dozenal.org.
+
+    -If you know  of other members who  aren't receiving the
+    _Newscast_, or  who have  fallen out  of touch  with the
+    Society for  whatever reason, please see  if they'd like
+    to get  back in touch with  us; and if so,  give them an
+    email address for us or refer them to the website.
+
+Also, at  the risk of beating  a broken drum, please  try to
+make plans to be at the  Annual Meeting in Atlanta, as noted
+above.
+
+If you would like to come  but can't make it, please contact
+us:
+    Contact@dozenal.org
+It may be possible to arrange a local meet-up of members and
+other interested persons.
+
+============================================================
+=                    POETICAL DIVERSION                    =
+============================================================
+
+O Dozen! my Dozen!
+
+O Dozen! my Dozen!  We fight the tyrant ten;
+Your factors overwhelm his few, extending mortal ken;
+For six and three, and four I see, are parts the tyrant's
+       lacking;
+And even two, among his few, you have, his virtues tracking;
+   And O heart! heart! heart!
+   O abundant and sublime;
+   You are the greatest number, twelve, 
+   and ever stand supreme.
+
+O Dozen!  Abundant!  For fact'rability!
+The sum of two and six and four, when added to your three,
+is greater than your value, twelve, a trait no lower having;
+Abundance makes your tables sweet, where decimal's us are 
+        burd'ning;
+    O Dozen! dear Dozen!
+    Why do so few now know you?
+    Your glories shine like sun in sky,
+    and turn the darkness back.
+
+My Dozen is sublime, though, one of two only known;
+Your factors are a perfect six, which when together sewn,
+produce a perfect double dozen and one third; how, then,
+can any person you neglect, once they your glories ken?
+    Exult, O people!  Ring, O bells!
+    Peal out the Dozen's charms!
+    The perfect base for human kind,
+    embraced within our arms!
+
+(With thanks to Walt Whitman.)
+
+============================================================
+=                       BACKMATTER                         =
+============================================================
+
+_The DSA Newscast_ is a production of the Dozenal Society of
+America.  If you  have received  this publication  in error,
+or  otherwise do  not  wish to  receive  it anymore,  please
+unsubscribe  by  mailing  a message  containing  the  string
+"UNSUBSCRIBE DSA  NEWSCAST", exactly as typed,  in its body,
+to the Reply-To address of this message.
+
+For questions, comments, submissions, or other communication
+with the _Newscast_, please write to:
+    newscast@dozenal.org

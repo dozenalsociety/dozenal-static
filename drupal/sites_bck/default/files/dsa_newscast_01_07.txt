@@ -1,0 +1,379 @@
+============================================================
+
+                      THE DSA NEWSCAST
+                   http://www.dozenal.org
+
+============================================================
+The Dozenal Society of America                Vol. 1, Iss. 7
+Official Newsletter                         1 September 11E9
+============================================================
+
+============================================================
+=                         CONTENTS                         =
+============================================================
+
+1.  Donations
+2.  Article:  Using SDN
+3.  Dozenal News
+    -TGM book for sale in hard copy
+    -"An Open Letter to Supporters of a Dozenal System"
+    -"Pourquoi pas douze ?"
+    -Dozenal Clock for Chrome
+    -Nystrom's "Duodenal System of Arithmetic"
+    -Leibniz on Dozenal
+    -Laplace on Dozenal
+4.  Society Business
+    -Bulletin Publication
+    -Potential Presentation at NCTM
+5.  Poetical Diversion
+6.  Dozenal Thoght of the Month
+7.  Backmatter
+
+============================================================
+=                        DONATIONS                         =
+============================================================
+
+Members,  please  remember that  while  dues  are no  longer
+required for membership, we still  rely on the generosity of
+members  to keep  the DSA  going. Donations  of any  amount,
+large or small, are welcome and needed.
+
+A  donation   of  $10;  ($12.)  will   procure  Subscription
+membership, and entitles the payer to receive both a digital
+and  a paper  copy  of the  _Bulletin_  if requested.  Other
+members will  receive only  a digital  copy. To  invoke this
+privilege, please  notify the  Editor of the  Bulletin, Mike
+deVlieger, at
+
+    mdevlieger@dozenal.org
+
+As members know, we are  a volunteer organization which pays
+no salaries.  As such,  every penny  you donate  goes toward
+furthering the DSA's goals.
+
+It may be worth considering  a monthly donation; say, $3, or
+$6, or whatever seems reasonable to  you. This can be set up
+quite easily with Paypal.
+
+Of course,  if you prefer to  donate by check, you  may send
+them to our worthy Treasurer,  Jay Schiffman, payable to the
+Dozenal Society of America, at:
+
+    Jay Schiffman
+    604-36 South Washington Square, #815
+    Philadelphia, PA  19106-4115
+
+----------------------Member Benefits-----------------------
+
+Chief  among  the benefits  of  membership,  aside from  the
+knowledge  of supporting  the DSA's  mission, is  receipt of
+_The  Duodecimal Bulletin_.  In  addition, however,  members
+also receive (digitally) a  membership card containing their
+vital  member  information  and   a  monthly  calendar  with
+dozenal numbers, containing suitable and educational dozenal
+quotations and graphics, laid out for wall display.
+
+To  receive  these, please  notify  us  that you'd  like  to
+receive them:
+
+    Contact@dozenal.org
+
+============================================================
+=                        USING SDN                         =
+============================================================
+
+We saw,  in Issue  01:06, the  basics of  Systematic Dozenal
+Nomenclature (SDN). To recap very briefly, here is the chart
+of SDN words:
+
+    Num.    Part.       Pos. Power      Neg. Power
+    -----   ------      -----------     ------------
+    0       Nil         Nilqua          Nilcia
+    1       Un          Unqua           Uncia
+    2       Bi          Biqua           Bicia
+    3       Tri         Triqua          Tricia
+    4       Quad        Quadqua         Quadcia
+    5       Pent        Pentqua         Pentcia
+    6       Hex         Hexqua          Hexcia
+    7       Sept        Septqua         Septcia
+    8       Oct         Octqua          Octcia
+    9       Enn         Ennqua          Enncia
+    X       Dec         Decqua          Deccia
+    E       Lev         Levqua          Levcia
+
+We also saw that the simplest way  to use SDN is to name the
+highest power in the number, and  then to list the digits in
+order. For  example, the  current year is  11E9; in  SDN, we
+could pronounce this as:
+
+    11E9 = "one triqua one elv nine"
+
+Of course, rather than "elv,"  one could use "el," "eleven,"
+or any other word for ten plus one.
+
+A common  abbreviaton, when dealing with  two-digit numbers,
+is to  drop the  "un" part  of "unqua";  so "24"  is "twoqua
+four," "XE" is "tenqua elv." Numbers of this length are used
+so  very  often  that  this abbreviation  can  be  extremely
+helpful.
+
+With fractional parts, the system is still very simple. Many
+dozenalists use  the word "dit"  to refer to  the fractional
+spot, similarly to the way we  say "point" in decimal. As an
+example, let's take a number we're unlikely to actually use:
+the cube of pi (3;18480949 ^ 3).
+
+    27;00XX1X09 = "two (un)qua seven dit zero zero ten ten
+        one ten zero nine"
+
+When we need  to refer to a fractional number  by itself, we
+have some  options. Sometimes,  as in decimal,  we'll simply
+list the digits:
+
+    0;005 = "zero dit zero zero five"
+
+Other times,  we may  want to state  the order  of magnitude
+explicitly:
+
+    0;005 = "five tricia"
+    0;00000045 = "four dit five septcia"
+    0;00000045 = "four (un)qua five octcia"
+
+Whatever seems clearer in a given situation should be used.
+
+As noted last time, you can  expect a full exposition of SDN
+in an upcoming _Bulletin_; until then, you can learn more at
+the DozensOnline forum, and at
+
+    http://gorpub.freeshell.org/dozenal/blosxom.cgi/dozapp.html#sdn
+
+In  our  next issue,  we'll  see  how  SDN  can be  used  to
+form  linguistic  words; e.g.,  the  names  of polygons,  of
+anniversaries, and so forth.
+
+============================================================
+=                       DOZENAL NEWS                       =
+============================================================
+
+---------------TGM Book for Sale in Hard Copy---------------
+
+Around 26 years ago, Tom  Pendlebury of the DSGB devised the
+TGM  system  of  metrology.  This  complete,  coherent,  and
+consistently dozenal  metric system has remained  well known
+and popular in both the DSGB and the DSA.
+
+Now, for the first time since Pendlebury's original booklet,
+a  complete exposition  of the  TGM system  is available  in
+print. A  printed edition of  the book already  available at
+the  DSA website,  this volume  is  a must  for the  dozenal
+library.
+
+    http://www.lulu.com/shop/donald-goodman/tgm-a-coherent-dozenal-metrology/paperback/product-21095233.html
+
+Priced extremely  low at  only $8,  all profits  are donated
+directly back to the DSA.
+
+------An Open Letter to Supporters of a Dozenal System------
+
+An anonymous  author on the  Internet had published  a brief
+article on his ideas for  new dozenal characters, along with
+linking to  a Youtube  video by Numberphile  explaining (and
+arguably supporting) the dozenal system:
+
+    http://gfax.ch/dozenal
+
+He ends up  with essentially the Hammond symbol  for ten and
+an inverted seven for eleven.  Also contains an animated gif
+showing the  seven-segment versions of his  characters along
+with 0-9,  progressively counting up to  eleven and starting
+over. Very neat.
+
+-------------------Pourquoi pas douze ?---------------------
+
+For those of our membership  who can read French, I happened
+upon an  interesting little  article from the  University of
+Grenoble on  the French  Commission on Weights  and Measures
+and its  decision to decimalize weights  and measures rather
+than to dozenalize counting:
+
+    http://ljk.imag.fr/membres/Bernard.Ycart/mel/ax/node18.html
+
+Providing  some quotations  from  the actual  report of  the
+Commission, this  confirms what has often  been reported but
+rarely  quoted  in  English-language  dozenal  publications:
+that  the  Commission  very  seriously  considered  adopting
+the  dozenal base,  and  that some  members  or those  close
+them, notably  Pierre-Simon de Laplace, later  regretted the
+decision they made.
+
+The article can't really be  called dozenalist (he refers to
+the  decision  made by  the  Commission  by saying  "[c]ette
+décision de bon  sens"), but he notes  that  "les partisants
+de la  base 12 et  du changement radical  étant  nombreux et
+passionés" (the supporters of base twelve  were numerous and
+passionate) and  that there  was  "débats  houleux" (rousing
+debate) about the issue.
+
+The last line is poetic,  and references our Society: "Si le
+coeur  vous en dit,  n'hésitez  pas à reprendre le flambeau,
+vous ne serez pas seuls";  "If the heart speaks these things
+to you, do  not hesitate to take up the  torch, you will not
+be alone," followed by a link to www.dozenal.org.
+
+--------------Dozenal Clock for Chrome Browser--------------
+
+If  you're a  user of  the Chrome  or Chromium  web browser,
+there is  now a  dozenal clock which  you can  easily access
+from the browser.
+
+    http://t.co/KmPXUIqu2Z
+
+Drag  this into  your Chrome  extensions folder  to install.
+Essentially,  this extension  provides  easy  access to  one
+of  Dr.  Paul Rapoport  (#230)'s  dozenal  clocks, which  we
+discussed in a previous issue. This version provides a clock
+for a  20-hour day  (like our current  clock), and  uses the
+Pitman numerals (a rotated 2 and 3) for ten and eleven.
+
+For users of Chrome or Chromium, a worthwhile extension.
+
+Thanks to  Derik Kauffman (#3E3) for  writing this extension
+and making us aware of it.
+
+---------------Duodenal System of Arithmetic----------------
+
+John Nystrom,  a famous  Swedish-American engineer  (1081 --
+1111), is mostly known in mathematical circles for his Tonal
+System, an unquadral  (SDN; in decimal-speak, "hexadecimal")
+system  of numeration  and  measurement.  However, later  in
+life,  Nystrom published  as an  appendix to  an engineering
+textbook his "Duodenal System of Arithmetic," which supports
+as superior the dozenal system.
+
+Other  than  his unfortunate  choice  of  name in  selecting
+"Duodenal,"  Nystrom presents  a considered  and interesting
+argument in favor of dozenalism. The DSA is happy to be able
+to offer a newly typeset version of this appendix:
+
+    http://www.dozenal.org/drupal/content/duodenal-system-arithmetic-measures-weights-and-coins
+
+---------------------Leibniz on Dozenal---------------------
+
+Gottfried  Leibniz,  the  famed  inventor  of  calculus  (he
+appears to have done this independently of Newton) and great
+enthusiast of  binary arithmetic, actually made  a statement
+about  dozenal! Little  cited  even  in dozenal  literature,
+Leibniz had the following to say, when discussing his binary
+system:
+
+    "I am not in any  way recommending this [binary] way
+    of counting  in order  to introduce  it in  place of
+    the  ordinary  practice  of counting  by  ten.  For,
+    aside  from  the  fact  that we  are  accustomed  to
+    this,...[t]he practice of counting by ten is shorter
+    and  the  numbers  not  as  long.  And  if  we  were
+    accustomed to proceed by  twelves or sixteens, there
+    would be even more of an advantage."
+
+_Explanation of Binary Arithmetic_,  found on the creatively
+(!) named  www.leibniz-translations.com. And  this statement
+in support of using base twelve came as early as E9E (1703)!
+This has been the  earliest explicit endorsement of dozenal,
+even though it is quite off-hand in this text, of which your
+author has ever been made aware. Coming from a mathematician
+of this  calibre, even sideways  praise of dozenal  is quite
+remarkable.
+
+---------------------Laplace on Dozenal---------------------
+
+We are proud to announce our first foreign-language resource
+(other  than  Esperanto):  an  excerpt  from  famous  French
+mathematician Pierre-Simon Laplace on the dozenal system.
+
+    http://www.dozenal.org/drupal/content/laplace-sur-douzainisme
+
+While Laplace admits  dozenal to be superior  to decimal, he
+believes  that it  is  practically  unachievable. Here's  to
+believing that he's right about  the former, and wrong about
+the latter.
+
+This article is in French; however, Laplace's actual text is
+presented in English, as well.
+
+============================================================
+=                     SOCIETY BUSINESS                     =
+============================================================
+
+--------------------Bulletin Publication--------------------
+
+To recap  last month's announcement, the  _Bulletin_ will be
+published on the following schedule:
+
+Sep 16: _The Duodecimal Bulletin_ WN X0, for 11E7 (2011.)
+Dec 10: _The Duodecimal Bulletin_ WN X1, for 11E8 (2012.)
+Mar 01: _The Duodecimal Bulletin_ WN X2, for 11E9 (2013.)
+
+This will have us caught up  to the current year, and future
+issues published in 11EX (after WN X2) will be for that year
+(11EX, or 2014.).
+
+---------------Potential Presentation at NCTM---------------
+
+At  our   annual  meeting,   due  to  the   successful  ASEE
+presentation discussed in our  last issue, the DSA suggested
+research  into a  similar practice  next year.  That is,  we
+wished  to  investigate  the possibilities  of  setting  our
+annual meeting close in time to some mathematical conference
+and submit a presentation  on dozenals and alternative bases
+to that conference.
+
+This  year,  we  are  considering  setting  the  meeting  to
+coincide  with  the  National   Conference  of  Teachers  of
+Mathematics. There are two  regional conferences of the NCTM
+next year, in October and  November, in Indianapolis, IN and
+Richmond, VA.
+
+We are in  need of people to help with  such a presentation.
+If you  are interested  in doing so  in any  capacity, plese
+write us at:
+
+    Contact@dozenal.org
+
+This could be  great publicity for dozenal  and the Society,
+so please, write if you're able to help.
+
+============================================================
+=                    POETICAL DIVERSION                    =
+============================================================
+
+In the following verse, the  word "tel" is the author's word
+for twelve.
+
+"Let us then be up and doing;"
+    Rouse ye now, ye valiant men,
+The light of science still pursuing,
+    Thunder o'er the ranks of TEN.
+Onward to the conflict press ye,
+    Bearing high the flag of TEL;
+And may coming ages bless ye,
+    Proclaiming that ye have done well.
+
+Rev. Thomas J. A. Freeman, Systems of Numeration: A Plea for
+the Duodecimal (1119).
+
+============================================================
+=                       BACKMATTER                         =
+============================================================
+
+_The DSA Newscast_ is a production of the Dozenal Society of
+America.  If you  have received  this publication  in error,
+or  otherwise do  not  wish to  receive  it anymore,  please
+unsubscribe  by  mailing  a message  containing  the  string
+"UNSUBSCRIBE DSA  NEWSCAST", exactly as typed,  in its body,
+to the Reply-To address of this message.
+
+For questions, comments, submissions, or other communication
+with the _Newscast_, please write to:
+    newscast@dozenal.org
+                    
+                    EACH ONE, TEACH ONE
