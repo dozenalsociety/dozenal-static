@@ -26,10 +26,10 @@ held outside New York City in many years.
 
 The meeting  will be at  the Courtyard by Marriott  hotel in
 downtown Atlanta; specifically, at
-	Courtyard by Marriott
-	133 Carnegie Way
-	Atlanta, GA  30303
-	(404) 222-2416
+  Courtyard by Marriott
+  133 Carnegie Way
+  Atlanta, GA  30303
+  (404) 222-2416
 
 We will convene at 11;00 (1:00 p.m.).  Please join us!
 
@@ -56,7 +56,7 @@ by check:
 
 We missed it at the time, but back in January D'Arcy Flynn's
 blog posted a lovely little piece on dozenals:
-	http://www.darcyflynn.com/decimal-vs-duodecimal/
+  http://www.darcyflynn.com/decimal-vs-duodecimal/
 A   citizen   of  the   Dominion   of   Canada,  Mr.   Flynn
 understandably  conflates  the   American  system  with  the
 imperial one; as a  basic run-down of dozenal's superiority,
@@ -66,7 +66,7 @@ The Society  has published another newly  remastered dozenal
 work in the  last month. _Systems of Numeration:  A Plea for
 the Duodecimal_,  by Rev.  Thomas J.  A. Freeman,  S.J., was
 originally published in 1119 (1893.) in the United States.
-	http://www.dozenal.org/drupal/content/systems-numeration-plea-duodecimal
+  http://www.dozenal.org/drupal/content/systems-numeration-plea-duodecimal
 It  is   a  wonderfully   complete  and   yet  light-hearted
 exposition of the advantages of the dozenal base. Well worth
 the time to read.
@@ -78,7 +78,7 @@ gives the time (in hours), with dozenal subdivisions of
 hours, like a normal dozenal number; e.g., "03;X0" for our
 customary "3:50."  On mouseover, it gives the Gregorian date
 in dozenal.
-	http://www.dozenal.org/drupal/content/kde-desktop-dozenal-clock
+  http://www.dozenal.org/drupal/content/kde-desktop-dozenal-clock
 KDE users should find this a great dozenal tool.
 
 ----------------------SOCIETY BUSINESS----------------------
@@ -87,7 +87,7 @@ No new  business this month,  other than to  again encourage
 members to try  to make plans to attend  the Annual Meeting.
 If you would like to come  but can't make it, please contact
 us:
-	Contact@dozenal.org
+  Contact@dozenal.org
 It may be possible to arrange a local meet-up of members and
 other interested persons.
 
