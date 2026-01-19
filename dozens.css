@@ -7,7 +7,7 @@ body {
 .titlebar {
   background-color:  #bf070c;
   color:  white;
-  font:  serif;
+  font:  san-serif;
   padding:  0px;
   padding-top:  24px;
   padding-bottom:  0px;
@@ -53,7 +53,7 @@ body {
 .navbar {
   clear:  both;
   color:  white;
-  font:  serif;
+  font:  san-serif;
   padding-top:  12pt;
   padding:  0pt;
   line-height:  3em;
@@ -131,11 +131,15 @@ body {
   font-weight:  bolder;
   margin-bottom:  12px;
 }
+.page-subtitle {
+  font-size:  175%;
+  margin-bottom:  12px;
+}
 .footer {
   clear:  both;
   background-color:  #333333;
   color:  #CCCCCC;
-  font:  serif;
+  font:  san-serif;
   padding:  12px;
   padding-bottom:  0px;
   border-radius:  0px 0px 12px 12px;
@@ -144,6 +148,41 @@ body {
 }
 .footer a {
   color:  #CCCCCC;
+}
+.footer-columns {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.footer-column {
+  width: 48%;
+}
+.footer-bottom {
+  text-align: center;
+  font-size: 0.9em;
+  padding-top: 10px;
+}
+.popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.popup-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 400px;
+  width: 80%;
+  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+  position: relative;
 }
 .nicetab {
   background-color:  #AAAAAA;
@@ -246,6 +285,7 @@ body {
 }
 .bulllink {
 }
+/*
 .bulltitle::before, .bullauth::before,
 .bullsubj::before, .bullyear::before,
 .bulllink::before, .picsyntitle::before,
@@ -271,6 +311,7 @@ body {
 }
 .bulllink::before {
 }
+ */
 .bullcover {
 }
 .bullcover img {
@@ -380,13 +421,12 @@ body {
 .newscastdate {
   font-size:  1em;
   font-weight:  bold;
-  font-style:  italic;
   padding:  0pt;
 }
 .newsvol {
   font-variant:  small-caps;
   font-weight:  bold;
-  font-size:  2.5em !important;
+  font-size:  1.5em !important;
   margin:  0pt;
   padding:  0pt;
 }
