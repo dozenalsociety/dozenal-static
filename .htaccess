@@ -874,7 +874,7 @@ Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue452-web_0.pd
 Redirect 301 /drupal/sites_bck/default/files/cover_452.png    /duodecimal-bulletin-08B.png
 
 Redirect 301 /drupal/content/461-90.html    /duodecimal-bulletin-090.html
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulltinIssue461-web.pdf    /duodecimal-bulletin-090.pdf
+Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue461-web.pdf    /duodecimal-bulletin-090.pdf
 Redirect 301 /drupal/sites_bck/default/files/cover_461.png    /duodecimal-bulletin-090.png
 
 Redirect 301 /drupal/content/462-91.html    /duodecimal-bulletin-091.html
@@ -882,15 +882,15 @@ Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulltinIssue462-web.pdf  
 Redirect 301 /drupal/sites_bck/default/files/cover_462.png    /duodecimal-bulletin-091.png
 
 Redirect 301 /drupal/content/471-92.html    /duodecimal-bulletin-092.html
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulltinIssue471-web_0.pdf    /duodecimal-bulletin-092.pdf
+Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue471-web_0.pdf    /duodecimal-bulletin-092.pdf
 Redirect 301 /drupal/sites_bck/default/files/cover_471.png    /duodecimal-bulletin-092.png
 
 Redirect 301 /drupal/content/472-93.html    /duodecimal-bulletin-093.html
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulltinIssue472-web.pdf    /duodecimal-bulletin-093.pdf
+Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue472-web.pdf    /duodecimal-bulletin-093.pdf
 Redirect 301 /drupal/sites_bck/default/files/cover_472.png    /duodecimal-bulletin-093.png
 
 Redirect 301 /drupal/content/481-94.html    /duodecimal-bulletin-094.html
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulltinIssue481-web.pdf    /duodecimal-bulletin-094.pdf
+Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue481-web.pdf    /duodecimal-bulletin-094.pdf
 Redirect 301 /drupal/sites_bck/default/files/cover_481.png    /duodecimal-bulletin-094.png
 
 Redirect 301 /drupal/content/482-95.html    /duodecimal-bulletin-095.html
@@ -898,7 +898,7 @@ Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulltinIssue482-web.pdf  
 Redirect 301 /drupal/sites_bck/default/files/cover_482.png    /duodecimal-bulletin-095.png
 
 Redirect 301 /drupal/content/491-96.html    /duodecimal-bulletin-096.html
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulltinIssue491-web.pdf    /duodecimal-bulletin-096.pdf
+Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue491-web.pdf    /duodecimal-bulletin-096.pdf
 Redirect 301 /drupal/sites_bck/default/files/cover_491.png    /duodecimal-bulletin-096.png
 
 Redirect 301 /drupal/content/492-97.html    /duodecimal-bulletin-097.html
