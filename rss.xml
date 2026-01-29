@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- +AMDG  This document was begun on 29 February 2008, the
-Feast of a saint I can't remember, and it is humbly
-dedicated to him and to the Immaculate Heart of Mary for
-their prayers, and to the Sacred Heart of Jesus for His
-mercy. -->
+<!-- This document was begun on 29 February 2008. -->
 
 <rss version="2.0">
 
@@ -31,7 +27,7 @@ mercy. -->
     notes (A, B, etc.).
   </description>
   <guid>1</guid>
-  <link>http://www.dozenal.org/drupal/content/chord_dialer.html</link>
+  <link>http://www.dozenal.org/resource-hammond-chord-dialer.html</link>
 </item>
 
 <item>
@@ -42,7 +38,7 @@ mercy. -->
     Issues 08:01 and 08:02 of the Newscast are now online.
   </description>
   <guid>2</guid>
-  <link>http://www.dozenal.org/drupal/content/dsa_newscast.html</link>
+  <link>http://www.dozenal.org/dsa_newscast.html</link>
 </item>
 
 <item>
@@ -57,7 +53,7 @@ mercy. -->
     for major and minor chords.
   </description>
   <guid>3</guid>
-  <link>http://www.dozenal.org/drupal/content/troy_trigons.html</link>
+  <link>http://www.dozenal.org/article-hammond-trigons-to-triads.html</link>
 </item>
 
 
