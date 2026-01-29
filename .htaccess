@@ -1,4 +1,4 @@
-Redirect 301 /drupal/content/about-us.html    /about-us
+Redirect 301 /drupal/content/about-us.html    /about-us.html
 Redirect 301 /drupal/content/annual-meetings.html    /about-us-annual-meetings.html
 Redirect 301 /drupal/content/beard-award-recipients.html    /about-us-beard-award-recipients.html
 Redirect 301 /drupal/content/contact-us.html    /about-us-contact-us.html
