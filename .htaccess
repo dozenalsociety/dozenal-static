@@ -1,966 +1,974 @@
-Redirect 301 /drupal/content/about-us.html    /about-us.html
-Redirect 301 /drupal/content/annual-meetings.html    /about-us-annual-meetings.html
-Redirect 301 /drupal/content/beard-award-recipients.html    /about-us-beard-award-recipients.html
-Redirect 301 /drupal/content/contact-us.html    /about-us-contact-us.html
-Redirect 301 /drupal/content/dsa_membership_form.html    /about-us-dsa-membership-form.html
-Redirect 301 /drupal/content/honorary-members-and-fellows-society.html    /about-us-honorary-members-and-fellows-society.html
-Redirect 301 /drupal/content/officers-and-board-members.html    /about-us-officers-and-board-members.html
-Redirect 301 /drupal/content/past-board-members.html    /about-us-past-board-members.html
-Redirect 301 /drupal/content/past-officers.html    /about-us-past-officers.html
-Redirect 301 /drupal/content/regional-meetups.html    /about-us-regional-meetups.html
-Redirect 301 /drupal/content/who-we-are.html    /about-us-who-we-are.html
-Redirect 301 /drupal/content/why-join-society.html    /about-us-why-join-society.html
-
-Redirect 301 /drupal/content/twelves-and-tens.html    /article-aitken-twelves-and-tens.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_aitken_twelves_tens.pdf    /article-aitken-twelves-and-tens.pdf
-Redirect 301 /drupal/sites_bck/default/files/DSA_aitken_twelves_tens_cover.png    /article-aitken-twelves-and-tens.png
-
-Redirect 301 /drupal/content/excursion-numbers.html    /article-andrews-excursion-in-numbers.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_andrews_excursion_numbers.pdf    /article-andrews-excursion-in-numbers.pdf
-Redirect 301 /drupal/sites_bck/default/files/cover_andrews_excursion.png    /article-andrews-excursion-in-numbers.png
-
-Redirect 301 /drupal/content/my-love-affair-dozens.html    /article-andrews-my-love-affair-with-dozens.html
-Redirect 301 /drupal/sites_bck/default/files/DSA-MyLoveAffair.jpg    /article-andrews-my-love-affair-with-dozens.jpg
-Redirect 301 /drupal/sites_bck/default/files/DSA-MyLoveAffair_0.pdf    /article-andrews-my-love-affair-with-dozens.pdf
-
-Redirect 301 /drupal/content/aspirants-tests.html    /article-aspirants-tests.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_aspirants_test_0.pdf    /article-aspirants-tests.pdf
-Redirect 301 /drupal/sites_bck/default/files/cover_aspirants_test.png    /article-aspirants-tests.png
-
-Redirect 301 /drupal/content/antipatio-al-aritmetiko.html    /article-beard-antipatio-al-aritmetiko.html
-Redirect 301 /drupal/sites_bck/default/files/antipatio_0.pdf    /article-beard-antipatio-al-aritmetiko.pdf
-Redirect 301 /drupal/sites_bck/default/files/antipatio_0.png    /article-beard-antipatio-al-aritmetiko.png
-
-Redirect 301 /drupal/content/opposed-principles.html    /article-beard-opposed-principles.html
-Redirect 301 /drupal/sites_bck/default/files/db4a2050.jpg    /article-beard-opposed-principles.jpg
-Redirect 301 /drupal/sites_bck/default/files/db4a205_0.pdf    /article-beard-opposed-principles.pdf
-
-Redirect 301 /drupal/content/why-change.html    /article-beard-why-change.html
-Redirect 301 /drupal/sites_bck/default/files/db043r20.jpg    /article-beard-why-change.jpg
-Redirect 301 /drupal/sites_bck/default/files/db043r2_0.pdf    /article-beard-why-change.pdf
-
-Redirect 301 /drupal/content/legranus_numeratione.html    /article-bishop-de-numeratione.html
-Redirect 301 /drupal/sites_bck/default/files/legranus_numeratione.pdf    /article-bishop-de-numeratione.pdf
-Redirect 301 /drupal/sites_bck/default/files/cover_legranus_numeratione.png    /article-bishop-de-numeratione.png
-
-Redirect 301 /drupal/content/duodecimal-scale.html    /article-brooks-duodecimal-scale.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_brooks_philosophy_arithmetic.pdf    /article-brooks-duodecimal-scale.pdf
-Redirect 301 /drupal/sites_bck/default/files/DSA_brooks_philosophy_cover.png    /article-brooks-duodecimal-scale.png
-
-Redirect 301 /drupal/content/de-arithmetica.html    /article-caramuelis-de-arithmetica-duodenaria.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_lobkowitz_duodenaria.pdf    /article-caramuelis-de-arithmetica-duodenaria.pdf
-Redirect 301 /drupal/sites_bck/default/files/DSA_lobkowitz_duodenaria_cover.png    /article-caramuelis-de-arithmetica-duodenaria.png
-
-Redirect 301 /drupal/content/dozenal-nomenclature.html    /article-clayton-dozenal-nomenclature.html
-Redirect 301 /drupal/sites_bck/default/files/db4a1090.jpg    /article-clayton-dozenal-nomenclature.jpg
-Redirect 301 /drupal/sites_bck/default/db4a109_0.pdf    /article-clayton-dozenal-nomenclature.pdf
-
-Redirect 301 /drupal/content/analysis-multiplication-tables.html    /article-devlieger-analysis-multiplication-tables.html
-Redirect 301 /drupal/sites_bck/default/files/DSA-MultAnalysis10.jpg    /article-devlieger-analysis-multiplication-tables.jpg
-Redirect 301 /drupal/sites_bck/default/files/DSA-MultAnalysis1_0.pdf    /article-devlieger-analysis-multiplication-tables.pdf
-
-Redirect 301 /drupal/content/dozenal-frequently-asked-questions.html    /article-devlieger-dozenal-faq.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_FAQ.jpg    /article-devlieger-dozenal-faq.jpg
-Redirect 301 /drupal/sites_bck/default/files/DSA-DozenalFAQs_0.pdf    /article-devlieger-dozenal-faq.pdf
-
-Redirect 301 /drupal/content/dozensonline-forum-symbols-debate.html    /article-devlieger-dozensonline-symbols-debate.html
-Redirect 301 /drupal/sites_bck/default/files/db4b1200.jpg    /article-devlieger-dozensonline-symbols-debate.jpg
-Redirect 301 /drupal/sites_bck/default/files/db4b120_0.pdf    /article-devlieger-dozensonline-symbols-debate.pdf
-
-Redirect 301 /drupal/content/featured-figures-basic-operations.html    /article-devlieger-featured-figures-basic-operations.html
-Redirect 301 /drupal/sites_bck/default/files/db492240.jpg    /article-devlieger-featured-figures-basic-operations.jpg
-Redirect 301 /drupal/sites_bck/default/files/db49224_0.pdf    /article-devlieger-featured-figures-basic-operations.pdf
-
-Redirect 301 /drupal/content/featured-figures-symbology-overview.html    /article-devlieger-featured-figures-symbology-overview.html
-Redirect 301 /drupal/sites_bck/default/files/db4a2130.jpg    /article-devlieger-featured-figures-symbology-overview.jpg
-Redirect 301 /drupal/sites_bck/default/files/db4a213_0.pdf    /article-devlieger-featured-figures-symbology-overview.pdf
-
-Redirect 301 /drupal/content/going-classic.html    /article-devlieger-going-classic.html
-Redirect 301 /drupal/sites_bck/default/files/db492070.jpg    /article-devlieger-going-classic.jpg
-Redirect 301 /drupal/sites_bck/default/files/db49207_0.pdf    /article-devlieger-going-classic.pdf
-
-Redirect 301 /drupal/content/key-dozenal-fractions.html    /article-devlieger-key-dozenal-fractions.html
-Redirect 301 /drupal/sites_bck/default/files/db4b2240.jpg    /article-devlieger-key-dozenal-fractions.jpg
-Redirect 301 /drupal/sites_bck/default/db4b224_0.pdf    /article-devlieger-key-dozenal-fractions.pdf
-
-Redirect 301 /drupal/content/multiplication-tables-various-bases.html    /article-devlieger-multiplication-tables-various-bases.html
-Redirect 301 /drupal/sites_bck/default/files/DSA-MT.jpg    /article-devlieger-multiplication-tables-various-bases.jpg
-Redirect 301 /drupal/sites_bck/default/files/MultiplicationSynopsis.pdf    /article-devlieger-multiplication-tables-various-bases.pdf
-
-Redirect 301 /drupal/content/numeral-toolbox.html    /article-devlieger-numeral-toolbox.html
-Redirect 301 /drupal/sites_bck/default/files/db4b1110.jpg    /article-devlieger-numeral-toolbox.jpg
-Redirect 301 /drupal/sites_bck/default/files/db4b111_0.pdf    /article-devlieger-numeral-toolbox.pdf
-
-Redirect 301 /drupal/content/presentingsymbology.html    /article-devlieger-presenting-symbology.html
-Redirect 301 /drupal/sites_bck/default/files/db4a2090.jpg    /article-devlieger-presenting-symbology.jpg
-Redirect 301 /drupal/sites_bck/default/files/db4a209_0.pdf    /article-devlieger-presenting-symbology.pdf
-
-Redirect 301 /drupal/content/symbology-overview.html    /article-devlieger-symbology-overview.html
-Redirect 301 /drupal/sites_bck/default/files/db4a2110.jpg    /article-devlieger-symbology-overview.jpg
-Redirect 301 /drupal/sites_bck/default/files/db4a211_0.pdf    /article-devlieger-symbology-overview.pdf
-
-Redirect 301 /drupal/content/dsa-symbology-synopsis.html    /article-devlieger-symbology-synopsis.html
-Redirect 301 /drupal/sites_bck/default/files/DSA-SymbologySynopsis.jpg    /article-devlieger-symbology-synopsis.jpg
-Redirect 301 /drupal/sites_bck/default/files/DSA-SymbologySynopsis_0.pdf    /article-devlieger-symbology-synopsis.pdf
+RewriteEngine On
+
+RewriteRule ^drupal/content/about-us    /about-us [R=301,L]
+RewriteRule ^drupal/content/annual-meetings    /about-us-annual-meetings [R=301,L]
+RewriteRule ^drupal/content/beard-award-recipients    /about-us-beard-award-recipients [R=301,L]
+RewriteRule ^drupal/content/contact-us    /about-us-contact-us [R=301,L]
+RewriteRule ^drupal/content/dsa_membership_form    /about-us-dsa-membership-form [R=301,L]
+RewriteRule ^drupal/content/honorary-members-and-fellows-society    /about-us-honorary-members-and-fellows-society [R=301,L]
+RewriteRule ^drupal/content/officers-and-board-members    /about-us-officers-and-board-members [R=301,L]
+RewriteRule ^drupal/content/past-board-members    /about-us-past-board-members [R=301,L]
+RewriteRule ^drupal/content/past-officers    /about-us-past-officers [R=301,L]
+RewriteRule ^drupal/content/regional-meetups    /about-us-regional-meetups [R=301,L]
+RewriteRule ^drupal/content/who-we-are    /about-us-who-we-are [R=301,L]
+RewriteRule ^drupal/content/why-join-society    /about-us-why-join-society [R=301,L]
+
+RewriteRule ^drupal/content/twelves-and-tens    /article-aitken-twelves-and-tens [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_aitken_twelves_tens.pdf    /article-aitken-twelves-and-tens.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_aitken_twelves_tens_cover.png    /article-aitken-twelves-and-tens.png [R=301,L]
+
+RewriteRule ^drupal/content/excursion-numbers    /article-andrews-excursion-in-numbers [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_andrews_excursion_numbers.pdf    /article-andrews-excursion-in-numbers.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/cover_andrews_excursion.png    /article-andrews-excursion-in-numbers.png [R=301,L]
+
+RewriteRule ^drupal/content/my-love-affair-dozens    /article-andrews-my-love-affair-with-dozens [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA-MyLoveAffair.jpg    /article-andrews-my-love-affair-with-dozens.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA-MyLoveAffair_0.pdf    /article-andrews-my-love-affair-with-dozens.pdf [R=301,L]
+
+RewriteRule ^drupal/content/aspirants-tests    /article-aspirants-tests [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_aspirants_test_0.pdf    /article-aspirants-tests.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/cover_aspirants_test.png    /article-aspirants-tests.png [R=301,L]
+
+RewriteRule ^drupal/content/antipatio-al-aritmetiko    /article-beard-antipatio-al-aritmetiko [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/antipatio_0.pdf    /article-beard-antipatio-al-aritmetiko.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/antipatio_0.png    /article-beard-antipatio-al-aritmetiko.png [R=301,L]
+
+RewriteRule ^drupal/content/opposed-principles    /article-beard-opposed-principles [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4a2050.jpg    /article-beard-opposed-principles.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4a205_0.pdf    /article-beard-opposed-principles.pdf [R=301,L]
+
+RewriteRule ^drupal/content/why-change    /article-beard-why-change [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db043r20.jpg    /article-beard-why-change.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db043r2_0.pdf    /article-beard-why-change.pdf [R=301,L]
+
+RewriteRule ^drupal/content/legranus_numeratione    /article-bishop-de-numeratione [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/legranus_numeratione.pdf    /article-bishop-de-numeratione.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/cover_legranus_numeratione.png    /article-bishop-de-numeratione.png [R=301,L]
+
+RewriteRule ^drupal/content/duodecimal-scale    /article-brooks-duodecimal-scale [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_brooks_philosophy_arithmetic.pdf    /article-brooks-duodecimal-scale.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_brooks_philosophy_cover.png    /article-brooks-duodecimal-scale.png [R=301,L]
+
+RewriteRule ^drupal/content/de-arithmetica    /article-caramuelis-de-arithmetica-duodenaria [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_lobkowitz_duodenaria.pdf    /article-caramuelis-de-arithmetica-duodenaria.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_lobkowitz_duodenaria_cover.png    /article-caramuelis-de-arithmetica-duodenaria.png [R=301,L]
+
+RewriteRule ^drupal/content/dozenal-nomenclature    /article-clayton-dozenal-nomenclature [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4a1090.jpg    /article-clayton-dozenal-nomenclature.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/db4a109_0.pdf    /article-clayton-dozenal-nomenclature.pdf [R=301,L]
+
+RewriteRule ^drupal/content/analysis-multiplication-tables    /article-devlieger-analysis-multiplication-tables [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA-MultAnalysis10.jpg    /article-devlieger-analysis-multiplication-tables.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA-MultAnalysis1_0.pdf    /article-devlieger-analysis-multiplication-tables.pdf [R=301,L]
+
+RewriteRule ^drupal/content/dozenal-frequently-asked-questions    /article-devlieger-dozenal-faq [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_FAQ.jpg    /article-devlieger-dozenal-faq.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA-DozenalFAQs_0.pdf    /article-devlieger-dozenal-faq.pdf [R=301,L]
+
+RewriteRule ^drupal/content/dozensonline-forum-symbols-debate    /article-devlieger-dozensonline-symbols-debate [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4b1200.jpg    /article-devlieger-dozensonline-symbols-debate.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4b120_0.pdf    /article-devlieger-dozensonline-symbols-debate.pdf [R=301,L]
+
+RewriteRule ^drupal/content/featured-figures-basic-operations    /article-devlieger-featured-figures-basic-operations [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db492240.jpg    /article-devlieger-featured-figures-basic-operations.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db49224_0.pdf    /article-devlieger-featured-figures-basic-operations.pdf [R=301,L]
+
+RewriteRule ^drupal/content/featured-figures-symbology-overview    /article-devlieger-featured-figures-symbology-overview [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4a2130.jpg    /article-devlieger-featured-figures-symbology-overview.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4a213_0.pdf    /article-devlieger-featured-figures-symbology-overview.pdf [R=301,L]
+
+RewriteRule ^drupal/content/going-classic    /article-devlieger-going-classic [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db492070.jpg    /article-devlieger-going-classic.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db49207_0.pdf    /article-devlieger-going-classic.pdf [R=301,L]
+
+RewriteRule ^drupal/content/key-dozenal-fractions    /article-devlieger-key-dozenal-fractions [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4b2240.jpg    /article-devlieger-key-dozenal-fractions.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/db4b224_0.pdf    /article-devlieger-key-dozenal-fractions.pdf [R=301,L]
+
+RewriteRule ^drupal/content/multiplication-tables-various-bases    /article-devlieger-multiplication-tables-various-bases [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA-MT.jpg    /article-devlieger-multiplication-tables-various-bases.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/MultiplicationSynopsis.pdf    /article-devlieger-multiplication-tables-various-bases.pdf [R=301,L]
+
+RewriteRule ^drupal/content/numeral-toolbox    /article-devlieger-numeral-toolbox [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4b1110.jpg    /article-devlieger-numeral-toolbox.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4b111_0.pdf    /article-devlieger-numeral-toolbox.pdf [R=301,L]
+
+RewriteRule ^drupal/content/presentingsymbology    /article-devlieger-presenting-symbology [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4a2090.jpg    /article-devlieger-presenting-symbology.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4a209_0.pdf    /article-devlieger-presenting-symbology.pdf [R=301,L]
+
+RewriteRule ^drupal/content/symbology-overview    /article-devlieger-symbology-overview [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4a2110.jpg    /article-devlieger-symbology-overview.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4a211_0.pdf    /article-devlieger-symbology-overview.pdf [R=301,L]
+
+RewriteRule ^drupal/content/dsa-symbology-synopsis    /article-devlieger-symbology-synopsis [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA-SymbologySynopsis.jpg    /article-devlieger-symbology-synopsis.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA-SymbologySynopsis_0.pdf    /article-devlieger-symbology-synopsis.pdf [R=301,L]
+
+RewriteRule ^drupal/content/dsa-constitution-and-bylaws    /article-dsa-constitution-and-bylaws [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db323080.jpg    /article-dsa-constitution-and-bylaws.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA-Constitution-ByLaws_0.pdf    /article-dsa-constitution-and-bylaws.pdf [R=301,L]
+
+RewriteRule ^drupal/content/systems-numeration-plea-duodecimal    /article-freeman-plea-for-duodecimal [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_freeman_duodecimal.pdf    /article-freeman-plea-for-duodecimal.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/freeman_cover.png    /article-freeman-plea-for-duodecimal.png [R=301,L]
+
+RewriteRule ^drupal/content/maximal-repeating-sequence-decimal-expansions-base-twelve    /article-gaffney-dozenal-repeating-fractions [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4b1090.jpg    /article-gaffney-dozenal-repeating-fractions.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4b109_0.pdf    /article-gaffney-dozenal-repeating-fractions.pdf [R=301,L]
+
+RewriteRule ^drupal/content/gautier_la_zonnomie    /article-gautier-la-zonnomie [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/gautier_la_zonnomie_cover.png    /article-gautier-la-zonnomie.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/gautier_la_zonnomie.pdf    /article-gautier-la-zonnomie.png [R=301,L]
+
+RewriteRule ^drupal/content/a_dozenal_primer    /article-goodman-dozenal-primer [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_primer.pdf    /article-goodman-dozenal-primer.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/a_dozenal_primer_cover.png    /article-goodman-dozenal-primer.png [R=301,L]
+
+RewriteRule ^drupal/content/dozenal-mathematical-displays-using-latex    /article-goodman-latex-dozenal-package [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4a21a0.jpg    /article-goodman-latex-dozenal-package.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4a21a_0.pdf    /article-goodman-latex-dozenal-package.pdf [R=301,L]
+
+RewriteRule ^drupal/content/number-rhyme    /article-goodman-number-rhyme [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_number_rhyme.pdf    /article-goodman-number-rhyme.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_number_rhyme_cover.png    /article-goodman-number-rhyme.png [R=301,L]
+
+RewriteRule ^drupal/content/tgm-coherent-dozenal-metrology    /article-goodman-tgm-coherent-dozenal-metrology [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/tgm_0.pdf    /article-goodman-tgm-coherent-dozenal-metrology.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/cover_tgmbook.png    /article-goodman-tgm-coherent-dozenal-metrology.png [R=301,L]
+
+RewriteRule ^drupal/content/boxes-cans-some-points-packaging    /article-hammond-boxes-cans-some-points-packaging [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_boxes_cans_troy_0.pdf    /article-hammond-boxes-cans-some-points-packaging.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_boxes_cans_troy_cover.png    /article-hammond-boxes-cans-some-points-packaging.png [R=301,L]
+
+RewriteRule ^drupal/content/practical-polygons    /article-hammond-practical-polygons [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_troy_polygons.pdf    /article-hammond-practical-polygons.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_troy_polygons_cover.png    /article-hammond-practical-polygons.png [R=301,L]
+
+RewriteRule ^drupal/content/rationality    /article-hammond-rationality [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_troy_rationality.pdf    /article-hammond-rationality.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/troy_rationality_cover.png    /article-hammond-rationality.png [R=301,L]
+
+RewriteRule ^drupal/content/troy_trigons    /article-hammond-trigons-to-triads [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_troy_trigons_dialier.pdf    /article-hammond-trigons-to-triads.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/troy_trigons_cover.png    /article-hammond-trigons-to-triads.png [R=301,L]
+
+RewriteRule ^drupal/content/music-scales-and-dozens    /article-impagliazzo-music-scales-and-dozens [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db331160.jpg    /article-impagliazzo-music-scales-and-dozens.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db33116_0.pdf    /article-impagliazzo-music-scales-and-dozens.pdf [R=301,L]
+
+RewriteRule ^drupal/content/laplace-sur-douzainisme    /article-laplace-sur-douzainisme [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_laplace_dozenal.pdf    /article-laplace-sur-douzainisme.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_laplace_dozenal.png    /article-laplace-sur-douzainisme.png [R=301,L]
+
+RewriteRule ^drupal/content/leclerc-sur-douzainisme    /article-leclerc-sur-douzainisme [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_leclerc_douzainisme.pdf    /article-leclerc-sur-douzainisme.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/leclerc_cover.png    /article-leclerc-sur-douzainisme.png [R=301,L]
+
+RewriteRule ^drupal/content/dozens-vs-tens    /article-leech-dozens-vs-tens [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/leech_thomas_dozens_tens.pdf    /article-leech-dozens-vs-tens.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/leech_cover.png    /article-leech-dozens-vs-tens.png [R=301,L]
+
+RewriteRule ^drupal/content/eggsactly-dozen    /article-malone-eggsactly-a-dozen [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db2610b0.jpg    /article-malone-eggsactly-a-dozen.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db2610b_0.pdf    /article-malone-eggsactly-a-dozen.pdf [R=301,L]
+
+RewriteRule ^drupal/content/manual-dozen-system-mods    /article-manual-of-dozenal-system [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/mds_small.jpg    /article-manual-of-dozenal-system.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/ManualOfTheDozenalSystem1174-web_0.pdf    /article-manual-of-dozenal-system.pdf [R=301,L]
+
+RewriteRule ^drupal/content/revised_manual_dozenal_system    /article-manual-of-dozenal-system-revised [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_mods_rev.pdf    /article-manual-of-dozenal-system-revised.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/revised_manual_dozenal_system_cover.png    /article-manual-of-dozenal-system-revised.png [R=301,L]
+
+RewriteRule ^drupal/content/duodenal-system-arithmetic-measures-weights-and-coins    /article-nystrom-duodenal-system [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_nystrom_duodenal_arith_0.pdf    /article-nystrom-duodenal-system.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/nystrom_cover.png    /article-nystrom-duodenal-system.png [R=301,L]
+
+RewriteRule ^drupal/content/some-notes-history-and-desirability-using-alternate-number-bases-arithmetic    /article-osburn-on-alternate-bases [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4a1170.jpg    /article-osburn-on-alternate-bases.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4a117_0.pdf    /article-osburn-on-alternate-bases.pdf [R=301,L]
+
+RewriteRule ^drupal/content/mathamerica    /article-perry-mathamerica [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_mathamerica.pdf    /article-perry-mathamerica.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_mathamerica_cover_0.png    /article-perry-mathamerica.png [R=301,L]
 
-Redirect 301 /drupal/content/dsa-constitution-and-bylaws.html    /article-dsa-constitution-and-bylaws.html
-Redirect 301 /drupal/sites_bck/default/files/db323080.jpg    /article-dsa-constitution-and-bylaws.jpg
-Redirect 301 /drupal/sites_bck/default/files/DSA-Constitution-ByLaws_0.pdf    /article-dsa-constitution-and-bylaws.pdf
+RewriteRule ^drupal/content/collected-works-reckoning-reform    /article-pitman-reckoning-reform [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_pitman_collected.pdf    /article-pitman-reckoning-reform.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_pitman_cover.png    /article-pitman-reckoning-reform.png [R=301,L]
 
-Redirect 301 /drupal/content/systems-numeration-plea-duodecimal.html    /article-freeman-plea-for-duodecimal.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_freeman_duodecimal.pdf    /article-freeman-plea-for-duodecimal.pdf
-Redirect 301 /drupal/sites_bck/default/files/freeman_cover.png    /article-freeman-plea-for-duodecimal.png
+RewriteRule ^drupal/content/playfair-dozenalism    /article-playfair-on-dozenalism [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_playfair_duodecimals.pdf    /article-playfair-on-dozenalism.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/playfair_cover.png    /article-playfair-on-dozenalism.png [R=301,L]
 
-Redirect 301 /drupal/content/maximal-repeating-sequence-decimal-expansions-base-twelve.html    /article-gaffney-dozenal-repeating-fractions.html
-Redirect 301 /drupal/sites_bck/default/files/db4b1090.jpg    /article-gaffney-dozenal-repeating-fractions.jpg
-Redirect 301 /drupal/sites_bck/default/files/db4b109_0.pdf    /article-gaffney-dozenal-repeating-fractions.pdf
+RewriteRule ^drupal/content/filosofia-de-la-numeracion    /article-pujals-filosofia-de-la-numeracion [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/pujals_de_la_bastida_filosofia_de_la_numeracion_0.pdf    /article-pujals-filosofia-de-la-numeracion.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/pujals_libro_cover.png    /article-pujals-filosofia-de-la-numeracion.png [R=301,L]
 
-Redirect 301 /drupal/content/gautier_la_zonnomie.html    /article-gautier-la-zonnomie.html
-Redirect 301 /drupal/sites_bck/default/files/gautier_la_zonnomie_cover.png    /article-gautier-la-zonnomie.pdf
-Redirect 301 /drupal/sites_bck/default/files/gautier_la_zonnomie.pdf    /article-gautier-la-zonnomie.png
+RewriteRule ^drupal/content/de-la-numeracion-que-debe-preferirse    /article-pujals-numeracion-que-debe-preferirse [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_pujals_excertpt_docena.pdf    /article-pujals-numeracion-que-debe-preferirse.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_articulo_cover.png    /article-pujals-numeracion-que-debe-preferirse.png [R=301,L]
 
-Redirect 301 /drupal/content/a_dozenal_primer.html    /article-goodman-dozenal-primer.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_primer.pdf    /article-goodman-dozenal-primer.pdf
-Redirect 301 /drupal/sites_bck/default/files/a_dozenal_primer_cover.png    /article-goodman-dozenal-primer.png
+RewriteRule ^drupal/content/rational-solution-problem-weights-and-measures    /article-reeve-rational-solution [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_reeve_rational_solution.pdf    /article-reeve-rational-solution.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_reeves_cover.png    /article-reeve-rational-solution.png [R=301,L]
 
-Redirect 301 /drupal/content/dozenal-mathematical-displays-using-latex.html    /article-goodman-latex-dozenal-package.html
-Redirect 301 /drupal/sites_bck/default/files/db4a21a0.jpg    /article-goodman-latex-dozenal-package.jpg
-Redirect 301 /drupal/sites_bck/default/files/db4a21a_0.pdf    /article-goodman-latex-dozenal-package.pdf
+RewriteRule ^drupal/content/dozen-properties-number-twelve    /article-schiffman-dozen-properties-of-number-twelve [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db273090.jpg    /article-schiffman-dozen-properties-of-number-twelve.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db27309_0.pdf    /article-schiffman-dozen-properties-of-number-twelve.pdf [R=301,L]
 
-Redirect 301 /drupal/content/number-rhyme.html    /article-goodman-number-rhyme.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_number_rhyme.pdf    /article-goodman-number-rhyme.pdf
-Redirect 301 /drupal/sites_bck/default/files/DSA_number_rhyme_cover.png    /article-goodman-number-rhyme.png
+RewriteRule ^drupal/content/dozenal-home-primes    /article-schiffman-dozenal-home-primes [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4b2110.jpg    /article-schiffman-dozenal-home-primes.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4b211_0.pdf    /article-schiffman-dozenal-home-primes.pdf [R=301,L]
 
-Redirect 301 /drupal/content/tgm-coherent-dozenal-metrology.html    /article-goodman-tgm-coherent-dozenal-metrology.html
-Redirect 301 /drupal/sites_bck/default/files/tgm_0.pdf    /article-goodman-tgm-coherent-dozenal-metrology.pdf
-Redirect 301 /drupal/sites_bck/default/files/cover_tgmbook.png    /article-goodman-tgm-coherent-dozenal-metrology.png
+RewriteRule ^drupal/content/fundamental-operations-duodecimal-system    /article-schiffman-fundamental-operations [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db313150.jpg    /article-schiffman-fundamental-operations.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db31315_0.pdf    /article-schiffman-fundamental-operations.pdf [R=301,L]
 
-Redirect 301 /drupal/content/boxes-cans-some-points-packaging.html    /article-hammond-boxes-cans-some-points-packaging.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_boxes_cans_troy_0.pdf    /article-hammond-boxes-cans-some-points-packaging.pdf
-Redirect 301 /drupal/sites_bck/default/files/DSA_boxes_cans_troy_cover.png    /article-hammond-boxes-cans-some-points-packaging.png
+RewriteRule ^drupal/content/schiffman_personality    /article-schiffman-personality-of-integers [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_schiffman_personality.pdf    /article-schiffman-personality-of-integers.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/schiffman_personality_cover.png    /article-schiffman-personality-of-integers.png [R=301,L]
 
-Redirect 301 /drupal/content/practical-polygons.html    /article-hammond-practical-polygons.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_troy_polygons.pdf    /article-hammond-practical-polygons.pdf
-Redirect 301 /drupal/sites_bck/default/files/DSA_troy_polygons_cover.png    /article-hammond-practical-polygons.png
+RewriteRule ^drupal/content/twelve-vs-ten    /article-smith-twelve-vs-ten [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_smith_william_tens_twelves_cover.jpg    /article-smith-twelve-vs-ten.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_smith_william_tens_twelves.pdf    /article-smith-twelve-vs-ten.pdf [R=301,L]
 
-Redirect 301 /drupal/content/rationality.html    /article-hammond-rationality.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_troy_rationality.pdf    /article-hammond-rationality.pdf
-Redirect 301 /drupal/sites_bck/default/files/troy_rationality_cover.png    /article-hammond-rationality.png
+RewriteRule ^drupal/content/spencer_against_metric    /article-spencer-against-metric [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/spencer_against_metric.pdf    /article-spencer-against-metric.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/spencer_against_metric_cover.png    /article-spencer-against-metric.png [R=301,L]
 
-Redirect 301 /drupal/content/troy_trigons.html    /article-hammond-trigons-to-triads.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_troy_trigons_dialier.pdf    /article-hammond-trigons-to-triads.pdf
-Redirect 301 /drupal/sites_bck/default/files/troy_trigons_cover.png    /article-hammond-trigons-to-triads.png
+RewriteRule ^drupal/content/raenbo-dozenals    /article-travis-raenbo-dozenals [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/RAENBO_cover_small.jpg    /article-travis-raenbo-dozenals.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_RAENBO_all_0.pdf    /article-travis-raenbo-dozenals.pdf [R=301,L]
 
-Redirect 301 /drupal/content/music-scales-and-dozens.html    /article-impagliazzo-music-scales-and-dozens.html
-Redirect 301 /drupal/sites_bck/default/files/db331160.jpg    /article-impagliazzo-music-scales-and-dozens.jpg
-Redirect 301 /drupal/sites_bck/default/files/db33116_0.pdf    /article-impagliazzo-music-scales-and-dozens.pdf
+RewriteRule ^drupal/content/dozenal-divisibility-tests-quick-guide    /article-treisaran-dozenal-divisibility-tests [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_treisaran_div_tests.pdf    /article-treisaran-dozenal-divisibility-tests.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_treisaran_div_tests_cover.png    /article-treisaran-dozenal-divisibility-tests.png [R=301,L]
 
-Redirect 301 /drupal/content/laplace-sur-douzainisme.html    /article-laplace-sur-douzainisme.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_laplace_dozenal.pdf    /article-laplace-sur-douzainisme.pdf
-Redirect 301 /drupal/sites_bck/default/files/DSA_laplace_dozenal.png    /article-laplace-sur-douzainisme.png
+RewriteRule ^drupal/content/duodecimal-system-notation    /article-vincent-duodecimal-system-of-notation [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_vincent_duodecimal.pdf    /article-vincent-duodecimal-system-of-notation.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/vincent_duodecimal_cover.png    /article-vincent-duodecimal-system-of-notation.png [R=301,L]
 
-Redirect 301 /drupal/content/leclerc-sur-douzainisme.html    /article-leclerc-sur-douzainisme.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_leclerc_douzainisme.pdf    /article-leclerc-sur-douzainisme.pdf
-Redirect 301 /drupal/sites_bck/default/files/leclerc_cover.png    /article-leclerc-sur-douzainisme.png
+RewriteRule ^drupal/content/systematic-dozenal-nomenclature    /article-volan-systematic-dozenal-nomenclature [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/kode_sdn_cover.jpg    /article-volan-systematic-dozenal-nomenclature.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_kodegadulo_sdn.pdf    /article-volan-systematic-dozenal-nomenclature.pdf [R=301,L]
 
-Redirect 301 /drupal/content/dozens-vs-tens.html    /article-leech-dozens-vs-tens.html
-Redirect 301 /drupal/sites_bck/default/files/leech_thomas_dozens_tens.pdf    /article-leech-dozens-vs-tens.pdf
-Redirect 301 /drupal/sites_bck/default/files/leech_cover.png    /article-leech-dozens-vs-tens.png
+RewriteRule ^drupal/content/the_duodenary_scale    /article-wilkes-duodenary-scale [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_encyc_londiniensis.pdf    /article-wilkes-duodenary-scale.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/cover_encyclopaedia_londinensis.png    /article-wilkes-duodenary-scale.png [R=301,L]
 
-Redirect 301 /drupal/content/eggsactly-dozen.htmld    /article-malone-eggsactly-a-dozen.html
-Redirect 301 /drupal/sites_bck/default/files/db2610b0.jpg    /article-malone-eggsactly-a-dozen.jpg
-Redirect 301 /drupal/sites_bck/default/files/db2610b_0.pdf    /article-malone-eggsactly-a-dozen.pdf
+RewriteRule ^drupal/content/williams_ancient_duodecimal    /article-williams-ancient-duodecimal-system [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA_williams_ancient_duodecimal.pdf    /article-williams-ancient-duodecimal-system.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/cover_williams_duodecimal.png    /article-williams-ancient-duodecimal-system.png [R=301,L]
 
-Redirect 301 /drupal/content/manual-dozen-system-mods.html    /article-manual-of-dozenal-system.html
-Redirect 301 /drupal/sites_bck/default/files/mds_small.jpg    /article-manual-of-dozenal-system.jpg
-Redirect 301 /drupal/sites_bck/default/files/ManualOfTheDozenalSystem1174-web_0.pdf    /article-manual-of-dozenal-system.pdf
+RewriteRule ^drupal/content/wray_naomi_dozenal    /article-wray-is-decimal-appropriate [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/wray_naomi_dozenal.pdf    /article-wray-is-decimal-appropriate.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/cover_wray_dozenal.png    /article-wray-is-decimal-appropriate.png [R=301,L]
 
-Redirect 301 /drupal/content/revised_manual_dozenal_system.html    /article-manual-of-dozenal-system-revised.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_mods_rev.pdf    /article-manual-of-dozenal-system-revised.pdf
-Redirect 301 /drupal/sites_bck/default/files/revised_manual_dozenal_system_cover.png    /article-manual-of-dozenal-system-revised.png
+RewriteRule ^drupal/content/brief-introduction-dozenal-counting    /article-zirkel-brief-intro-dozenal-counting [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db382060.jpg    /article-zirkel-brief-intro-dozenal-counting.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db38206_0.pdf    /article-zirkel-brief-intro-dozenal-counting.pdf [R=301,L]
 
-Redirect 301 /drupal/content/duodenal-system-arithmetic-measures-weights-and-coins.html    /article-nystrom-duodenal-system.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_nystrom_duodenal_arith_0.pdf    /article-nystrom-duodenal-system.pdf
-Redirect 301 /drupal/sites_bck/default/files/nystrom_cover.png    /article-nystrom-duodenal-system.png
+RewriteRule ^drupal/content/decimal-dozenal-conversion-rules    /article-zirkel-conversion-rules [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA-ConversionRules.jpg    /article-zirkel-conversion-rules.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DSA-ConversionRules_0.pdf    /article-zirkel-conversion-rules.pdf [R=301,L]
 
-Redirect 301 /drupal/content/some-notes-history-and-desirability-using-alternate-number-bases-arithmetic.html    /article-osburn-on-alternate-bases.html
-Redirect 301 /drupal/sites_bck/default/files/db4a1170.jpg    /article-osburn-on-alternate-bases.jpg
-Redirect 301 /drupal/sites_bck/default/files/db4a117_0.pdf    /article-osburn-on-alternate-bases.pdf
+RewriteRule ^drupal/content/history-dsa    /article-zirkel-history-of-dsa [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db492090.jpg    /article-zirkel-history-of-dsa.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db49209_0.pdf    /article-zirkel-history-of-dsa.pdf [R=301,L]
 
-Redirect 301 /drupal/content/mathamerica.html    /article-perry-mathamerica.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_mathamerica.pdf    /article-perry-mathamerica.pdf
-Redirect 301 /drupal/sites_bck/default/files/DSA_mathamerica_cover_0.png    /article-perry-mathamerica.png
+RewriteRule ^drupal/content/how-do-you-pronounce-dozenals    /article-zirkel-on-do-gro-mo [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4b20a0.jpg    /article-zirkel-on-do-gro-mo.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4b20a_0.pdf    /article-zirkel-on-do-gro-mo.pdf [R=301,L]
 
-Redirect 301 /drupal/content/collected-works-reckoning-reform.html    /article-pitman-reckoning-reform.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_pitman_collected.pdf    /article-pitman-reckoning-reform.pdf
-Redirect 301 /drupal/sites_bck/default/files/DSA_pitman_cover.png    /article-pitman-reckoning-reform.png
+RewriteRule ^drupal/content/reflections-dsgb    /article-zirkel-reflections-on-dsgb [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4a1130.jpg    /article-zirkel-reflections-on-dsgb.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db4a113_0.pdf    /article-zirkel-reflections-on-dsgb.pdf [R=301,L]
 
-Redirect 301 /drupal/content/playfair-dozenalism.html    /article-playfair-on-dozenalism.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_playfair_duodecimals.pdf    /article-playfair-on-dozenalism.pdf
-Redirect 301 /drupal/sites_bck/default/files/playfair_cover.png    /article-playfair-on-dozenalism.png
+RewriteRule ^drupal/content/symbols-symbols-¢-symbols    /article-zirkel-symbols-symbols-¢-symbols [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db272100.jpg    /article-zirkel-symbols-symbols-¢-symbols.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db27210_0.pdf    /article-zirkel-symbols-symbols-¢-symbols.pdf [R=301,L]
 
-Redirect 301 /drupal/content/filosofia-de-la-numeracion.html    /article-pujals-filosofia-de-la-numeracion.html
-Redirect 301 /drupal/sites_bck/default/files/pujals_de_la_bastida_filosofia_de_la_numeracion_0.pdf    /article-pujals-filosofia-de-la-numeracion.pdf
-Redirect 301 /drupal/sites_bck/default/files/pujals_libro_cover.png    /article-pujals-filosofia-de-la-numeracion.png
+RewriteRule ^drupal/content/articles-and-books    /articles-and-books [R=301,L]
 
-Redirect 301 /drupal/content/de-la-numeracion-que-debe-preferirse.html    /article-pujals-numeracion-que-debe-preferirse.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_pujals_excertpt_docena.pdf    /article-pujals-numeracion-que-debe-preferirse.pdf
-Redirect 301 /drupal/sites_bck/default/files/DSA_articulo_cover.png    /article-pujals-numeracion-que-debe-preferirse.png
 
-Redirect 301 /drupal/content/rational-solution-problem-weights-and-measures.html    /article-reeve-rational-solution.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_reeve_rational_solution.pdf    /article-reeve-rational-solution.pdf
-Redirect 301 /drupal/sites_bck/default/files/DSA_reeves_cover.png    /article-reeve-rational-solution.png
-
-Redirect 301 /drupal/content/dozen-properties-number-twelve.html    /article-schiffman-dozen-properties-of-number-twelve.html
-Redirect 301 /drupal/sites_bck/default/files/db273090.jpg    /article-schiffman-dozen-properties-of-number-twelve.jpg
-Redirect 301 /drupal/sites_bck/default/files/db27309_0.pdf    /article-schiffman-dozen-properties-of-number-twelve.pdf
-
-Redirect 301 /drupal/content/dozenal-home-primes.html    /article-schiffman-dozenal-home-primes.html
-Redirect 301 /drupal/sites_bck/default/files/db4b2110.jpg    /article-schiffman-dozenal-home-primes.jpg
-Redirect 301 /drupal/sites_bck/default/files/db4b211_0.pdf    /article-schiffman-dozenal-home-primes.pdf
-
-Redirect 301 /drupal/content/fundamental-operations-duodecimal-system.html    /article-schiffman-fundamental-operations.html
-Redirect 301 /drupal/sites_bck/default/files/db313150.jpg    /article-schiffman-fundamental-operations.jpg
-Redirect 301 /drupal/sites_bck/default/files/db31315_0.pdf    /article-schiffman-fundamental-operations.pdf
-
-Redirect 301 /drupal/content/schiffman_personality.html    /article-schiffman-personality-of-integers.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_schiffman_personality.pdf    /article-schiffman-personality-of-integers.pdf
-Redirect 301 /drupal/sites_bck/default/files/schiffman_personality_cover.png    /article-schiffman-personality-of-integers.png
-
-Redirect 301 /drupal/content/twelve-vs-ten.html    /article-smith-twelve-vs-ten.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_smith_william_tens_twelves_cover.jpg    /article-smith-twelve-vs-ten.jpg
-Redirect 301 /drupal/sites_bck/default/files/DSA_smith_william_tens_twelves.pdf    /article-smith-twelve-vs-ten.pdf
-
-Redirect 301 /drupal/content/spencer_against_metric.html    /article-spencer-against-metric.html
-Redirect 301 /drupal/sites_bck/default/files/spencer_against_metric.pdf    /article-spencer-against-metric.pdf
-Redirect 301 /drupal/sites_bck/default/files/spencer_against_metric_cover.png    /article-spencer-against-metric.png
-
-Redirect 301 /drupal/content/raenbo-dozenals.html    /article-travis-raenbo-dozenals.html
-Redirect 301 /drupal/sites_bck/default/files/RAENBO_cover_small.jpg    /article-travis-raenbo-dozenals.jpg
-Redirect 301 /drupal/sites_bck/default/files/DSA_RAENBO_all_0.pdf    /article-travis-raenbo-dozenals.pdf
-
-Redirect 301 /drupal/content/dozenal-divisibility-tests-quick-guide.html    /article-treisaran-dozenal-divisibility-tests.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_treisaran_div_tests.pdf    /article-treisaran-dozenal-divisibility-tests.pdf
-Redirect 301 /drupal/sites_bck/default/files/DSA_treisaran_div_tests_cover.png    /article-treisaran-dozenal-divisibility-tests.png
-
-Redirect 301 /drupal/content/duodecimal-system-notation.html    /article-vincent-duodecimal-system-of-notation.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_vincent_duodecimal.pdf    /article-vincent-duodecimal-system-of-notation.pdf
-Redirect 301 /drupal/sites_bck/default/files/vincent_duodecimal_cover.png    /article-vincent-duodecimal-system-of-notation.png
-
-Redirect 301 /drupal/content/systematic-dozenal-nomenclature.html    /article-volan-systematic-dozenal-nomenclature.html
-Redirect 301 /drupal/sites_bck/default/files/kode_sdn_cover.jpg    /article-volan-systematic-dozenal-nomenclature.jpg
-Redirect 301 /drupal/sites_bck/default/files/DSA_kodegadulo_sdn.pdf    /article-volan-systematic-dozenal-nomenclature.pdf
-
-Redirect 301 /drupal/content/the_duodenary_scale.html    /article-wilkes-duodenary-scale.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_encyc_londiniensis.pdf    /article-wilkes-duodenary-scale.pdf
-Redirect 301 /drupal/sites_bck/default/files/cover_encyclopaedia_londinensis.png    /article-wilkes-duodenary-scale.png
-
-Redirect 301 /drupal/content/williams_ancient_duodecimal.html    /article-williams-ancient-duodecimal-system.html
-Redirect 301 /drupal/sites_bck/default/files/DSA_williams_ancient_duodecimal.pdf    /article-williams-ancient-duodecimal-system.pdf
-Redirect 301 /drupal/sites_bck/default/files/cover_williams_duodecimal.png    /article-williams-ancient-duodecimal-system.png
-
-Redirect 301 /drupal/content/wray_naomi_dozenal.html    /article-wray-is-decimal-appropriate.html
-Redirect 301 /drupal/sites_bck/default/files/wray_naomi_dozenal.pdf    /article-wray-is-decimal-appropriate.pdf
-Redirect 301 /drupal/sites_bck/default/files/cover_wray_dozenal.png    /article-wray-is-decimal-appropriate.png
-
-Redirect 301 /drupal/content/brief-introduction-dozenal-counting.html    /article-zirkel-brief-intro-dozenal-counting.html
-Redirect 301 /drupal/sites_bck/default/files/db382060.jpg    /article-zirkel-brief-intro-dozenal-counting.jpg
-Redirect 301 /drupal/sites_bck/default/files/db38206_0.pdf    /article-zirkel-brief-intro-dozenal-counting.pdf
-
-Redirect 301 /drupal/content/decimal-dozenal-conversion-rules.html    /article-zirkel-conversion-rules.html
-Redirect 301 /drupal/sites_bck/default/files/DSA-ConversionRules.jpg    /article-zirkel-conversion-rules.jpg
-Redirect 301 /drupal/sites_bck/default/files/DSA-ConversionRules_0.pdf    /article-zirkel-conversion-rules.pdf
-
-Redirect 301 /drupal/content/history-dsa.html    /article-zirkel-history-of-dsa.html
-Redirect 301 /drupal/sites_bck/default/files/db492090.jpg    /article-zirkel-history-of-dsa.jpg
-Redirect 301 /drupal/sites_bck/default/files/db49209_0.pdf    /article-zirkel-history-of-dsa.pdf
-
-Redirect 301 /drupal/content/how-do-you-pronounce-dozenals.html    /article-zirkel-on-do-gro-mo.html
-Redirect 301 /drupal/sites_bck/default/files/db4b20a0.jpg    /article-zirkel-on-do-gro-mo.jpg
-Redirect 301 /drupal/sites_bck/default/files/db4b20a_0.pdf    /article-zirkel-on-do-gro-mo.pdf
-
-Redirect 301 /drupal/content/reflections-dsgb.html    /article-zirkel-reflections-on-dsgb.html
-Redirect 301 /drupal/sites_bck/default/files/db4a1130.jpg    /article-zirkel-reflections-on-dsgb.jpg
-Redirect 301 /drupal/sites_bck/default/files/db4a113_0.pdf    /article-zirkel-reflections-on-dsgb.pdf
-
-Redirect 301 /drupal/content/symbols-symbols-¢-symbols.html    /article-zirkel-symbols-symbols-¢-symbols.html
-Redirect 301 /drupal/sites_bck/default/files/db272100.jpg    /article-zirkel-symbols-symbols-¢-symbols.jpg
-Redirect 301 /drupal/sites_bck/default/files/db27210_0.pdf    /article-zirkel-symbols-symbols-¢-symbols.pdf
-
-Redirect 301 /drupal/content/articles-and-books.html    /articles-and-books.html
-
-
-Redirect 301 /drupal/content/dozenal-divisibility-rules.html    /home-dozenal-divisibility-rules.html
-Redirect 301 /drupal/content/treisaran_spd_7.gif    /home-dozenal-divisibility-rules-treisaran-spd-7.gif
-Redirect 301 /drupal/content/treisaran_spd_5.gif    /home-dozenal-divisilibity-rules-treisaran-spd-5.gif
-Redirect 301 /drupal/content/multiplication-base-twelve.html    /home-multiplication-base-twelve.html
-Redirect 301 /drupal/content/practice-your-dozenal-arithmetic.html    /home-practice-your-dozenal-arithmetic.html
-
-Redirect 301 /drupal/content/member-signup/index.html    /member-signup/index.html
-
-Redirect 301 /drupal/content/donate.html    /leftbar-donate.html
-Redirect 301 /drupal/sites_bck/default/files/email.png    /leftbar-email.png
-Redirect 301 /drupal/sites_bck/default/files/facebook.png    /leftbar-facebook.png
-Redirect 301 /drupal/sites_bck/default/files/rss.png    /leftbar-rss.png
-Redirect 301 /drupal/sites_bck/default/files/twitter-2.png    /leftbar-twitter-2.png
-
-Redirect 301 /drupal/content/media.html    /media.html
-Redirect 301 /drupal/sites_bck/default/files/primel_zoom_final.webm    /media-primel-zoom.webm
-
-Redirect 301 /drupal/content/dozenal-basics-anki-deck-flash-cards.html    /resource-goodman-dozenal-basics-anki-deck-flash-cards.html
-Redirect 301 /drupal/sites_bck/default/files/anki_deck_basics.png    /resource-goodman-dozenal-basics-anki-deck-flash-cards.png
-
-Redirect 301 /drupal/content/dozenal-suite.html    /resource-goodman-dozenal-suite.html
-Redirect 301 /drupal/sites_bck/default/files/dozdc_demo_small.png    /resource-goodman-dozenal-suite.png
-
-Redirect 301 /drupal/content/fdroid_clock_app.html    /resource-goodman-fdroid-clock-app.html
-Redirect 301 /drupal/sites_bck/default/files/clockwidg_small.png    /resource-goodman-fdroid-clock-app.png
-
-Redirect 301 /drupal/content/dozencalc_app.html    /resource-goodman-fdroid-dozencalc-app.html
-Redirect 301 /drupal/sites_bck/default/files/dozencalc_small.png    /resource-goodman-fdroid-dozencalc-app.png
-
-Redirect 301 /drupal/content/kde-desktop-dozenal-clock.html    /resource-goodman-kde-desktop-tgm-clock.html
-Redirect 301 /drupal/sites_bck/default/files/dozenal_clock_image.png    /resource-goodman-kde-desktop-tgm-clock.png
-Redirect 301 /drupal/sites_bck/default/files/dozenal-tgm-clock_0.zip    /resource-goodman-kde-desktop-tgm-clock.zip
-
-Redirect 301 /drupal/content/latex-package-dozenal.html    /resource-goodman-latex-package-dozenal.html
-Redirect 301 /drupal/sites_bck/default/files/dozfont_demo.png    /resource-goodman-latex-package-dozenal.png
-
-Redirect 301 /drupal/content/tgm_tool_files.html    /resource-goodman-tgm-tools.html
-Redirect 301 /drupal/sites_bck/default/files/tgm_tool_image.png    /resource-goodman-tgm-tools.png
-Redirect 301 /drupal/sites_bck/default/files/dozenal_clock.pdf    /resource-goodman-tgm-tools-clock.pdf
-Redirect 301 /drupal/sites_bck/default/files/dozenal_clock.png    /resource-goodman-tgm-tools-clock.png
-Redirect 301 /drupal/sites_bck/default/files/tgm_measuring_cups.pdf    /resource-goodman-tgm-tools-cups.pdf
-Redirect 301 /drupal/sites_bck/default/files/tgm_rule_a4.pdf    /resource-goodman-tgm-tools-ruler-a4.pdf
-Redirect 301 /drupal/sites_bck/default/files/tgm_rule_legal.pdf    /resource-goodman-tgm-tools-ruler-legal.pdf
-Redirect 301 /drupal/sites_bck/default/files/tgm_rule_letter.pdf    /resource-goodman-tgm-tools-ruler-letter.pdf
-
-Redirect 301 /drupal/content/chord_dialer.html    /resource-hammond-chord-dialer.html
-Redirect 301 /drupal/sites_bck/default/files/chord_dialer.pdf    /resource-hammond-chord-dialer.pdf
-Redirect 301 /drupal/sites_bck/default/files/chord_dialer.png    /resource-hammond-chord-dialer.png
-
-Redirect 301 /drupal/content/online-dozenal-decimal-converter-calculator.html    /resource-peacock-flud-converter-calculator.html
-Redirect 301 /drupal/sites_bck/default/files/flud_converter_small.png    /resource-peacock-flud-converter-calculator.png
-
-Redirect 301 /drupal/sites_bck/default/files/ZCalculator.exe    /resource-punter-zcalculator.exe
-Redirect 301 /drupal/content/zcalculator.html    /resource-punter-zcalculator.html
-Redirect 301 /drupal/sites_bck/default/files/zcalc_pic_small.png    /resource-punter-zcalculator.png
-Redirect 301 /drupal/sites_bck/default/files/ZCalculator_src.zip    /resource-punter-zcalculator-src.zip
-
-Redirect 301 /drupal/content/dozenal-calculator.html    /resource-rapoport-dozenal-calculator.html
-Redirect 301 /drupal/sites_bck/default/files/dozenal-calculator.png    /resource-rapoport-dozenal-calculator.png
-
-Redirect 301 /drupal/content/dozenal-solitaire.html    /resource-rapoport-dozenal-solitaire.html
-Redirect 301 /drupal/sites_bck/default/files/dozenal-solitaire.png    /resource-rapoport-dozenal-solitaire.png
-
-Redirect 301 /drupal/content/altbase_asee_resources.html    /resource-seron-alternative-base-worksheets.html
-Redirect 301 /drupal/sites_bck/default/files/asee_resource_image.png    /resource-seron-alternative-base-worksheets.png
-Redirect 301 /drupal/sites_bck/default/files/asee_11e9_dsa.zip    /resource-seron-alternative-base-worksheets.zip
-
-Redirect 301 /drupal/content/converter.html    /resource-suga-converter.html
-Redirect 301 /drupal/sites_bck/default/files/suga_converter.png    /resource-suga-converter.png
-
-Redirect 301 /drupal/content/treisaran-svg-fonts-pitman-characters.html    /resource-treisaran-svg-fonts-for-pitmans.html
-Redirect 301 /drupal/sites_bck/default/files/demo_pitman_treisaran.png    /resource-treisaran-svg-fonts-for-pitmans.png
-Redirect 301 /drupal/sites_bck/default/files/pitmansvg_treisaran.zip    /resource-treisaran-svg-fonts-for-pitmans.zip
-
-Redirect 301 /drupal/content/uncialclock-deluxe.html    /resource-volan-uncialclock-deluxe.html
-Redirect 301 /drupal/sites_bck/default/files/uncialclock.png    /resource-volan-uncialclock-deluxe.png
-
-Redirect 301 /drupal/content/dozenal-oeis-scripts.html    /resource-wood-dozenal-oeis-userscripts.html
-Redirect 301 /drupal/sites_bck/default/files/dozenal_oeis_pre.png    /resource-wood-dozenal-oeis-userscripts.png
-
-Redirect 301 /drupal/content/dozensonline-dozenal-userscripts.html    /resource-wood-dozensonline-dozenator-userscripts.html
-Redirect 301 /drupal/sites_bck/default/files/dozenator_pre.png    /resource-wood-dozensonline-dozenator-userscripts.png
-
-Redirect 301 /drupal/content/resources.html    /resources.html
-
-Redirect 301 /drupal/content/dsa_newscast.html    /dsa-newscast.html
-
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_01_01.txt    /dsa-newscast-01-01.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_01_02.txt    /dsa-newscast-01-02.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_01_03.txt    /dsa-newscast-01-03.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_01_04.txt    /dsa-newscast-01-04.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_01_05.txt    /dsa-newscast-01-05.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_01_06.txt    /dsa-newscast-01-06.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_01_07.txt    /dsa-newscast-01-07.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_01_08.txt    /dsa-newscast-01-08.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_01_09.txt    /dsa-newscast-01-09.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_01_0A.txt    /dsa-newscast-01-0A.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_02_01.txt    /dsa-newscast-02-01.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_02_02.txt    /dsa-newscast-02-02.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_02_03.txt    /dsa-newscast-02-03.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_02_04.txt    /dsa-newscast-02-04.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_02_05.txt    /dsa-newscast-02-05.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_02_06.txt    /dsa-newscast-02-06.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_02_07.txt    /dsa-newscast-02-07.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_02_08.txt    /dsa-newscast-02-08.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_02_09.txt    /dsa-newscast-02-09.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_02_0a.txt    /dsa-newscast-02-0A.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_02_0b.txt    /dsa-newscast-02-0B.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_02_10.txt    /dsa-newscast-02-10.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_03_01.txt    /dsa-newscast-03-01.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_03_02.txt    /dsa-newscast-03-02.txt
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_03_03.pdf    /dsa-newscast-03-03.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_03_04.pdf    /dsa-newscast-03-04.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_03_05.pdf    /dsa-newscast-03-05.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_03_06.pdf    /dsa-newscast-03-06.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_03_07.pdf    /dsa-newscast-03-07.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_03_08.pdf    /dsa-newscast-03-08.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_03_09.pdf    /dsa-newscast-03-09.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_03_0a.pdf    /dsa-newscast-03-0A.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_03_10.pdf    /dsa-newscast-03-10.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_04_01.pdf    /dsa-newscast-04-01.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_04_02.pdf    /dsa-newscast-04-02.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_04_03.pdf    /dsa-newscast-04-03.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_04_04.pdf    /dsa-newscast-04-04.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_04_05.pdf    /dsa-newscast-04-05.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_04_06.pdf    /dsa-newscast-04-06.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_04_07.pdf    /dsa-newscast-04-07.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_05_01.pdf    /dsa-newscast-05-01.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_05_02.pdf    /dsa-newscast-05-02.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_05_03.pdf    /dsa-newscast-05-03.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_05_04.pdf    /dsa-newscast-05-04.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_05_05.pdf    /dsa-newscast-05-05.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_05_06.pdf    /dsa-newscast-05-06.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_05_07.pdf    /dsa-newscast-05-07.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_06_01.pdf    /dsa-newscast-06-01.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_06_02.pdf    /dsa-newscast-06-02.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_06_03.pdf    /dsa-newscast-06-03.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_06_04.pdf    /dsa-newscast-06-04.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_06_05.pdf    /dsa-newscast-06-05.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_07_01.pdf    /dsa-newscast-07-01.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_07_02.pdf    /dsa-newscast-07-02.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_07_03.pdf    /dsa-newscast-07-03.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_07_04.pdf    /dsa-newscast-07-04.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_08_01.pdf    /dsa-newscast-08-01.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_08_02.pdf    /dsa-newscast-08-02.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_08_03.pdf    /dsa-newscast-08-03.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_08_04.pdf    /dsa-newscast-08-04.pdf
-Redirect 301 /drupal/sites_bck/default/files/dsa_newscast_09_01.pdf    /dsa-newscast-09-01.pdf
-
-Redirect 301 /drupal/content/duodecimal-bulletin.html    /duodecimal-bulletin.html
-
-Redirect 301 /drupal/content/011-00.html    /duodecimal-bulletin-000.html
-Redirect 301 /drupal/sites_bck/default/files/_011.jpg    /duodecimal-bulletin-000.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue011-web.pdf    /duodecimal-bulletin-000.pdf
-
-Redirect 301 /drupal/content/012-01.html    /duodecimal-bulletin-001.html
-Redirect 301 /drupal/sites_bck/default/files/_012.jpg    /duodecimal-bulletin-001.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue012-web_0.pdf    /duodecimal-bulletin-001.pdf
-
-Redirect 301 /drupal/content/013-02.html    /duodecimal-bulletin-002.html
-Redirect 301 /drupal/sites_bck/default/files/_013.jpg    /duodecimal-bulletin-002.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue013-web_0.pdf    /duodecimal-bulletin-002.pdf
-
-Redirect 301 /drupal/content/021-03.html    /duodecimal-bulletin-003.html
-Redirect 301 /drupal/sites_bck/default/files/_021.jpg    /duodecimal-bulletin-003.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue021-web_0.pdf    /duodecimal-bulletin-003.pdf
-
-Redirect 301 /drupal/content/022-04.html    /duodecimal-bulletin-004.html
-Redirect 301 /drupal/sites_bck/default/files/_022.jpg    /duodecimal-bulletin-004.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue022-web_0.pdf    /duodecimal-bulletin-004.pdf
-
-Redirect 301 /drupal/content/031-05.html    /duodecimal-bulletin-005.html
-Redirect 301 /drupal/sites_bck/default/files/_031.jpg    /duodecimal-bulletin-005.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue031-web_0.pdf    /duodecimal-bulletin-005.pdf
-
-Redirect 301 /drupal/content/032-06.html    /duodecimal-bulletin-006.html
-Redirect 301 /drupal/sites_bck/default/files/_032.jpg    /duodecimal-bulletin-006.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue032-web_0.pdf    /duodecimal-bulletin-006.pdf
-
-Redirect 301 /drupal/content/033-07.html    /duodecimal-bulletin-007.html
-Redirect 301 /drupal/sites_bck/default/files/_033.jpg    /duodecimal-bulletin-007.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue033-web_0.pdf    /duodecimal-bulletin-007.pdf
-
-Redirect 301 /drupal/content/034-08.html    /duodecimal-bulletin-008.html
-Redirect 301 /drupal/sites_bck/default/files/_034.jpg    /duodecimal-bulletin-008.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue034-web_0.pdf    /duodecimal-bulletin-008.pdf
-
-Redirect 301 /drupal/content/041-09.html    /duodecimal-bulletin-009.html
-Redirect 301 /drupal/sites_bck/default/files/_041.jpg    /duodecimal-bulletin-009.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue041-web_0.pdf    /duodecimal-bulletin-009.pdf
-
-Redirect 301 /drupal/content/042-0a.html    /duodecimal-bulletin-00A.html
-Redirect 301 /drupal/sites_bck/default/files/_042.jpg    /duodecimal-bulletin-00A.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue042-web_0.pdf    /duodecimal-bulletin-00A.pdf
-
-Redirect 301 /drupal/content/043-0b.html    /duodecimal-bulletin-00B.html
-Redirect 301 /drupal/sites_bck/default/files/_043.jpg    /duodecimal-bulletin-00B.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue043-web_0.pdf    /duodecimal-bulletin-00B.pdf
-
-Redirect 301 /drupal/content/051-10.html    /duodecimal-bulletin-010.html
-Redirect 301 /drupal/sites_bck/default/files/_051.jpg    /duodecimal-bulletin-010.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue051-web_0.pdf    /duodecimal-bulletin-010.pdf
-
-Redirect 301 /drupal/content/052-11.html    /duodecimal-bulletin-011.html
-Redirect 301 /drupal/sites_bck/default/files/_052.jpg    /duodecimal-bulletin-011.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue052-web_0.pdf    /duodecimal-bulletin-011.pdf
-
-Redirect 301 /drupal/content/061-12.html    /duodecimal-bulletin-012.html
-Redirect 301 /drupal/sites_bck/default/files/_061.jpg    /duodecimal-bulletin-012.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue061-web_0.pdf    /duodecimal-bulletin-012.pdf
-
-Redirect 301 /drupal/content/062-13.html    /duodecimal-bulletin-013.html
-Redirect 301 /drupal/sites_bck/default/files/_062.jpg    /duodecimal-bulletin-013.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue062-web_0.pdf    /duodecimal-bulletin-013.pdf
-
-Redirect 301 /drupal/content/063-14.html    /duodecimal-bulletin-014.html
-Redirect 301 /drupal/sites_bck/default/files/_063.jpg    /duodecimal-bulletin-014.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue063-web_0.pdf    /duodecimal-bulletin-014.pdf
-
-Redirect 301 /drupal/content/071-15.html    /duodecimal-bulletin-015.html
-Redirect 301 /drupal/sites_bck/default/files/_071.jpg    /duodecimal-bulletin-015.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue071-web_0.pdf    /duodecimal-bulletin-015.pdf
-
-Redirect 301 /drupal/content/081-16.html    /duodecimal-bulletin-016.html
-Redirect 301 /drupal/sites_bck/default/files/_081.jpg    /duodecimal-bulletin-016.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue081-web_0.pdf    /duodecimal-bulletin-016.pdf
-
-Redirect 301 /drupal/content/082-17.html    /duodecimal-bulletin-017.html
-Redirect 301 /drupal/sites_bck/default/files/_082.jpg    /duodecimal-bulletin-017.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue082-web_0.pdf    /duodecimal-bulletin-017.pdf
-
-Redirect 301 /drupal/content/091-18.html    /duodecimal-bulletin-018.html
-Redirect 301 /drupal/sites_bck/default/files/_091.jpg    /duodecimal-bulletin-018.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue091-web_0.pdf    /duodecimal-bulletin-018.pdf
-
-Redirect 301 /drupal/content/0x1-19.html    /duodecimal-bulletin-019.html
-Redirect 301 /drupal/sites_bck/default/files/_0a1.jpg    /duodecimal-bulletin-019.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue0a1-web_0.pdf    /duodecimal-bulletin-019.pdf
-
-Redirect 301 /drupal/content/0e1-1x.html    /duodecimal-bulletin-01A.html
-Redirect 301 /drupal/sites_bck/default/files/_0b1.jpg    /duodecimal-bulletin-01A.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue0b1-web_0.pdf    /duodecimal-bulletin-01A.pdf
-
-Redirect 301 /drupal/content/0e2-1e.html    /duodecimal-bulletin-01B.html
-Redirect 301 /drupal/sites_bck/default/files/_0b2.jpg    /duodecimal-bulletin-01B.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue0b2-web_0.pdf    /duodecimal-bulletin-01B.pdf
-
-Redirect 301 /drupal/content/101-20.html    /duodecimal-bulletin-020.html
-Redirect 301 /drupal/sites_bck/default/files/_101.jpg    /duodecimal-bulletin-020.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue101-web_0.pdf    /duodecimal-bulletin-020.pdf
-
-Redirect 301 /drupal/content/101-21.html    /duodecimal-bulletin-021.html
-Redirect 301 /drupal/sites_bck/default/files/_102.jpg    /duodecimal-bulletin-021.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue101-web_0.pdf    /duodecimal-bulletin-021.pdf
-
-Redirect 301 /drupal/content/111-22.html    /duodecimal-bulletin-022.html
-Redirect 301 /drupal/sites_bck/default/files/_111.jpg    /duodecimal-bulletin-022.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue111-web_0.pdf    /duodecimal-bulletin-022.pdf
-
-Redirect 301 /drupal/content/112-23.html    /duodecimal-bulletin-023.html
-Redirect 301 /drupal/sites_bck/default/files/_112.jpg    /duodecimal-bulletin-023.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue112-web_0.pdf    /duodecimal-bulletin-023.pdf
-
-Redirect 301 /drupal/content/121-24.html    /duodecimal-bulletin-024.html
-Redirect 301 /drupal/sites_bck/default/files/_121.jpg    /duodecimal-bulletin-024.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue121-web_0.pdf    /duodecimal-bulletin-024.pdf
-
-Redirect 301 /drupal/content/122-25.html    /duodecimal-bulletin-025.html
-Redirect 301 /drupal/sites_bck/default/files/_122.jpg    /duodecimal-bulletin-025.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue122-web_0.pdf    /duodecimal-bulletin-025.pdf
-
-Redirect 301 /drupal/content/131-26.html    /duodecimal-bulletin-026.html
-Redirect 301 /drupal/sites_bck/default/files/_131.jpg    /duodecimal-bulletin-026.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue131-web_0.pdf    /duodecimal-bulletin-026.pdf
-
-Redirect 301 /drupal/content/132-27.html    /duodecimal-bulletin-027.html
-Redirect 301 /drupal/sites_bck/default/files/_132.jpg    /duodecimal-bulletin-027.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue132-web_0.pdf    /duodecimal-bulletin-027.pdf
-
-Redirect 301 /drupal/content/141-28.html    /duodecimal-bulletin-028.html
-Redirect 301 /drupal/sites_bck/default/files/_141.jpg    /duodecimal-bulletin-028.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue141-web_0.pdf    /duodecimal-bulletin-028.pdf
-
-Redirect 301 /drupal/content/142-29.html    /duodecimal-bulletin-029.html
-Redirect 301 /drupal/sites_bck/default/files/_142.jpg    /duodecimal-bulletin-029.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue142-web_0.pdf    /duodecimal-bulletin-029.pdf
-
-Redirect 301 /drupal/content/151-2x.html    /duodecimal-bulletin-02A.html
-Redirect 301 /drupal/sites_bck/default/files/_151.jpg    /duodecimal-bulletin-02A.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue151-web_0.pdf    /duodecimal-bulletin-02A.pdf
-
-Redirect 301 /drupal/content/152-2e.html    /duodecimal-bulletin-02B.html
-Redirect 301 /drupal/sites_bck/default/files/_152.jpg    /duodecimal-bulletin-02B.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue152-web_0.pdf    /duodecimal-bulletin-02B.pdf
-
-Redirect 301 /drupal/content/161-30.html    /duodecimal-bulletin-030.html
-Redirect 301 /drupal/sites_bck/default/files/_161.jpg    /duodecimal-bulletin-030.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue161-web_0.pdf    /duodecimal-bulletin-030.pdf
-
-Redirect 301 /drupal/content/171-31.html    /duodecimal-bulletin-031.html
-Redirect 301 /drupal/sites_bck/default/files/_171.jpg    /duodecimal-bulletin-031.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue171-web_0.pdf    /duodecimal-bulletin-031.pdf
-
-Redirect 301 /drupal/content/181-32.html    /duodecimal-bulletin-032.html
-Redirect 301 /drupal/sites_bck/default/files/_181.jpg    /duodecimal-bulletin-032.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue181-web_0.pdf    /duodecimal-bulletin-032.pdf
-
-Redirect 301 /drupal/content/191-33.html    /duodecimal-bulletin-033.html
-Redirect 301 /drupal/sites_bck/default/files/_191.jpg    /duodecimal-bulletin-033.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue191-web_0.pdf    /duodecimal-bulletin-033.pdf
-
-Redirect 301 /drupal/content/192-34.html    /duodecimal-bulletin-034.html
-Redirect 301 /drupal/sites_bck/default/files/_192.jpg    /duodecimal-bulletin-034.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue192-web_0.pdf    /duodecimal-bulletin-034.pdf
-
-Redirect 301 /drupal/content/1x0-35.html    /duodecimal-bulletin-035.html
-Redirect 301 /drupal/sites_bck/default/files/_1a0.jpg    /duodecimal-bulletin-035.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue1a0-web_0.pdf    /duodecimal-bulletin-035.pdf
-
-Redirect 301 /drupal/content/1e1-36.html    /duodecimal-bulletin-036.html
-Redirect 301 /drupal/sites_bck/default/files/_1b1.jpg    /duodecimal-bulletin-036.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue1b1-web_0.pdf    /duodecimal-bulletin-036.pdf
-
-Redirect 301 /drupal/content/1e2-37.html    /duodecimal-bulletin-037.html
-Redirect 301 /drupal/sites_bck/default/files/_1b2.jpg    /duodecimal-bulletin-037.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue1b2-web_0.pdf    /duodecimal-bulletin-037.pdf
-
-Redirect 301 /drupal/content/200-38.html    /duodecimal-bulletin-038.html
-Redirect 301 /drupal/sites_bck/default/files/_200.jpg    /duodecimal-bulletin-038.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue200-web_0.pdf    /duodecimal-bulletin-038.pdf
-
-Redirect 301 /drupal/content/210-39.html    /duodecimal-bulletin-039.html
-Redirect 301 /drupal/sites_bck/default/files/_210.jpg    /duodecimal-bulletin-039.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue210-web_0.pdf    /duodecimal-bulletin-039.pdf
-
-Redirect 301 /drupal/content/220-3x.html    /duodecimal-bulletin-03A.html
-Redirect 301 /drupal/sites_bck/default/files/_220.jpg    /duodecimal-bulletin-03A.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue220-web_0.pdf    /duodecimal-bulletin-03A.pdf
-
-Redirect 301 /drupal/content/230-3e.html    /duodecimal-bulletin-03B.html
-Redirect 301 /drupal/sites_bck/default/files/_230.jpg    /duodecimal-bulletin-03B.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue230-web_0.pdf    /duodecimal-bulletin-03B.pdf
-
-Redirect 301 /drupal/content/240-40.html    /duodecimal-bulletin-040.html
-Redirect 301 /drupal/sites_bck/default/files/_240.jpg    /duodecimal-bulletin-040.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue240-web_0.pdf    /duodecimal-bulletin-040.pdf
-
-Redirect 301 /drupal/content/251-41.html    /duodecimal-bulletin-041.html
-Redirect 301 /drupal/sites_bck/default/files/_251.jpg    /duodecimal-bulletin-041.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue251-web_0.pdf    /duodecimal-bulletin-041.pdf
-
-Redirect 301 /drupal/content/261-42.html    /duodecimal-bulletin-042.html
-Redirect 301 /drupal/sites_bck/default/files/_261.jpg    /duodecimal-bulletin-042.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue261-web_0.pdf    /duodecimal-bulletin-042.pdf
-
-Redirect 301 /drupal/content/271-43.html    /duodecimal-bulletin-043.html
-Redirect 301 /drupal/sites_bck/default/files/_271.jpg    /duodecimal-bulletin-043.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue271-web_0.pdf    /duodecimal-bulletin-043.pdf
-
-Redirect 301 /drupal/content/272-44.html    /duodecimal-bulletin-044.html
-Redirect 301 /drupal/sites_bck/default/files/_272.jpg    /duodecimal-bulletin-044.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue272-web_1.pdf    /duodecimal-bulletin-044.pdf
-
-Redirect 301 /drupal/content/273-45.html    /duodecimal-bulletin-045.html
-Redirect 301 /drupal/sites_bck/default/files/_273.jpg    /duodecimal-bulletin-045.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue273-web_0.pdf    /duodecimal-bulletin-045.pdf
-
-Redirect 301 /drupal/content/281-46.html    /duodecimal-bulletin-046.html
-Redirect 301 /drupal/sites_bck/default/files/_281.jpg    /duodecimal-bulletin-046.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue281-web_0.pdf    /duodecimal-bulletin-046.pdf
-
-Redirect 301 /drupal/content/282-47.html    /duodecimal-bulletin-047.html
-Redirect 301 /drupal/sites_bck/default/files/_282.jpg    /duodecimal-bulletin-047.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue282-web_0.pdf    /duodecimal-bulletin-047.pdf
-
-Redirect 301 /drupal/content/283-48.html    /duodecimal-bulletin-048.html
-Redirect 301 /drupal/sites_bck/default/files/_283.jpg    /duodecimal-bulletin-048.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue283-web_0.pdf    /duodecimal-bulletin-048.pdf
-
-Redirect 301 /drupal/content/291-49.html    /duodecimal-bulletin-049.html
-Redirect 301 /drupal/sites_bck/default/files/_291.jpg    /duodecimal-bulletin-049.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue291-web_0.pdf    /duodecimal-bulletin-049.pdf
-
-Redirect 301 /drupal/content/292-4x.html    /duodecimal-bulletin-04A.html
-Redirect 301 /drupal/sites_bck/default/files/_292.jpg    /duodecimal-bulletin-04A.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue292-web_0.pdf    /duodecimal-bulletin-04A.pdf
-
-Redirect 301 /drupal/content/293-4e.html    /duodecimal-bulletin-04B.html
-Redirect 301 /drupal/sites_bck/default/files/_293.jpg    /duodecimal-bulletin-04B.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue293-web_0.pdf    /duodecimal-bulletin-04B.pdf
-
-Redirect 301 /drupal/content/2x1-50.html    /duodecimal-bulletin-050.html
-Redirect 301 /drupal/sites_bck/default/files/_2a1.jpg    /duodecimal-bulletin-050.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue2a1-web_0.pdf    /duodecimal-bulletin-050.pdf
-
-Redirect 301 /drupal/content/2x2-51.html    /duodecimal-bulletin-051.html
-Redirect 301 /drupal/sites_bck/default/files/_2a2.jpg    /duodecimal-bulletin-051.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue2a2-web_0.pdf    /duodecimal-bulletin-051.pdf
-
-Redirect 301 /drupal/content/2x3-52.html    /duodecimal-bulletin-052.html
-Redirect 301 /drupal/sites_bck/default/files/_2a3.jpg    /duodecimal-bulletin-052.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue2xa3-web_0.pdf    /duodecimal-bulletin-052.pdf
-
-Redirect 301 /drupal/content/2e1-53.html    /duodecimal-bulletin-053.html
-Redirect 301 /drupal/sites_bck/default/files/_2b1.jpg    /duodecimal-bulletin-053.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue2b1-web_0.pdf    /duodecimal-bulletin-053.pdf
-
-Redirect 301 /drupal/content/2e2-54.html    /duodecimal-bulletin-054.html
-Redirect 301 /drupal/sites_bck/default/files/_2b2.jpg    /duodecimal-bulletin-054.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue2b2-web_0.pdf    /duodecimal-bulletin-054.pdf
-
-Redirect 301 /drupal/content/2e3-55.html    /duodecimal-bulletin-055.html
-Redirect 301 /drupal/sites_bck/default/files/_2b3.jpg    /duodecimal-bulletin-055.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue2b3-web_0.pdf    /duodecimal-bulletin-055.pdf
-
-Redirect 301 /drupal/content/301-56.html    /duodecimal-bulletin-056.html
-Redirect 301 /drupal/sites_bck/default/files/_301.jpg    /duodecimal-bulletin-056.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue301-web_0.pdf    /duodecimal-bulletin-056.pdf
-
-Redirect 301 /drupal/content/302-57.html    /duodecimal-bulletin-057.html
-Redirect 301 /drupal/sites_bck/default/files/_302.jpg    /duodecimal-bulletin-057.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue302-web_0.pdf    /duodecimal-bulletin-057.pdf
-
-Redirect 301 /drupal/content/303-58.html    /duodecimal-bulletin-058.html
-Redirect 301 /drupal/sites_bck/default/files/_303.jpg    /duodecimal-bulletin-058.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue303-web_0.pdf    /duodecimal-bulletin-058.pdf
-
-Redirect 301 /drupal/content/311-59.html    /duodecimal-bulletin-059.html
-Redirect 301 /drupal/sites_bck/default/files/_311.jpg    /duodecimal-bulletin-059.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue311-web_0.pdf    /duodecimal-bulletin-059.pdf
-
-Redirect 301 /drupal/content/312-5x.html    /duodecimal-bulletin-05A.html
-Redirect 301 /drupal/sites_bck/default/files/_312.jpg    /duodecimal-bulletin-05A.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue312-web_0.pdf    /duodecimal-bulletin-05A.pdf
-
-Redirect 301 /drupal/content/313-5e.html    /duodecimal-bulletin-05B.html
-Redirect 301 /drupal/sites_bck/default/files/_313.jpg    /duodecimal-bulletin-05B.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue313-web_0.pdf    /duodecimal-bulletin-05B.pdf
-
-Redirect 301 /drupal/content/314-60.html    /duodecimal-bulletin-060.html
-Redirect 301 /drupal/sites_bck/default/files/_314.jpg    /duodecimal-bulletin-060.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue314-web_0.pdf    /duodecimal-bulletin-060.pdf
-
-Redirect 301 /drupal/content/321-61.html    /duodecimal-bulletin-061.html
-Redirect 301 /drupal/sites_bck/default/files/_321.jpg    /duodecimal-bulletin-061.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue321-web_0.pdf    /duodecimal-bulletin-061.pdf
-
-Redirect 301 /drupal/content/322-62.html    /duodecimal-bulletin-062.html
-Redirect 301 /drupal/sites_bck/default/files/_322.jpg    /duodecimal-bulletin-062.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue322-web_0.pdf    /duodecimal-bulletin-062.pdf
-
-Redirect 301 /drupal/content/323-63.html    /duodecimal-bulletin-063.html
-Redirect 301 /drupal/sites_bck/default/files/_323.jpg    /duodecimal-bulletin-063.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue323-web_0.pdf    /duodecimal-bulletin-063.pdf
-
-Redirect 301 /drupal/content/331-64.html    /duodecimal-bulletin-064.html
-Redirect 301 /drupal/sites_bck/default/files/_331.jpg    /duodecimal-bulletin-064.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue331-web_0.pdf    /duodecimal-bulletin-064.pdf
-
-Redirect 301 /drupal/content/332-65.html    /duodecimal-bulletin-065.html
-Redirect 301 /drupal/sites_bck/default/files/_332.jpg    /duodecimal-bulletin-065.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue332-web_0.pdf    /duodecimal-bulletin-065.pdf
-
-Redirect 301 /drupal/content/333-66.html    /duodecimal-bulletin-066.html
-Redirect 301 /drupal/sites_bck/default/files/_333.jpg    /duodecimal-bulletin-066.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue333-web_0.pdf    /duodecimal-bulletin-066.pdf
-
-Redirect 301 /drupal/content/341-67.html    /duodecimal-bulletin-067.html
-Redirect 301 /drupal/sites_bck/default/files/_341.jpg    /duodecimal-bulletin-067.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue341-web_0.pdf    /duodecimal-bulletin-067.pdf
-
-Redirect 301 /drupal/content/342-68.html    /duodecimal-bulletin-068.html
-Redirect 301 /drupal/sites_bck/default/files/_342.jpg    /duodecimal-bulletin-068.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue342-web_0.pdf    /duodecimal-bulletin-068.pdf
-
-Redirect 301 /drupal/content/343-69.html    /duodecimal-bulletin-069.html
-Redirect 301 /drupal/sites_bck/default/files/_343.jpg    /duodecimal-bulletin-069.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue343-web_0.pdf    /duodecimal-bulletin-069.pdf
-
-Redirect 301 /drupal/content/351-6x.html    /duodecimal-bulletin-06A.html
-Redirect 301 /drupal/sites_bck/default/files/_351.jpg    /duodecimal-bulletin-06A.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue351-web_0.pdf    /duodecimal-bulletin-06A.pdf
-
-Redirect 301 /drupal/content/352-6e.html    /duodecimal-bulletin-06B.html
-Redirect 301 /drupal/sites_bck/default/files/_352.jpg    /duodecimal-bulletin-06B.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue352-web_0.pdf    /duodecimal-bulletin-06B.pdf
-
-Redirect 301 /drupal/content/361-70.html    /duodecimal-bulletin-070.html
-Redirect 301 /drupal/sites_bck/default/files/_361.jpg    /duodecimal-bulletin-070.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue361-web_0.pdf    /duodecimal-bulletin-070.pdf
-
-Redirect 301 /drupal/content/362-71.html    /duodecimal-bulletin-071.html
-Redirect 301 /drupal/sites_bck/default/files/_362.jpg    /duodecimal-bulletin-071.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue362-web_0.pdf    /duodecimal-bulletin-071.pdf
-
-Redirect 301 /drupal/content/371-72.html    /duodecimal-bulletin-072.html
-Redirect 301 /drupal/sites_bck/default/files/_371.jpg    /duodecimal-bulletin-072.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue371-web_0.pdf    /duodecimal-bulletin-072.pdf
-
-Redirect 301 /drupal/content/372-73.html    /duodecimal-bulletin-073.html
-Redirect 301 /drupal/sites_bck/default/files/_372.jpg    /duodecimal-bulletin-073.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue372-web_0.pdf    /duodecimal-bulletin-073.pdf
-
-Redirect 301 /drupal/content/381-74.html    /duodecimal-bulletin-074.html
-Redirect 301 /drupal/sites_bck/default/files/_381.jpg    /duodecimal-bulletin-074.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue381-web_0.pdf    /duodecimal-bulletin-074.pdf
-
-Redirect 301 /drupal/content/382-75.html    /duodecimal-bulletin-075.html
-Redirect 301 /drupal/sites_bck/default/files/_382.jpg    /duodecimal-bulletin-075.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue382-web_0.pdf    /duodecimal-bulletin-075.pdf
-
-Redirect 301 /drupal/content/391-76.html    /duodecimal-bulletin-076.html
-Redirect 301 /drupal/sites_bck/default/files/_391.jpg    /duodecimal-bulletin-076.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue391-web_0.pdf    /duodecimal-bulletin-076.pdf
-
-Redirect 301 /drupal/content/392-77.html    /duodecimal-bulletin-077.html
-Redirect 301 /drupal/sites_bck/default/files/_392.jpg    /duodecimal-bulletin-077.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue392-web_0.pdf    /duodecimal-bulletin-077.pdf
-
-Redirect 301 /drupal/content/3x1-78.html    /duodecimal-bulletin-078.html
-Redirect 301 /drupal/sites_bck/default/files/_3a1.jpg    /duodecimal-bulletin-078.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue3a1-web_0.pdf    /duodecimal-bulletin-078.pdf
-
-Redirect 301 /drupal/content/3x2-79.html    /duodecimal-bulletin-079.html
-Redirect 301 /drupal/sites_bck/default/files/_3a2.jpg    /duodecimal-bulletin-079.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue3a2-web_0.pdf    /duodecimal-bulletin-079.pdf
-
-Redirect 301 /drupal/content/3e1-7x.html    /duodecimal-bulletin-07A.html
-Redirect 301 /drupal/sites_bck/default/files/_3b1.jpg    /duodecimal-bulletin-07A.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue3b1-web_0.pdf    /duodecimal-bulletin-07A.pdf
-
-Redirect 301 /drupal/content/3e2-7e.html    /duodecimal-bulletin-07B.html
-Redirect 301 /drupal/sites_bck/default/files/_3b2.jpg    /duodecimal-bulletin-07B.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue3b2-web_0.pdf    /duodecimal-bulletin-07B.pdf
-
-Redirect 301 /drupal/content/401-80.html    /duodecimal-bulletin-080.html
-Redirect 301 /drupal/sites_bck/default/files/_401.jpg    /duodecimal-bulletin-080.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue401-web_0.pdf    /duodecimal-bulletin-080.pdf
-
-Redirect 301 /drupal/content/402-81.html    /duodecimal-bulletin-081.html
-Redirect 301 /drupal/sites_bck/default/files/_402.jpg    /duodecimal-bulletin-081.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue402-web_0.pdf    /duodecimal-bulletin-081.pdf
-
-Redirect 301 /drupal/content/411-82.html    /duodecimal-bulletin-082.html
-Redirect 301 /drupal/sites_bck/default/files/_411.jpg    /duodecimal-bulletin-082.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue411-web_0.pdf    /duodecimal-bulletin-082.pdf
-
-Redirect 301 /drupal/content/412-83.html    /duodecimal-bulletin-083.html
-Redirect 301 /drupal/sites_bck/default/files/_412.jpg    /duodecimal-bulletin-083.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue412-web_0.pdf    /duodecimal-bulletin-083.pdf
-
-Redirect 301 /drupal/content/421-84.html    /duodecimal-bulletin-084.html
-Redirect 301 /drupal/sites_bck/default/files/_421.jpg    /duodecimal-bulletin-084.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue421-web_0.pdf    /duodecimal-bulletin-084.pdf
-
-Redirect 301 /drupal/content/422-85.html    /duodecimal-bulletin-085.html
-Redirect 301 /drupal/sites_bck/default/files/_422.jpg    /duodecimal-bulletin-085.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue422-web_0.pdf    /duodecimal-bulletin-085.pdf
-
-Redirect 301 /drupal/content/431-86.html    /duodecimal-bulletin-086.html
-Redirect 301 /drupal/sites_bck/default/files/_431.jpg    /duodecimal-bulletin-086.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue431-web_0.pdf    /duodecimal-bulletin-086.pdf
-
-Redirect 301 /drupal/content/432-87.html    /duodecimal-bulletin-087.html
-Redirect 301 /drupal/sites_bck/default/files/_432.jpg    /duodecimal-bulletin-087.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue432-web_0.pdf    /duodecimal-bulletin-087.pdf
-
-Redirect 301 /drupal/content/441-88.html    /duodecimal-bulletin-088.html
-Redirect 301 /drupal/sites_bck/default/files/_441.jpg    /duodecimal-bulletin-088.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue441-web_0.pdf    /duodecimal-bulletin-088.pdf
-
-Redirect 301 /drupal/content/442-89.html    /duodecimal-bulletin-089.html
-Redirect 301 /drupal/sites_bck/default/files/_442.jpg    /duodecimal-bulletin-089.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue442-web_0.pdf    /duodecimal-bulletin-089.pdf
-
-Redirect 301 /drupal/content/451-8x.html    /duodecimal-bulletin-08A.html
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue451-web_0.pdf    /duodecimal-bulletin-08A.pdf
-Redirect 301 /drupal/sites_bck/default/files/cover_451.png    /duodecimal-bulletin-08A.png
-
-Redirect 301 /drupal/content/452-8e.html    /duodecimal-bulletin-08B.html
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue452-web_0.pdf    /duodecimal-bulletin-08B.pdf
-Redirect 301 /drupal/sites_bck/default/files/cover_452.png    /duodecimal-bulletin-08B.png
-
-Redirect 301 /drupal/content/461-90.html    /duodecimal-bulletin-090.html
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue461-web.pdf    /duodecimal-bulletin-090.pdf
-Redirect 301 /drupal/sites_bck/default/files/cover_461.png    /duodecimal-bulletin-090.png
-
-Redirect 301 /drupal/content/462-91.html    /duodecimal-bulletin-091.html
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulltinIssue462-web.pdf    /duodecimal-bulletin-091.pdf
-Redirect 301 /drupal/sites_bck/default/files/cover_462.png    /duodecimal-bulletin-091.png
-
-Redirect 301 /drupal/content/471-92.html    /duodecimal-bulletin-092.html
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue471-web_0.pdf    /duodecimal-bulletin-092.pdf
-Redirect 301 /drupal/sites_bck/default/files/cover_471.png    /duodecimal-bulletin-092.png
-
-Redirect 301 /drupal/content/472-93.html    /duodecimal-bulletin-093.html
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue472-web.pdf    /duodecimal-bulletin-093.pdf
-Redirect 301 /drupal/sites_bck/default/files/cover_472.png    /duodecimal-bulletin-093.png
-
-Redirect 301 /drupal/content/481-94.html    /duodecimal-bulletin-094.html
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue481-web.pdf    /duodecimal-bulletin-094.pdf
-Redirect 301 /drupal/sites_bck/default/files/cover_481.png    /duodecimal-bulletin-094.png
-
-Redirect 301 /drupal/content/482-95.html    /duodecimal-bulletin-095.html
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulltinIssue482-web.pdf    /duodecimal-bulletin-095.pdf
-Redirect 301 /drupal/sites_bck/default/files/cover_482.png    /duodecimal-bulletin-095.png
-
-Redirect 301 /drupal/content/491-96.html    /duodecimal-bulletin-096.html
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue491-web.pdf    /duodecimal-bulletin-096.pdf
-Redirect 301 /drupal/sites_bck/default/files/cover_491.png    /duodecimal-bulletin-096.png
-
-Redirect 301 /drupal/content/492-97.html    /duodecimal-bulletin-097.html
-Redirect 301 /drupal/sites_bck/default/files/_492.jpg    /duodecimal-bulletin-097.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue492_0.pdf    /duodecimal-bulletin-097.pdf
-
-Redirect 301 /drupal/content/4x1-98.html    /duodecimal-bulletin-098.html
-Redirect 301 /drupal/sites_bck/default/files/_4a1.jpg    /duodecimal-bulletin-098.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue4a1_0.pdf    /duodecimal-bulletin-098.pdf
-
-Redirect 301 /drupal/content/4x2-99.html    /duodecimal-bulletin-099.html
-Redirect 301 /drupal/sites_bck/default/files/_4a2.jpg    /duodecimal-bulletin-099.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue4a2_0.pdf    /duodecimal-bulletin-099.pdf
-
-Redirect 301 /drupal/content/4e1-9x.html    /duodecimal-bulletin-09A.html
-Redirect 301 /drupal/sites_bck/default/files/_4b1.jpg    /duodecimal-bulletin-09A.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue4b1_0.pdf    /duodecimal-bulletin-09A.pdf
-
-Redirect 301 /drupal/content/4e2-9e.html    /duodecimal-bulletin-09B.html
-Redirect 301 /drupal/sites_bck/default/files/_4b2.jpg    /duodecimal-bulletin-09B.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue4b2_0.pdf    /duodecimal-bulletin-09B.pdf
-
-Redirect 301 /drupal/content/510-x0.html    /duodecimal-bulletin-0A0.html
-Redirect 301 /drupal/sites_bck/default/files/db501X0_cover_1.jpg    /duodecimal-bulletin-0A0.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue501_0.pdf    /duodecimal-bulletin-0A0.pdf
-
-Redirect 301 /drupal/content/511-x1-0.html    /duodecimal-bulletin-0A1.html
-Redirect 301 /drupal/sites_bck/default/files/db511X1.jpg    /duodecimal-bulletin-0A1.jpg
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue511a_0.pdf    /duodecimal-bulletin-0A1.pdf
-
-Redirect 301 /drupal/content/521-x2-0.html    /duodecimal-bulletin-0A2.html
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue521.pdf    /duodecimal-bulletin-0A2.pdf
-Redirect 301 /drupal/sites_bck/default/files/db521X2.png    /duodecimal-bulletin-0A2.png
-
-Redirect 301 /drupal/content/531-x3-0.html    /duodecimal-bulletin-0A3.html
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue531.pdf    /duodecimal-bulletin-0A3.pdf
-Redirect 301 /drupal/sites_bck/default/files/db531X3.png    /duodecimal-bulletin-0A3.png
-
-Redirect 301 /drupal/content/541-x4-0.html    /duodecimal-bulletin-0A4.html
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue541.pdf    /duodecimal-bulletin-0A4.pdf
-Redirect 301 /drupal/sites_bck/default/files/db541X4.png    /duodecimal-bulletin-0A4.png
-
-Redirect 301 /drupal/content/551-x5-0.html    /duodecimal-bulletin-0A5.html
-Redirect 301 /drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf    /duodecimal-bulletin-0A5.pdf
-Redirect 301 /drupal/sites_bck/default/files/db551X5.png    /duodecimal-bulletin-0A5.png
-
-Redirect 301 /drupal/content/duodecimal-bulletin-pictorial-synopsis.html    /duodecimal-bulletin-chronology.html
-Redirect 301 /drupal/content/foundation-and-first-generation.html    /duodecimal-bulletin-chronology-000.html
-Redirect 301 /drupal/content/brave-new-era-ahead.html    /duodecimal-bulletin-chronology-010.html
-Redirect 301 /drupal/content/going-international.htmld    /duodecimal-bulletin-chronology-020.html
-Redirect 301 /drupal/content/struggling-entrenchment-decimal-dreaming-it-isnt-so.html    /duodecimal-bulletin-chronology-030.html
-Redirect 301 /drupal/content/flickering-and-recovery.html    /duodecimal-bulletin-chronology-040.html
-Redirect 301 /drupal/content/serene-explorations.html    /duodecimal-bulletin-chronology-050.html
-Redirect 301 /drupal/content/questioning-smile-world-wakes-history.html    /duodecimal-bulletin-chronology-060.html
-Redirect 301 /drupal/content/exquisite-analysis-and-dear-friends-lost.html    /duodecimal-bulletin-chronology-070.html
-Redirect 301 /drupal/content/culture-wars-within-and-without.html    /duodecimal-bulletin-chronology-080.html
-Redirect 301 /drupal/content/third-generation-enters.html    /duodecimal-bulletin-chronology-090.html
-Redirect 301 /drupal/content/third-generation-develops.html    /duodecimal-bulletin-chronology-0A0.html
-
-Redirect 301 /drupal/content/duodecimal-bulletin-historical-summary.html    /duodecimal-bulletin-historical-summary.html
-
-
-
+RewriteRule ^drupal/content/dozenal-divisibility-rules    /home-dozenal-divisibility-rules [R=301,L]
+RewriteRule ^drupal/content/treisaran_spd_7.gif    /home-dozenal-divisibility-rules-treisaran-spd-7.gif [R=301,L]
+RewriteRule ^drupal/content/treisaran_spd_5.gif    /home-dozenal-divisilibity-rules-treisaran-spd-5.gif [R=301,L]
+RewriteRule ^drupal/content/multiplication-base-twelve    /home-multiplication-base-twelve [R=301,L]
+RewriteRule ^drupal/content/practice-your-dozenal-arithmetic    /home-practice-your-dozenal-arithmetic [R=301,L]
+
+RewriteRule ^drupal/content/member-signup/index    /member-signup/index [R=301,L]
+
+RewriteRule ^drupal/content/donate    /leftbar-donate [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/email.png    /leftbar-email.png [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/facebook.png    /leftbar-facebook.png [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/rss.png    /leftbar-rss.png [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/twitter-2.png    /leftbar-twitter-2.png [R=301,L]
+
+RewriteRule ^drupal/content/media    /media [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/primel_zoom_final.webm    /media-primel-zoom.webm [R=301,L]
+
+RewriteRule ^drupal/content/dozenal-basics-anki-deck-flash-cards    /resource-goodman-dozenal-basics-anki-deck-flash-cards [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/anki_deck_basics.png    /resource-goodman-dozenal-basics-anki-deck-flash-cards.png [R=301,L]
+
+RewriteRule ^drupal/content/dozenal-suite    /resource-goodman-dozenal-suite [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dozdc_demo_small.png    /resource-goodman-dozenal-suite.png [R=301,L]
+
+RewriteRule ^drupal/content/fdroid_clock_app    /resource-goodman-fdroid-clock-app [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/clockwidg_small.png    /resource-goodman-fdroid-clock-app.png [R=301,L]
+
+RewriteRule ^drupal/content/dozencalc_app    /resource-goodman-fdroid-dozencalc-app [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dozencalc_small.png    /resource-goodman-fdroid-dozencalc-app.png [R=301,L]
+
+RewriteRule ^drupal/content/kde-desktop-dozenal-clock    /resource-goodman-kde-desktop-tgm-clock [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dozenal_clock_image.png    /resource-goodman-kde-desktop-tgm-clock.png [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dozenal-tgm-clock_0.zip    /resource-goodman-kde-desktop-tgm-clock.zip [R=301,L]
+
+RewriteRule ^drupal/content/latex-package-dozenal    /resource-goodman-latex-package-dozenal [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dozfont_demo.png    /resource-goodman-latex-package-dozenal.png [R=301,L]
+
+RewriteRule ^drupal/content/tgm_tool_files    /resource-goodman-tgm-tools [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/tgm_tool_image.png    /resource-goodman-tgm-tools.png [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dozenal_clock.pdf    /resource-goodman-tgm-tools-clock.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dozenal_clock.png    /resource-goodman-tgm-tools-clock.png [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/tgm_measuring_cups.pdf    /resource-goodman-tgm-tools-cups.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/tgm_rule_a4.pdf    /resource-goodman-tgm-tools-ruler-a4.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/tgm_rule_legal.pdf    /resource-goodman-tgm-tools-ruler-legal.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/tgm_rule_letter.pdf    /resource-goodman-tgm-tools-ruler-letter.pdf [R=301,L]
+
+RewriteRule ^drupal/content/chord_dialer    /resource-hammond-chord-dialer [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/chord_dialer.pdf    /resource-hammond-chord-dialer.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/chord_dialer.png    /resource-hammond-chord-dialer.png [R=301,L]
+
+RewriteRule ^drupal/content/online-dozenal-decimal-converter-calculator    /resource-peacock-flud-converter-calculator [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/flud_converter_small.png    /resource-peacock-flud-converter-calculator.png [R=301,L]
+
+RewriteRule ^drupal/sites_bck/default/files/ZCalculator.exe    /resource-punter-zcalculator.exe [R=301,L]
+RewriteRule ^drupal/content/zcalculator    /resource-punter-zcalculator [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/zcalc_pic_small.png    /resource-punter-zcalculator.png [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/ZCalculator_src.zip    /resource-punter-zcalculator-src.zip [R=301,L]
+
+RewriteRule ^drupal/content/dozenal-calculator    /resource-rapoport-dozenal-calculator [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dozenal-calculator.png    /resource-rapoport-dozenal-calculator.png [R=301,L]
+
+RewriteRule ^drupal/content/dozenal-solitaire    /resource-rapoport-dozenal-solitaire [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dozenal-solitaire.png    /resource-rapoport-dozenal-solitaire.png [R=301,L]
+
+RewriteRule ^drupal/content/altbase_asee_resources    /resource-seron-alternative-base-worksheets [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/asee_resource_image.png    /resource-seron-alternative-base-worksheets.png [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/asee_11e9_dsa.zip    /resource-seron-alternative-base-worksheets.zip [R=301,L]
+
+RewriteRule ^drupal/content/converter    /resource-suga-converter [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/suga_converter.png    /resource-suga-converter.png [R=301,L]
+
+RewriteRule ^drupal/content/treisaran-svg-fonts-pitman-characters    /resource-treisaran-svg-fonts-for-pitmans [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/demo_pitman_treisaran.png    /resource-treisaran-svg-fonts-for-pitmans.png [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/pitmansvg_treisaran.zip    /resource-treisaran-svg-fonts-for-pitmans.zip [R=301,L]
+
+RewriteRule ^drupal/content/uncialclock-deluxe    /resource-volan-uncialclock-deluxe [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/uncialclock.png    /resource-volan-uncialclock-deluxe.png [R=301,L]
+
+RewriteRule ^drupal/content/dozenal-oeis-scripts    /resource-wood-dozenal-oeis-userscripts [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dozenal_oeis_pre.png    /resource-wood-dozenal-oeis-userscripts.png [R=301,L]
+
+RewriteRule ^drupal/content/dozensonline-dozenal-userscripts    /resource-wood-dozensonline-dozenator-userscripts [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dozenator_pre.png    /resource-wood-dozensonline-dozenator-userscripts.png [R=301,L]
+
+RewriteRule ^drupal/content/resources    /resources [R=301,L]
+
+RewriteRule ^drupal/content/dsa_newscast    /dsa-newscast [R=301,L]
+
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_01_01.txt    /dsa-newscast-01-01.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_01_02.txt    /dsa-newscast-01-02.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_01_03.txt    /dsa-newscast-01-03.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_01_04.txt    /dsa-newscast-01-04.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_01_05.txt    /dsa-newscast-01-05.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_01_06.txt    /dsa-newscast-01-06.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_01_07.txt    /dsa-newscast-01-07.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_01_08.txt    /dsa-newscast-01-08.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_01_09.txt    /dsa-newscast-01-09.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_01_0A.txt    /dsa-newscast-01-0A.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_02_01.txt    /dsa-newscast-02-01.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_02_02.txt    /dsa-newscast-02-02.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_02_03.txt    /dsa-newscast-02-03.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_02_04.txt    /dsa-newscast-02-04.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_02_05.txt    /dsa-newscast-02-05.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_02_06.txt    /dsa-newscast-02-06.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_02_07.txt    /dsa-newscast-02-07.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_02_08.txt    /dsa-newscast-02-08.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_02_09.txt    /dsa-newscast-02-09.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_02_0a.txt    /dsa-newscast-02-0A.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_02_0b.txt    /dsa-newscast-02-0B.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_02_10.txt    /dsa-newscast-02-10.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_03_01.txt    /dsa-newscast-03-01.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_03_02.txt    /dsa-newscast-03-02.txt [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_03_03.pdf    /dsa-newscast-03-03.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_03_04.pdf    /dsa-newscast-03-04.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_03_05.pdf    /dsa-newscast-03-05.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_03_06.pdf    /dsa-newscast-03-06.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_03_07.pdf    /dsa-newscast-03-07.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_03_08.pdf    /dsa-newscast-03-08.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_03_09.pdf    /dsa-newscast-03-09.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_03_0a.pdf    /dsa-newscast-03-0A.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_03_10.pdf    /dsa-newscast-03-10.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_04_01.pdf    /dsa-newscast-04-01.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_04_02.pdf    /dsa-newscast-04-02.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_04_03.pdf    /dsa-newscast-04-03.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_04_04.pdf    /dsa-newscast-04-04.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_04_05.pdf    /dsa-newscast-04-05.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_04_06.pdf    /dsa-newscast-04-06.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_04_07.pdf    /dsa-newscast-04-07.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_05_01.pdf    /dsa-newscast-05-01.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_05_02.pdf    /dsa-newscast-05-02.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_05_03.pdf    /dsa-newscast-05-03.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_05_04.pdf    /dsa-newscast-05-04.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_05_05.pdf    /dsa-newscast-05-05.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_05_06.pdf    /dsa-newscast-05-06.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_05_07.pdf    /dsa-newscast-05-07.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_06_01.pdf    /dsa-newscast-06-01.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_06_02.pdf    /dsa-newscast-06-02.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_06_03.pdf    /dsa-newscast-06-03.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_06_04.pdf    /dsa-newscast-06-04.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_06_05.pdf    /dsa-newscast-06-05.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_07_01.pdf    /dsa-newscast-07-01.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_07_02.pdf    /dsa-newscast-07-02.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_07_03.pdf    /dsa-newscast-07-03.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_07_04.pdf    /dsa-newscast-07-04.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_08_01.pdf    /dsa-newscast-08-01.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_08_02.pdf    /dsa-newscast-08-02.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_08_03.pdf    /dsa-newscast-08-03.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_08_04.pdf    /dsa-newscast-08-04.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_09_01.pdf    /dsa-newscast-09-01.pdf [R=301,L]
+
+RewriteRule ^drupal/content/duodecimal-bulletin    /duodecimal-bulletin [R=301,L]
+
+RewriteRule ^drupal/content/011-00    /duodecimal-bulletin-000 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_011.jpg    /duodecimal-bulletin-000.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue011-web.pdf    /duodecimal-bulletin-000.pdf [R=301,L]
+
+RewriteRule ^drupal/content/012-01    /duodecimal-bulletin-001 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_012.jpg    /duodecimal-bulletin-001.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue012-web_0.pdf    /duodecimal-bulletin-001.pdf [R=301,L]
+
+RewriteRule ^drupal/content/013-02    /duodecimal-bulletin-002 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_013.jpg    /duodecimal-bulletin-002.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue013-web_0.pdf    /duodecimal-bulletin-002.pdf [R=301,L]
+
+RewriteRule ^drupal/content/021-03    /duodecimal-bulletin-003 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_021.jpg    /duodecimal-bulletin-003.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue021-web_0.pdf    /duodecimal-bulletin-003.pdf [R=301,L]
+
+RewriteRule ^drupal/content/022-04    /duodecimal-bulletin-004 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_022.jpg    /duodecimal-bulletin-004.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue022-web_0.pdf    /duodecimal-bulletin-004.pdf [R=301,L]
+
+RewriteRule ^drupal/content/031-05    /duodecimal-bulletin-005 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_031.jpg    /duodecimal-bulletin-005.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue031-web_0.pdf    /duodecimal-bulletin-005.pdf [R=301,L]
+
+RewriteRule ^drupal/content/032-06    /duodecimal-bulletin-006 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_032.jpg    /duodecimal-bulletin-006.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue032-web_0.pdf    /duodecimal-bulletin-006.pdf [R=301,L]
+
+RewriteRule ^drupal/content/033-07    /duodecimal-bulletin-007 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_033.jpg    /duodecimal-bulletin-007.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue033-web_0.pdf    /duodecimal-bulletin-007.pdf [R=301,L]
+
+RewriteRule ^drupal/content/034-08    /duodecimal-bulletin-008 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_034.jpg    /duodecimal-bulletin-008.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue034-web_0.pdf    /duodecimal-bulletin-008.pdf [R=301,L]
+
+RewriteRule ^drupal/content/041-09    /duodecimal-bulletin-009 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_041.jpg    /duodecimal-bulletin-009.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue041-web_0.pdf    /duodecimal-bulletin-009.pdf [R=301,L]
+
+RewriteRule ^drupal/content/042-0a    /duodecimal-bulletin-00A [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_042.jpg    /duodecimal-bulletin-00A.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue042-web_0.pdf    /duodecimal-bulletin-00A.pdf [R=301,L]
+
+RewriteRule ^drupal/content/043-0b    /duodecimal-bulletin-00B [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_043.jpg    /duodecimal-bulletin-00B.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue043-web_0.pdf    /duodecimal-bulletin-00B.pdf [R=301,L]
+
+RewriteRule ^drupal/content/051-10    /duodecimal-bulletin-010 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_051.jpg    /duodecimal-bulletin-010.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue051-web_0.pdf    /duodecimal-bulletin-010.pdf [R=301,L]
+
+RewriteRule ^drupal/content/052-11    /duodecimal-bulletin-011 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_052.jpg    /duodecimal-bulletin-011.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue052-web_0.pdf    /duodecimal-bulletin-011.pdf [R=301,L]
+
+RewriteRule ^drupal/content/061-12    /duodecimal-bulletin-012 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_061.jpg    /duodecimal-bulletin-012.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue061-web_0.pdf    /duodecimal-bulletin-012.pdf [R=301,L]
+
+RewriteRule ^drupal/content/062-13    /duodecimal-bulletin-013 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_062.jpg    /duodecimal-bulletin-013.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue062-web_0.pdf    /duodecimal-bulletin-013.pdf [R=301,L]
+
+RewriteRule ^drupal/content/063-14    /duodecimal-bulletin-014 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_063.jpg    /duodecimal-bulletin-014.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue063-web_0.pdf    /duodecimal-bulletin-014.pdf [R=301,L]
+
+RewriteRule ^drupal/content/071-15    /duodecimal-bulletin-015 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_071.jpg    /duodecimal-bulletin-015.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue071-web_0.pdf    /duodecimal-bulletin-015.pdf [R=301,L]
+
+RewriteRule ^drupal/content/081-16    /duodecimal-bulletin-016 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_081.jpg    /duodecimal-bulletin-016.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue081-web_0.pdf    /duodecimal-bulletin-016.pdf [R=301,L]
+
+RewriteRule ^drupal/content/082-17    /duodecimal-bulletin-017 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_082.jpg    /duodecimal-bulletin-017.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue082-web_0.pdf    /duodecimal-bulletin-017.pdf [R=301,L]
+
+RewriteRule ^drupal/content/091-18    /duodecimal-bulletin-018 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_091.jpg    /duodecimal-bulletin-018.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue091-web_0.pdf    /duodecimal-bulletin-018.pdf [R=301,L]
+
+RewriteRule ^drupal/content/0x1-19    /duodecimal-bulletin-019 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_0a1.jpg    /duodecimal-bulletin-019.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue0a1-web_0.pdf    /duodecimal-bulletin-019.pdf [R=301,L]
+
+RewriteRule ^drupal/content/0e1-1x    /duodecimal-bulletin-01A [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_0b1.jpg    /duodecimal-bulletin-01A.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue0b1-web_0.pdf    /duodecimal-bulletin-01A.pdf [R=301,L]
+
+RewriteRule ^drupal/content/0e2-1e    /duodecimal-bulletin-01B [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_0b2.jpg    /duodecimal-bulletin-01B.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue0b2-web_0.pdf    /duodecimal-bulletin-01B.pdf [R=301,L]
+
+RewriteRule ^drupal/content/101-20    /duodecimal-bulletin-020 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_101.jpg    /duodecimal-bulletin-020.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue101-web_0.pdf    /duodecimal-bulletin-020.pdf [R=301,L]
+
+RewriteRule ^drupal/content/101-21    /duodecimal-bulletin-021 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_102.jpg    /duodecimal-bulletin-021.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue101-web_0.pdf    /duodecimal-bulletin-021.pdf [R=301,L]
+
+RewriteRule ^drupal/content/111-22    /duodecimal-bulletin-022 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_111.jpg    /duodecimal-bulletin-022.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue111-web_0.pdf    /duodecimal-bulletin-022.pdf [R=301,L]
+
+RewriteRule ^drupal/content/112-23    /duodecimal-bulletin-023 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_112.jpg    /duodecimal-bulletin-023.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue112-web_0.pdf    /duodecimal-bulletin-023.pdf [R=301,L]
+
+RewriteRule ^drupal/content/121-24    /duodecimal-bulletin-024 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_121.jpg    /duodecimal-bulletin-024.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue121-web_0.pdf    /duodecimal-bulletin-024.pdf [R=301,L]
+
+RewriteRule ^drupal/content/122-25    /duodecimal-bulletin-025 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_122.jpg    /duodecimal-bulletin-025.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue122-web_0.pdf    /duodecimal-bulletin-025.pdf [R=301,L]
+
+RewriteRule ^drupal/content/131-26    /duodecimal-bulletin-026 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_131.jpg    /duodecimal-bulletin-026.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue131-web_0.pdf    /duodecimal-bulletin-026.pdf [R=301,L]
+
+RewriteRule ^drupal/content/132-27    /duodecimal-bulletin-027 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_132.jpg    /duodecimal-bulletin-027.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue132-web_0.pdf    /duodecimal-bulletin-027.pdf [R=301,L]
+
+RewriteRule ^drupal/content/141-28    /duodecimal-bulletin-028 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_141.jpg    /duodecimal-bulletin-028.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue141-web_0.pdf    /duodecimal-bulletin-028.pdf [R=301,L]
+
+RewriteRule ^drupal/content/142-29    /duodecimal-bulletin-029 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_142.jpg    /duodecimal-bulletin-029.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue142-web_0.pdf    /duodecimal-bulletin-029.pdf [R=301,L]
+
+RewriteRule ^drupal/content/151-2x    /duodecimal-bulletin-02A [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_151.jpg    /duodecimal-bulletin-02A.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue151-web_0.pdf    /duodecimal-bulletin-02A.pdf [R=301,L]
+
+RewriteRule ^drupal/content/152-2e    /duodecimal-bulletin-02B [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_152.jpg    /duodecimal-bulletin-02B.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue152-web_0.pdf    /duodecimal-bulletin-02B.pdf [R=301,L]
+
+RewriteRule ^drupal/content/161-30    /duodecimal-bulletin-030 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_161.jpg    /duodecimal-bulletin-030.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue161-web_0.pdf    /duodecimal-bulletin-030.pdf [R=301,L]
+
+RewriteRule ^drupal/content/171-31    /duodecimal-bulletin-031 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_171.jpg    /duodecimal-bulletin-031.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue171-web_0.pdf    /duodecimal-bulletin-031.pdf [R=301,L]
+
+RewriteRule ^drupal/content/181-32    /duodecimal-bulletin-032 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_181.jpg    /duodecimal-bulletin-032.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue181-web_0.pdf    /duodecimal-bulletin-032.pdf [R=301,L]
+
+RewriteRule ^drupal/content/191-33    /duodecimal-bulletin-033 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_191.jpg    /duodecimal-bulletin-033.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue191-web_0.pdf    /duodecimal-bulletin-033.pdf [R=301,L]
+
+RewriteRule ^drupal/content/192-34    /duodecimal-bulletin-034 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_192.jpg    /duodecimal-bulletin-034.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue192-web_0.pdf    /duodecimal-bulletin-034.pdf [R=301,L]
+
+RewriteRule ^drupal/content/1x0-35    /duodecimal-bulletin-035 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_1a0.jpg    /duodecimal-bulletin-035.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue1a0-web_0.pdf    /duodecimal-bulletin-035.pdf [R=301,L]
+
+RewriteRule ^drupal/content/1e1-36    /duodecimal-bulletin-036 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_1b1.jpg    /duodecimal-bulletin-036.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue1b1-web_0.pdf    /duodecimal-bulletin-036.pdf [R=301,L]
+
+RewriteRule ^drupal/content/1e2-37    /duodecimal-bulletin-037 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_1b2.jpg    /duodecimal-bulletin-037.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue1b2-web_0.pdf    /duodecimal-bulletin-037.pdf [R=301,L]
+
+RewriteRule ^drupal/content/200-38    /duodecimal-bulletin-038 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_200.jpg    /duodecimal-bulletin-038.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue200-web_0.pdf    /duodecimal-bulletin-038.pdf [R=301,L]
+
+RewriteRule ^drupal/content/210-39    /duodecimal-bulletin-039 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_210.jpg    /duodecimal-bulletin-039.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue210-web_0.pdf    /duodecimal-bulletin-039.pdf [R=301,L]
+
+RewriteRule ^drupal/content/220-3x    /duodecimal-bulletin-03A [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_220.jpg    /duodecimal-bulletin-03A.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue220-web_0.pdf    /duodecimal-bulletin-03A.pdf [R=301,L]
+
+RewriteRule ^drupal/content/230-3e    /duodecimal-bulletin-03B [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_230.jpg    /duodecimal-bulletin-03B.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue230-web_0.pdf    /duodecimal-bulletin-03B.pdf [R=301,L]
+
+RewriteRule ^drupal/content/240-40    /duodecimal-bulletin-040 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_240.jpg    /duodecimal-bulletin-040.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue240-web_0.pdf    /duodecimal-bulletin-040.pdf [R=301,L]
+
+RewriteRule ^drupal/content/251-41    /duodecimal-bulletin-041 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_251.jpg    /duodecimal-bulletin-041.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue251-web_0.pdf    /duodecimal-bulletin-041.pdf [R=301,L]
+
+RewriteRule ^drupal/content/261-42    /duodecimal-bulletin-042 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_261.jpg    /duodecimal-bulletin-042.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue261-web_0.pdf    /duodecimal-bulletin-042.pdf [R=301,L]
+
+RewriteRule ^drupal/content/271-43    /duodecimal-bulletin-043 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_271.jpg    /duodecimal-bulletin-043.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue271-web_0.pdf    /duodecimal-bulletin-043.pdf [R=301,L]
+
+RewriteRule ^drupal/content/272-44    /duodecimal-bulletin-044 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_272.jpg    /duodecimal-bulletin-044.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue272-web_1.pdf    /duodecimal-bulletin-044.pdf [R=301,L]
+
+RewriteRule ^drupal/content/273-45    /duodecimal-bulletin-045 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_273.jpg    /duodecimal-bulletin-045.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue273-web_0.pdf    /duodecimal-bulletin-045.pdf [R=301,L]
+
+RewriteRule ^drupal/content/281-46    /duodecimal-bulletin-046 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_281.jpg    /duodecimal-bulletin-046.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue281-web_0.pdf    /duodecimal-bulletin-046.pdf [R=301,L]
+
+RewriteRule ^drupal/content/282-47    /duodecimal-bulletin-047 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_282.jpg    /duodecimal-bulletin-047.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue282-web_0.pdf    /duodecimal-bulletin-047.pdf [R=301,L]
+
+RewriteRule ^drupal/content/283-48    /duodecimal-bulletin-048 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_283.jpg    /duodecimal-bulletin-048.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue283-web_0.pdf    /duodecimal-bulletin-048.pdf [R=301,L]
+
+RewriteRule ^drupal/content/291-49    /duodecimal-bulletin-049 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_291.jpg    /duodecimal-bulletin-049.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue291-web_0.pdf    /duodecimal-bulletin-049.pdf [R=301,L]
+
+RewriteRule ^drupal/content/292-4x    /duodecimal-bulletin-04A [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_292.jpg    /duodecimal-bulletin-04A.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue292-web_0.pdf    /duodecimal-bulletin-04A.pdf [R=301,L]
+
+RewriteRule ^drupal/content/293-4e    /duodecimal-bulletin-04B [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_293.jpg    /duodecimal-bulletin-04B.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue293-web_0.pdf    /duodecimal-bulletin-04B.pdf [R=301,L]
+
+RewriteRule ^drupal/content/2x1-50    /duodecimal-bulletin-050 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_2a1.jpg    /duodecimal-bulletin-050.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue2a1-web_0.pdf    /duodecimal-bulletin-050.pdf [R=301,L]
+
+RewriteRule ^drupal/content/2x2-51    /duodecimal-bulletin-051 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_2a2.jpg    /duodecimal-bulletin-051.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue2a2-web_0.pdf    /duodecimal-bulletin-051.pdf [R=301,L]
+
+RewriteRule ^drupal/content/2x3-52    /duodecimal-bulletin-052 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_2a3.jpg    /duodecimal-bulletin-052.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue2xa3-web_0.pdf    /duodecimal-bulletin-052.pdf [R=301,L]
+
+RewriteRule ^drupal/content/2e1-53    /duodecimal-bulletin-053 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_2b1.jpg    /duodecimal-bulletin-053.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue2b1-web_0.pdf    /duodecimal-bulletin-053.pdf [R=301,L]
+
+RewriteRule ^drupal/content/2e2-54    /duodecimal-bulletin-054 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_2b2.jpg    /duodecimal-bulletin-054.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue2b2-web_0.pdf    /duodecimal-bulletin-054.pdf [R=301,L]
+
+RewriteRule ^drupal/content/2e3-55    /duodecimal-bulletin-055 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_2b3.jpg    /duodecimal-bulletin-055.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue2b3-web_0.pdf    /duodecimal-bulletin-055.pdf [R=301,L]
+
+RewriteRule ^drupal/content/301-56    /duodecimal-bulletin-056 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_301.jpg    /duodecimal-bulletin-056.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue301-web_0.pdf    /duodecimal-bulletin-056.pdf [R=301,L]
+
+RewriteRule ^drupal/content/302-57    /duodecimal-bulletin-057 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_302.jpg    /duodecimal-bulletin-057.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue302-web_0.pdf    /duodecimal-bulletin-057.pdf [R=301,L]
+
+RewriteRule ^drupal/content/303-58    /duodecimal-bulletin-058 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_303.jpg    /duodecimal-bulletin-058.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue303-web_0.pdf    /duodecimal-bulletin-058.pdf [R=301,L]
+
+RewriteRule ^drupal/content/311-59    /duodecimal-bulletin-059 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_311.jpg    /duodecimal-bulletin-059.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue311-web_0.pdf    /duodecimal-bulletin-059.pdf [R=301,L]
+
+RewriteRule ^drupal/content/312-5x    /duodecimal-bulletin-05A [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_312.jpg    /duodecimal-bulletin-05A.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue312-web_0.pdf    /duodecimal-bulletin-05A.pdf [R=301,L]
+
+RewriteRule ^drupal/content/313-5e    /duodecimal-bulletin-05B [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_313.jpg    /duodecimal-bulletin-05B.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue313-web_0.pdf    /duodecimal-bulletin-05B.pdf [R=301,L]
+
+RewriteRule ^drupal/content/314-60    /duodecimal-bulletin-060 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_314.jpg    /duodecimal-bulletin-060.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue314-web_0.pdf    /duodecimal-bulletin-060.pdf [R=301,L]
+
+RewriteRule ^drupal/content/321-61    /duodecimal-bulletin-061 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_321.jpg    /duodecimal-bulletin-061.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue321-web_0.pdf    /duodecimal-bulletin-061.pdf [R=301,L]
+
+RewriteRule ^drupal/content/322-62    /duodecimal-bulletin-062 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_322.jpg    /duodecimal-bulletin-062.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue322-web_0.pdf    /duodecimal-bulletin-062.pdf [R=301,L]
+
+RewriteRule ^drupal/content/323-63    /duodecimal-bulletin-063 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_323.jpg    /duodecimal-bulletin-063.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue323-web_0.pdf    /duodecimal-bulletin-063.pdf [R=301,L]
+
+RewriteRule ^drupal/content/331-64    /duodecimal-bulletin-064 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_331.jpg    /duodecimal-bulletin-064.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue331-web_0.pdf    /duodecimal-bulletin-064.pdf [R=301,L]
+
+RewriteRule ^drupal/content/332-65    /duodecimal-bulletin-065 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_332.jpg    /duodecimal-bulletin-065.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue332-web_0.pdf    /duodecimal-bulletin-065.pdf [R=301,L]
+
+RewriteRule ^drupal/content/333-66    /duodecimal-bulletin-066 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_333.jpg    /duodecimal-bulletin-066.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue333-web_0.pdf    /duodecimal-bulletin-066.pdf [R=301,L]
+
+RewriteRule ^drupal/content/341-67    /duodecimal-bulletin-067 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_341.jpg    /duodecimal-bulletin-067.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue341-web_0.pdf    /duodecimal-bulletin-067.pdf [R=301,L]
+
+RewriteRule ^drupal/content/342-68    /duodecimal-bulletin-068 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_342.jpg    /duodecimal-bulletin-068.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue342-web_0.pdf    /duodecimal-bulletin-068.pdf [R=301,L]
+
+RewriteRule ^drupal/content/343-69    /duodecimal-bulletin-069 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_343.jpg    /duodecimal-bulletin-069.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue343-web_0.pdf    /duodecimal-bulletin-069.pdf [R=301,L]
+
+RewriteRule ^drupal/content/351-6x    /duodecimal-bulletin-06A [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_351.jpg    /duodecimal-bulletin-06A.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue351-web_0.pdf    /duodecimal-bulletin-06A.pdf [R=301,L]
+
+RewriteRule ^drupal/content/352-6e    /duodecimal-bulletin-06B [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_352.jpg    /duodecimal-bulletin-06B.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue352-web_0.pdf    /duodecimal-bulletin-06B.pdf [R=301,L]
+
+RewriteRule ^drupal/content/361-70    /duodecimal-bulletin-070 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_361.jpg    /duodecimal-bulletin-070.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue361-web_0.pdf    /duodecimal-bulletin-070.pdf [R=301,L]
+
+RewriteRule ^drupal/content/362-71    /duodecimal-bulletin-071 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_362.jpg    /duodecimal-bulletin-071.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue362-web_0.pdf    /duodecimal-bulletin-071.pdf [R=301,L]
+
+RewriteRule ^drupal/content/371-72    /duodecimal-bulletin-072 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_371.jpg    /duodecimal-bulletin-072.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue371-web_0.pdf    /duodecimal-bulletin-072.pdf [R=301,L]
+
+RewriteRule ^drupal/content/372-73    /duodecimal-bulletin-073 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_372.jpg    /duodecimal-bulletin-073.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue372-web_0.pdf    /duodecimal-bulletin-073.pdf [R=301,L]
+
+RewriteRule ^drupal/content/381-74    /duodecimal-bulletin-074 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_381.jpg    /duodecimal-bulletin-074.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue381-web_0.pdf    /duodecimal-bulletin-074.pdf [R=301,L]
+
+RewriteRule ^drupal/content/382-75    /duodecimal-bulletin-075 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_382.jpg    /duodecimal-bulletin-075.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue382-web_0.pdf    /duodecimal-bulletin-075.pdf [R=301,L]
+
+RewriteRule ^drupal/content/391-76    /duodecimal-bulletin-076 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_391.jpg    /duodecimal-bulletin-076.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue391-web_0.pdf    /duodecimal-bulletin-076.pdf [R=301,L]
+
+RewriteRule ^drupal/content/392-77    /duodecimal-bulletin-077 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_392.jpg    /duodecimal-bulletin-077.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue392-web_0.pdf    /duodecimal-bulletin-077.pdf [R=301,L]
+
+RewriteRule ^drupal/content/3x1-78    /duodecimal-bulletin-078 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_3a1.jpg    /duodecimal-bulletin-078.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue3a1-web_0.pdf    /duodecimal-bulletin-078.pdf [R=301,L]
+
+RewriteRule ^drupal/content/3x2-79    /duodecimal-bulletin-079 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_3a2.jpg    /duodecimal-bulletin-079.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue3a2-web_0.pdf    /duodecimal-bulletin-079.pdf [R=301,L]
+
+RewriteRule ^drupal/content/3e1-7x    /duodecimal-bulletin-07A [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_3b1.jpg    /duodecimal-bulletin-07A.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue3b1-web_0.pdf    /duodecimal-bulletin-07A.pdf [R=301,L]
+
+RewriteRule ^drupal/content/3e2-7e    /duodecimal-bulletin-07B [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_3b2.jpg    /duodecimal-bulletin-07B.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue3b2-web_0.pdf    /duodecimal-bulletin-07B.pdf [R=301,L]
+
+RewriteRule ^drupal/content/401-80    /duodecimal-bulletin-080 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_401.jpg    /duodecimal-bulletin-080.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue401-web_0.pdf    /duodecimal-bulletin-080.pdf [R=301,L]
+
+RewriteRule ^drupal/content/402-81    /duodecimal-bulletin-081 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_402.jpg    /duodecimal-bulletin-081.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue402-web_0.pdf    /duodecimal-bulletin-081.pdf [R=301,L]
+
+RewriteRule ^drupal/content/411-82    /duodecimal-bulletin-082 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_411.jpg    /duodecimal-bulletin-082.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue411-web_0.pdf    /duodecimal-bulletin-082.pdf [R=301,L]
+
+RewriteRule ^drupal/content/412-83    /duodecimal-bulletin-083 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_412.jpg    /duodecimal-bulletin-083.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue412-web_0.pdf    /duodecimal-bulletin-083.pdf [R=301,L]
+
+RewriteRule ^drupal/content/421-84    /duodecimal-bulletin-084 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_421.jpg    /duodecimal-bulletin-084.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue421-web_0.pdf    /duodecimal-bulletin-084.pdf [R=301,L]
+
+RewriteRule ^drupal/content/422-85    /duodecimal-bulletin-085 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_422.jpg    /duodecimal-bulletin-085.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue422-web_0.pdf    /duodecimal-bulletin-085.pdf [R=301,L]
+
+RewriteRule ^drupal/content/431-86    /duodecimal-bulletin-086 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_431.jpg    /duodecimal-bulletin-086.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue431-web_0.pdf    /duodecimal-bulletin-086.pdf [R=301,L]
+
+RewriteRule ^drupal/content/432-87    /duodecimal-bulletin-087 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_432.jpg    /duodecimal-bulletin-087.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue432-web_0.pdf    /duodecimal-bulletin-087.pdf [R=301,L]
+
+RewriteRule ^drupal/content/441-88    /duodecimal-bulletin-088 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_441.jpg    /duodecimal-bulletin-088.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue441-web_0.pdf    /duodecimal-bulletin-088.pdf [R=301,L]
+
+RewriteRule ^drupal/content/442-89    /duodecimal-bulletin-089 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_442.jpg    /duodecimal-bulletin-089.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue442-web_0.pdf    /duodecimal-bulletin-089.pdf [R=301,L]
+
+RewriteRule ^drupal/content/451-8x    /duodecimal-bulletin-08A [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue451-web_0.pdf    /duodecimal-bulletin-08A.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/cover_451.png    /duodecimal-bulletin-08A.png [R=301,L]
+
+RewriteRule ^drupal/content/452-8e    /duodecimal-bulletin-08B [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue452-web_0.pdf    /duodecimal-bulletin-08B.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/cover_452.png    /duodecimal-bulletin-08B.png [R=301,L]
+
+RewriteRule ^drupal/content/461-90    /duodecimal-bulletin-090 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue461-web.pdf    /duodecimal-bulletin-090.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/cover_461.png    /duodecimal-bulletin-090.png [R=301,L]
+
+RewriteRule ^drupal/content/462-91    /duodecimal-bulletin-091 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulltinIssue462-web.pdf    /duodecimal-bulletin-091.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/cover_462.png    /duodecimal-bulletin-091.png [R=301,L]
+
+RewriteRule ^drupal/content/471-92    /duodecimal-bulletin-092 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue471-web_0.pdf    /duodecimal-bulletin-092.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/cover_471.png    /duodecimal-bulletin-092.png [R=301,L]
+
+RewriteRule ^drupal/content/472-93    /duodecimal-bulletin-093 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue472-web.pdf    /duodecimal-bulletin-093.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/cover_472.png    /duodecimal-bulletin-093.png [R=301,L]
+
+RewriteRule ^drupal/content/481-94    /duodecimal-bulletin-094 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue481-web.pdf    /duodecimal-bulletin-094.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/cover_481.png    /duodecimal-bulletin-094.png [R=301,L]
+
+RewriteRule ^drupal/content/482-95    /duodecimal-bulletin-095 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulltinIssue482-web.pdf    /duodecimal-bulletin-095.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/cover_482.png    /duodecimal-bulletin-095.png [R=301,L]
+
+RewriteRule ^drupal/content/491-96    /duodecimal-bulletin-096 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue491-web.pdf    /duodecimal-bulletin-096.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/cover_491.png    /duodecimal-bulletin-096.png [R=301,L]
+
+RewriteRule ^drupal/content/492-97    /duodecimal-bulletin-097 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_492.jpg    /duodecimal-bulletin-097.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue492_0.pdf    /duodecimal-bulletin-097.pdf [R=301,L]
+
+RewriteRule ^drupal/content/4x1-98    /duodecimal-bulletin-098 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_4a1.jpg    /duodecimal-bulletin-098.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue4a1_0.pdf    /duodecimal-bulletin-098.pdf [R=301,L]
+
+RewriteRule ^drupal/content/4x2-99    /duodecimal-bulletin-099 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_4a2.jpg    /duodecimal-bulletin-099.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue4a2_0.pdf    /duodecimal-bulletin-099.pdf [R=301,L]
+
+RewriteRule ^drupal/content/4e1-9x    /duodecimal-bulletin-09A [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_4b1.jpg    /duodecimal-bulletin-09A.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue4b1_0.pdf    /duodecimal-bulletin-09A.pdf [R=301,L]
+
+RewriteRule ^drupal/content/4e2-9e    /duodecimal-bulletin-09B [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/_4b2.jpg    /duodecimal-bulletin-09B.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue4b2_0.pdf    /duodecimal-bulletin-09B.pdf [R=301,L]
+
+RewriteRule ^drupal/content/510-x0    /duodecimal-bulletin-0A0 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db501X0_cover_1.jpg    /duodecimal-bulletin-0A0.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue501_0.pdf    /duodecimal-bulletin-0A0.pdf [R=301,L]
+
+RewriteRule ^drupal/content/511-x1-0    /duodecimal-bulletin-0A1 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db511X1.jpg    /duodecimal-bulletin-0A1.jpg [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue511a_0.pdf    /duodecimal-bulletin-0A1.pdf [R=301,L]
+
+RewriteRule ^drupal/content/521-x2-0    /duodecimal-bulletin-0A2 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue521.pdf    /duodecimal-bulletin-0A2.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db521X2.png    /duodecimal-bulletin-0A2.png [R=301,L]
+
+RewriteRule ^drupal/content/531-x3-0    /duodecimal-bulletin-0A3 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue531.pdf    /duodecimal-bulletin-0A3.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db531X3.png    /duodecimal-bulletin-0A3.png [R=301,L]
+
+RewriteRule ^drupal/content/541-x4-0    /duodecimal-bulletin-0A4 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue541.pdf    /duodecimal-bulletin-0A4.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db541X4.png    /duodecimal-bulletin-0A4.png [R=301,L]
+
+RewriteRule ^drupal/content/551-x5-0    /duodecimal-bulletin-0A5 [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf    /duodecimal-bulletin-0A5.pdf [R=301,L]
+RewriteRule ^drupal/sites_bck/default/files/db551X5.png    /duodecimal-bulletin-0A5.png [R=301,L]
+
+RewriteRule ^drupal/content/duodecimal-bulletin-pictorial-synopsis    /duodecimal-bulletin-chronology [R=301,L]
+RewriteRule ^drupal/content/foundation-and-first-generation    /duodecimal-bulletin-chronology-000 [R=301,L]
+RewriteRule ^drupal/content/brave-new-era-ahead    /duodecimal-bulletin-chronology-010 [R=301,L]
+RewriteRule ^drupal/content/going-international    /duodecimal-bulletin-chronology-020 [R=301,L]
+RewriteRule ^drupal/content/struggling-entrenchment-decimal-dreaming-it-isnt-so    /duodecimal-bulletin-chronology-030 [R=301,L]
+RewriteRule ^drupal/content/flickering-and-recovery    /duodecimal-bulletin-chronology-040 [R=301,L]
+RewriteRule ^drupal/content/serene-explorations    /duodecimal-bulletin-chronology-050 [R=301,L]
+RewriteRule ^drupal/content/questioning-smile-world-wakes-history    /duodecimal-bulletin-chronology-060 [R=301,L]
+RewriteRule ^drupal/content/exquisite-analysis-and-dear-friends-lost    /duodecimal-bulletin-chronology-070 [R=301,L]
+RewriteRule ^drupal/content/culture-wars-within-and-without    /duodecimal-bulletin-chronology-080 [R=301,L]
+RewriteRule ^drupal/content/third-generation-enters    /duodecimal-bulletin-chronology-090 [R=301,L]
+RewriteRule ^drupal/content/third-generation-develops    /duodecimal-bulletin-chronology-0A0 [R=301,L]
+
+RewriteRule ^drupal/content/duodecimal-bulletin-historical-summary    /duodecimal-bulletin-historical-summary [R=301,L]
+
+# Canonical: /name.html -> /name
+RewriteCond %{THE_REQUEST} \s/+([^\s?]+)\.html[\s?]
+RewriteRule ^ /%1 [R=301,L]
+
+# Internal: /name -> /name.html if exists
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.+?)/?$ $1.html [L]
 
 
