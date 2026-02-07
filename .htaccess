@@ -441,7 +441,8 @@ RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_08_03.pdf    /dsa-newsc
 RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_08_04.pdf    /dsa-newscast-08-04.pdf [R=301,L]
 RewriteRule ^drupal/sites_bck/default/files/dsa_newscast_09_01.pdf    /dsa-newscast-09-01.pdf [R=301,L]
 
-RewriteRule ^drupal/content/duodecimal-bulletin    /duodecimal-bulletin [R=301,L]
+RewriteRule ^drupal/content/duodecimal-bulletin-pictorial-synopsis$    /duodecimal-bulletin-chronology [R=301,L]
+RewriteRule ^drupal/content/duodecimal-bulletin$    /duodecimal-bulletin [R=301,L]
 
 RewriteRule ^drupal/content/011-00    /duodecimal-bulletin-000 [R=301,L]
 RewriteRule ^drupal/sites_bck/default/files/_011.jpg    /duodecimal-bulletin-000.jpg [R=301,L]
@@ -947,7 +948,6 @@ RewriteRule ^drupal/content/551-x5-0    /duodecimal-bulletin-0A5 [R=301,L]
 RewriteRule ^drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf    /duodecimal-bulletin-0A5.pdf [R=301,L]
 RewriteRule ^drupal/sites_bck/default/files/db551X5.png    /duodecimal-bulletin-0A5.png [R=301,L]
 
-RewriteRule ^drupal/content/duodecimal-bulletin-pictorial-synopsis    /duodecimal-bulletin-chronology [R=301,L]
 RewriteRule ^drupal/content/foundation-and-first-generation    /duodecimal-bulletin-chronology-000 [R=301,L]
 RewriteRule ^drupal/content/brave-new-era-ahead    /duodecimal-bulletin-chronology-010 [R=301,L]
 RewriteRule ^drupal/content/going-international    /duodecimal-bulletin-chronology-020 [R=301,L]
@@ -960,7 +960,7 @@ RewriteRule ^drupal/content/culture-wars-within-and-without    /duodecimal-bulle
 RewriteRule ^drupal/content/third-generation-enters    /duodecimal-bulletin-chronology-090 [R=301,L]
 RewriteRule ^drupal/content/third-generation-develops    /duodecimal-bulletin-chronology-0A0 [R=301,L]
 
-RewriteRule ^drupal/content/duodecimal-bulletin-historical-summary    /duodecimal-bulletin-historical-summary [R=301,L]
+RewriteRule ^drupal/content/duodecimal-bulletin-historical-summary$    /duodecimal-bulletin-historical-summary [R=301,L]
 
 # Canonical: /name.html -> /name
 RewriteCond %{THE_REQUEST} \s/+([^\s?]+)\.html[\s?]
