@@ -1,5 +1,9 @@
 RewriteEngine On
 
+# 0) Force HTTPS
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
 # 1) Canonical host: strip www
 RewriteCond %{HTTP_HOST} ^www\.dozenal\.org$ [NC]
 RewriteRule ^(.*)$ https://dozenal.org/$1 [R=301,L]
