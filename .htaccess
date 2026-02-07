@@ -1,5 +1,11 @@
 RewriteEngine On
 
+# 1) Canonical host: strip www
+RewriteCond %{HTTP_HOST} ^www\.dozenal\.org$ [NC]
+RewriteRule ^(.*)$ https://dozenal.org/$1 [R=301,L]
+
+# 2) Legacy url redirects (old Drupal paths, etc.)
+
 RewriteRule ^drupal/content/about-us    /about-us [R=301,L]
 RewriteRule ^drupal/content/annual-meetings    /about-us-annual-meetings [R=301,L]
 RewriteRule ^drupal/content/beard-award-recipients    /about-us-beard-award-recipients [R=301,L]
@@ -962,11 +968,11 @@ RewriteRule ^drupal/content/third-generation-develops    /duodecimal-bulletin-ch
 
 RewriteRule ^drupal/content/duodecimal-bulletin-historical-summary$    /duodecimal-bulletin-historical-summary [R=301,L]
 
-# Canonical: /name.html -> /name
+# 3) Canonical: /name.html -> /name
 RewriteCond %{THE_REQUEST} \s/+([^\s?]+)\.html[\s?]
 RewriteRule ^ /%1 [R=301,L]
 
-# Internal: /name -> /name.html if exists
+# 4) Internal: /name -> /name.html if exists
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule ^(.+?)/?$ $1.html [L]
