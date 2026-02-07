@@ -1,12 +1,9 @@
 RewriteEngine On
 
-# 0) Force HTTPS
-RewriteCond %{HTTPS} !=on
-RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
-
-# 1) Canonical host: strip www
+# 1) Force canonical: https://dozenal.org/...
+RewriteCond %{HTTPS} !=on [OR]
 RewriteCond %{HTTP_HOST} ^www\.dozenal\.org$ [NC]
-RewriteRule ^(.*)$ https://dozenal.org/$1 [R=301,L]
+RewriteRule ^ https://dozenal.org%{REQUEST_URI} [R=301,L]
 
 # 2) Legacy url redirects (old Drupal paths, etc.)
 
