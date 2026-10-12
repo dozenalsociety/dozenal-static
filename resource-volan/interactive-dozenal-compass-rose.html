@@ -12,16 +12,16 @@
   main>p{order:3;margin:12px 2px 20px}
   #choices{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);grid-template-rows:repeat(5,auto);column-gap:8px;row-gap:8px;align-items:center}
   #choices .group-title{grid-column:auto;margin:0}
-  #choices .group-title:nth-child(1){grid-area:1/1}
-  #choices .group-title:nth-child(6){grid-area:1/2}
-  #choices label:nth-child(2){grid-area:2/1}
-  #choices label:nth-child(7){grid-area:2/2}
-  #choices label:nth-child(3){grid-area:3/1}
-  #choices label:nth-child(8){grid-area:3/2}
-  #choices label:nth-child(4){grid-area:4/1}
-  #choices label:nth-child(9){grid-area:4/2}
-  #choices label:nth-child(5){grid-area:5/1}
-  #choices label:nth-child(10){grid-area:5/2}
+  #choices .group-title[data-family="Traditional"]{grid-area:1/1}
+  #choices .group-title[data-family="Dozenalized"]{grid-area:1/2}
+  #choices label[data-level="Quadrants"]{grid-area:2/1}
+  #choices label[data-level="Dwells"]{grid-area:2/2}
+  #choices label[data-level="Octants"]{grid-area:3/1}
+  #choices label[data-level="Hours"]{grid-area:3/2}
+  #choices label[data-level="Xadrants"]{grid-area:4/1}
+  #choices label[data-level="Bells"]{grid-area:4/2}
+  #choices label[data-level="Theinants"]{grid-area:5/1}
+  #choices label[data-level="Points"]{grid-area:5/2}
   #choices label{min-width:0;white-space:normal}
   .panel svg{max-width:100%;flex:none}
 }
@@ -154,7 +154,7 @@ const first=svg.querySelector('.point');
 if(first){selectPoint(first,rows[0]);showTip(rows[0],null,0,level)}
 }
 
-for(const [heading,levels] of [['Traditional',['Quadrants','Octants','Xadrants','Theinants']],['Dozenalized',['Dwells','Hours','Bells','Points']]]){const title=document.createElement('div');title.className='group-title';title.textContent=heading+':';choices.append(title);for(const name of levels){const label=document.createElement('label'),input=document.createElement('input');input.type='radio';input.name='level';input.value=name;input.checked=name==='Quadrants';input.addEventListener('change',()=>draw(name));const palette={Quadrants:'#003BFF',Dwells:'#003BFF',Octants:'#009DFF',Hours:'#009DFF',Xadrants:'#00A64B',Bells:'#00A64B',Theinants:'#F07800',Points:'#F07800'};const unit=document.createElement('span');unit.className='unit-name';unit.textContent=name;unit.style.setProperty('--unit-color',palette[name]);unit.style.setProperty('--unit-contrast',['Octants','Hours'].includes(name)?'#111827':'#ffffff');label.append(input,document.createTextNode(' '),unit,document.createTextNode(' ('+DATA[name].length.toString(12).toUpperCase()+'') , (()=>{const sub=document.createElement('sub');sub.textContent='z';return sub})(),document.createTextNode('='+DATA[name].length),(()=>{const sub=document.createElement('sub');sub.textContent='d';return sub})(),document.createTextNode(')'));choices.append(label)}}draw('Quadrants');
+for(const [heading,levels] of [['Traditional',['Quadrants','Octants','Xadrants','Theinants']],['Dozenalized',['Dwells','Hours','Bells','Points']]]){const title=document.createElement('div');title.className='group-title';title.dataset.family=heading;title.textContent=heading+':';choices.append(title);for(const name of levels){const label=document.createElement('label'),input=document.createElement('input');label.dataset.level=name;input.type='radio';input.name='level';input.value=name;input.checked=name==='Quadrants';input.addEventListener('change',()=>draw(name));const palette={Quadrants:'#003BFF',Dwells:'#003BFF',Octants:'#009DFF',Hours:'#009DFF',Xadrants:'#00A64B',Bells:'#00A64B',Theinants:'#F07800',Points:'#F07800'};const unit=document.createElement('span');unit.className='unit-name';unit.textContent=name;unit.style.setProperty('--unit-color',palette[name]);unit.style.setProperty('--unit-contrast',['Octants','Hours'].includes(name)?'#111827':'#ffffff');label.append(input,document.createTextNode(' '),unit,document.createTextNode(' ('+DATA[name].length.toString(12).toUpperCase()+'') , (()=>{const sub=document.createElement('sub');sub.textContent='z';return sub})(),document.createTextNode('='+DATA[name].length),(()=>{const sub=document.createElement('sub');sub.textContent='d';return sub})(),document.createTextNode(')'));choices.append(label)}}draw('Quadrants');
 
 // Fit the entire dial panel below the heading, instructions and radio buttons.
 // A max-height alone does not work for an SVG with width:100%: its intrinsic
@@ -165,7 +165,8 @@ function fitDialToViewport(){
   const style=getComputedStyle(panel);
   const horizontal=parseFloat(style.paddingLeft)+parseFloat(style.paddingRight);
   const vertical=parseFloat(style.paddingTop)+parseFloat(style.paddingBottom);
-  const viewportHeight=window.visualViewport?.height ?? window.innerHeight;
+  // Use the layout viewport, not visualViewport: pinch zoom must not resize the dial.
+  const viewportHeight=document.documentElement.clientHeight;
   const mobile=window.matchMedia('(max-width:900px), (pointer:coarse)').matches;
   const landscape=mobile&&window.matchMedia('(orientation:landscape) and (max-height:650px)').matches;
   // Portrait mobile: width is the only constraint; scrolling is intentional.
@@ -192,8 +193,13 @@ function scheduleDialFit(){
   fitScheduled=true;
   requestAnimationFrame(()=>{fitScheduled=false;fitDialToViewport()});
 }
-window.addEventListener('resize',scheduleDialFit);
-window.visualViewport?.addEventListener('resize',scheduleDialFit);
+let lastLayoutWidth=document.documentElement.clientWidth;
+let lastLayoutHeight=document.documentElement.clientHeight;
+window.addEventListener('resize',()=>{
+  const w=document.documentElement.clientWidth,h=document.documentElement.clientHeight;
+  if(w!==lastLayoutWidth||h!==lastLayoutHeight){lastLayoutWidth=w;lastLayoutHeight=h;scheduleDialFit()}
+});
+// Deliberately do not listen for visualViewport resize: it fires during pinch zoom.
 new ResizeObserver(scheduleDialFit).observe(document.getElementById('choices'));
 window.addEventListener('load',scheduleDialFit);
 scheduleDialFit();
