@@ -70,7 +70,23 @@ function showTip(p,e,index,level){
   card.querySelectorAll('text').forEach((t,i)=>{
     t.replaceChildren();t.setAttribute('fill',contrast);
     const label=el('tspan',{fill:muted},t);label.textContent=rows[i][0];
-    const value=el('tspan',{},t);value.textContent=rows[i][1];
+    // Render base annotations as true SVG subscripts (HTML <sub> cannot be used in SVG text).
+    const valueText=rows[i][1];
+    const basePattern=/[zd](?=\s|=|$)/g;
+    let last=0, match;
+    while((match=basePattern.exec(valueText))!==null){
+      if(match.index>last){
+        const plain=el('tspan',{'baseline-shift':'baseline','font-size':'100%'},t);
+        plain.textContent=valueText.slice(last,match.index);
+      }
+      const sub=el('tspan',{'baseline-shift':'sub','font-size':'70%'},t);
+      sub.textContent=match[0];
+      last=match.index+1;
+    }
+    if(last<valueText.length){
+      const plain=el('tspan',{'baseline-shift':'baseline','font-size':'100%'},t);
+      plain.textContent=valueText.slice(last);
+    }
   });
 }
 function selectPoint(g,p){
