@@ -105,9 +105,8 @@ function selectPoint(g,p){
     other.classList.remove('is-selected');
     other.querySelector('.selection-background')?.remove();
     other.querySelector('.arrow-selection-background')?.remove();
-    const shaft=other.querySelector('.direction-arrow'),head=other.querySelector('.direction-arrowhead');
-    if(shaft)shaft.setAttribute('stroke',other.dataset.originalColor);
-    if(head)head.setAttribute('fill',other.dataset.originalColor);
+    const triangle=other.querySelector('.direction-arrow');
+    if(triangle)triangle.setAttribute('fill',other.dataset.originalColor);
     const label=other.querySelector('text');if(label)label.setAttribute('fill',other.dataset.originalColor);
   });
   const label=g.querySelector('text');if(!label)return;
@@ -123,24 +122,20 @@ function selectPoint(g,p){
   const hex=p.color.slice(1),rgb=[0,2,4].map(i=>parseInt(hex.slice(i,i+2),16)/255);
   const lum=rgb.map(v=>v<=.04045?v/12.92:((v+.055)/1.055)**2.4).reduce((a,v,i)=>a+v*[.2126,.7152,.0722][i],0);
   label.setAttribute('fill',lum>.179?'#111827':'#ffffff');
-  // Highlight the shaft and arrowhead together with a rounded outline.
-  const shaft=g.querySelector('.direction-arrow');
-  const head=g.querySelector('.direction-arrowhead');
-  if(shaft&&head){
-    const x0=+shaft.getAttribute('x1'),y0=+shaft.getAttribute('y1');
-    const x1=+shaft.getAttribute('x2'),y1=+shaft.getAttribute('y2');
-    const length=Math.hypot(x1-x0,y1-y0);
-    const width=12;
+  // Preserve the rounded selection backing and recolor the entire triangle.
+  const triangle=g.querySelector('.direction-arrow');
+  if(triangle){
+    const x0=+triangle.getAttribute('data-x0'),y0=+triangle.getAttribute('data-y0');
+    const x1=+triangle.getAttribute('data-x1'),y1=+triangle.getAttribute('data-y1');
+    const length=Math.hypot(x1-x0,y1-y0),width=12;
     const backing=document.createElementNS(NS,'rect');
     backing.setAttribute('class','arrow-selection-background');
     backing.setAttribute('x',-width/2);backing.setAttribute('y',-5);
     backing.setAttribute('width',width);backing.setAttribute('height',length+10);
-    backing.setAttribute('rx',width/2);
-    backing.setAttribute('fill',p.color);
+    backing.setAttribute('rx',width/2);backing.setAttribute('fill',p.color);
     backing.setAttribute('transform',`translate(${x0} ${y0}) rotate(${Math.atan2(y1-y0,x1-x0)*180/Math.PI-90})`);
-    g.insertBefore(backing,shaft);
-    const contrast=lum>.179?'#111827':'#ffffff';
-    shaft.setAttribute('stroke',contrast);head.setAttribute('fill',contrast);
+    g.insertBefore(backing,triangle);
+    triangle.setAttribute('fill',lum>.179?'#111827':'#ffffff');
   }
   g.classList.add('is-selected');
 }
@@ -155,13 +150,11 @@ const dense=n>=48,veryDense=n>=96;
 rows.forEach((p,i)=>{let angle=p.angle;let outer=veryDense?(i%2===0?463:513):dense?(i%2===0?465:510):460;
 let [x0,y0]=xy(angle,279),[x1,y1]=xy(angle,353),[tx,ty]=xy(angle,outer);
 const g=el('g',{class:'point',tabindex:'0',role:'button','data-original-color':p.color,'aria-label':`${p.name}, ${p.abbr}, ${p.trices} trices`});
-el('line',{class:'direction-arrow',x1:x0,y1:y0,x2:x1,y2:y1,stroke:p.color,'stroke-width':n<=24?2.2:1.35,'data-normal-width':n<=24?2.2:1.35,opacity:'.8'},g);
-// Filled triangular arrowhead pointing outward along the bearing.
-const headLength=n<=24?12:9, headHalfWidth=n<=24?5:3.8;
+// Each direction is a long, narrow isosceles triangle, pointed outward.
 const theta=(angle-90)*Math.PI/180;
-const ux=Math.cos(theta),uy=Math.sin(theta),vx=-uy,vy=ux;
-const bx=x1-ux*headLength,by=y1-uy*headLength;
-el('polygon',{class:'direction-arrowhead',points:`${x1},${y1} ${bx+vx*headHalfWidth},${by+vy*headHalfWidth} ${bx-vx*headHalfWidth},${by-vy*headHalfWidth}`,fill:p.color},g);
+const vx=-Math.sin(theta),vy=Math.cos(theta);
+const halfBase=n<=24?5.6:n<=48?4.1:3.1;
+el('polygon',{class:'direction-arrow',points:`${x0+vx*halfBase},${y0+vy*halfBase} ${x1},${y1} ${x0-vx*halfBase},${y0-vy*halfBase}`,fill:p.color,opacity:'.85','data-x0':x0,'data-y0':y0,'data-x1':x1,'data-y1':y1},g);
 // Rotate labels tangentially for dense modes, keeping all lettering upright.
 let rot=0,anchor='middle',size=n<=12?18:n<=24?15:n<=48?12.3:10.4;
 if(n>=32){rot=angle; if(rot>90&&rot<270)rot-=180;anchor='middle'}
