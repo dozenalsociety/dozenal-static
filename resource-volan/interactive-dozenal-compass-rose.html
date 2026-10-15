@@ -93,7 +93,7 @@ function showTip(p,e,index,level){
   const muted='#ffffff';
   const singular={Quadrants:'Quadrant',Dwells:'Dwell',Octants:'Octant',Hours:'Hour',Xadrants:'Xadrant',Bells:'Bell',Theinants:'Theinant',Points:'Point'}[level];
   const rows=[
-    ['Direction: ',p.name],
+    ['',p.name],
     ['Abbrev: ',p.abbr],
     [singular+' number: ',index.toString(12).toUpperCase().padStart(2,'0')+'z = '+String(index).padStart(2,'0')+'d'],
     ['Trices: ',p.trices+'z'],
@@ -138,6 +138,13 @@ function showTip(p,e,index,level){
     if(last<valueText.length){
       const plain=el('tspan',{'baseline-shift':'baseline','font-size':'100%'},t);
       plain.textContent=valueText.slice(last);
+    }
+    // Keep long tilt names and other values inside the dial's detail box.
+    t.removeAttribute('textLength');
+    t.removeAttribute('lengthAdjust');
+    if(t.getComputedTextLength()>344){
+      t.setAttribute('textLength','344');
+      t.setAttribute('lengthAdjust','spacingAndGlyphs');
     }
   });
 }
@@ -233,9 +240,9 @@ function navigateDirection(delta){
 
 // Embed a persistent direction detail card below the center dot.
 const detail=el('g',{id:'direction-detail','pointer-events':'none'});
-el('rect',{x:386,y:574,width:328,height:184,rx:10,fill:'#0057FF'},detail);
+el('rect',{x:366,y:574,width:368,height:184,rx:10,fill:'#0057FF'},detail);
 // Equal padding above and below the six-line text block.
-for(let i=0;i<6;i++)el('text',{x:550,y:596+i*27,'text-anchor':'middle','dominant-baseline':'middle','font-size':i===0?14:12.8,'font-weight':i===0?750:500},detail);
+for(let i=0;i<6;i++)el('text',{x:550,y:596+i*27,'text-anchor':'middle','dominant-baseline':'middle','font-size':i===0?18:16,'font-weight':i===0?750:500},detail);
 // SVG-native touch-friendly previous/next controls within the inner circle.
 // Keep these outside the detail group so its pointer-events:none doesn't block them.
 for(const [side,x,delta] of [
