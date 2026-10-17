@@ -1,0 +1,348 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Uncial Clock Deluxe (Web Edition)</title><style>
+:root{color-scheme:dark}body{margin:0;background:#101725;color:#e7ecf5;font:15px system-ui,sans-serif}header{position:relative;padding:20px 65px 20px 24px;background:#192338;border-bottom:1px solid #344158}h1{margin:0;font-size:24px}p{color:#aebdd4;margin:7px 0}main{max-width:1400px;margin:auto;padding:20px}.controls{display:flex;flex-wrap:wrap;gap:14px;align-items:center;background:#1c2940;padding:16px;border-radius:12px}label{display:inline-flex;align-items:center;gap:6px}select,input{accent-color:#80baff}select{color-scheme:dark;background:#111d30;color:#ffffff;border:1px solid #526078;border-radius:6px;padding:7px}select option{background-color:#111d30;color:#ffffff}select option:checked{background-color:#345b89;color:#ffffff}.settings-toggle{position:absolute;right:20px;top:18px;display:grid;place-items:center;width:36px;height:36px;padding:0;background:transparent;color:#c9d7ea;border:1px solid transparent;border-radius:8px;cursor:pointer}.settings-toggle:hover,.settings-toggle:focus-visible{background:#344c70;border-color:#526078}.settings-toggle svg{width:22px;height:22px;stroke:currentColor;stroke-width:2;fill:none;stroke-linecap:round;stroke-linejoin:round}.settings-panel[hidden]{display:none}.zone-heading{text-align:center;margin:18px 0 0;color:#e7ecf5;font-size:18px;font-weight:600}.zone-date{margin-top:5px;font:inherit;color:inherit}.zone-date sub{font-size:.7em}@media (min-width:900px){.zone-heading{display:flex;justify-content:space-between;align-items:flex-start;gap:20px;text-align:left}.zone-date{order:-1;margin-top:0;flex:0 0 auto;text-align:left}.zone-heading #zone-description{min-width:0;text-align:right;overflow-wrap:anywhere}}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,330px),1fr));gap:16px;margin-top:20px}.dial{background:#1b2840;border:1px solid #344761;border-radius:12px;padding:12px;text-align:center}.dial{container-type:inline-size}.dial h2{font-size:18px;margin:3px 0 6px}.dial canvas{width:100%;max-width:420px;aspect-ratio:1}.readout{display:flex;align-items:center;justify-content:center;height:42px;font:normal 26px/1 ui-monospace,monospace;color:#e8f1ff;font-variant-numeric:tabular-nums;gap:2px}.unit-name{min-height:20px;text-align:center;font:normal 14px/1.3 ui-monospace,monospace}.digital-panel{display:grid;grid-template-columns:90px max-content max-content;justify-content:center;align-items:center;column-gap:0;margin:0 auto}.digital-display{width:100%;margin:4px auto 6px}.digital-display>.unit-name{width:100%;box-sizing:border-box;text-align:center;margin-bottom:2px}.digital-label{padding-right:14px;text-align:right;white-space:nowrap;font:12px/1.2 system-ui,sans-serif;color:#e8f1ff}.digital-trailing{padding-left:2px;text-align:left;white-space:nowrap;font:12px/1.2 system-ui,sans-serif;color:#e8f1ff}.digital-panel .readout{justify-content:flex-start;position:relative;padding-left:calc(1ch + 4px);box-sizing:border-box}.digital-panel .offset-readout .offset-sign{position:absolute;left:0;right:auto;margin-right:0;color:white;font:inherit}.digital-panel .offset-readout{grid-column:2;grid-row:2}.digital-panel .time-readout{grid-column:2;grid-row:1}.readout .digit{position:relative;display:inline-flex;flex:0 0 1ch;width:1ch;height:1em;align-items:center;justify-content:center;line-height:1;letter-spacing:0;white-space:nowrap}.readout .pitman-rotated{display:block;transform:rotate(180deg);transform-origin:50% 50%;line-height:1}.readout .digit:not(.pitman-digit){text-align:center}.dial[hidden]{display:none}.dial-settings{margin-top:8px;padding:9px 2px 2px;border-top:1px solid #344761;display:flex;flex-direction:column;gap:6px;align-items:center}.dial-settings[hidden]{display:none}.clock-legend{width:min(100%,390px);box-sizing:border-box;margin:9px auto 2px;padding:10px 12px;background:#101d31;border:1px solid #62748e;border-radius:7px;text-align:left;font:12px/1.55 system-ui,sans-serif;overflow-wrap:anywhere}.clock-legend-title{color:#fff;font-weight:700;margin-bottom:5px}.clock-legend-line{white-space:pre-wrap}.clock-legend-line.empty{height:8px}.repeating-digits{text-decoration:overline;text-decoration-skip-ink:none}.dial-bottom{display:flex;align-items:center;justify-content:center;min-height:34px;position:relative;padding-right:32px}.dial-bottom .dial-toggle{position:absolute;right:0;top:50%;transform:translateY(-50%)}.dial-bottom .offset-panel{display:grid;grid-template-columns:90px max-content max-content;align-items:center;column-gap:0}.dial-bottom:has(.dial-toggle[aria-expanded="false"]) .offset-panel{display:none}.dial-bottom .offset-panel .readout{justify-content:flex-start;position:relative;padding-left:calc(1ch + 4px);box-sizing:border-box}.dial-bottom .offset-panel .offset-sign{position:absolute;left:0;color:white;font:inherit}.dial-toggle{display:grid;place-items:center;width:32px;height:32px;border:1px solid transparent;border-radius:7px;background:transparent;color:#c9d7ea;cursor:pointer}.dial-toggle:hover,.dial-toggle:focus-visible{background:#344c70;border-color:#526078}.dial-toggle svg{width:20px;height:20px;stroke:currentColor;stroke-width:2;fill:none;stroke-linecap:round;stroke-linejoin:round}.dial-setting{display:grid;grid-template-columns:145px 54px;align-items:center;gap:8px;font-size:13px;color:#c8d4e7}.dial-setting>span{text-align:right;white-space:nowrap}.dial-setting:has(.orientation-select){grid-template-columns:145px 54px}.dial-options>.dial-setting{width:calc(145px + 8px + 110px);grid-template-columns:145px 110px;box-sizing:border-box}.dial-options>.dial-setting>span{text-align:right}.dial-options>.dial-setting .orientation-select{justify-self:start}.orientation-select{width:auto;min-width:0;justify-self:start;padding:5px;font-size:13px}.color-dropdown{position:relative;width:54px;min-width:54px}.color-dropdown-trigger{display:flex;justify-content:space-between;align-items:center;gap:3px;width:100%;box-sizing:border-box;background:#111d30;color:white;border:1px solid #526078;border-radius:6px;padding:5px 5px;cursor:pointer;font:16px ui-monospace,monospace}.color-dropdown-trigger:focus-visible{outline:2px solid #80baff}.color-dropdown-menu{box-sizing:border-box;position:absolute;top:calc(100% + 3px);left:0;z-index:30;min-width:100%;max-height:270px;overflow:auto;background:#111d30;border:1px solid #62748e;border-radius:6px;box-shadow:0 8px 20px #0008;padding:3px}.color-dropdown-menu[hidden]{display:none}.color-dropdown-option{display:block;width:100%;text-align:left;background:transparent;color:white;border:0;border-radius:4px;padding:7px 9px;font:16px ui-monospace,monospace;white-space:nowrap;cursor:pointer}.color-dropdown-option:hover,.color-dropdown-option:focus-visible,.color-dropdown-option[aria-selected="true"]{background:#345b89;outline:none}.colored-numeral{display:inline-block;min-width:1ch;text-align:center}.colored-numeral.pitman-rotated{transform:rotate(180deg)}.readout .radix{align-self:center;color:#e8f1ff;font:inherit}.readout .base-subscript{color:#ffffff;font:normal 0.55em/1 ui-monospace,monospace;align-self:center;position:relative;top:0.45em;margin-left:0.05em;flex:none}.foot{font-size:13px;color:#aebdd4;margin-top:20px}.digital-panel,.dial-bottom .offset-panel{width:100%;max-width:390px;margin-left:auto;margin-right:auto;box-sizing:border-box;grid-template-columns:105px max-content minmax(0,1fr);justify-content:initial;column-gap:0}.digital-panel .readout,.dial-bottom .offset-panel .readout{grid-column:2;min-width:0}.dial-bottom{padding-right:0}.dial-bottom .offset-panel{padding-right:32px}.dial-bottom .offset-panel .digital-label{grid-column:1;text-align:right}.dial-bottom .offset-panel .digital-trailing{grid-column:3;padding-left:9px}.digital-panel .digital-label{grid-column:1;text-align:right}.digital-panel .unit-name{grid-column:3;grid-row:1;min-height:0;width:auto;box-sizing:border-box;text-align:left;align-self:center;justify-self:start;padding-left:9px;margin:0;font:12px/1.2 system-ui,sans-serif;white-space:nowrap}.dial-bottom .offset-panel .digital-trailing{padding-left:9px;justify-self:start}/* Arrange dial controls in two columns when the panel is wide enough. */
+ .dial-options{display:flex;flex-direction:column;align-items:center;gap:6px;width:max-content;max-width:100%;margin-inline:auto}
+@container (min-width: 590px){
+ .dial-options{display:grid;grid-template-columns:repeat(2,230px);column-gap:2px;row-gap:6px;justify-items:start;align-items:start}
+ .dial-options>.dial-setting{width:230px;grid-template-columns:120px 105px;gap:5px}
+ .dial-options>.dial-setting:nth-child(1){grid-column:1;grid-row:1}
+ .dial-options>.dial-setting:nth-child(2){grid-column:1;grid-row:2}
+ .dial-options>.dial-setting:nth-child(3){grid-column:2;grid-row:1}
+ .dial-options>.dial-setting:nth-child(4){grid-column:2;grid-row:2}
+}
+</style></head><body><header><h1>Uncial Clock Deluxe (Web Edition)</h1><p>Dozenal numbers are annotated with a subscript-z. Decimal numbers are annotated with a subscript-d.</p><button type="button" class="settings-toggle" id="settings-toggle" aria-label="Show global settings" title="Show global settings" aria-expanded="false" aria-controls="settings-panel"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></button></header><main><div id="settings-panel" class="settings-panel" hidden><div class="controls"><label>Digit set <select id="digits"><option value="↊↋">Pitman (↊ ↋)</option><option value="XE">DSA (X E)</option><option value="TE">DSGB (T E)</option><option value="AB">Computerese (A B)</option></select></label><label>Terminology <select id="terminology"><option value="colloquial" selected>Colloquial</option><option value="technical">Technical</option></select></label><label>Movement <select id="movement"><option value="continuous">Continuous</option><option value="discrete">Discrete</option></select></label><label><span title="Sunrise and sunset are fixed six-hour reference points, not astronomical sunrise or sunset.">Day begins</span> <select id="start"><option value="0">Midnight</option><option value="6">Sunrise (06:00)</option><option value="12">Noon</option><option value="18">Sunset (18:00)</option></select></label><label>Direction <select id="direction"><option value="1">Clockwise</option><option value="-1">Counterclockwise</option></select></label><label>Time zone <select id="zone"></select></label></div><div class="controls" style="margin-top:10px" id="visibility"><label><input type="checkbox" value="diurnal" checked>Diurnal</label><label><input type="checkbox" value="semidiurnal" checked>Semidiurnal</label><label><input type="checkbox" value="shiftic">Shiftic</label><label><input type="checkbox" value="phasic">Phasic</label><label><input type="checkbox" id="marks" checked>Fine marks</label><label><input type="checkbox" id="labels" checked>Numerals</label></div></div><div id="current-zone-name" class="zone-heading" aria-live="polite"><div id="zone-date" class="zone-date"></div><div id="zone-description"></div></div><div class="grid" id="grid"></div></main><script>
+'use strict';
+
+const specs=[['diurnal','Diurnal · Primel',24,0],['semidiurnal','Semidiurnal',12,1],['shiftic','Shiftic',8,1],['phasic','Phasic',6,1]];
+const colors=['#ff80ff','#ffc0c0','#ffff60','#80ff80','#6096ff','#8060ff']; // original Java: magenta, light pink, yellow, green, blue, violet
+const $=id=>document.getElementById(id);const mod=(x,n)=>((x%n)+n)%n;
+$('settings-toggle').addEventListener('click',()=>{
+  const panel=$('settings-panel'),button=$('settings-toggle');
+  const expanded=panel.hidden;
+  panel.hidden=!expanded;
+  button.setAttribute('aria-expanded',String(expanded));
+  button.querySelector('svg path').setAttribute('d',expanded?'m6 15 6-6 6 6':'m6 9 6 6 6-6');
+  button.setAttribute('aria-label',expanded?'Hide global settings':'Show global settings');
+  button.title=expanded?'Hide global settings':'Show global settings';
+  for(const id of clockIds){
+    const clockPanel=$(id+'-settings');
+    const toggle=$('dial-'+id).querySelector('.dial-toggle');
+    clockPanel.hidden=!expanded;
+    toggle.setAttribute('aria-expanded',String(expanded));
+    toggle.querySelector('path').setAttribute('d',expanded?'m6 15 6-6 6 6':'m6 9 6 6 6-6');
+    toggle.title=expanded?'Hide dial settings':'Show dial settings';
+    toggle.setAttribute('aria-label',`${expanded?'Hide':'Show'} ${dialTitles[id][$('terminology').value]} dial settings`);
+  }
+});
+function setAllSettingsOpen(){
+  const globalPanel=$('settings-panel'),globalButton=$('settings-toggle');
+  globalPanel.hidden=false;
+  globalButton.setAttribute('aria-expanded','true');
+  globalButton.querySelector('path').setAttribute('d','m6 15 6-6 6 6');
+  globalButton.title='Hide global settings';
+  globalButton.setAttribute('aria-label','Hide global settings');
+  for(const id of clockIds){
+    const panel=$(id+'-settings'),button=$('dial-'+id).querySelector('.dial-toggle');
+    panel.hidden=false;
+    button.setAttribute('aria-expanded','true');
+    button.querySelector('path').setAttribute('d','m6 15 6-6 6 6');
+    button.title='Hide dial settings';
+    button.setAttribute('aria-label',`Hide ${dialTitles[id][$('terminology').value]} dial settings`);
+  }
+}
+function setAllSettingsClosed(){
+  const globalPanel=$('settings-panel'),globalButton=$('settings-toggle');
+  globalPanel.hidden=true;
+  globalButton.setAttribute('aria-expanded','false');
+  globalButton.querySelector('path').setAttribute('d','m6 9 6 6 6-6');
+  globalButton.title='Show global settings';
+  globalButton.setAttribute('aria-label','Show global settings');
+  for(const id of clockIds){
+    const panel=$(id+'-settings'),button=$('dial-'+id).querySelector('.dial-toggle');
+    panel.hidden=true;
+    button.setAttribute('aria-expanded','false');
+    button.querySelector('path').setAttribute('d','m6 9 6 6 6-6');
+    button.title='Show dial settings';
+    button.setAttribute('aria-label',`Show ${dialTitles[id][$('terminology').value]} dial settings`);
+  }
+}
+// Each readout position has an identical fixed-width cell. Only the glyph rotates.
+function pitmanDigit(glyph){
+  const inner=document.createElement('span');
+  inner.className='pitman-rotated';
+  inner.textContent=glyph;
+  return inner;
+}
+function numeral(n){let alphabet='0123456789'+$('digits').value;return n===12?'10':alphabet[n]??String(n)}
+for(const [id,title] of specs){const section=document.createElement('section');section.className='dial';section.id='dial-'+id;section.innerHTML=`<h2>${title}</h2><canvas width="700" height="700"></canvas><div class="digital-display"><div class="digital-panel"><span class="digital-label" style="grid-column:1;grid-row:1">Time</span><div class="readout time-readout"></div><span class="unit-name"></span></div></div><div class="dial-bottom"><div class="offset-panel"><span class="digital-label">Zone Offset</span><div class="readout offset-readout"></div><span class="digital-trailing">from UTC</span></div><button type="button" class="dial-toggle" aria-expanded="false" aria-controls="${id}-settings" aria-label="Show dial settings" title="Show dial settings"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></button></div><div class="dial-settings" id="${id}-settings" hidden><div class="dial-options"><div class="dial-setting"><span>Orientation</span><select class="orientation-select" aria-label="Dial orientation"><option value="up">Zero Up</option><option value="left">Zero Left</option><option value="down">Zero Down</option><option value="right">Zero Right</option></select></div><div class="dial-setting"><span>Hands</span><div class="color-dropdown" data-kind="hands"></div></div><div class="dial-setting"><span>Digit Precision</span><div class="color-dropdown" data-kind="precision"></div></div><div class="dial-setting"><span>Radix Point After</span><div class="color-dropdown" data-kind="radix"></div></div></div><div class="clock-legend" aria-label="Clock legend"></div></div>`;$('grid').append(section);section.querySelector('.dial-toggle').addEventListener('click',e=>{const panel=section.querySelector('.dial-settings');if(panel.hidden){setAllSettingsOpen();}else{setAllSettingsClosed();}});}
+// Precision is the number of colored positions (1 through 6).
+// The white period index (position 0) remains visible on non-diurnal clocks.
+// The radix position is independent of precision, and is hidden if radix >= precision.
+const digitalSettings=Object.fromEntries(specs.map(([id])=>[id,{orientation:id==='diurnal'?'down':'up',precision:id==='diurnal'?5:4,radix:id==='diurnal'?3:1,hands:4}]));
+// Versioned browser preferences. Fail gracefully where storage is unavailable (e.g. restrictive file:// settings).
+const STORAGE_KEY='uncial-clock-deluxe.preferences.v1';
+// Populate every IANA time zone supported by the browser, and default to its own zone.
+const browserZone=Intl.DateTimeFormat().resolvedOptions().timeZone||'UTC';
+const timeZones=typeof Intl.supportedValuesOf==='function'
+  ? Intl.supportedValuesOf('timeZone') : [browserZone,'UTC'];
+const zoneChoices=[...new Set(['UTC',browserZone,...timeZones])].sort((a,b)=>a.localeCompare(b));
+$('zone').replaceChildren(...zoneChoices.map(name=>new Option(name===browserZone?`${name} (browser local)`:name,name)));
+$('zone').value=browserZone;
+function updateZoneHeading(){
+ const zone=$('zone').value;
+ const now=new Date();
+ const readable=zone.replaceAll('_',' ').replace(/\//g,' / ');
+ let descriptive=readable;
+ try {
+   const part=new Intl.DateTimeFormat('en-US',{timeZone:zone,timeZoneName:'long'}).formatToParts(now).find(p=>p.type==='timeZoneName');
+   if(part?.value) descriptive=part.value;
+ } catch(e) { /* Retain the readable IANA identifier if unsupported. */ }
+ $('zone-description').textContent=`${descriptive} (${zone})`;
+ // ISO 8601 calendar-date order, with each component expressed in base twelve.
+ // Extract the date in the selected zone, not the browser's local zone.
+ const dateParts=Object.fromEntries(new Intl.DateTimeFormat('en-US',{
+   timeZone:zone,year:'numeric',month:'numeric',day:'numeric',weekday:'short'
+ }).formatToParts(now).filter(part=>['year','month','day','weekday'].includes(part.type)).map(part=>[part.type,part.type==='weekday'?part.value:Number(part.value)]));
+ const dozenal=n=>n.toString(12).toUpperCase().replace(/A/g,'↊').replace(/B/g,'↋');
+ const year=dozenal(dateParts.year).padStart(4,'0');
+ const month=dozenal(dateParts.month).padStart(2,'0');
+ const day=dozenal(dateParts.day).padStart(2,'0');
+ const dateBox=$('zone-date');
+ dateBox.replaceChildren();
+ // Render the actual Unicode Pitman digits U+218A and U+218B.
+ dateBox.append(document.createTextNode(`${dateParts.weekday} ${year}-${month}-${day}`));
+ const sub=document.createElement('sub');sub.textContent='z';$('zone-date').append(sub);
+}
+$('zone').addEventListener('change',updateZoneHeading);
+const zoneFormatters=new Map();
+function zonedHours(now,zone){
+  let formatter=zoneFormatters.get(zone);
+  if(!formatter){formatter=new Intl.DateTimeFormat('en-US',{timeZone:zone,hour:'2-digit',minute:'2-digit',second:'2-digit',hourCycle:'h23'});zoneFormatters.set(zone,formatter);}
+  const parts=Object.fromEntries(formatter.formatToParts(now).filter(p=>p.type!=='literal').map(p=>[p.type,Number(p.value)]));
+  return parts.hour+parts.minute/60+parts.second/3600+now.getMilliseconds()/3600000;
+}
+const globalSelectIds=['digits','terminology','movement','start','direction','zone'];
+const globalCheckboxIds=['marks','labels'];
+const clockIds=specs.map(([id])=>id);
+function savePreferences(){
+  const prefs={global:{},visibility:{},clocks:{},panels:{global:!$('settings-panel').hidden,clocks:{}}};
+  for(const id of globalSelectIds)prefs.global[id]=$(id).value;
+  for(const id of globalCheckboxIds)prefs.global[id]=$(id).checked;
+  document.querySelectorAll('#visibility input[type="checkbox"][value]').forEach(el=>prefs.visibility[el.value]=el.checked);
+  for(const id of clockIds){digitalSettings[id].orientation=$('dial-'+id).querySelector('.orientation-select').value;prefs.clocks[id]={...digitalSettings[id]};prefs.panels.clocks[id]=!$(id+'-settings').hidden;}
+  try{localStorage.setItem(STORAGE_KEY,JSON.stringify(prefs));}catch(e){console.warn('Unable to save clock preferences',e);}
+}
+function restorePreferences(){
+  let prefs;try{prefs=JSON.parse(localStorage.getItem(STORAGE_KEY)||'null')}catch(e){return}
+  if(!prefs||typeof prefs!=='object')return;
+  for(const id of globalSelectIds){const value=prefs.global?.[id];if(typeof value==='string'){const restored=id==='zone'?(value==='local'?browserZone:value==='utc'?'UTC':value):value;if([...$(id).options].some(o=>o.value===restored))$(id).value=restored;}}
+  for(const id of globalCheckboxIds)if(typeof prefs.global?.[id]==='boolean')$(id).checked=prefs.global[id];
+  document.querySelectorAll('#visibility input[type="checkbox"][value]').forEach(el=>{if(typeof prefs.visibility?.[el.value]==='boolean')el.checked=prefs.visibility[el.value]});
+  for(const id of clockIds){const savedOrientation=prefs.clocks?.[id]?.orientation;if(['up','left','down','right'].includes(savedOrientation))digitalSettings[id].orientation=savedOrientation;for(const [kind,allowed] of Object.entries({precision:[2,3,4,5,6],radix:[0,1,2,3,4,5,6],hands:[2,3,4,5]})){const value=prefs.clocks?.[id]?.[kind];if(allowed.includes(value))digitalSettings[id][kind]=value;}}
+  function setPanel(panel,button,shown,global){panel.hidden=!shown;button.setAttribute('aria-expanded',String(shown));button.querySelector('path').setAttribute('d',shown?'m6 15 6-6 6 6':'m6 9 6 6 6-6');button.title=shown?(global?'Hide global settings':'Hide dial settings'):(global?'Show global settings':'Show dial settings');button.setAttribute('aria-label',global?(shown?'Hide global settings':'Show global settings'):(shown?'Hide dial settings':'Show dial settings'));}
+  if(typeof prefs.panels?.global==='boolean')setPanel($('settings-panel'),$('settings-toggle'),prefs.panels.global,true);
+  for(const id of clockIds)if(typeof prefs.panels?.clocks?.[id]==='boolean')setPanel($(id+'-settings'),$('dial-'+id).querySelector('.dial-toggle'),!$('settings-panel').hidden&&prefs.panels.clocks[id],false);
+}
+restorePreferences();
+const orientationForStart={0:'down',6:'left',12:'up',18:'right'};
+function resetDialOrientations(){
+  const start=Number($('start').value);
+  for(const id of clockIds){
+    const orientation=id==='diurnal'?orientationForStart[start]:'up';
+    digitalSettings[id].orientation=orientation;
+    $('dial-'+id).querySelector('.orientation-select').value=orientation;
+  }
+  savePreferences();
+}
+for(const id of clockIds){
+  const select=$('dial-'+id).querySelector('.orientation-select');
+  select.value=digitalSettings[id].orientation;
+  select.addEventListener('change',()=>{digitalSettings[id].orientation=select.value;savePreferences()});
+}
+$('start').addEventListener('change',resetDialOrientations);
+updateZoneHeading();
+for(const id of globalSelectIds)$(id).addEventListener('change',savePreferences);
+for(const id of globalCheckboxIds)$(id).addEventListener('change',savePreferences);
+document.querySelectorAll('#visibility input[type="checkbox"][value]').forEach(el=>el.addEventListener('change',savePreferences));
+$('settings-toggle').addEventListener('click',savePreferences);
+for(const id of clockIds)$('dial-'+id).querySelector('.dial-toggle').addEventListener('click',savePreferences);
+const digitPalette=['#ffffff',...colors];
+function coloredChoice(value){
+  const span=document.createElement('span');
+  span.className='colored-numeral';
+  span.style.color=digitPalette[value];
+  span.textContent=String(value);
+  return span;
+}
+// Original Java technical legends (DiurnalDial, SemidiurnalDial, ShifticDial, PhasicDial).
+// Color digit-position rows 0–6; render subsequent explanatory rows in white.
+const legendUnits={
+ diurnal:[['day','24[d] hours = 1440[d] minutes'],['unciaday','2 hours = 120[d] minutes'],['biciaday','10[d] minutes = 600[d] secs'],['triciaday','50[d] seconds'],['quadciaday','4.1r6[d] seconds'],['pentciaday','0.347r2[d] seconds'],['hexciaday','0.02893r518[d] seconds']],
+ semidiurnal:[['semiday','12[d] hours = 720[d] minutes'],['unciasemiday','1 hour = 60[d] minutes'],['biciasemiday','5 minutes = 300[d] secs'],['triciasemiday','25[d] seconds'],['quadciasemiday','2.08r3[d] seconds'],['pentciasemiday','0.1736r1[d] seconds'],['hexciasemiday','0.014467r592[d] seconds']],
+ shiftic:[['tiercerday','8 hrs = 480[d] minutes'],['unciatiercerday','2/3 hour = 40[d] minutes'],['biciatiercerday','3.r3[d] minutes = 200[d] secs'],['triciatiercerday','16.r6[d] seconds'],['quadciatiercerday','1.3r8[d] seconds'],['pentciatiercerday','0.115r740[d] seconds'],['hexciatiercerday','0.00964r506172839[d] secs']],
+ phasic:[['quarterday','6 hrs = 360[d] minutes'],['unciaquarterday','1/2 hour = 30[d] minutes'],['biciaquarterday','2.5[d] minutes = 150[d] secs'],['triciaquarterday','12.5[d] seconds'],['quadciaquarterday','1.041r6[d] seconds'],['pentciaquarterday','0.08680r5[d] seconds'],['hexciaquarterday','0.0072337r962[d] seconds']]
+};
+const colloquialNames={
+ diurnal:['day','dwell','breather','trice','lull','twinkling','vibe'],
+ semidiurnal:['clock','hour','break','sweep','pause','blink','semivibe'],
+ shiftic:['shift','gong','song','spot','plodding','flutter','tiercervibe'],
+ phasic:['phase','bell','passage','verse','beat','flicker','quartervibe']
+};
+const dialTitles={
+ diurnal:{technical:'Diurnal Dial',colloquial:'Primel Dial'},
+ semidiurnal:{technical:'Semidiurnal Dial',colloquial:'Pendlebury Dial'},
+ shiftic:{technical:'Tiercerdiurnal Dial',colloquial:'Shiftic Dial'},
+ phasic:{technical:'Quarterdiurnal Dial',colloquial:'Phasic Dial'}
+};
+const commonLegend=['AM = Ante Meridiem = Overnight + Morning','PM = Post Meridiem = Afternoon + Evening','Lux = Daylight = Morning + Afternoon','Nox = Nighttime = Evening + Overnight'];
+function legendExtra(id,start,terminology){
+ const colloquial=terminology==='colloquial';
+ const heading=(technical,casual)=>colloquial?casual:technical;
+ const phase=['Over','Morn','Aft','Eve'];
+ const phases=['Overnight = Nox Ante Meridiem','Morning = Lux Ante Meridiem','Afternoon = Lux Post Meridiem','Evening = Nox Post Meridiem'];
+ const offset=start/6;
+ if(id==='diurnal')return [heading('Quarterdays:','Phases:'),...phases];
+ if(id==='phasic')return [heading('Quarterdays:','Phases:'),...phases.map((line,i)=>`${(i-offset+4)%4} = ${line}`)];
+ if(id==='semidiurnal'){
+   const names=[['AM','PM'],['Lux','Nox'],['PM','AM'],['Nox','Lux']][offset];
+   return [heading('Semidays:','Clocks:'), ...commonLegend.map((line, i) => { const label = line.split(' = ')[0]; const index = names.indexOf(label); return index < 0 ? line : `${index} = ${line}`; })];
+ }
+ const names=[['E AM','M Lux','L PM'],['E Lux','M PM','L Nox'],['E PM','M Nox','L AM'],['E Nox','M AM','L Lux']][offset];
+ const clockParts={AM:['Overnight','Morning'],PM:['Afternoon','Evening'],Lux:['Morning','Afternoon'],Nox:['Evening','Overnight']};
+ const shiftDescriptions=names.map((name,i)=>{
+   const [prefix,clock]=name.split(' ');
+   const [a,b]=clockParts[clock];
+   const qualifier={E:'Early',M:'Middle',L:'Late'}[prefix];
+   const detail=prefix==='E'?`${a} + Earliest ${b}`:prefix==='M'?`Later ${a} + Earlier ${b}`:`Latest ${a} + ${b}`;
+   return `${i} = ${qualifier} ${clock} = ${detail}`;
+ });
+ return [heading('Tiercerdays:','Shifts:'),...shiftDescriptions];
+}
+function updateUnitName(id){
+ const index=Math.min(digitalSettings[id].precision,digitalSettings[id].radix);
+ const terminology=$('terminology').value;
+ const name=terminology==='colloquial'?colloquialNames[id][index]:legendUnits[id][index][0];
+ const label=$('dial-'+id).querySelector('.unit-name');
+ label.textContent=name+'s';
+ label.style.color=digitPalette[index];
+}
+function renderLegends(){
+ const start=Number($('start').value);
+ const terminology=$('terminology').value;
+ for(const id of clockIds){
+   const section=$('dial-'+id);
+   const titleText=dialTitles[id][terminology];
+   const visibilityCheckbox=document.querySelector(`#visibility input[type="checkbox"][value="${id}"]`);
+   visibilityCheckbox.parentElement.lastChild.textContent=titleText.replace(/ Dial$/, '');
+   section.querySelector('h2').textContent=titleText;
+   const toggle=section.querySelector('.dial-toggle');
+   toggle.setAttribute('aria-label',`${toggle.getAttribute('aria-expanded')==='true'?'Hide':'Show'} dial settings`);
+   updateUnitName(id);
+   const box=$('dial-'+id).querySelector('.clock-legend');
+   const lines=legendUnits[id].map(([name,measure],i)=>`${i} = ${terminology==='colloquial'?colloquialNames[id][i]:name} = ${measure}`);
+   lines.push('',...legendExtra(id,start,terminology));
+   const title=document.createElement('div');title.className='clock-legend-title';title.textContent='Legend';
+   const rows=lines.map((line,i)=>{const row=document.createElement('div');row.className='clock-legend-line'+(!line?' empty':'');row.style.color=i<7?digitPalette[i]:'#FFFFFF';row.innerHTML=line.replace(/r([0-9]+)/g, (_match, repeating)=>`<span class="repeating-digits">${repeating}</span>`).replace(/\[([dz])\]/g, (_match, base)=>`<sub>${base}</sub>`);return row;});
+   box.replaceChildren(title,...rows);
+ }
+}
+$('start').addEventListener('change',renderLegends);
+$('terminology').addEventListener('change',renderLegends);
+renderLegends();
+function closeDropdowns(except){document.querySelectorAll('.color-dropdown-menu').forEach(m=>{if(m!==except)m.hidden=true});document.querySelectorAll('.color-dropdown-trigger').forEach(b=>{if(b.nextElementSibling!==except)b.setAttribute('aria-expanded','false')})}
+function buildDropdown(id,kind){
+  const parent=$('dial-'+id).querySelector(`[data-kind="${kind}"]`);
+  const settings=digitalSettings[id];
+  const options=kind==='precision'?[2,3,4,5,6]:kind==='hands'?[2,3,4,5]:[0,1,2,3,4,5,6];
+  parent.replaceChildren();
+  const trigger=document.createElement('button');trigger.type='button';trigger.className='color-dropdown-trigger';trigger.setAttribute('aria-haspopup','listbox');trigger.setAttribute('aria-expanded','false');
+  const label=document.createElement('span');label.append(coloredChoice(settings[kind]));trigger.append(label,document.createTextNode('⌄'));
+  const menu=document.createElement('div');menu.className='color-dropdown-menu';menu.setAttribute('role','listbox');menu.hidden=true;
+  options.forEach(value=>{
+    const opt=document.createElement('button');opt.type='button';opt.className='color-dropdown-option';opt.setAttribute('role','option');opt.setAttribute('aria-selected',String(settings[kind]===value));
+    opt.append(coloredChoice(value));
+    opt.addEventListener('click',()=>{
+      settings[kind]=value;
+      closeDropdowns();refreshDigitalControls(id);updateUnitName(id);savePreferences();
+    });menu.append(opt);
+  });
+  trigger.addEventListener('click',()=>{const opening=menu.hidden;closeDropdowns(menu);menu.hidden=!opening;trigger.setAttribute('aria-expanded',String(opening));if(opening)menu.querySelector('[aria-selected="true"]')?.focus()});
+  parent.addEventListener('keydown',e=>{if(e.key==='Escape'){menu.hidden=true;trigger.setAttribute('aria-expanded','false');trigger.focus()}else if(!menu.hidden&&(e.key==='ArrowDown'||e.key==='ArrowUp')){e.preventDefault();const opts=[...menu.querySelectorAll('[role="option"]')];const i=opts.indexOf(document.activeElement);opts[(i+(e.key==='ArrowDown'?1:-1)+opts.length)%opts.length].focus()}});
+  parent.append(trigger,menu);
+}
+function refreshDigitalControls(id){buildDropdown(id,'hands');buildDropdown(id,'precision');buildDropdown(id,'radix')}
+for(const [id] of specs)refreshDigitalControls(id);
+document.addEventListener('pointerdown',e=>{if(!e.target.closest('.color-dropdown'))closeDropdowns()});
+function draw(spec,hours){const [id,title,period,zeroUp]=spec, el=$('dial-'+id),canvas=el.querySelector('canvas'),ctx=canvas.getContext('2d');const w=700,c=w/2,R=310;ctx.clearRect(0,0,w,w);const start=Number($('start').value),direction=Number($('direction').value);const fraction=mod(hours-start,period)/period;const turn=mod(hours-start,period)/period;const base={up:-Math.PI/2,left:Math.PI,down:Math.PI/2,right:0}[digitalSettings[id].orientation];const angle=f=>base+direction*2*Math.PI*f;
+const gradient=ctx.createRadialGradient(c,c,30,c,c,R);gradient.addColorStop(0,'#32466b');gradient.addColorStop(.75,'#172742');gradient.addColorStop(1,'#08111f');ctx.beginPath();ctx.arc(c,c,R+13,0,Math.PI*2);ctx.fillStyle='#b6c1d3';ctx.fill();ctx.beginPath();ctx.arc(c,c,R+7,0,Math.PI*2);ctx.fillStyle=gradient;ctx.fill();
+// Core: alternating day/night sectors derived from the 24-hour civil day.
+ctx.save();ctx.beginPath();ctx.arc(c,c,R-53,0,Math.PI*2);ctx.clip();for(let i=0;i<144;i++){const t0=i/144,t1=(i+1)/144;const segmentIndex=Math.floor(mod(hours-start,24)/period);const civil=mod(start+period*(segmentIndex+(i+.5)/144),24);ctx.beginPath();ctx.moveTo(c,c);ctx.arc(c,c,R-53,angle(t0),angle(t1),direction<0);ctx.closePath();ctx.fillStyle=(civil>=6&&civil<18)?'rgba(125,170,255,.18)':'rgba(1,4,35,.36)';ctx.fill()}ctx.restore();
+for(let i=0;i<144;i++){if(!$('marks').checked&&i%12!==0)continue;const major=i%12===0,quarter=i%3===0;const a=angle(i/144),r1=R-(major?30:quarter?20:11),r2=R-3;ctx.beginPath();ctx.moveTo(c+r1*Math.cos(a),c+r1*Math.sin(a));ctx.lineTo(c+r2*Math.cos(a),c+r2*Math.sin(a));ctx.strokeStyle=major?'#f3f5fa':quarter?'#b2bccc':'#62748e';ctx.lineWidth=major?3:1;ctx.stroke()}
+if($('labels').checked)for(let i=0;i<12;i++){const a=angle(i/12);ctx.fillStyle='#f4f7ff';ctx.font='bold 30px system-ui';ctx.textAlign='center';ctx.textBaseline='middle';const glyph=numeral(i),x=c+(R-75)*Math.cos(a),y=c+(R-75)*Math.sin(a);if($('digits').value==='↊↋'&&(glyph==='↊'||glyph==='↋')){ctx.save();ctx.translate(x,y);const source=glyph==='↊'?'2':'3';ctx.rotate(Math.PI);ctx.fillText(source,0,0);ctx.restore()}else ctx.fillText(glyph,x,y)}
+// Corner captions follow the original Java dial's day-start-dependent legends.
+const phaseNames=['Overnight','Morning','Afternoon','Evening'];
+const dayStartIndex=mod(start/6,4);
+const phaseIndex=Math.floor(mod(hours-start,24)/6);
+const shiftIndex=Math.floor(mod(hours-start,24)/8);
+let cornerTexts;
+if(id==='diurnal') cornerTexts=Array.from({length:4},(_,i)=>phaseNames[mod(dayStartIndex+i,4)]);
+else if(id==='phasic') cornerTexts=Array(4).fill(phaseNames[mod(dayStartIndex+phaseIndex,4)]);
+else if(id==='semidiurnal') {
+  const semidayIndex=Math.floor(mod(hours-start,24)/12);
+  const semidayNames=(dayStartIndex%2===0)?['AM','PM']:['Lux','Nox'];
+  const first=(dayStartIndex===2||dayStartIndex===3)?1:0;
+  cornerTexts=Array(4).fill(semidayNames[(first+semidayIndex)%2]);
+} else {
+  const shiftLabels=[['Early AM','Middle Lux','Late PM'],['Early Lux','Middle PM','Late Nox'],['Early PM','Middle Nox','Late AM'],['Early Nox','Middle AM','Late Lux']];
+  cornerTexts=Array(4).fill(shiftLabels[dayStartIndex][shiftIndex]);
+}
+// Place captions in the four diagonal corners outside the dial rim.
+ctx.save();ctx.font='bold 24px system-ui';ctx.fillStyle='#ffffff';ctx.textAlign='center';ctx.textBaseline='middle';
+for(let i=0;i<4;i++){
+  const a=angle((i+0.5)/4),r=R+48;
+  const x=c+r*Math.cos(a),y=c+r*Math.sin(a);
+  // Tangential orientation: text runs parallel to the circular rim.
+  // Normalize the angle to keep captions upright and readable.
+  let tilt=a+Math.PI/2;
+  while(tilt>Math.PI/2)tilt-=Math.PI;
+  while(tilt< -Math.PI/2)tilt+=Math.PI;
+  ctx.save();ctx.translate(x,y);ctx.rotate(tilt);ctx.fillText(cornerTexts[i],0,0);ctx.restore();
+}
+ctx.restore();
+const count=digitalSettings[id].hands,mode=$('movement').value;for(let j=count-1;j>=0;j--){let f=mod(turn*Math.pow(12,j),1);if(mode==='discrete')f=Math.floor(f*144+1e-10)/144;const a=angle(f),length=[R-105,R-87,R-72,R-62,R-50][j],width=[11,8,6,4,3][j];ctx.beginPath();ctx.moveTo(c-24*Math.cos(a),c-24*Math.sin(a));ctx.lineTo(c+length*Math.cos(a),c+length*Math.sin(a));ctx.lineWidth=width;ctx.lineCap='round';ctx.strokeStyle=colors[j];ctx.shadowColor=colors[j];ctx.shadowBlur=7;ctx.stroke();ctx.shadowBlur=0}
+ctx.beginPath();ctx.arc(c,c,10,0,2*Math.PI);ctx.fillStyle='#fff';ctx.fill();const digits=[];if(id!=='diurnal'){digits.push({text:numeral(Math.floor(mod(hours-start,24)/period)),color:'#ffffff'});}let t=turn;for(let i=0;i<6;i++){t*=12;const v=Math.floor(t+1e-10);digits.push({text:numeral(v),color:colors[i]});t-=v}
+const config=digitalSettings[id],visible=digits.slice(0,config.precision+(id==='diurnal'?0:1));
+renderDigitRow(el.querySelector('.time-readout'),visible,config,id);
+// UTC offset is an elapsed duration, not a dial phase: preserve its sign.
+// Convert it to the same dozenal unit and radix position as the time readout.
+const offsetHours=currentOffsetHours;
+const absoluteTurns=Math.abs(offsetHours)/period;
+const offsetDigits=[];
+if(id!=='diurnal')offsetDigits.push({text:numeral(Math.floor(absoluteTurns)),color:'#ffffff'});
+let remainder=id==='diurnal'?absoluteTurns:absoluteTurns-Math.floor(absoluteTurns);
+for(let i=0;i<config.precision;i++){
+ remainder*=12;
+ const value=Math.floor(remainder+1e-9);
+ offsetDigits.push({text:numeral(Math.min(11,value)),color:colors[i]});
+ remainder-=value;
+}
+renderDigitRow(el.querySelector('.offset-readout'),offsetDigits,config,id,offsetHours<0?'−':'+');
+}
+function renderDigitRow(readout,visible,config,id,sign){
+ const nodes=[];
+ if(sign){const signNode=document.createElement('span');signNode.className='offset-sign';signNode.textContent=sign;nodes.push(signNode);}
+ for(let i=0;i<visible.length;i++){
+  const position=id==='diurnal'?i+1:i;
+  if(position===config.radix+1 && config.radix<config.precision){const point=document.createElement('span');point.className='radix';point.textContent='.';nodes.push(point)}
+  const {text,color}=visible[i];const span=document.createElement('span');const invertedPitman=$('digits').value==='↊↋'&&(text==='↊'||text==='↋');span.className='digit'+(invertedPitman?' pitman-digit':'');span.style.color=color;if(invertedPitman)span.append(pitmanDigit(text==='↊'?'2':'3'));else span.textContent=text;nodes.push(span);
+ }
+ const baseSubscript=document.createElement('sub');baseSubscript.className='base-subscript';baseSubscript.textContent='z';nodes.push(baseSubscript);readout.replaceChildren(...nodes);
+}
+let currentOffsetHours=0;
+function utcOffsetHours(now,zone){
+ const formatter=new Intl.DateTimeFormat('en-US',{timeZone:zone,year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',second:'2-digit',hourCycle:'h23'});
+ const parts=Object.fromEntries(formatter.formatToParts(now).filter(p=>p.type!=='literal').map(p=>[p.type,Number(p.value)]));
+ const wall=Date.UTC(parts.year,parts.month-1,parts.day,parts.hour,parts.minute,parts.second);
+ return Math.round((wall-Math.floor(now.getTime()/1000)*1000)/60000)/60;
+}
+let zoneHeadingMinute=-1;function tick(){const now=new Date();if(Math.floor(now.getTime()/60000)!==zoneHeadingMinute){zoneHeadingMinute=Math.floor(now.getTime()/60000);updateZoneHeading();}const hours=zonedHours(now,$('zone').value);currentOffsetHours=utcOffsetHours(now,$('zone').value);for(const spec of specs){const enabled=[...document.querySelectorAll('#visibility input[type=checkbox]')].find(x=>x.value===spec[0])?.checked??false;const el=$('dial-'+spec[0]);el.hidden=!enabled;if(enabled)draw(spec,hours)}requestAnimationFrame(tick)}tick();
+</script></body></html>
