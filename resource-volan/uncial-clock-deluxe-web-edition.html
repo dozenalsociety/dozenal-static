@@ -515,5 +515,41 @@ function utcOffsetHours(now,zone){
  const wall=Date.UTC(parts.year,parts.month-1,parts.day,parts.hour,parts.minute,parts.second);
  return Math.round((wall-Math.floor(now.getTime()/1000)*1000)/60000)/60;
 }
-let zoneHeadingMinute=-1;function tick(){const now=shiftedNow();if(Math.floor(now.getTime()/60000)!==zoneHeadingMinute){zoneHeadingMinute=Math.floor(now.getTime()/60000);updateZoneHeading(now);}refreshBrowserZone();const zone=selectedZone();const hours=zonedHours(now,zone);currentOffsetHours=utcOffsetHours(now,zone);for(const spec of specs){const enabled=[...document.querySelectorAll('#visibility input[type=checkbox]')].find(x=>x.value===spec[0])?.checked??false;const el=$('dial-'+spec[0]);el.hidden=!enabled;if(enabled)draw(spec,hours)}requestAnimationFrame(tick)}tick();
+// Stop the render loop completely in background tabs; resume from wall-clock time.
+let zoneHeadingMinute=-1;
+let clockFrame=null;
+function tick(){
+ clockFrame=null;
+ if(document.hidden)return;
+ const now=shiftedNow();
+ if(Math.floor(now.getTime()/60000)!==zoneHeadingMinute){
+  zoneHeadingMinute=Math.floor(now.getTime()/60000);
+  updateZoneHeading(now);
+ }
+ refreshBrowserZone();
+ const zone=selectedZone();
+ const hours=zonedHours(now,zone);
+ currentOffsetHours=utcOffsetHours(now,zone);
+ for(const spec of specs){
+  const enabled=[...document.querySelectorAll('#visibility input[type=checkbox]')].find(x=>x.value===spec[0])?.checked??false;
+  const el=$('dial-'+spec[0]);
+  el.hidden=!enabled;
+  if(enabled)draw(spec,hours);
+ }
+ if(!document.hidden)clockFrame=requestAnimationFrame(tick);
+}
+function stopClock(){
+ if(clockFrame!==null){cancelAnimationFrame(clockFrame);clockFrame=null;}
+}
+function startClock(){
+ if(document.hidden||clockFrame!==null)return;
+ // Recalculate immediately rather than waiting for the next animation frame.
+ zoneHeadingMinute=-1;
+ tick();
+}
+document.addEventListener('visibilitychange',()=>{
+ if(document.hidden)stopClock();else startClock();
+});
+window.addEventListener('pageshow',()=>{if(!document.hidden)startClock();});
+startClock();
 </script></body></html>
