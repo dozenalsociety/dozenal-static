@@ -104,7 +104,7 @@
 (()=>{'use strict';const ns='http://www.w3.org/2000/svg',notes=['C','C♯','D','D♯','E','F','F♯','G','G♯','A','A♯','B'],isMobileBrowser=(navigator.userAgentData?.mobile === true || /Android|iPhone|iPad|iPod|Mobile|Opera Mini|IEMobile/i.test(navigator.userAgent)),digits=['0','1','2','3','4','5','6','7','8','9','↊','↋'],marks=document.getElementById('marks'),noteMarks=document.getElementById('noteMarks'),fineMarks=document.getElementById('fineMarks'),tri=document.getElementById('tri'),poly=document.getElementById('poly'),keyboard=document.getElementById('keyboard'),svg=document.getElementById('dial'),play=document.getElementById('play');function buildEDOEnharmonics(canon,naturals,div,sharp,semis=false){
  const groups=canon.map(name=>[name]);
  const suffixes=[['𝄫',-2*sharp],['♭',-sharp],['',0],['♯',sharp],['𝄪',2*sharp]];
- if(semis)suffixes.push(['↓',-1],['↑',1]);
+ if(semis)suffixes.push(['↓',-1],['↑',1],['↓♭',-3],['♯↑',3]);
  for(let letter=0;letter<7;letter++)for(const [suffix,offset] of suffixes){
   const name='CDEFGAB'[letter]+suffix;
   const index=((naturals[letter]+offset)%div+div)%div;
