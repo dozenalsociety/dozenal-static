@@ -90,7 +90,7 @@
    ordinary flat's left-hand stem, keeping both outward-facing bowls. */
 .sesquiflat{display:inline-flex;align-items:baseline;vertical-align:baseline;white-space:nowrap;line-height:1}
 .sesquiflat>.semi-glyph{margin:0!important}
-.sesquiflat>.regular-accidental{margin-left:-.27em!important}
+.sesquiflat>.regular-accidental{margin-left:-.25em!important}
 .note-slot .accidental>.sesquiflat{margin-left:.17em}
 /* Sesquisharp from two complete, native-font sharps: the second glyph's
    left upright overlays the first glyph's right upright. */
@@ -805,9 +805,9 @@ function drawSesquiflatSVG(parent,x,y,fontSize,color){
  const probe=node('text',{x:0,y:0,'font-family':'DialNumerals,system-ui,sans-serif',
   'font-size':fontSize,'font-weight':'600',visibility:'hidden'},g);
  probe.textContent='♭';const b=probe.getBBox();probe.remove();
- // Match the .27em overlap used by the HTML readout so the two
+ // Match the .25em overlap used by the HTML readout so the two
  // vertical risers coincide on both SVG dial and keyboard labels.
- const overlap=fontSize*.27;
+ const overlap=fontSize*.25;
  const width=2*b.width-overlap;
  const start=x-width/2;
  drawSemiSVG(g,'↓',start+b.width/2,y,fontSize,color);
@@ -828,7 +828,7 @@ function setSVGNoteLabel(t,name,x,y,size){
   const probe=node('text',{'font-family':'DialNumerals,system-ui,sans-serif',
    'font-size':size,'font-weight':'600',visibility:'hidden'},t.parentNode);
   probe.textContent='♭';const b=probe.getBBox();probe.remove();
-  const width=2*b.width-size*.27,gap=size*.065;
+  const width=2*b.width-size*.25,gap=size*.065;
   const left=x-(letterWidth+gap+width)/2;
   t.setAttribute('x',left);
   drawSesquiflatSVG(t.parentNode,left+letterWidth+gap+width/2,y+size*.26,size,t.getAttribute('fill')||'#1767cc');
