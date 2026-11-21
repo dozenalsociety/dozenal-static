@@ -117,22 +117,15 @@ const names17Alternate=['C','C♯','D♭','D','D♯','E♭','E','F','F♯','G♭
 const natural31=[0,5,10,13,18,23,28];const enharmonic31=buildEDOEnharmonics(names31,natural31,31,2,true);
 const map12to31=[0,2,5,7,10,13,15,18,20,23,25,28];
 const interval31Steps={single:0,augUnison17:2,minor2:3,major2:5,aug2nd17:7,minor3:8,major3:10,dim4th:11,perfect4:13,aug4th17:15,dim5th17:16,perfect5:18,aug5th17:20,minor6:21,major6:23,aug6th17:25,minor7dyad:26,major7dyad:28,dimOctave:29,octave:31};
-// Preserve each scale's 10[z]-EDO interval sequence in the expanded EDOs.
-// A diatonic whole/half step spans 3/2 pitches in 17[z]-EDO
-// (19[d]-EDO), or 5/3 pitches in 27[z]-EDO (31[d]-EDO).
+// All EDO scales use the same W/H/M definitions, evaluated in the
+// destination temperament. Do not quantize the notes through a 12-EDO map.
+// Historical tunings deliberately bypass this conversion: the reference
+// positions select note spellings, then the tuning supplies actual frequencies.
 function diatonicScaleEDOStep(s){
- if(mode!=='scale'||circleMode()||!(edo19()||edo31()))return null;
- const original=activeScaleSteps();const index=original.indexOf(s);
+ if(mode!=='scale'||circleMode()||!extendedEDO())return null;
+ const reference=scaleReferenceSteps();const index=reference.indexOf(s);
  if(index<0)return null;
- const whole=edo31()?5:3,half=edo31()?3:2;
- let total=0;
- for(let i=1;i<=index;i++){
-  const gap=original[i]-original[i-1];
-  // Augmented seconds are temperament-specific: four chromatic
-  // steps in 17[z]-EDO, seven in 27[z]-EDO.
-  total+=gap===3?(edo31()?7:4):Math.floor(gap/2)*whole+(gap%2)*half;
- }
- return total;
+ return cumulativeScaleSteps(scalePattern(),scaleStepSizes())[index];
 }
 // 27[z]-EDO chord-specific successive chromatic intervals (decimal).
 // These override the generic twelve-tone-to-31-step mapping at each chord
@@ -239,21 +232,33 @@ const chordTypes={
  'dominant7sus4':{name:'suspended 7th (7sus4)',steps:[0,5,7,10],color:'#afd4e7'}
 };
 const scaleTypes={
- major:{name:'Ionian (major)',steps:[0,2,4,5,7,9,11,12],color:'#a8e6b0'},
- dorian:{name:'Dorian',steps:[0,2,3,5,7,9,10,12],color:'#add6ed'},
- phrygian:{name:'Phrygian',steps:[0,1,3,5,7,8,10,12],color:'#f3b6a7'},
- lydian:{name:'Lydian',steps:[0,2,4,6,7,9,11,12],color:'#c8e7a3'},
- mixolydian:{name:'Mixolydian',steps:[0,2,4,5,7,9,10,12],color:'#f0c58b'},
- 'natural-minor':{name:'Aeolian (natural minor)',steps:[0,2,3,5,7,8,10,12],color:'#d8b8f0'},
- locrian:{name:'Locrian',steps:[0,1,3,5,6,8,10,12],color:'#f1bdd6'},
- 'classical-melodic-minor':{name:'Melodic minor',steps:[0,2,3,5,7,9,11,12],descendingSteps:[0,2,3,5,7,8,10,12],color:'#d8b8f0'},
- 'jazz-melodic-minor':{name:'Jazz minor',steps:[0,2,3,5,7,9,11,12],color:'#d8b8f0'},
- 'harmonic-minor':{name:'Harmonic minor',steps:[0,2,3,5,7,8,11,12],color:'#d8b8f0'},
- 'harmonic-major':{name:'Harmonic major',steps:[0,2,4,5,7,8,11,12],color:'#a8e6b0'},
- 'double-harmonic':{name:'Double harmonic',steps:[0,1,4,5,7,8,11,12],color:'#e8b9bb'},
- 'hungarian-minor':{name:'Hungarian minor',steps:[0,2,3,6,7,8,11,12],color:'#d8b8f0'},
+ major:{name:'Ionian (major)',pattern:'WWHWWWH',color:'#a8e6b0'},
+ dorian:{name:'Dorian',pattern:'WHWWWHW',color:'#add6ed'},
+ phrygian:{name:'Phrygian',pattern:'HWWWHWW',color:'#f3b6a7'},
+ lydian:{name:'Lydian',pattern:'WWWHWWH',color:'#c8e7a3'},
+ mixolydian:{name:'Mixolydian',pattern:'WWHWWHW',color:'#f0c58b'},
+ 'natural-minor':{name:'Aeolian (natural minor)',pattern:'WHWWHWW',color:'#d8b8f0'},
+ locrian:{name:'Locrian',pattern:'HWWHWWW',color:'#f1bdd6'},
+ 'classical-melodic-minor':{name:'Melodic minor',pattern:'WHWWWWH',descendingPattern:'WHWWHWW',color:'#d8b8f0'},
+ 'jazz-melodic-minor':{name:'Jazz minor',pattern:'WHWWWWH',color:'#d8b8f0'},
+ 'harmonic-minor':{name:'Harmonic minor',pattern:'WHWWHMH',color:'#d8b8f0'},
+ 'harmonic-major':{name:'Harmonic major',pattern:'WWHWHMH',color:'#a8e6b0'},
+ 'double-harmonic':{name:'Double harmonic',pattern:'HMHWHMH',color:'#e8b9bb'},
+ 'hungarian-minor':{name:'Hungarian minor',pattern:'WHMHHMH',color:'#d8b8f0'},
  'circle-fifths':{name:'Circle of Fifths',steps:[],color:'#a5d9ed'}
 };
+// Symbolic diatonic scale definitions are the single source of truth.
+// Historical and well temperaments use the 12-position identifiers only to
+// choose spelled notes; their sounding pitches remain unequal and spelling-aware.
+const scaleStepSizes=()=>edo31()?{W:5,H:3,M:7}:edo19()?{W:3,H:2,M:4}:edo17()&&!edo17Alternate()?{W:3,H:1,M:5}:edo17Alternate()?{W:3,H:2,M:4}:{W:2,H:1,M:3};
+function cumulativeScaleSteps(pattern,sizes){
+ const steps=[0];for(const symbol of pattern){if(!Object.hasOwn(sizes,symbol))throw Error('Unknown scale interval '+symbol);steps.push(steps[steps.length-1]+sizes[symbol]);}
+ return steps;
+}
+const scalePattern=()=>scaleDescending&&scaleTypes[scaleQuality].descendingPattern?scaleTypes[scaleQuality].descendingPattern:scaleTypes[scaleQuality].pattern;
+// Convert the symbolic pattern into standard twelve-position identifiers for
+// the legacy keyboard, diatonic spelling, and historical-tuning pathways.
+function scaleReferenceSteps(){return cumulativeScaleSteps(scalePattern(),{W:2,H:1,M:3});}
 const scaleChoices=document.getElementById('scaleChoices'),scaleChoicesSecond=document.getElementById('scaleChoicesSecond');for(const [id,sc] of Object.entries(scaleTypes)){const label=document.createElement('label'),input=document.createElement('input');input.type='radio';input.name='musicalShape';input.value=id;input.checked=false;label.append(input,document.createTextNode(' '+sc.name[0].toUpperCase()+sc.name.slice(1)));(Object.keys(scaleTypes).indexOf(id)<=Object.keys(scaleTypes).indexOf('locrian')?scaleChoices:scaleChoicesSecond).append(label);input.addEventListener('change',()=>{if(input.checked){updateMode('scale');scaleQuality=id;scaleDescending=false;render()}})}
 const intervalGroup=document.querySelector('.interval-group');
 const interval17Options=[['single','Unison'],['augUnison17','Augm. Unison'],['minor2','Minor 2nd'],['major2','Major 2nd'],['aug2nd17','Augm. 2nd'],['minor3','Minor 3rd'],['major3','Major 3rd'],['dim4th','Dim. 4th'],['perfect4','Perfect 4th'],['aug4th17','Augm. 4th'],['dim5th17','Dim. 5th'],['perfect5','Perfect 5th'],['aug5th17','Augm. 5th'],['minor6','Minor 6th'],['major6','Major 6th'],['aug6th17','Augm. 6th'],['minor7dyad','Minor 7th'],['major7dyad','Major 7th'],['dimOctave','Dim. octave'],['octave','Octave']];
@@ -263,7 +268,16 @@ function updateIntervalChoices(){
  const perColumn=Math.ceil(options.length/3);
  const cols=[options.slice(0,perColumn),options.slice(perColumn,2*perColumn),options.slice(2*perColumn)];
  intervalGroup.innerHTML=cols.map((entries,i)=>'<div class="interval-col"><div class="group-title'+(i?' interval-spacer':'')+'"'+(i?' aria-hidden="true"':'')+'>Intervals</div>'+entries.map(([id,name])=>'<label><input type="radio" name="musicalShape" value="'+id+'"> '+name+'</label>').join('')+'</div>').join('');
- const checked=document.querySelector('#chordChoices input[name="musicalShape"][value="'+quality+'"]');if(checked)checked.checked=true;
+ // Musical Shape is ONE radio group across Intervals, Triads, Tetrads,
+ // and Scales. Preserve the active selection by category AND value:
+ // the Ionian scale and Major triad both have value="major".
+ const selectedShape=mode==='scale'?scaleQuality:quality;
+ const selectedContainer=mode==='scale'
+  ?[...document.querySelectorAll('#scaleChoices input[name="musicalShape"], #scaleChoicesSecond input[name="musicalShape"]')]
+    .find(r=>r.value===selectedShape)
+  :[...document.querySelectorAll('#chordChoices .chord-group:not(.scale-choices) input[name="musicalShape"]')]
+    .find(r=>r.value===selectedShape);
+ if(selectedContainer)selectedContainer.checked=true;
  intervalGroup.querySelectorAll('input[name="musicalShape"]').forEach(r=>r.addEventListener('change',()=>{if(r.checked){updateMode('chord');quality=r.value;if(quality==='single'&&arpeggioMode)arpeggioMode=false;updateArpeggioVisibility();updatePlayButton();render()}}));
 }
 updateIntervalChoices();
@@ -272,7 +286,7 @@ const circleFifth=()=>edo31()?18:edo19()?11:edo17()?10:7;
 function circleSteps(){const n=division(),k=circleFifth(),out=[0];let p=0;do{p=mod(p+k,n);out.push(p)}while(p!==0&&out.length<=n+1);return out}
 function circleCrossing(i){const ss=circleSteps();return i>0&&ss[i-1]+circleFifth()>=division()}
 const currentType=()=>mode==='scale'?scaleTypes[scaleQuality]:chordTypes[quality];
-const activeScaleSteps=()=>circleMode()?circleSteps():scaleDescending&&scaleTypes[scaleQuality].descendingSteps?scaleTypes[scaleQuality].descendingSteps:scaleTypes[scaleQuality].steps;
+const activeScaleSteps=()=>circleMode()?circleSteps():scaleReferenceSteps();
 const activeSteps=()=>mode==='scale'?activeScaleSteps():!extendedEDO()&&Object.hasOwn(interval12Steps,quality)?[0,interval12Steps[quality]]:chordTypes[quality].steps;
 const sequentialPlayback=()=>mode==='scale'||(mode==='chord'&&arpeggioMode&&quality!=='single');
 const sequenceSteps=()=>circleMode()?circleSteps():mode==='scale'?activeScaleSteps():arpeggioMode&&quality!=='single'?[...activeSteps().filter(step=>step<12),12]:activeSteps();
@@ -376,11 +390,19 @@ function signedIntervalValue(actual, equal){
 // Flatting digits are measured against the conventional 12-EDO pitch of
 // the *spelled note*, never against the nearest EDO key or its index.
 // This preserves the same reference across all equal temperaments.
+// For 12-tone reference calculations and transfers between temperaments,
+// a sesquisharp is treated as a double-sharp, and a sesquiflat as a
+// double-flat. This does NOT change their actual 31-EDO pitch or spelling.
+function conventionalAccidentalSpelling(name){
+ return name.replaceAll('♯↑','𝄪').replaceAll('↑♯','𝄪')
+            .replaceAll('↓♭','𝄫').replaceAll('♭↓','𝄫')
+            .replaceAll('↑','♯').replaceAll('↓','♭');
+}
 function conventionalReference(actual,spelling){
  const letter=letterNames.indexOf(spelling[0]);
  if(letter<0)return actual;
  let semitones=naturalPitches[letter];
- for(const accidental of spelling.slice(1)){
+ for(const accidental of conventionalAccidentalSpelling(spelling).slice(1)){
   if(accidental==='↑')semitones++;
   else if(accidental==='↓')semitones--;
   else if(accidental==='♯')semitones++;
@@ -1036,12 +1058,12 @@ if(temperament==='well')wellPreset=r.value;
 // The same spelling may occupy different pitch positions in each EDO.
 const destinationSpellings=extendedEDO()?edoEnharmonics():rootAlternatives;
 const translatedRootName=previousTemperament==='equal31'&&nextTemperament!=='equal31'
- ?oldRootName.replaceAll('↑','♯').replaceAll('↓','♭'):oldRootName;
+ ?conventionalAccidentalSpelling(oldRootName):oldRootName;
 let target=destinationSpellings.findIndex(options=>options.includes(translatedRootName));
 if(target<0){
  // A spelling absent from the destination uses its 12-tone pitch-class
  // equivalent as a fallback, without changing the selected chord quality.
- const pitchClass=notePitchClass(translatedRootName);
+ const pitchClass=notePitchClass(conventionalAccidentalSpelling(translatedRootName));
  target=edo31()?map12to31[pitchClass]:edo19()?map12to19[pitchClass]:edo17()?(edo17Alternate()?map12to17Alternate:map12to17)[pitchClass]:pitchClass;
 }
 // Choose the nearest octave-equivalent destination pitch, rather than
