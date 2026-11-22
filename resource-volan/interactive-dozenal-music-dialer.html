@@ -1219,8 +1219,8 @@ function armPlaybackLimit(){
  playbackLimitTimer=setTimeout(()=>{
   playbackLimitTimer=null;
   // A newly started sequence must finish at least one complete cycle.
-  if(Date.now()<playbackEarliestStopAt){playbackLimitTimer=setTimeout(()=>{playbackLimitTimer=null;stopScale();stopAudio()},playbackEarliestStopAt-Date.now());return}
-  stopScale();stopAudio();
+  if(Date.now()<playbackEarliestStopAt){playbackLimitTimer=setTimeout(()=>{playbackLimitTimer=null;stopScale();stopAudio();discardAudioContext()},playbackEarliestStopAt-Date.now());return}
+  stopScale();stopAudio();discardAudioContext();
  },Math.max(0,deadline-Date.now()));
 }
 function clearPlaybackLimit(){if(playbackLimitTimer!==null){clearTimeout(playbackLimitTimer);playbackLimitTimer=null}}
@@ -1229,21 +1229,27 @@ for(const eventName of ['pointerdown','pointermove','keydown','input','change','
 function getAudioCtx(){const C=window.AudioContext||window.webkitAudioContext;if(!C)return null;if(!audioCtx||audioCtx.state==='closed')audioCtx=new C();if(audioCtx.state!=='running')audioCtx.resume().catch(()=>{});return audioCtx}
 // iOS may leave an interrupted/suspended context unusable after inactivity.
 // Invoke this directly from the Play gesture, before constructing new voices.
-async function restoreAudioForPlay(){
- const C=window.AudioContext||window.webkitAudioContext;
- if(!C)return false;
- if(!audioCtx||audioCtx.state==='closed')audioCtx=new C();
- if(audioCtx.state==='running')return true;
- try{await audioCtx.resume()}catch(_){}
- if(audioCtx.state==='running')return true;
- // An unresumable context must not keep old oscillators or a stale master.
- const stale=audioCtx;
- stopScale();stopAudio();
- audioCtx=null;oscillators=[];master=null;scaleVoice=null;
- try{audioCtx=new C();await audioCtx.resume()}catch(_){return false}
- if(stale&&stale.state!=='closed')stale.close().catch(()=>{});
- return audioCtx.state==='running';
+function discardAudioContext(){
+ // A WebKit context can report "running" yet be silent after iOS sleep.
+ // Release its complete output graph; a later Play gesture creates a new one.
+ const old=audioCtx;
+ audioCtx=null;master=null;oscillators=[];scaleVoice=null;
+ if(old&&old.state!=='closed')try{old.close().catch(()=>{})}catch(_){}
 }
+function restoreAudioForPlay(){
+ // IMPORTANT: construct/resume during the *synchronous* click gesture on iOS.
+ // Do not await an old context's resume() before constructing a replacement.
+ const C=window.AudioContext||window.webkitAudioContext;
+ if(!C)return null;
+ if(!audioCtx||audioCtx.state!=='running'){
+  discardAudioContext();
+  try{audioCtx=new C()}catch(_){return null}
+ }
+ const ctx=audioCtx;
+ if(ctx.state!=='running')try{ctx.resume().catch(()=>{})}catch(_){}
+ return ctx;
+}
+
 function frequencyForStep(s){if(circleMode())return circleFrequency(s);if(extendedEDO())return 261.625565*Math.pow(2,turn+(root+stepEDO(s))/division());const oct=turn+Math.floor((root+s)/12),units=pitchCentsForStep(s)/1200;return 261.625565*Math.pow(2,oct+units)}
 function frequencies(){return activeSteps().map(frequencyForStep)}
 function updatePlayButton(){const running=sequentialPlayback()?scalePlaying:oscillators.length>0;play.classList.toggle('playing',running);play.textContent=(running?'⏹️Stop ':'▶️Play ')+(mode==='scale'?'Scale':arpeggioMode&&quality!=='single'?'Arpeggio':'Chord');play.setAttribute('aria-label',(running?'Stop ':'Play ')+(mode==='scale'?'Scale':arpeggioMode&&quality!=='single'?'Arpeggio':'Chord'));play.setAttribute('aria-pressed',String(running))}
@@ -1276,15 +1282,104 @@ function stopScale(preserveLimit=false){clearCircleTwinkles();if(!preserveLimit)
 // then resume from the first ascending note after exactly one beat of rest.
 function prepareScaleChange(){const resume=scalePlaying||scaleRestartTimer!==null;if(resume){stopScale(true)}return resume}
 function scheduleScaleRestart(){if(scaleRestartTimer!==null)clearTimeout(scaleRestartTimer);scaleRestartTimer=setTimeout(()=>{scaleRestartTimer=null;if(sequentialPlayback()&&!document.hidden)startScale()},scaleBeatMs)}
-let audioPlayRequest=0;
-play.addEventListener('click',async()=>{
- const request=++audioPlayRequest;
+// Persist the complete user-visible configuration, not playback/audio objects.
+// localStorage survives a refresh and a browser restart (subject to browser policy).
+const SETTINGS_KEY='dozenal-music-dialer.settings.v1';
+let restoringSettings=false,settingsWriteTimer=null;
+function savedSettings(){
+ return {mode,quality,scaleQuality,temperament,wellPreset,root,turn,
+  rootSpellingOverride,enharmonicEnabled,flattingDigits,rotationMode,arpeggioMode,
+  shapeScrollLeft:chordChoices.scrollLeft,temperamentScrollLeft:temperamentChoices.scrollLeft,
+  shapeExpanded:document.querySelector('.topcontrols fieldset:first-child details').open,
+  temperamentExpanded:document.querySelector('.topcontrols fieldset:nth-child(2) details').open};
+}
+function persistSettings(){
+ if(restoringSettings)return;
+ try{localStorage.setItem(SETTINGS_KEY,JSON.stringify(savedSettings()))}catch(_){}
+}
+function scheduleSave(){
+ if(restoringSettings)return;
+ if(settingsWriteTimer!==null)clearTimeout(settingsWriteTimer);
+ settingsWriteTimer=setTimeout(()=>{settingsWriteTimer=null;persistSettings()},0);
+}
+function restoreSettings(){
+ let data;
+ try{data=JSON.parse(localStorage.getItem(SETTINGS_KEY)||'null')}catch(_){return false}
+ if(!data||typeof data!=='object')return false;
+ restoringSettings=true;
+ try{
+  if(['chord','scale'].includes(data.mode))mode=data.mode;
+  if(typeof data.quality==='string'&&Object.hasOwn(chordTypes,data.quality))quality=data.quality;
+  if(typeof data.scaleQuality==='string'&&Object.hasOwn(scaleTypes,data.scaleQuality))scaleQuality=data.scaleQuality;
+  const radio=[...document.querySelectorAll('input[name="temperament"]')].find(r=>r.value===data.temperament);
+  if(radio){radio.checked=true;temperament=['equal','equal17','equal19','equal31'].includes(data.temperament)?data.temperament:'well';
+   if(temperament==='well')wellPreset=data.temperament;
+  }
+  if(typeof data.wellPreset==='string'&&Object.hasOwn(presets,data.wellPreset)&&temperament==='well'){
+   wellPreset=data.wellPreset;
+   const r=document.querySelector('input[name="temperament"][value="'+wellPreset+'"]');if(r)r.checked=true;
+  }
+  if(typeof data.root==='number'&&Number.isFinite(data.root))root=mod(Math.trunc(data.root),division());
+  if(typeof data.turn==='number'&&Number.isFinite(data.turn))turn=Math.max(-6,Math.min(10,Math.trunc(data.turn)));
+  if(typeof data.rootSpellingOverride==='string')rootSpellingOverride=data.rootSpellingOverride;
+  if(typeof data.enharmonicEnabled==='boolean')enharmonicEnabled=data.enharmonicEnabled;
+  if(typeof data.flattingDigits==='boolean')flattingDigits=data.flattingDigits;
+  if(['chord','dial'].includes(data.rotationMode))rotationMode=data.rotationMode;
+  if(typeof data.arpeggioMode==='boolean')arpeggioMode=data.arpeggioMode&&mode==='chord'&&quality!=='single';
+  document.getElementById('enharmonicEnabled').checked=enharmonicEnabled;
+  document.getElementById('flattingDigits').checked=flattingDigits;
+  updateIntervalChoices();
+  const shapeInputs=[...document.querySelectorAll('input[name="musicalShape"]')];
+  const selected=shapeInputs.find(r=>r.value===(mode==='scale'?scaleQuality:quality)&&
+   (mode==='scale'?!!r.closest('.scale-choices'):!r.closest('.scale-choices')));
+  if(selected)selected.checked=true;
+  for(const [id,m] of [['rotateChord','chord'],['rotateDial','dial']]){
+   const b=document.getElementById(id);b.classList.toggle('active',rotationMode===m);b.setAttribute('aria-pressed',String(rotationMode===m));
+  }
+  svg.classList.toggle('rotate-dial',rotationMode==='dial');svg.classList.toggle('rotate-chord',rotationMode==='chord');
+  const details=document.querySelectorAll('.topcontrols fieldset details');
+  if(typeof data.shapeExpanded==='boolean')details[0].open=data.shapeExpanded;
+  if(typeof data.temperamentExpanded==='boolean')details[1].open=data.temperamentExpanded;
+  updateArpeggioVisibility();updatePlayButton();
+  // After layout settles, bring the selected columns into view without
+  // scrolling the entire document. Preserve manually chosen scroll offsets.
+  requestAnimationFrame(()=>requestAnimationFrame(()=>{
+   for(const [scroller,key,selector] of [
+    [chordChoices,'shapeScrollLeft',selected],
+    [temperamentChoices,'temperamentScrollLeft',document.querySelector('input[name="temperament"]:checked')]
+   ]){
+    if(typeof data[key]==='number'&&Number.isFinite(data[key])){
+     scroller.scrollLeft=Math.max(0,data[key]);
+    }
+    if(selector){
+     const label=selector.closest('label');
+     if(label){const left=label.offsetLeft-scroller.offsetLeft;
+      if(left<scroller.scrollLeft||left+label.offsetWidth>scroller.scrollLeft+scroller.clientWidth)
+       scroller.scrollLeft=Math.max(0,left-12);
+     }
+    }
+   }
+   updateChordScrollShades();updateTemperamentScrollShades();
+   restoringSettings=false;persistSettings();
+  }));
+  return true;
+ }catch(e){restoringSettings=false;return false}
+}
+// Capture changes after their normal handlers have updated application state.
+for(const name of ['change','click','pointerup','keyup'])document.addEventListener(name,scheduleSave);
+chordChoices.addEventListener('scroll',scheduleSave,{passive:true});
+temperamentChoices.addEventListener('scroll',scheduleSave,{passive:true});
+window.addEventListener('pagehide',persistSettings);
+document.querySelectorAll('.topcontrols details').forEach(d=>d.addEventListener('toggle',scheduleSave));
+play.addEventListener('click',()=>{
  if(sequentialPlayback()&&scalePlaying){stopScale();return}
  if(!sequentialPlayback()&&oscillators.length){stopAudio();return}
- const ready=await restoreAudioForPlay();
- if(request!==audioPlayRequest||!ready)return;
+ if(!restoreAudioForPlay())return;
  if(sequentialPlayback())startScale();else startAudio();
 });
-document.addEventListener('visibilitychange',()=>{if(document.hidden){stopScale();stopAudio()}});updateArpeggioVisibility();updatePlayButton();
-render()})();
+document.addEventListener('visibilitychange',()=>{
+ if(document.hidden){stopScale();stopAudio();discardAudioContext();persistSettings()}
+});
+restoreSettings();updateArpeggioVisibility();updatePlayButton();render();
+})();
 </script></body></html>
