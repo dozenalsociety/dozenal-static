@@ -57,7 +57,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
 .instructions-wrap{position:relative;text-align:center;margin:0 auto 12px;z-index:5}.instructions-link{border:0;border-bottom:1px dotted #8796a1;background:none;color:#536a80;cursor:pointer;font:600 14px DialNumerals,system-ui,sans-serif;padding:1px 3px 3px}.instructions-panel{position:absolute;top:calc(100% + 9px);left:50%;transform:translateX(-50%);width:min(720px,calc(100vw - 35px));background:#fff;border:1px solid #a9b7c2;border-radius:10px;box-shadow:0 8px 24px #0003;text-align:left;padding:13px 18px;color:#333;font:14px/1.5 DialNumerals,system-ui,sans-serif;z-index:30}.instructions-panel p{margin:4px 0 12px}.instructions-panel p:last-child{margin-bottom:4px}.instructions-panel[hidden]{display:none}.upper-readout{margin:4px auto 8px}.upper-readout #temperInfo{margin-top:5px}#play{margin:10px auto 4px}.keyboard-wrap{width:100%;max-width:690px;margin:0 auto 0;overflow:visible;clip-path:inset(-24px 0 0 0)}.keyboard-wrap svg{width:100%;height:auto;display:block;overflow:visible;user-select:none;touch-action:manipulation}.piano-key{cursor:pointer}.piano-key.inactive{cursor:default}.piano-key:focus-visible{outline:none;filter:drop-shadow(0 0 4px #e9ba20)}.negative-octave{position:relative;display:inline-block;text-decoration:none}.negative-octave::before{content:"";position:absolute;left:0;right:0;top:.19em;border-top:1px solid #000;pointer-events:none}
 .enharmonic-choices{min-height:39px;display:flex;align-items:center;justify-content:center;gap:7px;margin:0 auto 4px}.enharmonic-choices button{border:1px solid #9ba8b1;border-radius:7px;background:#fff;padding:5px 12px;font:600 18px DialNumerals,system-ui,sans-serif;cursor:pointer}.enharmonic-choices button[aria-pressed="true"]{background:#285e84;color:white;border-color:#285e84}.titlebar{display:grid;grid-template-columns:54px minmax(0,1fr) 54px;gap:10px;align-items:center;margin:8px 0 7px}.titlebar h1{margin:0;font-size:clamp(1.55rem,4.3vw,2.8rem)}.mode-button{position:relative;display:grid;place-items:center;width:54px;height:54px;padding:6px;border:1px solid #7b8b9b;border-radius:11px;background:#fff;color:#2378d1;cursor:pointer}.mode-button svg{width:100%;height:100%}.mode-button.active::after{content:"";position:absolute;inset:-5px;border:2px solid #111;border-radius:15px;pointer-events:none}.scale-choices{display:flex;flex-direction:column;gap:9px;font:14px DialNumerals,system-ui,sans-serif}.scale-choices[hidden]{display:none}.scale-choices label{display:flex;gap:5px;align-items:center;cursor:pointer}@media(max-width:460px){.titlebar{grid-template-columns:43px minmax(0,1fr) 43px;gap:7px}.mode-button{width:43px;height:43px}.titlebar h1{font-size:clamp(1.25rem,5vw,1.9rem)}}
 
-.play-rotation-row{display:grid;grid-template-columns:1fr auto 1fr;align-items:start;width:100%;height:48px;margin:9px auto 4px;position:relative;z-index:1}.rotation-controls{display:contents}.rotation-button:first-child{justify-self:start;margin-right:0}.rotation-button:last-child{justify-self:end;margin-left:0}.play-rotation-row #play{grid-column:2;grid-row:1;margin:0}.rotation-button{grid-row:1}.rotation-button:first-child{grid-column:1}.rotation-button:last-child{grid-column:3}.rotation-button{width:76px;height:76px;position:relative;border:1px solid #7b8b9b;border-radius:12px;background:white;padding:5px;cursor:pointer;display:grid;place-items:center}.rotation-button svg{width:100%;height:100%}.rotation-button.active::after{content:"";position:absolute;inset:-5px;border:2px solid #111;border-radius:16px;pointer-events:none}.rotation-button:focus-visible{outline:3px solid #d59d16}#dial.rotate-dial .triangle{cursor:default;pointer-events:none}#dial.rotate-dial #dialDragRing{cursor:grab;pointer-events:stroke}#dial.rotate-dial #dialDragRing:active{cursor:grabbing}#dial.rotate-chord #dialDragRing{pointer-events:none}#dial.dragging-rotation #dialDragRing,#dial.dragging-rotation .triangle{cursor:grabbing!important}
+.play-rotation-row{display:grid;grid-template-columns:1fr auto 1fr;align-items:start;width:100%;height:48px;margin:9px auto 4px;position:relative;z-index:1}.rotation-controls{display:contents}.rotation-button:first-child{justify-self:start;margin-right:0}.rotation-button:last-child{justify-self:end;margin-left:0}.play-rotation-row #play{grid-column:2;grid-row:1;margin:0}.rotation-button{grid-row:1}.rotation-button:first-child{grid-column:1}.rotation-button:last-child{grid-column:3}.rotation-button{width:76px;height:76px;position:relative;border:1px solid #7b8b9b;border-radius:12px;background:white;padding:5px;cursor:pointer;display:grid;place-items:center}.rotation-button svg{width:100%;height:100%}.rotation-button.active::after{content:"";position:absolute;inset:-5px;border:2px solid #111;border-radius:16px;pointer-events:none}.rotation-button:focus-visible{outline:3px solid #d59d16}#dial.rotate-chord .shapeDragDisc{pointer-events:all}#dial.rotate-dial .triangle{cursor:default;pointer-events:none}#dial.rotate-dial #dialDragRing{cursor:grab;pointer-events:stroke}#dial.rotate-dial #dialDragRing:active{cursor:grabbing}#dial.rotate-chord #dialDragRing{pointer-events:none}#dial.dragging-rotation #dialDragRing,#dial.dragging-rotation .triangle{cursor:grabbing!important}
 
 /* Rotation selectors nestle into the northwest/northeast corner whitespace of the circular dial. */
 .dial-stage{position:relative;width:100%;max-width:690px;margin:12px auto 16px;--rotate-size:clamp(38px,11vw,76px)}
@@ -229,8 +229,17 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
 }
 .bravura-accidental.acc-flat{transform:translateY(.14em)!important;}
 .enharmonic-choices button{font-size:18px!important;}
+
+/* Keep spelling buttons at intrinsic width; stack controls only when needed. */
+.enharmonic-row .enharmonic-choices{flex:0 0 auto;min-width:0;width:max-content;max-width:none;padding:0;flex-wrap:nowrap}
+.enharmonic-row .enharmonic-choices button{flex:0 0 auto;white-space:nowrap;min-width:max-content}
+.enharmonic-row.controls-stacked{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:5px 8px;align-items:center}
+.enharmonic-row.controls-stacked .enharmonic-option,.enharmonic-row.controls-stacked .flatting-option{position:static;transform:none;grid-row:1}
+.enharmonic-row.controls-stacked .enharmonic-option{grid-column:1;justify-self:start}
+.enharmonic-row.controls-stacked .flatting-option{grid-column:2;justify-self:end}
+.enharmonic-row.controls-stacked .enharmonic-choices{grid-row:2;grid-column:1/-1;justify-self:center;width:auto;max-width:100%;flex-wrap:wrap}
 </style></head><body><main><div class="titlebar"><button type="button" class="mode-button active" id="chordMode" aria-label="Chord symbol (decorative)" aria-pressed="true" disabled><svg viewBox="0 0 64 64" aria-hidden="true"><g stroke="currentColor" stroke-width="1.1" opacity=".35"><path d="M5 12H59M5 22H59M5 32H59M5 42H59M5 52H59"/></g><path d="M35 12V52" stroke="currentColor" stroke-width="2.6"/><g fill="currentColor"><ellipse cx="29" cy="20" rx="9" ry="5" transform="rotate(-18 29 20)"/><ellipse cx="29" cy="33" rx="9" ry="5" transform="rotate(-18 29 33)"/><ellipse cx="29" cy="46" rx="9" ry="5" transform="rotate(-18 29 46)"/></g></svg></button><h1 id="pageTitle">Interactive Dozenal Music Dialer</h1><button type="button" class="mode-button active" id="scaleMode" aria-label="Scale symbol (decorative)" aria-pressed="true" disabled><svg viewBox="0 0 64 64" aria-hidden="true"><g stroke="currentColor" stroke-width="1.1" opacity=".35"><path d="M5 12H59M5 22H59M5 32H59M5 42H59M5 52H59"/></g><g fill="currentColor"><ellipse cx="9" cy="51" rx="5.8" ry="3.5"/><ellipse cx="18" cy="44" rx="5.8" ry="3.5"/><ellipse cx="27" cy="37" rx="5.8" ry="3.5"/><ellipse cx="36" cy="30" rx="5.8" ry="3.5"/><ellipse cx="45" cy="23" rx="5.8" ry="3.5"/><ellipse cx="54" cy="16" rx="5.8" ry="3.5"/></g></svg></button></div><div class="instructions-wrap"><button id="instructionsToggle" class="instructions-link" type="button" aria-expanded="false" aria-controls="instructionsPanel">Explanation</button><div id="instructionsPanel" class="instructions-panel" hidden><p>Choose an interval, triad, tetrad, or scale in the <strong>Musical Shape</strong> box. The chord and scale symbols flanking the title are decorative; both kinds of musical shapes are always available.</p><p>Musical note-numbers are expressed as dozenal doublings of frequency with respect to C in octave 0 (C<sub>0</sub>). In other words, each note number is the binary logarithm of the ratio of its frequency to the frequency of C<sub>0</sub>, expressed in base twelve.</p><p>The integer digit (whole doubling) encodes the octave number. The first fractional digit (uncia·doubling) encodes the semitone (when rounded). The second and third fractional digits (bicia·doubling and tricia·doubling) are the dozenal equivalents of “dimes” and “cents”.</p><p>Negative octaves are indicated by a line over the whole doubling. However, the fractional digits are always positive.</p><p>Middle C = 4.0<sub>z</sub> doublings. High C = 5.0<sub>z</sub> doublings. Low C = 3.0<sub>z</sub> doublings. Supported notes range from C<sub><span class="negative-octave">1</span></sub> to B<sub id="instructionsHighOctave">↊</sub> (from <span class="negative-octave">1</span>.0<sub>z</sub> to <span id="instructionsHighOctavePosition">↊</span>.<span id="instructionsHighSemitone">↋</span><sub>z</sub> doublings). This covers the MIDI range, plus an octave beyond.</p><p>The polygon inside the dial depicts the chord or scale. The root note of the chord or scale is highlighed on the dial. You can rotate the dial, or rotate the polygon. This is governed by the mode buttons flanking the corners of the dial.</p><p>In the upper left corner of the dial is the <strong>Rotate Polygon</strong> mode button. When it is select, the dial remains fixed and you can grab and drag the polygon to rotate it. Each complete clockwise turn doubles the frequencies. Counterclockwise halves them.</p><p>In the upper right corner of the dial is the <strong>Rotate Dial</strong> mode button. When it is selected, the polygon remains fixed and you can grab and drag the dial to rotate it. Each complete counterclockwise turn doubles the frequencies. Clockwise halves them.</p><p>In either rotation mode, the shape of the polygon adjusts slightly to the positions of the notes, given their offsets from equal temperament.</p><p>The keyboard below also depicts the chord or scale. To pick a new root note, select any key on the keyboard, or use ← or →.</p><p>For intervals, triads, and tetrads, use the Arpeggio Mode button beside Play Chord to play the chord notes plus the upper octave of the root in ascending and descending sequence, with a beat of rest between directions. This button is unavailable for Unison. Press ▶️ to start playing the chord or scale. Press ⏹️ to stop. A scale plays first ascending, then descending, then repeats, with a beat of rest between directions. The tempo is one beat per “beat” (three twinklings) or 40<sub>z</sub> prime·tricia·frequenciels (0.96<sub>d</sub> Hz or 57.6<sub>d</sub> BPM).</p><p>You can adjust settings during playback. Playback continues indefinitely as long as you continue interacting with the Dialer. Otherwise, after one trice (50<sub>d</sub> seconds) without user input, a scale or arpeggio finishes its current ascending-and-descending iteration (including the final rest) before stopping. Other playback stops at the timeout.</p></div></div><div class="topcontrols"><fieldset class="collapsible-settings"><details open><summary id="qualityLegend">Musical Shape</summary><div id="chordScroll" class="chord-scroll"><div id="chordChoices" class="chord-columns"><div class="chord-group interval-group"><div class="interval-col"><div class="group-title">Intervals</div><label><input type="radio" name="musicalShape" value="single"> Unison</label><label><input type="radio" name="musicalShape" value="minor2"> Minor 2nd</label><label><input type="radio" name="musicalShape" value="major2"> Major 2nd</label><label><input type="radio" name="musicalShape" value="minor3"> Minor 3rd</label><label><input type="radio" name="musicalShape" value="major3"> Major 3rd</label><label><input type="radio" name="musicalShape" value="perfect4"> Perfect 4th</label><label><input type="radio" name="musicalShape" value="tritone"> Tritone</label></div><div class="interval-col"><div class="group-title interval-spacer" aria-hidden="true">Intervals</div><label><input type="radio" name="musicalShape" value="perfect5"> Perfect 5th</label><label><input type="radio" name="musicalShape" value="minor6"> Minor 6th</label><label><input type="radio" name="musicalShape" value="major6"> Major 6th</label><label><input type="radio" name="musicalShape" value="minor7dyad"> Minor 7th</label><label><input type="radio" name="musicalShape" value="major7dyad"> Major 7th</label><label><input type="radio" name="musicalShape" value="octave"> Octave</label></div></div><div class="chord-group"><div class="group-title">Triads</div><label><input type="radio" name="musicalShape" value="major" checked> Major</label><label><input type="radio" name="musicalShape" value="minor"> Minor</label><label><input type="radio" name="musicalShape" value="diminished"> Diminished</label><label><input type="radio" name="musicalShape" value="augmented"> Augmented</label><label><input type="radio" name="musicalShape" value="sus2"> Suspended 2nd (sus2)</label><label><input type="radio" name="musicalShape" value="sus4"> Suspended 4th (sus4)</label><label><input type="radio" name="musicalShape" value="major-flat5"> Major ♭5</label><label><input type="radio" name="musicalShape" value="minor-flat5"> Minor ♭5</label></div><div class="chord-group"><div class="group-title">Tetrads</div><label><input type="radio" name="musicalShape" value="major7"> Major 7th</label><label><input type="radio" name="musicalShape" value="minor7"> Minor 7th</label><label><input type="radio" name="musicalShape" value="dominant7"> Major-minor 7th</label><label><input type="radio" name="musicalShape" value="minor-major7"> Minor-major 7th</label><label><input type="radio" name="musicalShape" value="half-diminished7"> Half-diminished 7th</label><label><input type="radio" name="musicalShape" value="diminished7"> Diminished 7th</label><label><input type="radio" name="musicalShape" value="augmented-major7"> Augmented major 7th</label><label><input type="radio" name="musicalShape" value="dominant7sus4"> Suspended 7th (7sus4)</label></div><div id="scaleChoices" class="chord-group scale-choices"><div class="group-title">Scales</div></div><div id="scaleChoicesSecond" class="chord-group scale-choices"><div class="group-title" aria-hidden="true">&nbsp;</div></div><div id="specialChoices" class="chord-group special-choices"><div class="group-title">Special</div></div></div><span class="scroll-shade left"></span><span class="scroll-shade right"></span></div></details></fieldset><fieldset class="collapsible-settings"><details open><summary>Temperament</summary><div id="temperamentScroll" class="chord-scroll temperament-scroll"><div id="temperamentChoices" class="chord-columns temperament-columns"><div class="chord-group temperament-list"><div class="group-title">Equal Temperaments</div><label><input type="radio" name="temperament" value="equal" checked> <span>10<sub class="edo-base">z</sub>-EDO</span></label><label><input type="radio" name="temperament" value="equal17"> <span>15<sub class="edo-base">z</sub>-EDO</span></label><label><input type="radio" name="temperament" value="equal19"> <span>17<sub class="edo-base">z</sub>-EDO</span></label><label><input type="radio" name="temperament" value="equal31"> <span>27<sub class="edo-base">z</sub>-EDO</span></label></div><div class="chord-group temperament-list"><div class="group-title">Historical Tunings</div><label><input type="radio" name="temperament" value="pythagorean"> Pythagorean Tuning (wolf fifth G♯–E♭)</label><label><input type="radio" name="temperament" value="quarter-comma"> Quarter-Comma Meantone (wolf fifth G♯–E♭)</label></div><div class="chord-group temperament-list"><div class="group-title">Well Temperaments</div><label><input type="radio" name="temperament" value="werckmeister"> <a href="https://www.hpschd.nu/tech/tmp/werckmeister.html" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Werckmeister III</a></label><label><input type="radio" name="temperament" value="kirnberger"> <a href="https://ratioscore.humdrum.org/kirnberger/" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Kirnberger III</a></label><label><input type="radio" name="temperament" value="vallotti"> <a href="https://www.hpschd.nu/tech/tmp/vallotti.html" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Vallotti</a></label><label><input type="radio" name="temperament" value="young"> <a href="https://hpschd.nu/tech/tmp/young.html" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Young II</a></label><label><input type="radio" name="temperament" value="neidhardt"> <a href="https://kilchb.de/2023/temperament_in_bachs_well_tempered_clavi.pdf" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Neidhardt 1724 (Village)</a></label></div></div><span class="scroll-shade left"></span><span class="scroll-shade right"></span></div></details></fieldset></div>
-<div class="readout upper-readout" aria-live="polite"><div class="enharmonic-row"><label id="enharmonicOption" class="enharmonic-option" hidden><input id="enharmonicEnabled" type="checkbox" checked> Enharmonic</label><div id="enharmonicChoices" class="enharmonic-choices" role="group" aria-label="Root note spelling"></div><label class="flatting-option"><input id="flattingDigits" type="checkbox" checked> Flatting digits</label></div><div id="chordName" class="chord-heading"><span class="note-slot"><span>C</span><span class="accidental"></span></span><strong>major chord</strong></div><div id="notes" class="chord-notes">4.000<sub>z</sub> C 4.400<sub>z</sub> E 4.700<sub>z</sub> G</div></div><div class="detail" id="temperInfo"></div><div class="play-rotation-row"><button id="play" type="button" aria-label="Play chord" aria-pressed="false">▶️Play Chord</button><button id="arpeggioMode" class="mode-button arpeggio-button" type="button" aria-label="Arpeggio mode" title="Arpeggio mode" aria-pressed="false" hidden><svg viewBox="0 0 64 64" aria-hidden="true"><g stroke="currentColor" stroke-width="1.1" opacity=".35"><path d="M5 12H59M5 22H59M5 32H59M5 42H59M5 52H59"/></g><g fill="currentColor"><ellipse cx="10" cy="42" rx="5.4" ry="3.5"/><ellipse cx="21" cy="32" rx="5.4" ry="3.5"/><ellipse cx="32" cy="22" rx="5.4" ry="3.5"/><ellipse cx="43" cy="32" rx="5.4" ry="3.5"/><ellipse cx="54" cy="42" rx="5.4" ry="3.5"/></g></svg></button></div><div class="dial-stage"><div class="rotation-controls" role="group" aria-label="Dial rotation mode"><button type="button" id="rotateChord" class="rotation-button active" aria-pressed="true" aria-label="Rotate chord or scale" title="Rotate chord/scale"><svg viewBox="0 0 100 100" aria-hidden="true"></svg></button><button type="button" id="rotateDial" class="rotation-button" aria-pressed="false" aria-label="Rotate dial" title="Rotate dial"><svg viewBox="0 0 100 100" aria-hidden="true"></svg></button></div><svg id="dial" class="dial rotate-chord" style="font-family:DialNumerals,system-ui,sans-serif" viewBox="0 0 700 700" role="img" aria-label="Interactive chromatic chord dialer with snapped, draggable chord polygon"><circle cx="350" cy="350" r="341" fill="#fff" stroke="#222" stroke-width="2.5"/><circle cx="350" cy="350" r="295" fill="none" stroke="#444" stroke-width="1.2"/><circle cx="350" cy="350" r="250" fill="none" stroke="#222" stroke-width="2.6"/><g id="fineMarks"></g><g id="marks"></g><g id="noteMarks"></g><g id="tri" class="triangle"><path id="poly" stroke="#1c2933" stroke-width="3" stroke-linejoin="round"/><circle cx="350" cy="350" r="12" fill="white" stroke="#222" stroke-width="1.4"/></g><circle cx="350" cy="350" r="4" fill="#222" pointer-events="none"/><circle id="dialDragRing" cx="350" cy="350" r="295" fill="none" stroke="transparent" stroke-width="91" pointer-events="none"/></svg></div>
+<div class="readout upper-readout" aria-live="polite"><div class="enharmonic-row"><label id="enharmonicOption" class="enharmonic-option" hidden><input id="enharmonicEnabled" type="checkbox" checked> Enharmonic</label><div id="enharmonicChoices" class="enharmonic-choices" role="group" aria-label="Root note spelling"></div><label class="flatting-option"><input id="flattingDigits" type="checkbox" checked> Flatting digits</label></div><div id="chordName" class="chord-heading"><span class="note-slot"><span>C</span><span class="accidental"></span></span><strong>major chord</strong></div><div id="notes" class="chord-notes">4.000<sub>z</sub> C 4.400<sub>z</sub> E 4.700<sub>z</sub> G</div></div><div class="detail" id="temperInfo"></div><div class="play-rotation-row"><button id="play" type="button" aria-label="Play chord" aria-pressed="false">▶️Play Chord</button><button id="arpeggioMode" class="mode-button arpeggio-button" type="button" aria-label="Arpeggio mode" title="Arpeggio mode" aria-pressed="false" hidden><svg viewBox="0 0 64 64" aria-hidden="true"><g stroke="currentColor" stroke-width="1.1" opacity=".35"><path d="M5 12H59M5 22H59M5 32H59M5 42H59M5 52H59"/></g><g fill="currentColor"><ellipse cx="10" cy="42" rx="5.4" ry="3.5"/><ellipse cx="21" cy="32" rx="5.4" ry="3.5"/><ellipse cx="32" cy="22" rx="5.4" ry="3.5"/><ellipse cx="43" cy="32" rx="5.4" ry="3.5"/><ellipse cx="54" cy="42" rx="5.4" ry="3.5"/></g></svg></button></div><div class="dial-stage"><div class="rotation-controls" role="group" aria-label="Dial rotation mode"><button type="button" id="rotateChord" class="rotation-button active" aria-pressed="true" aria-label="Rotate chord or scale" title="Rotate chord/scale"><svg viewBox="0 0 100 100" aria-hidden="true"></svg></button><button type="button" id="rotateDial" class="rotation-button" aria-pressed="false" aria-label="Rotate dial" title="Rotate dial"><svg viewBox="0 0 100 100" aria-hidden="true"></svg></button></div><svg id="dial" class="dial rotate-chord" style="font-family:DialNumerals,system-ui,sans-serif" viewBox="0 0 700 700" role="img" aria-label="Interactive chromatic chord dialer with snapped, draggable chord polygon"><circle cx="350" cy="350" r="341" fill="#fff" stroke="#222" stroke-width="2.5"/><circle cx="350" cy="350" r="295" fill="none" stroke="#444" stroke-width="1.2"/><circle cx="350" cy="350" r="250" fill="none" stroke="#222" stroke-width="2.6"/><g id="fineMarks"></g><g id="marks"></g><g id="noteMarks"></g><g id="tri" class="triangle"><circle cx="350" cy="350" r="250" fill="transparent" pointer-events="none" class="shapeDragDisc"/><path id="poly" stroke="#1c2933" stroke-width="3" stroke-linejoin="round"/><circle cx="350" cy="350" r="12" fill="white" stroke="#222" stroke-width="1.4"/></g><circle cx="350" cy="350" r="4" fill="#222" pointer-events="none"/><circle id="dialDragRing" cx="350" cy="350" r="295" fill="none" stroke="transparent" stroke-width="91" pointer-events="none"/></svg></div>
 <div class="keyboard-wrap"><svg id="keyboard" viewBox="0 0 700 172" role="group" aria-label="Piano keyboard for choosing chord roots"></svg></div><footer>Interactive adaptation of the Dozenal Society of America's <a href="https://dozenal.org/resource-hammond-chord-dialer">Chord Dialier</a>, by Donald "Troy" Hammond.</footer></main><script>
 (()=>{'use strict';const ns='http://www.w3.org/2000/svg',notes=['C','C♯','D','D♯','E','F','F♯','G','G♯','A','A♯','B'],isMobileBrowser=(navigator.userAgentData?.mobile === true || /Android|iPhone|iPad|iPod|Mobile|Opera Mini|IEMobile/i.test(navigator.userAgent)),digits=['0','1','2','3','4','5','6','7','8','9','↊','↋'],marks=document.getElementById('marks'),noteMarks=document.getElementById('noteMarks'),fineMarks=document.getElementById('fineMarks'),tri=document.getElementById('tri'),poly=document.getElementById('poly'),keyboard=document.getElementById('keyboard'),svg=document.getElementById('dial'),play=document.getElementById('play');function buildEDOEnharmonics(canon,naturals,div,sharp,semis=false){
  const groups=canon.map(name=>[name]);
@@ -243,7 +252,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
  }
  return groups;
 }
-const names17Alternate=['C','C♯','D♭','D','D♯','E♭','E','F','F♯','G♭','G','G♯','A♭','A','A♯','B♭','B'];const names17=['C','D♭','C♯','D','E♭','D♯','E','F','G♭','F♯','G','A♭','G♯','A','B♭','A♯','B'];const natural17=[0,3,6,7,10,13,16];const enharmonic17Alternate=[['C','B♯'],['C♯','B𝄪','D𝄫'],['D♭','C𝄪'],['D'],['D♯','E𝄫'],['E♭','D𝄪','F𝄫'],['E','F♭'],['F','E♯'],['F♯','E𝄪','G𝄫'],['G♭','F𝄪'],['G'],['G♯','A𝄫'],['A♭','G𝄪'],['A'],['A♯','B𝄫'],['B♭','A𝄪','C𝄫'],['B','C♭']];const enharmonic17=buildEDOEnharmonics(names17,natural17,17,2);const map12to17Alternate=[0,1,3,4,6,7,8,10,11,13,14,16];const map12to17=[0,2,3,5,6,7,9,10,12,13,15,16];const edo17Alternate=()=>temperament==='equal17Alternate';const edo17=()=>temperament==='equal17'||edo17Alternate();const edo19=()=>temperament==='equal19';const edo31=()=>temperament==='equal31';const extendedEDO=()=>edo17()||edo19()||edo31();const division=()=>edo31()?31:edo19()?19:edo17()?17:12;const mod=(x,n)=>((x%n)+n)%n;const interval17StepsAlternate={single:0,augUnison17:1,minor2:2,major2:3,aug2nd17:4,minor3:5,major3:6,dim4th:6,perfect4:7,aug4th17:8,dim5th17:9,perfect5:10,aug5th17:11,minor6:12,major6:13,aug6th17:14,minor7dyad:15,major7dyad:16,dimOctave:16};const interval17Steps={single:0,augUnison17:2,minor2:1,major2:3,aug2nd17:5,minor3:4,major3:6,dim4th:5,perfect4:7,aug4th17:9,dim5th17:8,perfect5:10,aug5th17:12,minor6:11,major6:13,aug6th17:15,minor7dyad:14,major7dyad:16,dimOctave:15};const step17=s=>edo17()&&mode==='chord'&&Object.hasOwn(edo17Alternate()?interval17StepsAlternate:interval17Steps,quality)&&s!==0?(edo17Alternate()?interval17StepsAlternate:interval17Steps)[quality]:Math.floor(s/12)*17+(edo17Alternate()?map12to17Alternate:map12to17)[mod(s,12)];const names19=['C','C♯','D♭','D','D♯','E♭','E','E♯','F','F♯','G♭','G','G♯','A♭','A','A♯','B♭','B','B♯'];const natural19=[0,3,6,8,11,14,17];const enharmonic19=buildEDOEnharmonics(names19,natural19,19,1);const map12to19=[0,1,3,4,6,8,9,11,12,14,16,17];const interval19Steps={single:0,augUnison17:1,minor2:2,major2:3,aug2nd17:4,minor3:5,major3:6,dim4th:7,perfect4:8,aug4th17:9,dim5th17:10,perfect5:11,aug5th17:12,minor6:13,major6:14,aug6th17:15,minor7dyad:16,major7dyad:17,dimOctave:18,octave:19};const names31=['C','C↑','C♯','D♭','D↓','D','D↑','D♯','E♭','E↓','E','E↑','F↓','F','F↑','F♯','G♭','G↓','G','G↑','G♯','A♭','A↓','A','A↑','A♯','B♭','B↓','B','B↑','C↓'];
+const names17Alternate=['C','C♯','D♭','D','D♯','E♭','E','F','F♯','G♭','G','G♯','A♭','A','A♯','B♭','B'];const names17=['C','C↑','D↓','D','D↑','E↓','E','F','F↑','G↓','G','G↑','A↓','A','A↑','B↓','B'];const natural17=[0,3,6,7,10,13,16];const enharmonic17Alternate=[['C','B♯'],['C♯','B𝄪','D𝄫'],['D♭','C𝄪'],['D'],['D♯','E𝄫'],['E♭','D𝄪','F𝄫'],['E','F♭'],['F','E♯'],['F♯','E𝄪','G𝄫'],['G♭','F𝄪'],['G'],['G♯','A𝄫'],['A♭','G𝄪'],['A'],['A♯','B𝄫'],['B♭','A𝄪','C𝄫'],['B','C♭']];const enharmonic17=buildEDOEnharmonics(names17,natural17,17,2,true);const map12to17Alternate=[0,1,3,4,6,7,8,10,11,13,14,16];const map12to17=[0,2,3,5,6,7,9,10,12,13,15,16];const edo17Alternate=()=>temperament==='equal17Alternate';const edo17=()=>temperament==='equal17'||edo17Alternate();const edo19=()=>temperament==='equal19';const edo31=()=>temperament==='equal31';const extendedEDO=()=>edo17()||edo19()||edo31();const division=()=>edo31()?31:edo19()?19:edo17()?17:12;const mod=(x,n)=>((x%n)+n)%n;const interval17StepsAlternate={single:0,augUnison17:1,minor2:2,major2:3,aug2nd17:4,minor3:5,major3:6,dim4th:6,perfect4:7,aug4th17:8,dim5th17:9,perfect5:10,aug5th17:11,minor6:12,major6:13,aug6th17:14,minor7dyad:15,major7dyad:16,dimOctave:16};const interval17Steps={single:0,augUnison17:2,minor2:1,major2:3,aug2nd17:5,minor3:4,major3:6,dim4th:5,perfect4:7,aug4th17:9,dim5th17:8,perfect5:10,aug5th17:12,minor6:11,major6:13,aug6th17:15,minor7dyad:14,major7dyad:16,dimOctave:15};const step17=s=>edo17()&&mode==='chord'&&Object.hasOwn(edo17Alternate()?interval17StepsAlternate:interval17Steps,quality)&&s!==0?(edo17Alternate()?interval17StepsAlternate:interval17Steps)[quality]:Math.floor(s/12)*17+(edo17Alternate()?map12to17Alternate:map12to17)[mod(s,12)];const names19=['C','C♯','D♭','D','D♯','E♭','E','E♯','F','F♯','G♭','G','G♯','A♭','A','A♯','B♭','B','B♯'];const natural19=[0,3,6,8,11,14,17];const enharmonic19=buildEDOEnharmonics(names19,natural19,19,1);const map12to19=[0,1,3,4,6,8,9,11,12,14,16,17];const interval19Steps={single:0,augUnison17:1,minor2:2,major2:3,aug2nd17:4,minor3:5,major3:6,dim4th:7,perfect4:8,aug4th17:9,dim5th17:10,perfect5:11,aug5th17:12,minor6:13,major6:14,aug6th17:15,minor7dyad:16,major7dyad:17,dimOctave:18,octave:19};const names31=['C','C↑','C♯','D♭','D↓','D','D↑','D♯','E♭','E↓','E','E↑','F↓','F','F↑','F♯','G♭','G↓','G','G↑','G♯','A♭','A↓','A','A↑','A♯','B♭','B↓','B','B↑','C↓'];
 
 const natural31=[0,5,10,13,18,23,28];const enharmonic31=buildEDOEnharmonics(names31,natural31,31,2,true);
 const map12to31=[0,2,5,7,10,13,15,18,20,23,25,28];
@@ -390,7 +399,7 @@ const scalePattern=()=>scaleDescending&&scaleTypes[scaleQuality].descendingPatte
 // Convert the symbolic pattern into standard twelve-position identifiers for
 // the legacy keyboard, diatonic spelling, and historical-tuning pathways.
 function scaleReferenceSteps(){return cumulativeScaleSteps(scalePattern(),{W:2,H:1,M:3});}
-const scaleChoices=document.getElementById('scaleChoices'),scaleChoicesSecond=document.getElementById('scaleChoicesSecond'),specialChoices=document.getElementById('specialChoices');for(const [id,sc] of Object.entries(scaleTypes)){const label=document.createElement('label'),input=document.createElement('input');input.type='radio';input.name='musicalShape';input.value=id;input.checked=false;label.append(input,document.createTextNode(' '+sc.name[0].toUpperCase()+sc.name.slice(1)));(id==='circle-fifths'?specialChoices:Object.keys(scaleTypes).indexOf(id)<=Object.keys(scaleTypes).indexOf('locrian')?scaleChoices:scaleChoicesSecond).append(label);input.addEventListener('change',()=>{if(input.checked){updateMode('scale');scaleQuality=id;scaleDescending=false;render()}})}
+const scaleChoices=document.getElementById('scaleChoices'),scaleChoicesSecond=document.getElementById('scaleChoicesSecond'),specialChoices=document.getElementById('specialChoices');for(const [id,sc] of Object.entries(scaleTypes)){const label=document.createElement('label'),input=document.createElement('input');input.type='radio';input.name='musicalShape';input.value=id;input.checked=false;label.append(input,document.createTextNode(' '+sc.name[0].toUpperCase()+sc.name.slice(1)));(id==='circle-fifths'?specialChoices:Object.keys(scaleTypes).indexOf(id)<=Object.keys(scaleTypes).indexOf('locrian')?scaleChoices:scaleChoicesSecond).append(label);input.addEventListener('change',()=>{if(input.checked){updateMode('scale');scaleQuality=id;scaleDescending=false;updatePlayButton();render()}})}
 const intervalGroup=document.querySelector('.interval-group');
 const interval17Options=[['single','Unison'],['augUnison17','Augm. Unison'],['minor2','Minor 2nd'],['major2','Major 2nd'],['aug2nd17','Augm. 2nd'],['minor3','Minor 3rd'],['major3','Major 3rd'],['dim4th','Dim. 4th'],['perfect4','Perfect 4th'],['aug4th17','Augm. 4th'],['dim5th17','Dim. 5th'],['perfect5','Perfect 5th'],['aug5th17','Augm. 5th'],['minor6','Minor 6th'],['major6','Major 6th'],['aug6th17','Augm. 6th'],['minor7dyad','Minor 7th'],['major7dyad','Major 7th'],['dimOctave','Dim. octave'],['octave','Octave']];
 const interval12Steps={augUnison17:1,aug2nd17:3,dim4th:4,aug4th17:6,dim5th17:6,aug5th17:8,aug6th17:10,dimOctave:11};
@@ -416,14 +425,269 @@ const circleMode=()=>mode==='scale'&&scaleQuality==='circle-fifths';
 const circleFifth=()=>edo31()?18:edo19()?11:edo17()?10:7;
 function circleSteps(){const n=division(),k=circleFifth(),out=[0];let p=0;do{p=mod(p+k,n);out.push(p)}while(p!==0&&out.length<=n+1);return out}
 // The twelve-division Circle of Fifths uses a rolling thirteen-note spelling
-// window, but the note-number readout uses fixed pitch-class slots. The two long source lists are deliberately retained verbatim; only
+// window, while the first twelve readout slots retain fixed pitch classes. The two long source lists are deliberately retained verbatim; only
 // the B-double-sharp -> F-triple-sharp bridge is enharmonically rewritten
 // halfway through its beat.
-const circle12SharpSequence=`F C G D A E B F# C# G# D# A# E# B# F## C## G## D## A## E## B## F### C### G### D### A### E### B### F#### C#### G#### D#### A####`.split(' ');
-const circle12FlatSequence=`Ebbb Bbbb Fbb Cbb Gbb Dbb Abb Ebb Bbb Fb Cb Gb Db Ab Eb Bb F`.split(' ');
+// The authoritative fifth-spelling chain: nine complete accidental classes,
+// from quadruple-flat through quadruple-sharp, seven letters per class.
+// The chain is independent of temperament; pitch classes are computed below.
+const fifthLetters='FCGDAEB';
+const canonicalFifthSpellings=Array.from({length:9},(_,classIndex)=>
+ Array.from(fifthLetters,letter=>letter+(classIndex<4?'b'.repeat(4-classIndex):'#'.repeat(classIndex-4)))).flat();
+const canonicalFifthIndex=raw=>canonicalFifthSpellings.indexOf(raw);
+const canonicalFifthAt=index=>canonicalFifthSpellings[index];
+// Legacy traversal segments are views into the canonical chain, not separately
+// maintained spelling inventories. The playback bridges remain EDO-specific.
+const circle12SharpSequence=canonicalFifthSpellings.slice(canonicalFifthIndex('F'));
+const circle12FlatSequence=canonicalFifthSpellings.slice(canonicalFifthIndex('Ebbb'),canonicalFifthIndex('F')+1);
 const circle12Cycle=[...circle12SharpSequence.slice(0,21),...circle12FlatSequence.slice(1,-1)];
+// Every supported EDO maps ALL 63 canonical spellings to a pitch class,
+// including hypothetical spellings that are not selectable as roots.
+function canonicalFifthPitchClass(raw,edo=division()){
+ const letter=letterNames.indexOf(raw[0]);
+ if(letter<0||!/^[A-G][#b]*$/.test(raw))throw new Error('Invalid canonical fifth spelling: '+raw);
+ const marks=raw.slice(1);
+ const alteration=marks.startsWith('b')?-marks.length:marks.length;
+ const naturals=edo===12?naturalPitches:edo===17?natural17:edo===19?natural19:edo===31?natural31:null;
+ if(!naturals)throw new Error('Unsupported EDO for fifth spelling: '+edo);
+ const step=edo===17?2:1;
+ return mod(naturals[letter]+alteration*step,edo);
+}
+function canonicalFifthPitchClasses(edo){
+ return canonicalFifthSpellings.map(raw=>canonicalFifthPitchClass(raw,edo));
+}
 const circle12BridgeIndex=20;
 const circle12WindowSize=13; // 11[z] note names
+// A common canonical fifth-spelling source serves the 12-, 17-, and 19-step
+// systems. The bridge is temperament-specific; 31-EDO is intentionally untouched.
+function fractional17(){return edo17()&&!edo17Alternate();}
+function fractionalName(letter,delta){
+ const n=Math.abs(delta),d=Math.floor(n/4),q=Math.floor(n%4/2),h=n%2;
+ return letter+(delta<0?'↓'.repeat(h)+'𝄫'.repeat(d)+'♭'.repeat(q):'𝄪'.repeat(d)+'♯'.repeat(q)+'↑'.repeat(h));
+}
+// Fractional chain coordinate: F sestertiflat = 0, B sestertisharp = 41.
+function fractionalAt(i){return fractionalName(fifthLetters[mod(i,7)],2*Math.floor(i/7)-5);}
+function fractionalIndex(name){return ((accidental31(name)+5)/2)*7+fifthLetters.indexOf(name[0]);}
+// 31-EDO: shortest closed interval tour, with root-dependent accidental ceiling.
+const mixed31Cache=new Map();
+function mixed31Tour(rootName){
+ if(mixed31Cache.has(rootName))return mixed31Cache.get(rootName);
+ const next=(name)=>{const i=fifthLetters.indexOf(name[0]);return fractionalName(fifthLetters[(i+1)%7],accidental31(name)+(i===6?2:0));};
+ const pitch=name=>mod(natural31[letterNames.indexOf(name[0])]+accidental31(name),31);
+ const opening=[rootName,next(rootName)];
+ const ceiling=Math.max(4,...opening.map(n=>Math.abs(accidental31(n))));
+ const nodes=[];
+ for(let a=-ceiling;a<=ceiling;a++)for(const l of fifthLetters){const name=fractionalName(l,a),top=next(name);if(Math.abs(accidental31(top))<=ceiling)nodes.push([name,top]);}
+ const start=nodes.findIndex(p=>p[0]===fractionalName(rootName[0],accidental31(rootName)));
+ const edges=nodes.map((p,i)=>nodes.flatMap((q,j)=>q[0]===p[1]?[{j,d:1}]:i!==j&&pitch(p[0])===pitch(q[0])&&pitch(p[1])===pitch(q[1])?[{j,d:0}]:[]));
+ // Breadth first by beats; among equal lengths minimize accidental magnitude sum.
+ let frontier=[{i:start,a:0,path:[start],cost:0}],seen=new Set([start+':0']);
+ let result=null;
+ while(frontier.length&&!result){const layer=new Map();for(const st of frontier)for(const e of edges[st.i]){
+  const a=st.a+e.d;if(a>62)continue;
+  const path=[...st.path,e.j],cost=st.cost+nodes[e.j].reduce((v,n)=>v+Math.abs(accidental31(n)),0);
+  if(e.j===start&&a>=31&&a%31===0){if(!result||cost<result.cost)result={path,cost};continue;}
+  const key=e.j+':'+a;if(seen.has(key))continue;
+  if(!layer.has(key)||layer.get(key).cost>cost)layer.set(key,{i:e.j,a,path,cost});
+ }frontier=[...layer.values()];for(const key of layer.keys())seen.add(key);}
+ if(!result)throw new Error('No 31-EDO fifth tour for '+rootName);
+ const pairs=result.path.slice(0,-1).map(i=>nodes[i].slice());
+ pairs[0][0]=rootName;
+ const tour={pairs,ceiling};mixed31Cache.set(rootName,tour);return tour;
+}
+function mixed31Window(tour,beat){
+ const pairs=tour.pairs,L=pairs.length,first=pairs[beat%L],names=[first[0],first[1]];
+ let last=first;
+ for(let k=1;names.length<32;k++){
+  const p=pairs[(beat+k)%L];
+  if(fifthSpellingPitch(p[0])!==fifthSpellingPitch(last[0]))names.push(p[1]);
+  else {
+   // Anticipate the bridge, but never overwrite the current sounding pair.
+   const j=names.length-2;
+   if(j>=2)names[j]=p[0];
+   if(j+1>=2)names[j+1]=p[1];
+  }
+  last=p;
+ }
+ return names;
+}
+// Find the next canonical arrival at a retired pitch, not a moving
+// lookahead snapshot that may include a later enharmonic restatement.
+function mixed31NextArrival(tour,beat,name){
+ const pairs=tour.pairs,L=pairs.length,pitch=fifthSpellingPitch(name);
+ for(let k=0;k<=L;k++){
+  const p=pairs[(beat+k)%L];
+  if(fifthSpellingPitch(p[1])===pitch)return p[1];
+ }
+ throw new Error('Missing future fifth arrival');
+}
+function mixed31Advance(state,cfg){
+ const beat=state.mixedBeat??0,tour=cfg.tour,pair=tour.pairs[beat%tour.pairs.length];
+ const moved=beat>0&&fifthSpellingPitch(pair[0])!==fifthSpellingPitch(state.pair[0]);
+ const old=state.highlightSlot??0,j=beat===0?0:(old+(moved?1:0))%31;
+ if(beat===0)state.names=mixed31Window(tour,0);
+ if(moved){
+  state.names[old]=mixed31NextArrival(tour,beat,state.pair[0]);
+  // At the block boundary the extra endpoint becomes the next arrival
+  // at the root pitch. Do not rewrite any other unplayed slot.
+  if(j===0)state.names[31]=mixed31NextArrival(tour,beat,pair[0]);
+ }
+ state.names[j]=pair[0];
+ state.names[j+1]=pair[1];
+ // The closing top is also the next block's bottom, unless a later
+ // bridge changes its spelling when that interval actually sounds.
+ if(j===30)state.names[0]=pair[1];
+ state.slot=j;state.pair=pair.slice();state.highlightSlot=j;state.mixedBeat=beat+1;return state;
+}
+
+function fifthSpellingConfig(){
+ const n=division();
+ if(n===31)return {n,window:32,mixed:true,tour:mixed31Tour(chosenRootName())};
+ if(fractional17()&&Math.abs(accidental31(chosenRootName()))%2){
+  const cycle=Array.from({length:35},(_,i)=>fractionalAt(i+6));
+  return {n,bridge:34,cycle,window:18,fractional:true};
+ }
+ if(n===12)return {n,bridge:20,flatStart:0,cycle:circle12Cycle,window:13};
+ if(n===17||n===19){
+  const bridge=n===17?20:23; // 15[z]: B##–F###; 17[z]: G###–D###
+  const flatStart=n===17?2:1; // 15[z] respells B##–F### as Fbb–Cbb (NOT Fb–Cb)
+  return {n,bridge,flatStart,cycle:[...circle12SharpSequence.slice(0,bridge+1),...circle12FlatSequence.slice(n===19?flatStart+1:flatStart,-1)],window:n+1,explicitBridge:n===17};
+ }
+ return null;
+}
+function fifthSpellingPitch(name){
+ const n=division();
+ if(n===12)return notePitchClass(name);
+ const letter=letterNames.indexOf(name[0]);
+ if(letter<0)return 0;
+ if(n===31)return mod(natural31[letter]+accidental31(name),n);
+ if(fractional17())return mod(natural17[letter]+accidental31(name),n);
+ const marks=accidentalCount(name);
+ return mod((n===17?natural17:n===19?natural19:edoNatural())[letter]+marks*(n===17?2:1),n);
+}
+function fifthSpellingRootIndex(){
+ const cfg=fifthSpellingConfig();if(!cfg)return 0;
+ if(cfg.mixed)return 0;
+ const name=chosenRootName();
+ const direct=cfg.cycle.findIndex(raw=>circle12Name(raw)===name);
+ return direct>=0?direct:cfg.cycle.findIndex(raw=>fifthSpellingPitch(circle12Name(raw))===root);
+}
+// One authoritative state for the 12-, 17-, and 19-step Circle of Fifths.
+// The 31-step Circle retains its separate, established behavior.
+let circleTraversal=null;
+function circleRawPitch(raw){return canonicalFifthPitchClass(raw,division())}
+function circleRootCursor(){return fifthSpellingRootIndex()}
+function circleInitialNames(index){
+ const cfg=fifthSpellingConfig(),O=cfg.n,cycle=cfg.cycle;
+ if(cfg.mixed)return mixed31Window(cfg.tour,0);
+ if(cfg.fractional)return Array.from({length:O+1},(_,i)=>fractionalAt(index+6+i));
+ // A sharpward window deliberately continues in sharp spellings until the
+ // bridge actually sounds. It must not pre-emptively switch to flats.
+ if(index<=cfg.bridge){
+  const first=canonicalFifthIndex(cycle[index]);
+  return Array.from({length:O+1},(_,i)=>circle12Name(canonicalFifthAt(first+i)??
+   fifthLetters[(first+i)%7]+'#'.repeat(Math.floor((first+i-28)/7))));
+ }
+ return Array.from({length:O+1},(_,i)=>circle12Name(cycle[(index+i)%cycle.length]));
+}
+function circleBridgePair(){
+ const cfg=fifthSpellingConfig();
+ if(cfg.fractional)return [fractionalAt(6),fractionalAt(7)];
+ return [circle12Name(circle12FlatSequence[cfg.flatStart]),circle12Name(circle12FlatSequence[cfg.flatStart+1])];
+}
+function circleBridgeSharpPair(){
+ const cfg=fifthSpellingConfig();
+ if(cfg.fractional)return [fractionalAt(40),fractionalAt(41)];
+ const first=canonicalFifthIndex(cfg.cycle[cfg.bridge]);
+ return [circle12Name(canonicalFifthAt(first)),circle12Name(canonicalFifthAt(first+1))];
+}
+function circleStartTraversal(index){
+ const cfg=fifthSpellingConfig();
+ circleTraversal={cycleIndex:index,names:circleInitialNames(index),slot:0,
+  bridgeFlatPending:false,bridgeUsed:false,phase:0,pair:null};
+}
+function circleIndexOfName(name){
+ const cfg=fifthSpellingConfig();
+ const found=cfg.cycle.findIndex(raw=>circle12Name(raw)===name);
+ if(found>=0)return found;
+ // The endpoint may be a hypothetical sharp spelling outside the cycle.
+ // It must not be silently replaced by an unrelated enharmonic root.
+ throw new Error('Circle traversal endpoint not in canonical cycle: '+name);
+}
+function circleNextSpelling(name){
+ if(fifthSpellingConfig()?.fractional)return fractionalAt(fractionalIndex(name)+1);
+ const letter=fifthLetters.indexOf(name[0]);
+ const alteration=accidentalCount(name);
+ const next=letter===6?alteration+1:alteration;
+ return circle12Name(fifthLetters[(letter+1)%7]+(next<0?'b'.repeat(-next):'#'.repeat(next)));
+}
+// Lookahead follows the bridge in equal-pitch geometry, but retains the
+// uninterrupted fifth chain for historical enharmonic pitch geometry.
+function circleAnticipatesBridge(){
+ return !(division()===12&&temperament==='well'&&enharmonicEnabled);
+}
+function circleLookaheadSpelling(name){
+ if(!circleAnticipatesBridge())return name;
+ const cfg=fifthSpellingConfig();
+ if(cfg.fractional){const i=fractionalIndex(name);return fractionalAt(i>41?i-34:i);}
+ const index=(accidentalCount(name)+4)*7+fifthLetters.indexOf(name[0]);
+ const sharpTop=canonicalFifthIndex(cfg.cycle[cfg.bridge])+1;
+ if(index<=sharpTop)return name;
+ const flatTop=canonicalFifthIndex(circle12FlatSequence[cfg.flatStart])+1;
+ return circle12Name(canonicalFifthAt(flatTop+index-sharpTop));
+}
+function circleAdvanceTraversal(){
+ const cfg=fifthSpellingConfig();
+ if(!circleTraversal)circleStartTraversal(circleRootCursor());
+ const state=circleTraversal,O=cfg.n;
+ if(cfg.mixed)return mixed31Advance(state,cfg);
+ // Retire the previous bottom only after its full beat. The sharp bridge
+ // bottom remains in place until its flatward counterpart has sounded.
+ if(state.pair&&!state.bridgeFlatPending){
+  const retired=state.highlightSlot;
+  state.names[retired]=circleLookaheadSpelling(state.future);
+  state.future=circleNextSpelling(state.future);
+ }
+ if(state.slot===O){
+  // All O fixed slots have already been reassigned incrementally.
+  // The old endpoint is now slot zero; only the extra endpoint changes.
+  state.names[O]=circleLookaheadSpelling(state.future);
+  state.slot=0;
+  state.bridgeUsed=false;
+ }
+ if(!state.future)state.future=state.names[O];
+ const j=state.slot,sharp=circleBridgeSharpPair();
+ if(!state.bridgeUsed&&!state.bridgeFlatPending&&state.names[j]===sharp[0]&&state.names[j+1]===sharp[1]){
+  state.bridgeFlatPending=true;
+  state.pair=sharp.slice();state.highlightSlot=j;return state;
+ }
+ if(state.bridgeFlatPending){
+  const flat=circleBridgePair();
+  const flatStart=cfg.fractional?6:canonicalFifthIndex(circle12FlatSequence[cfg.flatStart]);
+  // Rebase the unplayed suffix and the already retired slots' future
+  // assignments on the flatward chain, preserving fixed pitch classes.
+  for(let i=j;i<=O;i++)state.names[i]=cfg.fractional?fractionalAt(flatStart+i-j):circle12Name(canonicalFifthAt(flatStart+i-j));
+  state.future=state.names[O];
+  for(let i=0;i<j;i++){
+   state.names[i]=state.future;
+   state.future=circleNextSpelling(state.future);
+  }
+  state.bridgeFlatPending=false;state.bridgeUsed=true;
+  state.pair=flat;state.highlightSlot=j;state.slot++;return state;
+ }
+ state.pair=state.names.slice(j,j+2);
+ state.highlightSlot=j;state.slot++;return state;
+}
+function circleVisibleNames(){
+ if(circleMode()&&scalePlaying&&circleTraversal)return circleTraversal.names;
+ const cfg=fifthSpellingConfig();return cfg?circleInitialNames(circleRootCursor()):[];
+}
+function fifthSpellingCursor(){return circleTraversal?.cycleIndex??circleRootCursor()}
+function fifthSpellingWindowAt(index){return circleInitialNames(index)}
+function fifthSpellingWindow(){return circleVisibleNames()}
+function fifthSpellingRootEndpoint(){const cfg=fifthSpellingConfig();return cfg?circleInitialNames(circleRootCursor())[cfg.n]:null}
+function extendedFifthsCircle(){return circleMode()&&(division()===17||division()===19||division()===31)}
+
 function circle12Name(raw){
  const match=/^([A-G])([#b]*)$/.exec(raw);
  if(!match)return raw;
@@ -435,28 +699,21 @@ function circle12RootIndex(){
  const found=circle12Cycle.findIndex(n=>circle12Name(n)===rootName);
  return found>=0?found:circle12Cycle.findIndex(n=>notePitchClass(circle12Name(n))===root);
 }
-function circle12Cursor(){return mod(circle12RootIndex()+(scalePlaying&&scaleStep>=0?scaleStep:0),circle12Cycle.length)}
-function circle12Window(){
- const cursor=circle12Cursor();
- // This bridge is a wholesale enharmonic replacement of all thirteen
- // visible spellings, not just the two notes currently sounding.
- if(cursor===circle12BridgeIndex&&circle12BridgeRespelling)
-  return circle12FlatSequence.slice(0,circle12WindowSize).map(circle12Name);
- // Until the bridge, retain the sharp-side continuation, including
- // hypothetical triple/quadruple sharps needed to fill the keyboard.
- if(cursor<=circle12BridgeIndex)
-  return Array.from({length:circle12WindowSize},(_,i)=>circle12Name(
-   circle12SharpSequence[cursor+i]??circle12Cycle[(cursor+i)%circle12Cycle.length]));
- // On the flat side, wrap directly from B-flat -> F -> C.
- return Array.from({length:circle12WindowSize},(_,i)=>
-  circle12Name(circle12Cycle[(cursor+i)%circle12Cycle.length]));
+function circle12Cursor(){return fifthSpellingCursor()}
+function circle12WindowAt(index){return circleInitialNames(index)}
+function circle12Window(){return circleVisibleNames()}
+function circleGeometryWindow(){
+ const names=circleVisibleNames(),st=circleTraversal;
+ if(!scalePlaying||!st||st.highlightSlot===undefined)return names;
+ const j=st.highlightSlot;
+ return [...names.slice(j,12),...names.slice(0,j),st.future];
 }
 let circle12BridgeRespelling=false,circle12BridgeTimer=null;
 function clearCircle12Bridge(){if(circle12BridgeTimer!==null)clearTimeout(circle12BridgeTimer);circle12BridgeTimer=null;circle12BridgeRespelling=false}
-function circlePlayingIndices(){return circleMode()&&scalePlaying&&scaleStep>=0?(division()===12?[0,1]:[scaleStep,scaleStep+1]):[]}
+function circlePlayingIndices(){return circleMode()&&scalePlaying&&scaleStep>=0?(fifthSpellingConfig()?[circleTraversal?.highlightSlot??0,(circleTraversal?.highlightSlot??0)+1]:[scaleStep,scaleStep+1]):[]}
 function circlePlayingSteps(){
- if(circleMode()&&division()===12&&scalePlaying&&scaleStep>=0)
-  return circle12Window().slice(0,2).map(name=>mod(notePitchClass(name)-root,12));
+ if(circleMode()&&fifthSpellingConfig()&&scalePlaying&&scaleStep>=0)
+  return (circleTraversal?.pair??fifthSpellingWindow().slice(0,2)).map(name=>mod(fifthSpellingPitch(name)-root,division()));
  const steps=circleSteps();return circlePlayingIndices().filter(i=>i<steps.length).map(i=>steps[i]);
 }
 // Keep the tonic highlighted on the dial when the Circle of Fifths is idle.
@@ -903,6 +1160,20 @@ function spellingForDegree(rootName,degree,semitones){const start=letterNames.in
 // Preserve the requested diatonic letter degree and use the smallest
 // signed alteration, with doubles and singles of the same direction.
 function spelling17ForDegree(rootName,degree,step){
+ if(fractional17()){
+  if(step===0)return rootName;
+  const target=mod(letterNames.indexOf(rootName[0])+degree,7),a=accidental31(rootName);
+  const raw=mod(root+stepEDO(step)-natural17[target],17);
+  const candidates=[raw-34,raw-17,raw,raw+17];
+  // Preserve family where a reasonably bounded spelling exists; avoid
+  // extreme accidentals when a different family is musically necessary.
+  const bounded=candidates.filter(v=>Math.abs(v)<=8);
+  const pool=bounded.length?bounded:candidates;
+  const rank=v=>[Math.abs(v-a)%2, v*a<0?1:0,Math.abs(v)];
+  pool.sort((x,y)=>{const a=rank(x),b=rank(y);return a[0]-b[0]||a[1]-b[1]||a[2]-b[2]});
+  return fractionalName(letterNames[target],pool[0]);
+ }
+
  const target=(letterNames.indexOf(rootName[0])+degree)%7;
  const desired=mod(root+stepEDO(step),division());
  const base=edoNatural()[target];
@@ -933,7 +1204,7 @@ function spelling31ForDegree(tonic,degree,step){
  return letterNames[target]+(delta>0?'𝄪'.repeat(doubleCount)+'♯'.repeat(singleCount)+'↑'.repeat(semi):delta<0?'𝄫'.repeat(doubleCount)+'♭'.repeat(singleCount)+'↓'.repeat(semi):'');
 }
 function accidental31(name){let n=0;for(const c of Array.from(name.slice(1))){if(c==='𝄪')n+=4;else if(c==='𝄫')n-=4;else if(c==='♯')n+=2;else if(c==='♭')n-=2;else if(c==='↑')n++;else if(c==='↓')n--;}return n;}
-function spelledNotes(steps){if(circleMode()){const names=extendedEDO()?edoNames():notes;return steps.map(s=>s===0?chosenRootName():names[mod(root+s,division())]);}if(extendedEDO()){const degrees=mode==='scale'?steps.map((_,i)=>i):chordDegrees[quality]||steps.map((_,i)=>i);const tonic=chosenRootName();return steps.map((step,i)=>{const spelling=edo31()?spelling31ForDegree(tonic,degrees[i],step):spelling17ForDegree(tonic,degrees[i],step);if(!edo31()&&mode==='chord'&&steps.length>=3){
+function spelledNotes(steps){if(circleMode()){const names=extendedEDO()?edoNames():notes;return steps.map(s=>s===0?chosenRootName():names[mod(root+s,division())]);}if(extendedEDO()){const degrees=mode==='scale'?steps.map((_,i)=>i):chordDegrees[quality]||steps.map((_,i)=>i);const tonic=chosenRootName();return steps.map((step,i)=>{const spelling=edo31()?spelling31ForDegree(tonic,degrees[i],step):spelling17ForDegree(tonic,degrees[i],step);if(!edo31()&&!fractional17()&&mode==='chord'&&steps.length>=3){
  // Triads and tetrads use the same conventional chord-tone names as 10[z]-EDO.
  // Only spelling is borrowed: retain each extended-EDO pitch and its playback.
  const referenceStep=chordTypes[quality].steps[i];
@@ -943,23 +1214,63 @@ function spelledNotes(steps){if(circleMode()){const names=extendedEDO()?edoNames
  if(delta>6)delta-=12;
  return letter+(delta>0?'𝄪'.repeat(Math.floor(delta/2))+(delta%2?'♯':''):delta<0?'𝄫'.repeat(Math.floor(-delta/2))+(-delta%2?'♭':''): '');
  }return spelling;});}if(nonEnharmonicEnabled())return steps.map(step=>fixedKeyboardSpellings[(root+step)%12]);const rootName=chosenRootName();const degrees=mode==='scale'?steps.map((_,i)=>i):chordDegrees[quality]||steps.map((_,i)=>i);return steps.map((step,i)=>spellingForDegree(rootName,degrees[i],step))}
+// Presentation order only: negative accidentals, natural, positive accidentals.
+// Do not reorder the source alternatives: their order participates in default selection.
+function accidentalClassOrder(name){
+ let value=0;
+ for(const c of Array.from(name.slice(1))){
+  if(c==='𝄫')value-=4;
+  else if(c==='♭')value-=2;
+  else if(c==='↓')value-=1;
+  else if(c==='↑')value+=1;
+  else if(c==='♯')value+=2;
+  else if(c==='𝄪')value+=4;
+ }
+ return value;
+}
+function displayedRootOptions(options){return options.slice().sort((a,b)=>accidentalClassOrder(a)-accidentalClassOrder(b));}
+
+function updateEnharmonicLayout(){
+ const row=document.querySelector('.enharmonic-row');
+ const holder=document.getElementById('enharmonicChoices');
+ const left=document.getElementById('enharmonicOption');
+ const right=row.querySelector('.flatting-option');
+ const buttons=Array.from(holder.children);
+ const gap=parseFloat(getComputedStyle(holder).columnGap)||0;
+ const needed=buttons.reduce((sum,b)=>sum+b.getBoundingClientRect().width,0)+Math.max(0,buttons.length-1)*gap;
+ const side=Math.max(left.hidden?0:left.getBoundingClientRect().width,right.getBoundingClientRect().width);
+ row.classList.toggle('controls-stacked',buttons.length>0&&needed+2*(side+8)>row.clientWidth);
+}
+const spellingLayoutObserver=new ResizeObserver(updateEnharmonicLayout);
+for(const el of document.querySelectorAll('.enharmonic-row,.enharmonic-choices,.enharmonic-option,.flatting-option'))spellingLayoutObserver.observe(el);
+new MutationObserver(updateEnharmonicLayout).observe(document.getElementById('enharmonicChoices'),{childList:true});
+if(document.fonts)document.fonts.ready.then(updateEnharmonicLayout);
+
 function renderRootChoices(){
  if(extendedEDO()){
   document.getElementById('enharmonicOption').hidden=true;
   const holder=document.getElementById('enharmonicChoices'),options=rootOptions17(root),signature=temperament+':'+root+':'+chosenRootName();
   if(signature===rootChoiceSignature)return;
   rootChoiceSignature=signature;holder.replaceChildren();
-  if(options.length>1)for(const name of options){const b=document.createElement('button');b.type='button';b.innerHTML=semiHTML(name);b.setAttribute('aria-pressed',String(name===chosenRootName()));b.addEventListener('click',()=>{if(chosenRootName()===name)return;const resume=sequentialPlayback()&&prepareScaleChange();rootSpellingOverride=name;rootChoiceSignature='';render();if(resume)scheduleScaleRestart()});holder.append(b)}
+  if(options.length>1)for(const name of displayedRootOptions(options)){const b=document.createElement('button');b.type='button';b.innerHTML=semiHTML(name);b.setAttribute('aria-pressed',String(name===chosenRootName()));b.addEventListener('click',()=>{if(chosenRootName()===name)return;const resume=sequentialPlayback()&&prepareScaleChange();rootSpellingOverride=name;rootChoiceSignature='';render();if(resume)scheduleScaleRestart()});holder.append(b)}
   return;
  }
  const checkbox=document.getElementById('enharmonicOption');checkbox.hidden=temperament!=='well';
  const holder=document.getElementById('enharmonicChoices');
  if(nonEnharmonicEnabled()){holder.replaceChildren();rootChoiceSignature='';return}
- const options=rootAlternatives[root];const signature=temperament+':'+wellPreset+':'+root+':'+chosenRootName();if(signature===rootChoiceSignature)return;rootChoiceSignature=signature;holder.replaceChildren();if(options.length<2)return;for(const name of options){const b=document.createElement('button');b.type='button';b.innerHTML=semiHTML(name);b.setAttribute('aria-pressed',String(name===chosenRootName()));b.addEventListener('click',()=>{if(chosenRootName()===name)return;const resume=sequentialPlayback()&&prepareScaleChange();rootSpellingOverride=name;rootChoiceSignature='';render();if(resume)scheduleScaleRestart()});holder.append(b)}}
+ const options=rootAlternatives[root];const signature=temperament+':'+wellPreset+':'+root+':'+chosenRootName();if(signature===rootChoiceSignature)return;rootChoiceSignature=signature;holder.replaceChildren();if(options.length<2)return;for(const name of displayedRootOptions(options)){const b=document.createElement('button');b.type='button';b.innerHTML=semiHTML(name);b.setAttribute('aria-pressed',String(name===chosenRootName()));b.addEventListener('click',()=>{if(chosenRootName()===name)return;const resume=sequentialPlayback()&&prepareScaleChange();rootSpellingOverride=name;rootChoiceSignature='';render();if(resume)scheduleScaleRestart()});holder.append(b)}}
 // Reuse the same per-pitch spelling for the dial and the keyboard.
 // Only notes belonging to the current chord or scale replace canonical labels.
 function activeSpellings17(){
  const labels=edoNames().slice(),active=activeSteps(),spellings=spelledNotes(active);
+ if(extendedFifthsCircle()){
+  const seen=new Set();
+  for(const name of [...(division()===31&&scalePlaying&&circleTraversal?.pair?circleTraversal.pair:[]),...fifthSpellingWindow()]){
+   const pc=fifthSpellingPitch(name);
+   if(!seen.has(pc)){labels[pc]=name;seen.add(pc)}
+  }
+  return labels;
+ }
  active.forEach((step,i)=>{
   if(mode==='scale'&&i===active.length-1)return; // repeated upper tonic
   labels[mod(root+stepEDO(step),division())]=spellings[i];
@@ -1130,7 +1441,7 @@ function circlePolygon(pts){return 'M '+pts.map(p=>p.join(' ')).join(' L ')+' Z'
 function convexHull(points){const ps=[...points].sort((a,b)=>a[0]-b[0]||a[1]-b[1]);const cross=(o,a,b)=>(a[0]-o[0])*(b[1]-o[1])-(a[1]-o[1])*(b[0]-o[0]);const lo=[],hi=[];for(const p of ps){while(lo.length>1&&cross(lo[lo.length-2],lo[lo.length-1],p)<=0)lo.pop();lo.push(p)}for(const p of ps.slice().reverse()){while(hi.length>1&&cross(hi[hi.length-2],hi[hi.length-1],p)<=0)hi.pop();hi.push(p)}lo.pop();hi.pop();return lo.concat(hi)}
 const circleFill=node('path',{fill:'#a5d9ed','fill-opacity':'.40',stroke:'none','pointer-events':'none'},tri);tri.insertBefore(circleFill,poly);
 function setCircleShape(pts){const on=circleMode();circleFill.style.display='none';if(on){if(circleMode()&&division()===12&&temperament==='well'&&enharmonicEnabled){
-  const vertices=circle12Window().map(name=>rotationPoint(mod(spelledPitchCents(name),1200)*144/1200,250));
+  const vertices=circleGeometryWindow().map(name=>rotationPoint(mod(spelledPitchCents(name),1200)*144/1200,250));
   circleFill.style.display='';circleFill.setAttribute('d',circlePolygon(vertices));circleFill.setAttribute('fill',currentType().color);circleFill.setAttribute('fill-opacity','.48');
   poly.setAttribute('d','M '+vertices.map(p=>p.join(' ')).join(' L '));poly.setAttribute('fill','none');poly.setAttribute('stroke','#1c2933');poly.setAttribute('pointer-events','visibleStroke');return;
  }poly.setAttribute('d',circlePolygon(pts));poly.setAttribute('fill',currentType().color);poly.setAttribute('fill-opacity','.48');poly.setAttribute('fill-rule','nonzero');poly.setAttribute('pointer-events','visiblePainted');poly.setAttribute('stroke','#1c2933')}else{poly.removeAttribute('fill-rule');poly.removeAttribute('pointer-events')}}
@@ -1151,26 +1462,39 @@ function noteReadoutEntry(numberHTML,name,sounding=false){
 function renderNoteReadout(entries){
  return entries.map(entry=>noteReadoutEntry(entry.number,entry.name,entry.sounding)).join('');
 }
-function circle12FixedReadout(){
- const windowNames=circle12Window();
- const byClass=new Map(windowNames.slice(0,12).map(name=>[notePitchClass(name),name]));
- const fixedSteps=circleSteps();
- const playingClasses=new Set(scalePlaying&&scaleStep>=0?windowNames.slice(0,2).map(notePitchClass):[]);
- const historical=temperament==='well'&&enharmonicEnabled;
- // The readout has twelve fixed pitch-class slots. As the fifths window
- // advances, its incoming note replaces the outgoing note in that slot.
- // In unequal tunings, recompute the number from the incoming spelling.
- // The thirteenth window note is a distinct dial endpoint, NOT an extra
- // readout entry or a copy of the next pitch number.
- return renderNoteReadout(fixedSteps.slice(0,12).map(step=>{
-  const pitchClass=mod(root+step,12);
-  const name=byClass.get(pitchClass);
-  const value=historical?4+turn+spelledPitchCents(name)/1200:circleNumber(step);
-  return {number:triciaValue(value),name,sounding:playingClasses.has(pitchClass)};
- }));
+// The readout is a chain of O fifths and O+1 distinct *positions*.
+// It is anchored for a full O-beat traversal, including the final endpoint.
+// Only after that endpoint has sounded does it become the first entry of
+// the next traversal. Do not replace the endpoint with the incoming note.
+// A traversal contains O consecutive fifths and O+1 displayed spellings.
+// On the second (flatward) bridge beat, respell the sounding pair IN PLACE,
+// and every following slot from the canonical flatward sequence. Earlier
+// slots are untouched. The endpoint is never copied from the next cursor.
+function fifthReadoutTraversal(){
+ const cfg=fifthSpellingConfig();if(!cfg)return null;
+ const playing=scalePlaying&&scaleStep>=0&&circleTraversal!==null;
+ return {names:circleVisibleNames(),O:cfg.n,
+  beatInBlock:playing?circleTraversal.highlightSlot:-1};
 }
+function sharedFifthsReadout(){
+ const traversal=fifthReadoutTraversal();
+ const {names,O,beatInBlock}=traversal;
+ const historical=O===12&&temperament==='well'&&enharmonicEnabled;
+ const pitchOf=O===12?notePitchClass:fifthSpellingPitch;
+ const steps=circleSteps();
+ const entries=names.map((name,i)=>{
+  const pc=pitchOf(name);
+  const step=mod(pc-root,O);
+  const value=historical?4+turn+spelledPitchCents(name)/1200:circleNumber(step);
+  return {number:formattedNoteNumber(value,conventionalReference(value,name)),name,
+   sounding:beatInBlock>=0&&(i===beatInBlock||i===beatInBlock+1)};
+ });
+ return renderNoteReadout(entries);
+}
+function circle12FixedReadout(){return sharedFifthsReadout()}
 function higherEdoCircleReadout(){
- // The full fifths traversal, including its returning tonic, is preserved.
+ if(extendedFifthsCircle())return sharedFifthsReadout();
+ // The 31-EDO Circle of Fifths retains its original behavior.
  const names=spelledNotes(activeSteps());
  return renderNoteReadout(circleSteps().map((step,index)=>({
   number:triciaValue(circleNumber(step)),name:names[index],
@@ -1178,15 +1502,43 @@ function higherEdoCircleReadout(){
  })));
 }
 let noteGridLayoutCache=null;
+// Preview the same traversal engine without changing live playback state.
+function circleLayoutSamples(cfg){
+ const saved=circleTraversal, samples=Array.from({length:cfg.window},()=>new Set());
+ const collect=()=>circleTraversal.names.forEach((name,i)=>samples[i]?.add(name));
+ try{
+  circleStartTraversal(circleRootCursor());collect();
+  let opening=null;
+  const seen=new Set();
+  for(let beat=0;beat<4096;beat++){
+   circleAdvanceTraversal();collect();
+   const pair=circleTraversal.pair;
+   if(opening&&sameSpelledInterval(pair,opening))break;
+   if(!opening)opening=pair.slice();
+   const key=JSON.stringify(circleTraversal);
+   if(seen.has(key))break;
+   seen.add(key);
+  }
+ }finally{circleTraversal=saved;}
+ return samples;
+}
+function circleLayoutEntry(name,cfg){
+ const O=cfg.n,pc=(O===12?notePitchClass:fifthSpellingPitch)(name);
+ const historical=O===12&&temperament==='well'&&enharmonicEnabled;
+ const value=historical?4+turn+spelledPitchCents(name)/1200:circleNumber(mod(pc-root,O));
+ return noteReadoutEntry(formattedNoteNumber(value,conventionalReference(value,name)),name,true);
+}
 function layoutNoteGrid(){
  const grid=document.getElementById('notes');
  const notes=[...grid.querySelectorAll('.chord-note')];
  if(!notes.length)return;
  const available=grid.parentElement.clientWidth;
  // Highlighting must not invalidate a layout. Re-rendered note content may.
- const signature=grid.innerHTML.replace(/\s+sounding(?=["\s])/g,'');
+ const cfg=circleMode()?fifthSpellingConfig():null;
+ const signature=cfg?JSON.stringify(['circle',cfg.n,chosenRootName(),root,turn,temperament,wellPreset,enharmonicEnabled,flattingDigits,notes.length,document.fonts?.status]):grid.innerHTML.replace(/\s+sounding(?=["\s])/g,'');
  if(noteGridLayoutCache && noteGridLayoutCache.signature===signature &&
     Math.abs(noteGridLayoutCache.available-available)<1){
+  grid.style.setProperty('--note-pairs-per-row',noteGridLayoutCache.chosen);
   grid.style.gridTemplateColumns=noteGridLayoutCache.tracks;
   return;
  }
@@ -1213,7 +1565,7 @@ function layoutNoteGrid(){
    sample.remove();
   }
  }
- const measures=notes.map(note=>{
+ const measureNote=note=>{
   const sample=note.cloneNode(true);
   sample.classList.add('sounding');
   sample.style.cssText='display:inline-flex;width:max-content;white-space:nowrap;font-weight:700;';
@@ -1228,10 +1580,27 @@ function layoutNoteGrid(){
   number.style.cssText='display:inline-block;white-space:nowrap;padding:0 .18em 0 0;margin:0;';
   name.style.cssText='display:inline-flex;white-space:nowrap;padding:0 1em 0 0;margin:0;';
   const sizes=[Math.ceil(number.getBoundingClientRect().width)+2,
-    Math.ceil(Math.max(widestName,name.getBoundingClientRect().width))+2];
+    Math.ceil(Math.max(cfg?0:widestName,name.getBoundingClientRect().width))+2];
   sample.remove();
   return sizes;
- });
+ };
+ const measures=notes.map(measureNote);
+ if(cfg){
+  const samples=circleLayoutSamples(cfg);
+  const measured=new Map();
+  samples.forEach((names,i)=>{
+   if(!measures[i])return;
+   for(const name of names){
+    const html=circleLayoutEntry(name,cfg);
+    if(!measured.has(html)){
+     const holder=document.createElement('div');holder.innerHTML=html;
+     measured.set(html,measureNote(holder.firstElementChild));
+    }
+    const sizes=measured.get(html);
+    measures[i]=measures[i].map((v,k)=>Math.max(v,sizes[k]));
+   }
+  });
+ }
  probe.remove();
  function tracksFor(columns){
   const widths=Array(columns*2).fill(0);
@@ -1253,15 +1622,16 @@ function layoutNoteGrid(){
  const tracks=chosenTracks.widths.map(w=>w+'px').join(' ');
  grid.style.setProperty('--note-pairs-per-row',chosen);
  grid.style.gridTemplateColumns=tracks;
- noteGridLayoutCache={signature,available,tracks};
+ noteGridLayoutCache={signature,available,tracks,chosen};
 }
 window.addEventListener('resize',layoutNoteGrid);
+ document.fonts?.ready.then(()=>{noteGridLayoutCache=null;layoutNoteGrid();});
 function render(){if(extendedEDO()){render17();return}marks.replaceChildren();noteMarks.replaceChildren();const pos=positions();fineMarks.setAttribute('transform',rotationMode==='dial'?`rotate(${-30*root} 350 350)`:'');renderRootChoices();const dialNames=dialSpellings();
  const circleWell= circleMode()&&temperament==='well'&&enharmonicEnabled;
- const circleWindow=circleWell?circle12Window():null;
+ const circleWindow=circleWell?circleGeometryWindow():null;
  if(circleWell){for(const name of circleWindow){const p=mod(spelledPitchCents(name),1200)*144/1200;const [x1,y1]=rotationPoint(p,226),[x2,y2]=rotationPoint(p,250);node('line',{x1,y1,x2,y2,stroke:'#1767cc','stroke-width':3.5,'stroke-linecap':'round'},noteMarks)}}
  for(let i=0;i<12;i++){const[x1,y1]=rotationPoint(i*12,226),[x2,y2]=rotationPoint(i*12,250);node('line',{x1,y1,x2,y2,stroke:'#222','stroke-width':1.8},marks);const[bx,by]=rotationPoint(pos[i],226),[ex,ey]=rotationPoint(pos[i],250);if(!circleWell)node('line',{x1:bx,y1:by,x2:ex,y2:ey,stroke:'#1767cc','stroke-width':3.5,'stroke-linecap':'round'},noteMarks);const[nx,ny]=rotationPoint(circleWell?mod(spelledPitchCents(dialNames[i]),1200)*144/1200:pos[i],272.5),[dx,dy]=rotationPoint(i*12,318);if(circleMode()?circleDialSteps().some(s=>i===mod(root+s,12)):i===(sequentialPlayback()&&scalePlaying&&scaleStep>=0?(root+sequenceSteps()[scaleStep])%12:root)){const boxWidth=39;node('rect',{x:nx-boxWidth/2,y:ny-boxWidth/2,width:boxWidth,height:boxWidth,rx:7,ry:7,fill:'#1767cc'},marks)}const t=node('text',{x:nx,y:ny+4,'text-anchor':'middle','dominant-baseline':'middle','font-size':23,'font-weight':'600',fill:(circleMode()?circleDialSteps().some(s=>i===mod(root+s,12)):i===(sequentialPlayback()&&scalePlaying&&scaleStep>=0?(root+sequenceSteps()[scaleStep])%12:root))?'#fff':'#1767cc'},marks);setSVGNoteLabel(t,dialNames[i],nx,ny,23);centerDialNote(t,nx,ny);const d=node('text',{x:dx,y:dy,'text-anchor':'middle','dominant-baseline':'middle','font-size':24},marks);{const upperTonicPlaying=!circleMode()&&sequentialPlayback()&&scalePlaying&&(scaleStep===sequenceSteps().length-1||upperTonicRest)&&i===root;const pitch=pitchLabel(12*(4+turn)+i+(i<root?12:0)+(upperTonicPlaying?12:0));setOctaveSVGText(d,pitch.oct,pitch.suffix,.56)}}
-// The thirteenth fifths-window vertex is a separately tuned pitch in an
+// Only the enharmonic historical thirteenth vertex is separately tuned in an
 // enharmonic historical temperament. Show its spelling at its own dial angle,
 // even though it shares a chromatic pitch class with the first vertex.
 // Draw after the twelve conventional labels so the extra endpoint is visible.
@@ -1385,6 +1755,8 @@ rootChoiceSignature='';
 updateIntervalChoices();render()}}));
 let audioCtx=null,oscillators=[],master=null;
 // Stop after 50 seconds without user interaction, including during scale-change pauses.
+const circlePlaybackTimeoutEnabled=false; // Temporarily disabled only for Circle of Fifths.
+const circleRepeatEnabled=false; // Temporarily play one complete spelling cycle only.
 let playbackLimitTimer=null;
 let playbackLastInputAt=0,playbackStopAtCycleEnd=false;
 function sequenceCycleDurationMs(){
@@ -1398,6 +1770,7 @@ function armPlaybackLimit(){
  if(playbackLimitTimer!==null)clearTimeout(playbackLimitTimer);
  playbackLastInputAt=Date.now();
  playbackStopAtCycleEnd=false;
+ if(circleMode()&&!circlePlaybackTimeoutEnabled){playbackLimitTimer=null;return;}
  playbackLimitTimer=setTimeout(()=>{
   playbackLimitTimer=null;
   // Let a running scale or arpeggio complete its CURRENT iteration,
@@ -1438,12 +1811,15 @@ function restoreAudioForPlay(){
 
 function frequencyForStep(s){if(circleMode())return circleFrequency(s);if(extendedEDO())return 261.625565*Math.pow(2,turn+(root+stepEDO(s))/division());const oct=turn+Math.floor((root+s)/12),units=pitchCentsForStep(s)/1200;return 261.625565*Math.pow(2,oct+units)}
 function frequencies(){return activeSteps().map(frequencyForStep)}
-function updatePlayButton(){const running=sequentialPlayback()?scalePlaying:oscillators.length>0;play.classList.toggle('playing',running);play.textContent=(running?'⏹️Stop ':'▶️Play ')+(mode==='scale'?'Scale':arpeggioMode&&quality!=='single'?'Arpeggio':'Chord');play.setAttribute('aria-label',(running?'Stop ':'Play ')+(mode==='scale'?'Scale':arpeggioMode&&quality!=='single'?'Arpeggio':'Chord'));play.setAttribute('aria-pressed',String(running))}
+function updatePlayButton(){const running=sequentialPlayback()?scalePlaying:oscillators.length>0;play.classList.toggle('playing',running);play.textContent=(running?'⏹️Stop ':'▶️Play ')+(circleMode()?'Special':mode==='scale'?'Scale':arpeggioMode&&quality!=='single'?'Arpeggio':'Chord');play.setAttribute('aria-label',(running?'Stop ':'Play ')+(circleMode()?'Special':mode==='scale'?'Scale':arpeggioMode&&quality!=='single'?'Arpeggio':'Chord'));play.setAttribute('aria-pressed',String(running))}
 function retune(){const fs=frequencies();if(oscillators.length!==fs.length){stopAudio();startAudio();return}fs.forEach((f,i)=>oscillators[i]?.frequency.setTargetAtTime(f,audioCtx.currentTime,.012))}
 function startAudio(){if(oscillators.length)return;const ctx=getAudioCtx();if(!ctx)return;armPlaybackLimit();master=ctx.createGain();master.gain.setValueAtTime(0,ctx.currentTime);master.gain.linearRampToValueAtTime(.16,ctx.currentTime+.035);master.connect(ctx.destination);const fs=frequencies();fs.forEach(f=>{const o=ctx.createOscillator(),g=ctx.createGain();o.type='triangle';o.frequency.value=f;g.gain.value=1/fs.length;o.connect(g);g.connect(master);o.start();oscillators.push(o)});updatePlayButton();render()}
 function stopAudio(){if(!oscillators.length)return;clearPlaybackLimit();const os=oscillators;oscillators=[];if(master&&audioCtx){master.gain.cancelScheduledValues(audioCtx.currentTime);master.gain.setTargetAtTime(0,audioCtx.currentTime,.025)}os.forEach(o=>{try{o.stop(audioCtx.currentTime+.15)}catch(_){}});updatePlayButton();render()}
 // 57.6 beats per minute; each Circle of Fifths interval receives one beat.
 const scaleBeatMs=60000/57.6;
+let circlePlaybackOpeningPair=null, circlePlaybackSoundingPair=null;
+let circleFramingStage="intro";
+function sameSpelledInterval(a,b){return !!a&&!!b&&a.length===2&&b.length===2&&a[0]===b[0]&&a[1]===b[1]}
 let scalePhase=0,circleHighTwinkling=false,circleTwinkleStage=0,circleTwinkleTimers=[];
 function clearCircleTwinkles(){for(const t of circleTwinkleTimers)clearTimeout(t);circleTwinkleTimers=[];circleHighTwinkling=false;circleTwinkleStage=0}
 function circleFrequency(s,upper=false){if(extendedEDO())return 261.625565*Math.pow(2,turn+(root+s)/division()+(upper?1:0));const pc=displayedPitchCents(),r=pc[root],v=pc[mod(root+s,12)];return 261.625565*Math.pow(2,turn+(r+mod(v-r,1200))/1200+(upper?1:0))}
@@ -1455,13 +1831,14 @@ function playCircleNote(index){
  // Keep the original displayed note numbers unchanged.
  render();
  const steps=circleSteps(),n=division();
- const pair=circleMode()&&n===12?circle12Window().slice(0,2).map(name=>mod(notePitchClass(name)-root,12)):[steps[index],steps[index+1]];
+ const pairNames=circleMode()&&fifthSpellingConfig()?circleTraversal.pair:null;
+ const pair=pairNames?pairNames.map(name=>mod(fifthSpellingPitch(name)-root,n)):[steps[index],steps[index+1]];
  const voices=[];
  for(let pairIndex=0;pairIndex<pair.length;pairIndex++){
   const step=pair[pairIndex];
   const canonical=n*(4+turn)+root+stepEDO(step);
   const pitchClass=mod(canonical,n);
-  const baseFrequency=(circleMode()&&n===12&&temperament==='well'&&enharmonicEnabled)?261.625565*Math.pow(2,turn+spelledPitchCents(circle12Window()[pairIndex])/1200):circleFrequency(step);
+  const baseFrequency=(circleMode()&&n===12&&temperament==='well'&&enharmonicEnabled)?261.625565*Math.pow(2,turn+spelledPitchCents(pairNames[pairIndex])/1200):circleFrequency(step);
   // Every supported doubling, from -1 through 10 inclusive.
   for(let octave=-1;octave<=10;octave++){
    const abs=octave*n+pitchClass;
@@ -1476,21 +1853,50 @@ function stopScaleVoice(){if(!scaleVoice||!audioCtx)return;const voices=Array.is
 function retuneScale(){if(circleMode())return;if(scaleVoice&&scaleStep>=0)scaleVoice.osc.frequency.setTargetAtTime(frequencyForStep(sequenceSteps()[scaleStep]),audioCtx.currentTime,.015)}
 function playScaleNote(index){if(circleMode()){playCircleNote(index);return}stopScaleVoice();upperTonicRest=false;scaleStep=index;if(index>=0){const ctx=getAudioCtx(),osc=ctx.createOscillator(),gain=ctx.createGain();osc.type='triangle';osc.frequency.value=frequencyForStep(sequenceSteps()[index]);gain.gain.setValueAtTime(0,ctx.currentTime);gain.gain.linearRampToValueAtTime(.17,ctx.currentTime+.035);osc.connect(gain);gain.connect(ctx.destination);osc.start();scaleVoice={osc,gain}}render()}
 function scaleTick(){if(!scalePlaying)return;const n=sequenceSteps().length;
- // The preceding iteration has completed when the next one would begin.
- // Stop here rather than sounding its first note.
- const cycleLength=circleMode()?(division()===12?circle12Cycle.length:Math.max(1,n-1)):2*n+2;
+ // A complete sharp-to-flat respelling sounds as a second beat, not a
+ // mid-beat visual replacement. All three supported cycles use one scheduler.
+ const cfg=circleMode()?fifthSpellingConfig():null;
+ // The previous sounding pair has now received its full beat. Stop on
+ // exact opening interval identity after its return beat, before advancing.
+ // The 31-EDO traversal retains its existing spelling and display rules.
+ const legacyCircleLength=Math.max(1,n-1);
+ const cycleLength=circleMode()?legacyCircleLength:2*n+2;
+ // Frame the existing traversal without consuming any canonical beats.
+ if(circleMode()){
+  if(circleFramingStage==='intro'){
+   if(cfg){circleTraversal.pair=circleTraversal.names.slice(0,2);circleTraversal.highlightSlot=0;circleTraversal.future=circleTraversal.names[cfg.n];}
+   playScaleNote(0);
+   circleFramingStage='introRest';scaleTimer=setTimeout(scaleTick,2*scaleBeatMs);return;
+  }
+  if(circleFramingStage==='introRest'){
+   if(cfg)circleStartTraversal(circleRootCursor());
+   playScaleNote(-1);circleFramingStage='canonical';scaleTimer=setTimeout(scaleTick,scaleBeatMs);return;
+  }
+  if(circleFramingStage==='coda'){
+   if(cfg){circleStartTraversal(circleRootCursor());circleTraversal.pair=circlePlaybackOpeningPair.slice();circleTraversal.highlightSlot=0;circleTraversal.future=circleTraversal.names[cfg.n];}
+   playScaleNote(0);circleFramingStage='done';scaleTimer=setTimeout(scaleTick,3*scaleBeatMs);return;
+  }
+  if(circleFramingStage==='done'){stopScale();return;}
+ }
+ if(circleMode()&&!circleRepeatEnabled){
+  const complete=scalePhase>1 && sameSpelledInterval(
+   cfg?circleTraversal?.pair:circlePlaybackSoundingPair,circlePlaybackOpeningPair);
+  if(complete){playScaleNote(-1);circleFramingStage='coda';scaleTimer=setTimeout(scaleTick,scaleBeatMs/3);return;}
+ }
  if(playbackStopAtCycleEnd&&scalePhase>0&&scalePhase%cycleLength===0){
   stopScale();stopAudio();discardAudioContext();return;
  }if(circleMode()){
-  const phase=scalePhase%(division()===12?circle12Cycle.length:Math.max(1,n-1));
-  clearCircle12Bridge();playScaleNote(phase);
-  if(division()===12&&circle12Cursor()===circle12BridgeIndex){
-   circle12BridgeTimer=setTimeout(()=>{if(scalePlaying&&circle12Cursor()===circle12BridgeIndex){circle12BridgeRespelling=true;
-    // Repaint the readout, dial, and keyboard in the same render pass.
-    // Audio voices are deliberately left untouched.
-    render()}},scaleBeatMs/2);
+  if(cfg){
+   circleAdvanceTraversal();
+   if(!circlePlaybackOpeningPair)circlePlaybackOpeningPair=circleTraversal.pair.slice();
+   playScaleNote(scalePhase);
+  }else {
+   const index=scalePhase%legacyCircleLength;
+   circlePlaybackSoundingPair=spelledNotes(circleSteps()).slice(index,index+2);
+   if(!circlePlaybackOpeningPair)circlePlaybackOpeningPair=circlePlaybackSoundingPair.slice();
+   playScaleNote(index);
   }
-  scalePhase++;scaleTimer=setTimeout(scaleTick,scaleBeatMs);return
+  scalePhase++;scaleTimer=setTimeout(scaleTick,scaleBeatMs);return;
  }
  // Ascend root through upper tonic, rest, descend from upper tonic to root, rest.
  const cycle=2*n+2,phase=scalePhase%cycle;
@@ -1500,8 +1906,8 @@ function scaleTick(){if(!scalePlaying)return;const n=sequenceSteps().length;
  else playScaleNote(2*n-phase);
  scalePhase++;scaleTimer=setTimeout(scaleTick,scaleBeatMs);
 }
-function startScale(){if(scaleRestartTimer!==null){clearTimeout(scaleRestartTimer);scaleRestartTimer=null}if(scalePlaying)return;if(!getAudioCtx())return;scalePlaying=true;armPlaybackLimit();scalePhase=0;scaleDescending=false;upperTonicRest=false;updatePlayButton();scaleTick()}
-function stopScale(preserveLimit=false){clearCircle12Bridge();clearCircleTwinkles();if(!preserveLimit)clearPlaybackLimit();if(scaleRestartTimer!==null){clearTimeout(scaleRestartTimer);scaleRestartTimer=null}if(scaleTimer!==null){clearTimeout(scaleTimer);scaleTimer=null}stopScaleVoice();if(!scalePlaying&&scaleStep===-1)return;scalePlaying=false;scaleStep=-1;scaleDescending=false;upperTonicRest=false;updatePlayButton();if(sequentialPlayback())render()}
+function startScale(){if(scaleRestartTimer!==null){clearTimeout(scaleRestartTimer);scaleRestartTimer=null}if(scalePlaying)return;if(!getAudioCtx())return;scalePlaying=true;armPlaybackLimit();scalePhase=0;circleFramingStage="intro";circleTraversal=null;circlePlaybackOpeningPair=null;circlePlaybackSoundingPair=null;if(circleMode()&&fifthSpellingConfig()){circleStartTraversal(circleRootCursor());}scaleDescending=false;upperTonicRest=false;updatePlayButton();scaleTick()}
+function stopScale(preserveLimit=false){clearCircle12Bridge();clearCircleTwinkles();if(!preserveLimit)clearPlaybackLimit();if(scaleRestartTimer!==null){clearTimeout(scaleRestartTimer);scaleRestartTimer=null}if(scaleTimer!==null){clearTimeout(scaleTimer);scaleTimer=null}stopScaleVoice();if(!scalePlaying&&scaleStep===-1)return;scalePlaying=false;scaleStep=-1;circleTraversal=null;circlePlaybackOpeningPair=null;circlePlaybackSoundingPair=null;scaleDescending=false;upperTonicRest=false;updatePlayButton();if(sequentialPlayback())render()}
 // When a root or scale changes during playback, silence and reset immediately,
 // then resume from the first ascending note after exactly one beat of rest.
 function prepareScaleChange(){const resume=scalePlaying||scaleRestartTimer!==null;if(resume){stopScale(true)}return resume}
